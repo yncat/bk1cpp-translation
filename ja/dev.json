@@ -1,3 +1,4 @@
 {
-  "dev.field_not_ported": "ここから先はまだ移植されていません。タイトルに戻ります。"
+  "dev.battle_not_ported": "戦闘はまだ移植されていません。敵番号 {enemy}。",
+  "dev.menu_not_ported": "メニューはまだ移植されていません。"
 }
