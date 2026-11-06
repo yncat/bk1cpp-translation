@@ -1,0 +1,22 @@
+{
+  "dungeon.glass_wall": "うわっ！これはなんだ?透明な壁があるようだ。壁の先には公園が見えるが…",
+  "dungeon.ball_machine.intro": "丸い玉の絵が書いてあるマシーンがあるぞ。表面には、「255」と書いてある。また、三つのボタンがついている。",
+  "dungeon.ball_machine.prompt": "押したいボタンを選んでください。",
+  "dungeon.ball_machine.buttons": [
+    "青いボタン",
+    "黄色いボタン",
+    "赤いボタン",
+    "押さない"
+  ],
+  "dungeon.ball_machine.display": "液晶に{count}という数字が映し出された。",
+  "dungeon.ball_machine.payout": "パチンコだまが{count}個出てきた。",
+  "dungeon.double_dodge.intro": [
+    "{player}:うわぁぁぁぁ〜！ま、まさか、た　ま　よ　け！？",
+    "しかも、今度は二ついっぺんに飛んでくる〜!たすけてぇ〜！"
+  ],
+  "dungeon.double_dodge.done": "{player}:あああああ、つかれたぁぁぁぁぁぁ。",
+  "dungeon.memory_road": "ここから先は記憶の道",
+  "dungeon.door_hint": "このゲームでは、ドアを開閉するとき、自分の方向によって位置の増減を行っている。自分の方向とは、自分が最後に移動した方向、または自分が最後にぶつかった方向を指す。",
+  "dungeon.weapon_gate": "先へ進むものは武器を収めなさい。それ以外のものは武器を抜き放ちなさい。",
+  "dungeon.warp_back": "{player}:ちょっと！どこまで戻しやがるんだよ!"
+}
