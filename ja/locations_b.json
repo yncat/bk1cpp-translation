@@ -15,14 +15,10 @@
   "loc.warehouse.road.desc": "闇人の秘密倉庫からワープしてきたところ。といっても、実際は建物の上側のエリアに当たる。なぜかコンクリートで舗装されているのは気にしない方向で(爆)",
   "loc.arkhaia.outside.name": "アークハイアシティーを出たところ",
   "loc.arkhaia.outside.desc": "アークハイアシティを出たところ。この先には町があるようだが…。",
-  "loc.arkhaia.city.name": "アークハイアシティー",
-  "loc.arkhaia.city.desc": "大都市、アークハイアシティー。店が立ち並び、豪華な民家がそこらじゅうにある。人だらけ。",
   "loc.home.hallway.name": "{player}の家の廊下",
   "loc.home.hallway.desc": "横に長い廊下。いろいろな部屋へと続いている。意外と道に迷いやすいから、注意して歩こう。",
   "loc.crystal.outside.name": "町を出たところ",
   "loc.crystal.outside.desc": "町を出たところ。なぜか、パワフルガキ少年が食料を求めてさまよっている。",
   "loc.crystal.city.name": "クリスタルシティー",
-  "loc.crystal.city.desc": "{player}が住んでいる町。それほど発展しているわけではないが、どちらかというと都会のほうに当たる。",
-  "loc.home.pool.name": "プール",
-  "loc.home.pool.desc": "{player}の家にある、小さな小さなプール。扉は大きいが、中は小さい。噴水の穴があり、よく夏に遊んでいる。"
+  "loc.crystal.city.desc": "{player}が住んでいる町。それほど発展しているわけではないが、どちらかというと都会のほうに当たる。"
 }
