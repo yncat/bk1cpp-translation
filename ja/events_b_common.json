@@ -1,0 +1,5 @@
+{
+  "events_b.money_yen": "{money}円",
+  "events_b.money_plain": "{money}",
+  "events_b.cant_afford": "いまの所持金では、買えそうにない。"
+}
