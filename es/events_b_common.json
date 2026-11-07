@@ -1,0 +1,5 @@
+{
+  "events_b.money_yen": "{money} yenes",
+  "events_b.money_plain": "{money}",
+  "events_b.cant_afford": "Con el dinero que tienes ahora, no te llega para comprarlo."
+}

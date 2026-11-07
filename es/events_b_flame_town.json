@@ -1,0 +1,97 @@
+{
+  "flame_town.reentry.message": "Puedes volver a Pueblo Llama.",
+  "flame_town.reentry.prompt": "¿Vuelves al pueblo?",
+  "flame_town.exit_forward.refuse": "{player}: Ni hablar. No puedo dejar tirado un pueblo con monstruos campando a sus anchas. Además, es igualito a lo que vi en mi sueño. No puedo irme así como así...",
+  "flame_town.exit.message": "Puedes salir del pueblo.",
+  "flame_town.exit_forward.prompt": "¿Sigues adelante?",
+  "flame_town.shop.intro": "Mercader: Hola. Los Mocosos me rompieron la puerta y la tienda está hecha un asco, pero echa un vistazo si quieres. Se comieron toda la comida. Lo siento.",
+  "flame_town.shop.title": "Elige lo que quieres comprar.",
+  "flame_town.shop.items": [
+    "100 bolas de tirachinas: 500 yenes. Más baratas que en Arkhaia.",
+    "Espada Destructora: 24000 yenes. La espada más fuerte.",
+    "Lanzaflechas: 15500 yenes. Tiene forma de pistola, es muy fácil de usar y dispara flechas afiladas.",
+    "100 flechas de hierro: 2000 yenes. Flechas para el Lanzaflechas.",
+    "Pagar y salir",
+    "Dinero"
+  ],
+  "flame_town.shop.thanks": "Muchas gracias.",
+  "flame_town.shop.owned": "Esto ya lo tienes.",
+  "flame_town.dying_man.words": "Persona 1: Maldita sea... ese monstruo desgraciado... mató a mi querida hija... no se lo... perdonaré... nunca... ojalá... pudiera irme... con ella...",
+  "flame_town.dying_man.after": [
+    "{player}: ¡Aaaah!",
+    "¡Se... se ha muerto!",
+    "Una persona ha sufrido delante de tus ojos y luego ha muerto.",
+    "Aquella realidad era demasiado dura para {player}, que se quedó allí un buen rato llorando con las manos juntas."
+  ],
+  "flame_town.person2": "Persona 2: Ay, qué hambre... Y encima este calor. Que alguien haga algo, por favor.",
+  "flame_town.person3": "Persona 3: Ay, qué cansada estoy... ¿Qué va a ser de nosotros...?",
+  "flame_town.child1": "Niño 1: ¡Buaaa! ¡Tengo hambre! ¡Quiero comer algo! Snif, snif, snif... ¡Buaaa! ¡Buaaa! ¡Buaaaa! ¡Mamá! ¡Mamá! ¿Dónde estás, mamá?",
+  "flame_town.gaki.taunts": [
+    "¡Eh, tú, el de ahí! ¿Me estás mirando como si buscaras pelea? ¡¿Eh?!",
+    "¿Eh? ¡¿Y tú quién narices eres?! ¡No pareces de este pueblo! ¡No me digas que has venido a repartir comida entre esta escoria! Bueno, da igual, ¡matar es divertidísimo! ¡Kyajajaja!",
+    "¡Túúú! ¡Estoy de un mal humor que flipas! ¡Te voy a matar!",
+    "¡Eh, tú! ¡Pelea conmigo!",
+    "Vaya, vaya. Así que tú también quieres acabar hecho un trozo de carne. ¡Juajajajajaaa!"
+  ],
+  "flame_town.gaki.remains": "Aquí está tirado lo que antes era un Mocoso.",
+  "flame_town.gaki.says": "Supermocoso: {line}",
+  "flame_town.gaki.defeats": [
+    "¡Uaaargh! ¡Me rindo!",
+    "¡Maldita sea! ¡Pero que sepas que, aparte de mí, hay un montón de secuaces más!",
+    "Ugh, cómo te atreves a derrotarme... ¡Esto no se va a quedar así!",
+    "¡Mierda! ¡He perdido! ¡Yo, nada menos que yo, he perdidooo! ¡Maldita seaaa!",
+    "¡Argh! Muy bien hecho... No puedo contigo... ¡Pero aún es pronto para relajarse!"
+  ],
+  "flame_town.gaki.after": [
+    "{player}: ¡Toma yaaa!",
+    "Supermocoso: {line}"
+  ],
+  "flame_town.cleared": [
+    "Viajero 1: ¡Bien! ¡Los hemos derrotado a todos!",
+    "Viajera 2: ¡Aquí también, listo!",
+    "Viajero 3: ¡Todo despejado!",
+    "Viajero 1: Tú. Lo has hecho muy bien. Ahora, en cuanto llegue el reparto de comida, el pueblo aguantará unos días. Parece que los dragones y los demás también se han retirado. De verdad, muchas gracias. Nosotros solos igual no habríamos podido con tantos.",
+    "Toma, es solo un detalle, pero acéptalo, por favor.",
+    "¡Has recibido 20000 yenes!",
+    "Viajero 3: Al fondo del pueblo hay una tienda. Allí tienen armas muy potentes. Pero son bastante caras, así que úsalo para ayudarte a comprar alguna. Gracias.",
+    "Viajera 2: Bueno, vámonos a casa. Este sitio me da escalofríos, ¡así que larguémonos ya! ¡Venga!",
+    "{player}: Muchas gracias..."
+  ],
+  "flame_town.person4": "Persona 4: Ay... qué calor... qué hambre... Y encima me duele todo, porque un Mocoso me ha dado una paliza...",
+  "flame_town.girl": "Chica: ¡Ya lo he decidido! ¡Me voy de aquí! ¡No quiero vivir en un sitio así! ¡Me voy a vivir feliz y tranquila al pueblo de al lado! ¡No me lo impidas!",
+  "flame_town.joker": [
+    "Persona 5: Oye, pues para nosotros, los del pueblo, hicieron catorce huecos, pero parece que se pasaron un poco. Se ve que se han quedado sin ideas.",
+    "{player}: ¿Y tú por qué estás tan contento? ¿Y qué tonterías estás diciendo? ¿Eres el autor o qué?",
+    "Persona 5: Ay, eso mejor no me lo preguntes.",
+    "{player}: ¿Pero esto qué es?"
+  ],
+  "flame_town.child3": "Niño 3: ¿No habrá algo que se pueda comer? Mmm... ¡ah! ¡Esto! Qué remedio, es solo un hierbajo, pero me lo como tal cual. ¡Mejor eso que morirme de hambre!",
+  "flame_town.child4.thanks": "Niño 4: Gracias por lo de antes, ¿eh? ¡Que estoy contigo, chiquillo! ¡Ánimo, eh!",
+  "flame_town.child4.rations": "Niño 4: Al final tuve suerte y pillé comida del reparto, así que con esto voy a aguantar un tiempo, cueste lo que cueste. Así que estoy bien, tranquilo. ¡Muchas gracias, chiquillo!",
+  "flame_town.child4.ask": "Niño 4: ¿Y ahora qué hago yo...? Que me muero de hambre, de verdad... ¿No me darías algo de comer?",
+  "flame_town.child4.give": [
+    "{player}: Pues tengo un bollo. Si te lo quitan los demás, malo, así que cómetelo escondido. Lo siento por los otros, eso sí.",
+    "Niño 4: ¡Ay, gracias! Pa' darte las gracias, te doy este marcador tan raro que me encontré el otro día. ¡Úsalo, eh!",
+    "{player} ha recibido un marcador que brilla con los colores del arcoíris."
+  ],
+  "flame_town.child4.none": [
+    "{player}: Lo siento, no tengo. De verdad que lo siento.",
+    "Niño 4: Vaya, qué pena. Bueno, no te lo voy a quitar a la fuerza, así que cuídate tú también, ¿eh?",
+    "A {player} se le escaparon unas lágrimas ante tanta bondad."
+  ],
+  "flame_town.person6": "Persona 6: Esto parece la guerra.",
+  "flame_town.traveller1": "Viajero 1: ¡Malditos Mocosos! ¡Los voy a hacer picadillo con esta espada! ¡Tú también, espanta a los Mocosos que haya por aquí!",
+  "flame_town.traveller2": "Viajera 2: ¡Tú! ¡Hay Mocosos por todo el pueblo! ¡Dales una paliza a todos, uno por uno! ¡Antes de que el pueblo se llene de muertos!",
+  "flame_town.traveller3": "Viajero 3: ¡Vamos a acabar con los Mocosos de este pueblo! ¡Ayúdanos tú también! ¡Son demasiados para vencerlos uno solo!",
+  "flame_town.entrance.message": "Aquí hay un pueblo.",
+  "flame_town.entrance.prompt": "¿Entras en el pueblo?",
+  "flame_town.intro": [
+    "{player}: ¡¿Pe... pero qué es esooo?!",
+    "Allí había un pueblo convertido en ruinas, en un estado lamentable.",
+    "Había líquido rojo salpicado por todas partes, y la gente del pueblo vagaba sufriendo, buscando algo.",
+    "Y, de alguna parte, llegaban unas risas.",
+    "{player}: ¡Maldita sea! ¡Ese Yokotank! ¡Lo ha hecho de verdad!",
+    "{player} se fue corriendo hacia el pueblo."
+  ],
+  "flame_town.exit_back.prompt": "¿Vuelves hacia Ciudad Arkhaia?"
+}

@@ -1,0 +1,202 @@
+{
+  "crystal_mansion.friends.panel": [
+    "Amigo 3: Aquí está.",
+    "{player}: ¿Eh? ¿De verdad era un panel de teletransporte?",
+    "Amigo 3: ¿Qué? Pero si hace nada dijiste que era un panel de teletransporte, ¿no?",
+    "{player}: Ya, pero no estaba seguro.",
+    "Amigos 1 y 2: ¡Ja, ja, ja, ja, ja, ja, ja!",
+    "{player}: ¡N-no os riáis, idiotas!",
+    "Amigo 3: Bah, ¿qué más da? Bueno, con esto nos vamos volando a casa.",
+    "{player}: ¿Eh? ¿Cómo que podemos ir a casa con esto?",
+    "Amiga 2: Yamijin nos hacía mirar mientras hacía un montón de cosas, así que sabemos cambiar el destino de un panel de teletransporte.",
+    "Amigo 3: Qué pasada, ¿eh? Por lo visto, con esto se puede ir a cualquier parte.",
+    "Amigo 1: Bueno, eso sí, el que cambia el destino tiene que conocer el sitio adonde va.",
+    "{player}: Vaya. Qué pasada.",
+    "Amiga 2: De hecho, el chisme ese del borrador de pizarra también debería poder teletransportar, así que, si quieres, te podemos mandar hasta Arkhaia.",
+    "{player}: E-eso me da un poco de miedo.",
+    "Amigo 3: No nos subestimes. Esto es bastante fácil. Solo está bloqueado con una contraseña, nada más.",
+    "Amigo 1: Eso, eso.",
+    "Amiga 2: Bueno, vámonos ya.",
+    "Amigo 3: Vale. Y ya puestos, bajamos la velocidad de transporte y vamos disfrutando del paisaje.",
+    "Amiga 2: ¡Genial, genial!",
+    "Amigo 1: O sea, que en vez del tipo cápsula, el tipo jet, ¿no?",
+    "{player}: Perdooone, ¿pero alguien me explica de qué estáis hablando?",
+    "Amigo 3: Tú mira y verás. Esto mola un montón."
+  ],
+  "crystal_mansion.friends.speed": [
+    "Amigo 3: Hala. Destino: nuestra casa. Luego, tipo jet. Velocidad de transporte... unos 480 kilómetros por hora estará bien.",
+    "{player}: Oye, eso es demasiado rápido, me da miedo.",
+    "Amigo 3: ¿Eres tonto? Lo normal son 1200 kilómetros por hora. Es un teletransporte, al fin y al cabo. Bueno, da igual."
+  ],
+  "crystal_mansion.friends.ready": [
+    "Amigo 1: Listo. Bueno, ¿nos vamos?",
+    "Amiga 2: ¡Venga! Vamos tranquilamente, disfrutando del paisaje.",
+    "Amigo 3: En realidad, no se debería usar así, la verdad."
+  ],
+  "crystal_mansion.friends.flight": [
+    "Amigo 3: Ay, ay, ay. Me duele donde me cortó {player}.",
+    "{player}: Pues imagínate lo que me dolió a mí.",
+    "Amigo 3: Bueno, pero a ti los fragmentos de luz te vinieron de perlas, ¿eh? A ti, sí, a ti.",
+    "Amiga 2: Eso, eso. No es justo que te los quedes tú solo. Danos fragmentos de luz.",
+    "{player}: Vamos a casa a dormir.",
+    "Amigo 1: ¿Queeeé?",
+    "{player} y los amigos: ¡Ja, ja, ja, ja, ja, ja, ja, ja!",
+    "Amigo 3: Pero bueno, {player}, ¿por qué llevas encima una cosa tan peligrosa?",
+    "{player}: ¿Eh, esto? Pues ya lo ves, es una espada. ¿Le hago un cortecito, caballero?",
+    "Amigo 3: Serás... Como me cortes, te la quito y te dejo hecho papilla, como aquel vecino de aquella casa hizo una vez con"
+  ],
+  "crystal_mansion.friends.silenced": [
+    "Amiga 2: Vaya, vaya, lo han hecho callar. Parece que al autor no le convenía nada lo que iba a decir.",
+    "Amigo 1: Por cierto, {player}, ¿tú sabes algo de ese vecino?",
+    "{player}: Pues no, ni idea. Y aunque lo hubiera visto, al ir al hotel la variable vuelve a 0, así que de momento no queda guardado, ¿sabes?",
+    "Pero, oye,"
+  ],
+  "crystal_mansion.friends.author": [
+    "¡no me hagas decir cosas raraaas!",
+    "Autor: ¡L-l-lo sientooo! ¡P-perdóname, por favooor!",
+    "{player}: Ah, no hagáis caso de eso. Es que estaba lidiando con un tipo raro que es ruidoso, un caso perdido, tonto, glotón pero flacucho y que se vuelve loco por las chuches."
+  ],
+  "crystal_mansion.friends.arriving": [
+    "Amigo 1: A {player} también lo han hecho callar.",
+    "Amigo 3: Qué frío, de verdad. Ya casi llegamos.",
+    "{player}: ¡Yuju! Por fin un rato tranquilo en casa."
+  ],
+  "crystal_mansion.friends.home": [
+    "{player}: ¡Hala, hemos aterrizado justo en el pasillo!",
+    "Amiga 2: Qué pasada, ¿eh? Hemos caído cerca del sofá, así que vamos a sentarnos a charlar.",
+    "Amigo 3: De acuerdo.",
+    "Amigo 1: Hace mucho que no hablamos.",
+    "Amigo 3: Así que ya sabes. Si intentas salir a la calle sin pasar por el sofá, te agarro y te traigo de vuelta, así que ven, ¿eh?",
+    "Amiga 2: Mejor aún, llevémoslo entre todos a cuestas.",
+    "Amigo 1: ¡Buena idea!",
+    "{player}: Tranquilos. A menos que el jugador haga algo así, yo quiero hablar con vosotros.",
+    "Amigo 3: Es verdad. Depende del jugador."
+  ],
+  "crystal_mansion.iron_wall": "Si rompes esta pared desde muy cerca, ¡acabarás aplastado como una tortitaaa!",
+  "crystal_mansion.letter.desk": "Hay un escritorio. Encima del escritorio hay una carta.",
+  "crystal_mansion.letter.prompt": "¿Quieres leer la carta?",
+  "crystal_mansion.letter.before": "He cambiado de sitio la entrada de la Mansión del Mal, así que, si tu corazoncito tonto quiere de verdad salvar a tus amigos, adelante: busca la entrada y ven. Pero ¿serás capaz de encontrarlaaa, nyaaa? ¡Kiiiii, ji, ji, ji, ji, jiii!",
+  "crystal_mansion.letter.after": "Vaya, me ha salido mal. Pero ya tengo preparado el siguiente plan, ¡así que espéralo con ganaaas! ¡Kiiiii, ji, ji, ji, ji, jiii!",
+  "crystal_mansion.letter.friends": [
+    "¿Eh? Vienen corriendo tus amigos.",
+    "Amigo 1: Al final, creo que es mejor que esperemos aquí.",
+    "Amigo 3: Sí.",
+    "Los amigos: ¡Buen viaaaje!"
+  ],
+  "crystal_mansion.matsutake.offer": "Mercader: ¡Hola! Vendo setas matsutake buenísimas. Cuestan 500 yenes cada una. ¿Quieres comprar?",
+  "crystal_mansion.matsutake.no_money": "Querías comprar una, pero no tenías dinero...",
+  "crystal_mansion.matsutake.bought": "¡Has comprado una seta matsutake!",
+  "crystal_mansion.sabon_tree": "Es un árbol de sabón. Este árbol deja caer sus frutos y, por lo visto, esos frutos curan las heridas.",
+  "crystal_mansion.sabon_fruit": "Hay un fruto de sabón en el suelo. ¡Me lo quedo!",
+  "crystal_mansion.gate.too_early": "Es la salida de la ciudad. Pero todavía es demasiado pronto para irse de aquí.",
+  "crystal_mansion.gate.exit": "Es la salida de la ciudad.",
+  "crystal_mansion.gate.exit_prompt": "¿Quieres salir de la ciudad?",
+  "crystal_mansion.gate.return": "Puedes volver a la ciudad.",
+  "crystal_mansion.gate.return_prompt": "¿Quieres volver a la ciudad?",
+  "crystal_mansion.exit.found": [
+    "Niño: ¡Yuju! ¡Es la salida! ¡Si nos subimos aquí, llegamos a casa en un santiamén!",
+    "¡Venga, allá voy!"
+  ],
+  "crystal_mansion.exit.hesitate": [
+    "{player}: E-espera un momento. ¿De verdad vamos a subirnos a esto?",
+    "Niño: ¿Eh? ¿Por qué no íbamos a subirnos? Si no, no podemos volver.",
+    "Venga, subámonos.",
+    "{player}: ¿T-tendría usted la amabilidad de esperar un momentito?",
+    "Niño: ¿Queeé? ¿Por quééé?",
+    "{player}: Hemos llegado hasta aquí, pero ¿quién nos garantiza que podamos volver a casa? Podría ser la puerta al más allá. Dejémoslo, o, mejor dicho, para expresarlo con precisión, tengo muchísimo miedo, así que ¿tendría usted a bien reconsiderarlo, si fuera posible?",
+    "Niño: Qué tonto eres. Esto es lo más hondo de todo. Aunque nos muramos, de todas formas no podemos volver, así que probemos. Venga, vamos allá. A la una, a las dooos...",
+    "{player}: ¡N-no, por favor! ¡N-no, pa",
+    "Niño: ¿Señorito {player}? Su-bá-mo-nos jun-ti-tos, ¿sí? Ji, ji, ji, ji, ji."
+  ],
+  "crystal_mansion.exit.arrived": [
+    "Niño: Bueno. ¿Dónde estaremos?",
+    "{player}: ¡Uaaah, es el más allá!",
+    "Niño: Qué va a ser el más allá. Aquí abajo hay agua..."
+  ],
+  "crystal_mansion.exit.water": [
+    "Niño: ¡¿A-a-a-aguaaa?!",
+    "{player}: ¡Te lo dije, esto es el más allaaá! Ay, Dios mío...",
+    "Niño: No será agua de verdad, ¿no? Hace un rato estaba metido en agua y ya no quiero ver más agua.",
+    "{player}: Oye, ¿esta agua no está roja?",
+    "Niño: N-no digas tonterías. Hay agua por todas partes, ¿cómo va a e-e-estar...?",
+    "{player}: Ya lo sé. P-pero ¿no está roja? Esto.",
+    "Niño: ¡B-basta! ¡Para ya, por favooor!",
+    "{player}: A mí tampoco me gusta el agua roja. ¡Y todo esto ha pasado porque tú te tiraste tan contento!",
+    "Niño: N-no digas tonterías. Tú tampoco sabías que acabaríamos en un sitio así, ¿no?",
+    "{player}: Pues no te tires sin pensar, hombre. Por tu culpa, yo también estoy metido en este lío.",
+    "Niño: ¿Y qué va a ser de nosotros?",
+    "{player}: ¿Que qué va a ser? ¿Qué te pasa?",
+    "Niño: En fin. Ya está bien de hundirme en el agua y casi morirme. Vamos a caminar un poco.",
+    "{player}: Pues haberlo dicho desde el principio."
+  ],
+  "crystal_mansion.exit.rusty": [
+    "Niño: No hay duda.",
+    "Esto es agua. ¡Parece agua auténtica, de la de toda la vida!",
+    "O sea, que el agua de aquí solo está oxidada... ¿no?",
+    "Oye, ¿por qué llevas tanto rato callado?",
+    "Eh. ¿Qué te pasa? ¡Di algo!",
+    "{player}: E-estaba p-pensando d-dónde estamos. ¡¿Es que no se puede pensar o qué, pesado?!"
+  ],
+  "crystal_mansion.exit.gun1": [
+    "Niño: ¡Hala, se le ha ido la cabeza! ¡Pues te voy a echar esta agua encima! ¡Disparo en 3 segundos!",
+    "{player}: ¡No me tomes el pelo!",
+    "¡Allá vooy!"
+  ],
+  "crystal_mansion.exit.gun2": [
+    "{player}: ¡Uaaargh! ¡¿Pero qué haces, idiota?!",
+    "Niño: ¡Ja, ja, ji, ji, qué divertido!",
+    "{player}: ¡¿Cómo que divertido?!",
+    "Niño: Venga, venga, tranquilo, tranquiiilo.",
+    "{player}: ¡¿Qué es eso de tranquilo, tranquiiilo?!",
+    "Niño: Parece que sigue confundido. Pues otro chorro. Lo sientooo. Allá voooy, en 5 segundos..."
+  ],
+  "crystal_mansion.exit.floating": [
+    "{player} recibió una paliza en toda regla y acabó flotando en el agua como un corcho. Y, cuando {player} quiso darse cuenta, las ganas de enfadarse, la fuerza, la energía y el valor se le habían esfumado por completo, sin dejar rastro, de forma frágil, violenta, espectacular y lamentable. Y entonces {player} comprendió dónde estaba.",
+    "{player}: E-esto es... la casa de {player}. Y parece que estamos dentro de la piscina."
+  ],
+  "crystal_mansion.exit.pool": [
+    "Niño: ¿Qué? ¿La casa de {player}? ¿Donde vives? Pues vaya lujo, con piscina y todo.",
+    "{player}: Una piscina hinchable o dos también tendrás en tu casa, ¿no?",
+    "Niño: No mientas. ¡¿Dónde ves tú una piscina hinchable?! ¡Si hasta hay una fuente ahí!",
+    "{player}: Pero bueno, mi casa no es tan grande como la tuya, ¿eh?",
+    "Niño: Qué va, solo la piscina ya es mucho más grande que mi casa.",
+    "{player}: Bueno, de momento parece que esto no es el más allá, así que vamos a tu casa, ¿vale? ¿Vale?",
+    "Niño: Eso también es verdad. Venga, vamos."
+  ],
+  "crystal_mansion.child.tank": [
+    "¡Es el niño secuestrado! Lo han hundido en un tanque de agua sin tapa. Si no lo rompes rápido, el niño correrá peligro. Por suerte, todavía forcejea en el agua, así que parece que sigue vivo.",
+    "¡{player} sacó el martillo a toda prisa y lo lanzó contra el tanque!"
+  ],
+  "crystal_mansion.child.saved": [
+    "El martillo voló directo al tanque y dio de lleno en la parte de cristal. El agua salió a chorro del interior.",
+    "Y el niño salió a rastras por su propio pie. Milagrosamente, su vida no corría peligro.",
+    "El niño respiró a pleno pulmón el oxígeno fresco y lloró como un recién nacido.",
+    "Y, cuando dejó de llorar, vio ante sí a su salvador."
+  ],
+  "crystal_mansion.child.talk": [
+    "Niño: A-ah, tú eres... {player}, ¿verdad?",
+    "{player}: Menos mal. Menos mal, de verdad.",
+    "Niño: Ya veo. Así que me he salvado.",
+    "{player}, muchísimas gracias. Me has salvado la vida.",
+    "{player}: Me alegro de que estés bien.",
+    "Niño: Sí. Creía que me iba a morir aquí sin volver a ver a nadie.",
+    "Después, los dos compartieron su alegría durante un rato. Y, cuando quisieron darse cuenta, llevaban más de una hora hablando.",
+    "Pero entonces ocurrió algo terrible.",
+    "Niño: Bueno, todo eso está muy bien, pero ¿cómo volvemos?"
+  ],
+  "crystal_mansion.child.no_way_back": [
+    "Exacto. {player} había entrado a lo loco, pero no había pensado en cómo volver. {player} empezó a ponerse nervioso de golpe.",
+    "{player}: P-p-p-pues verás, s-s-seguro que, d-de alguna manera, p-podremos volver, ¿no?",
+    "Niño: ¿Eh? E-espera, n-no me digas que no lo habías pensado...",
+    "Había dado en el clavo de lleno. Pero {player} no se atrevía a reconocerlo.",
+    "Niño: ¡¿Queeé?! ¡Si no podemos volver, ¿de qué sirve todo esto?!",
+    "{player}: ¡Venga ya, eso no es justo! ¡¿Tienes idea de lo que me ha costado salvarte, idiota?!",
+    "Niño: Eso te lo reconozco, pero ¿no le parece a usted que debería disculparse por no haber pensado en el camino de vuelta?",
+    "{player}: B-bueno, verá usted, es que, verá usted, fue así, verá usted, una especie de corazonada, verá usted, o una suposición, verá usted, algo por el estilo, verá usted, con lo que me lancé, verá usted, y por consiguiente yo, verá usted, en este preciso instante, verá usted, desconozco el camino de vuelta, verá usted, de modo que ahora mismo, verá usted, me encuentro en proceso de plantearme, verá usted, buscarlo, verá usted...",
+    "Aquella extraña perorata duró unos cinco minutos.",
+    "Niño: Ay, qué pesado, qué pesado. Venga, vamos a buscar la salida rapidito. Que tengo ganas de ver a mi madre. ¡Venga, en marcha!",
+    "{player}, arrastrado de aquí para allá por el niño, no tuvo más remedio que seguir avanzando hacia el interior."
+  ],
+  "crystal_mansion.panel.locked": "Hay un panel de teletransporte con una forma rara. Pero, por algún motivo, no puedes teletransportarte.",
+  "crystal_mansion.panel.warped": "¡Te has teletransportado al siguiente lugar!"
+}

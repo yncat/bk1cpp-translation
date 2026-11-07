@@ -1,0 +1,22 @@
+{
+  "dungeon.glass_wall": "¡Uah! ¿Qué es esto? Parece que hay una pared transparente. Al otro lado se ve el parque, pero...",
+  "dungeon.ball_machine.intro": "Hay una máquina con el dibujo de una bola redonda. En la parte de delante pone 255. También tiene tres botones.",
+  "dungeon.ball_machine.prompt": "Elige el botón que quieres pulsar.",
+  "dungeon.ball_machine.buttons": [
+    "Botón azul",
+    "Botón amarillo",
+    "Botón rojo",
+    "No pulsar nada"
+  ],
+  "dungeon.ball_machine.display": "En la pantalla ha aparecido el número {count}.",
+  "dungeon.ball_machine.payout": "Han salido bolas de tirachinas. Cantidad: {count}.",
+  "dungeon.double_dodge.intro": [
+    "{player}: ¡Uaaaah! ¡N-no me digas que toca... es-qui-var ba-las!",
+    "¡Y encima ahora vienen de dos en dos! ¡Socorrooo!"
+  ],
+  "dungeon.double_dodge.done": "{player}: Aaah, estoy agotadooo.",
+  "dungeon.memory_road": "A partir de aquí empieza el Camino de los Recuerdos.",
+  "dungeon.door_hint": "En este juego, al abrir o cerrar una puerta, la posición cambia según tu dirección. Tu dirección es la última en la que te has movido o la última en la que te has chocado con algo.",
+  "dungeon.weapon_gate": "Quien quiera seguir adelante, que envaine sus armas. Todos los demás, que desenvainen sus armas.",
+  "dungeon.warp_back": "{player}: ¡Oye! ¿Hasta dónde me vas a hacer retroceder?"
+}

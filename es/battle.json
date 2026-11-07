@@ -1,0 +1,41 @@
+{
+  "battle.menu.title": "Menú principal",
+  "battle.menu.items": [
+    "Ver estado",
+    "Objetos",
+    "Cambiar arma",
+    "Huir",
+    "Ajustes",
+    "Cerrar menú"
+  ],
+  "battle.weapon.title": "Elegir arma",
+  "battle.weapon.names": [
+    "Martillo",
+    "Tirachinas",
+    "Espada Corta",
+    "Espada Larga",
+    "Látigo",
+    "Cuchillo de Bronce",
+    "Espada Destructora",
+    "Lanzaflechas",
+    "Nudilleras"
+  ],
+  "battle.weapon.back": "Volver",
+  "battle.status.title": "Estado de {player}",
+  "battle.status.hp": "PV: {hp} de {max}",
+  "battle.status.attack": "Ataque: {value}",
+  "battle.status.defense": "Defensa: {value}",
+  "battle.status.speed": "Velocidad: {value}",
+  "battle.status.constitution": "Vitalidad: {value}",
+  "battle.status.stamina": "Aguante: {value} de {max}",
+  "battle.status.money": "Dinero: {value} yenes",
+  "battle.status.level": "Nivel: {value}",
+  "battle.status.exp": "Experiencia: {value} puntos",
+  "battle.status.next_level": "Experiencia para el siguiente nivel: {value} puntos",
+  "battle.status.close": "Cerrar pantalla de estado",
+  "battle.defeated": "{player} se ha quedado sin fuerzas...",
+  "battle.victory": "¡{player} ha ganado! Enemigo derrotado: {enemy}. Consigue {money} yenes y {exp} puntos de experiencia.",
+  "battle.level_up": "¡{player} ha subido al nivel {level}!",
+  "battle.level_up.prompt": "Pulsa 1 para subir el Ataque, 2 para la Defensa, 3 para la Velocidad, 4 para la Vitalidad, 5 para el Aguante o 6 para los PV.",
+  "battle.drop": "Botín de {enemy}: {item}."
+}

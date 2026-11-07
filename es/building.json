@@ -1,0 +1,61 @@
+{
+  "building.boss4.deepest": [
+    "{player}: ¿Será esto lo más profundo?",
+    "Parece que has llegado al fondo del todo. No parece haber ningún Panel de Teletransporte ni nada por el estilo."
+  ],
+  "building.boss4.yamijin": [
+    "¡Uaaah!",
+    "¡Ha aparecido! ¡El señor Yamijin!",
+    "Yamijin: ¡Kiiih, jijijijijiii!",
+    "¡Qué bien que hayas venidooo!",
+    "Bienvenido a la Mansión del Mal."
+  ],
+  "building.boss4.talk": [
+    "{player}: ¿E-esta es la Mansión del Mal?",
+    "Yamijin: ¡Asíii es! Qué bien que hayas venido.",
+    "{player}: ¡Tú! ¿Por qué has secuestrado a ese niño?",
+    "Yamijin: ¿Nya? Qué tonto eres, nya. Si nos vimos en aquella casa el otro día.",
+    "{player}: (¡Ya lo entiendo! Yamijin secuestró al niño, averiguó dónde vivía y fue allí a por la comida.)",
+    "Yamijin: Quien ya no me sirve no me interesa, nya. Seguramente estará sufriendo allá al fondo, nyiii, ¡kiiih, jijijijiii!",
+    "Al oír esas palabras, {player} perdió los estribos.",
+    "{player}: ¡Tú! ¿Qué te crees que es la vida de una persona? ¡Contesta ahora mismo, escoria!",
+    "Yamijin: Venga, venga, cálmate, ¿vale?",
+    "{player}: ¿Eh? ¿Que me calme? Si crees que puedo calmarme, estás muy equivocado. ¡Piensa en lo que estás haciendo y aclárate las ideas antes de decir eso!",
+    "¡Venga, contesta de una vez!",
+    "Yamijin: ¡Qué remedio! La vida no es más que algo que existe, nya. Nadie puede vivir sin comerse otras vidas, nya.",
+    "{player}: Vale, preguntarte a ti ha sido un error. Te voy a aplastar aquí mismo.",
+    "Yamijin: Qué le vamos a hacel, nya."
+  ],
+  "building.boss4.summon": [
+    "Yamijin: ¡Kiiih, jijijijiii! ¡Este es un poquito distinto del de la otra veeez!",
+    "{player}: ¡Lucha limpiamente!",
+    "Yamijin: ¡Ni hablar!",
+    "¡Adiosiiito!"
+  ],
+  "building.boss4.vanished": "Dicho esto, Yamijin desapareció. Por muy furioso que estés, primero tienes que derrotar al enemigo que tienes delante. Espera, ¿esta vez es... esta máquina rara y enorme?",
+  "building.boss4.after": [
+    "{player}: Uf.",
+    "¡Maldito Yamijin! ¡La próxima vez que te vea, te voy a dejar más plano que una tortilla! ¡Tonto, más que tonto!",
+    "Sin dejar de soltar insultos, {player} miró a su alrededor. Parece que se ha abierto un camino hacia el interior. En cualquier caso, es muy probable que el niño esté en esta mansión, así que decidió seguir adelante."
+  ],
+  "building.red": "Hay un fragmento rojo en el suelo. Voy a cogerlo.",
+  "building.blue": "Hay un fragmento azul en el suelo. Voy a cogerlo.",
+  "building.yellow": "Hay un fragmento amarillo en el suelo. Voy a cogerlo.",
+  "building.warp_back": "Parece que has vuelto a la zona anterior.",
+  "building.kid_chatter": [
+    "Oye, oye, ¿podemos volver a casa?",
+    "Jo, ¿dónde está la salida?",
+    "¡Vamos corriendo!",
+    "Ay, qué pesados son los slimes.",
+    "Oye, ¡que aquí no hay salida!",
+    "¡Oye, llévame ya a la salida!",
+    "Jo, ¿y dónde estamos?"
+  ],
+  "building.kid_says": "Niño: {line}",
+  "building.do_not_cut": "Aquí pone: «Si aprecias tu vida, no cortes nunca esta pared»...",
+  "building.tablet": "Es una tablilla de piedra. Dice: «Trae luz a este lugar y tu deseo se cumplirá».",
+  "building.match.ask": "Hay una cerilla en el suelo. ¿La coges?",
+  "building.candle": "Hay una vela. No está encendida.",
+  "building.candle.ask": "¿La enciendes con la cerilla?",
+  "building.candle.warped": "¡Parece que te has teletransportado al otro lado de la pared donde estaba la vela!"
+}

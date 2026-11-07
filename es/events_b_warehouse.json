@@ -1,0 +1,122 @@
+{
+  "warehouse.lodewarp.message": "Parece que puedes teletransportarte a la salida de Ciudad Arkhaia.",
+  "warehouse.lodewarp.prompt": "¿Te teletransportas, como siempre?",
+  "warehouse.matsutake": "Anda, hay una seta matsutake. Es valiosa, así que me la quedo, muy agradecido.",
+  "warehouse.light_shard": "¡Bieeen! Hay un fragmento de luz en el suelo. Me lo quedo, muy agradecido.",
+  "warehouse.bookshelf": "Aquí hay una estantería grande. Está llena de libros de ciencias y de libros sobre cómo ser un buen ladrón. ¿De dónde los habrán sacado?",
+  "warehouse.yamijin.taunt": [
+    "{player}: ¿Qué pasa? ¿Hoy no hay «¡Kiiiijijijijiii!»?",
+    "Yamijin: ¡Calla, calla! ¡Cómo te atreves a fastidiarme el plan! ¡No te lo perdonaré, nya!",
+    "{player}: Tú no cambias, ¿eh? Siempre con ese idioma gatuno a medias. ¿No serías un gato en tu vida anterior?",
+    "Yamijin: ¡E-e-esto no es idioma gatuno, nya!",
+    "{player}: Sí que lo es, ¿no?",
+    "Yamijin: Ugh...",
+    "{player}: Por cierto. Parece que la llave que llevo quiere decirme algo, así que, ¿te importa que la escuche un momento? Por lo visto, mi querida Llave de la Sala Oscura quiere dejarte hecho papilla."
+  ],
+  "warehouse.yamijin.key_throw": [
+    "Yamijin: ¿¡Qué!? ¿Me estás diciendo que el poder oculto de esa llave, que ni siquiera yo conseguí descifrar, quiere liberarse por sí solo?",
+    "{player}: Ajá, ajá. Más o menos lo pillo. ¡Venga, Llave de la Sala Oscura, cuento contigo!",
+    "¡Toma!",
+    "¡{player} apuntó a Yamijin con la punta de la Llave de la Sala Oscura y se la lanzó!"
+  ],
+  "warehouse.yamijin.drained": [
+    "Yamijin: Mi... mi poder...",
+    "{player}: ¡Hala! ¡Mira qué contento está Yamijin!",
+    "Yamijin: ¡¡N-no estoy contento!!",
+    "{player}: Sí que lo estás. ¡Muajajajajaaa!"
+  ],
+  "warehouse.yamijin.powered": [
+    "{player}: Vaya. Así que me pasa a mí la energía que te ha absorbido.",
+    "¡Toma yaaa! Me sobra la energía. ¡Estoy que ardo!",
+    "¡Venga! ¡Te voy a dar una paliza! ¡Prepárate! ¡Jijijijí!"
+  ],
+  "warehouse.yamijin.beaten": [
+    "{player}: ¿¡Qué te pareceee!?",
+    "Yamijin: Me... me rindo... Estoy hecho un flan, nyaaa...",
+    "{player}: Vale, vale. Pues ahora mismo te saco de aquí, así que vete a descansar a la Mansión del Mal o donde sea. Hay que cuidarse, ¿eh?",
+    "Yamijin: No me digas que... por esta ventana rota..."
+  ],
+  "warehouse.yamijin.throw_out": "{player}: ¡Allá vaaas!",
+  "warehouse.yamijin.won": [
+    "{player}: ¡Bieeen! ¡He ganado, he ganado!",
+    "Pero ¿y ahora qué hago?"
+  ],
+  "warehouse.password.look": "{player}: Ah, ¿será esto?",
+  "warehouse.password.note": "Contraseña: {password}",
+  "warehouse.keywarp.prompt": "Parece que puedes teletransportarte fuera de este edificio. ¿Quieres teletransportarte?",
+  "warehouse.pc.logon_prompt": "Escribe la contraseña de inicio de sesión.",
+  "warehouse.pc.intro": "Parece que esto es un ordenador sencillo.",
+  "warehouse.pc.start.title": "Menú Inicio",
+  "warehouse.pc.start.items": [
+    "Outlook Express. Información sobre herramientas: Envía y recibe mensajes de correo electrónico y de grupos de noticias.",
+    "Mis documentos. Información sobre herramientas: Contiene cartas, informes y otros documentos y archivos.",
+    "Apagar"
+  ],
+  "warehouse.pc.mail.prompt": "¿Quieres mirar el correo?",
+  "warehouse.pc.mail.title": "Cuadro de lista de mensajes",
+  "warehouse.pc.mail.items": [
+    "1. Asunto: ¿Cómo va todo? De: Yokotank",
+    "2. Asunto: Re: ¿Cómo va todo? De: Yokotank",
+    "3. Asunto: Re 2: ¿Cómo va todo? De: Yokotank",
+    "4. Asunto: Re 3: ¿Cómo va todo? De: Yokotank",
+    "5. Asunto: Re 4: ¿Cómo va todo? De: Yokotank",
+    "6. Asunto: Re 5: ¿Cómo va todo? De: Yokotank",
+    "Salir"
+  ],
+  "warehouse.pc.mail.bodies": [
+    "Hola. ¿Cómo va todo? Ahora mismo estoy aquí con unas setas matsutake y una barbacoa. Si no vuelves pronto, igual me lo como todo yo.",
+    "Para Yamijin. Hola. ¿Cómo va todo? Por aquí, he llevado monstruos al pueblo de al lado y estoy esperando a que vuelvan. ¿Y por ahí qué tal?",
+    "Ya veo. Así que se te ha escapado el niño. Ese tal {player} vive en Ciudad Cristal, ¿no? Si sabes dónde está su casa, ve a ver si tiene comida. Gracias.",
+    "Ya veo. Me alegro. Bueno, ¿qué hacemos con ese tal {player}? Si se han cargado al Gran Crucero II, ¿por qué no dejamos que se encargue Megasaurio directamente? ¿No te convence? Gracias.",
+    "Ah, conque esas tenemos. Dile a Megasaurio que no se lo coma entero, ¿eh? Yo también quiero comerme a {player}, así que estoy preparando la barbacoa (jaja).",
+    "Dicen que han derrotado a Megasaurio. Pues sí que es un problema. Pensaba comerme a ese chico, pero qué se le va a hacer. Voy a preparar aquello, así que ve ganando tiempo. Gracias."
+  ],
+  "warehouse.pc.docs.title": "Cuadro de lista de Mis documentos, elementos de la lista",
+  "warehouse.pc.docs.items": [
+    "Plan de saqueo de comida 1.txt",
+    "Plan de saqueo de comida 2.txt",
+    "Plan de saqueo de comida 3.txt",
+    "Plan de saqueo de comida 4.txt",
+    "Plan de saqueo de comida 5.txt",
+    "Salir"
+  ],
+  "warehouse.pc.docs.bodies": [
+    "Parte 1: Meter mocosos, dragones y slimes en Ciudad Cristal. No darles nada de comida y hacer que vaguen por la ciudad buscando comida, para sembrar el caos entre los habitantes.",
+    "Parte 2: En el Parque de la Amistad de Ciudad Cristal, tomar un rehén, da igual quién, y exigir comida. Recoger toda la comida de su casa. El Gran Crucero llevará la comida recogida al cuartel general y se la entregará al señor Yokotank.",
+    "Parte 3: Uy, ha pasado algo gordísimo. Un tipo raro llamado {player} o algo así ha derrotado a nuestro monstruo guardián. Y, para colmo de mala suerte, nos han visto en la casa. No queda otra que pasar al plan B y matar al niño. Cambio de objetivo a otra casa.",
+    "Parte 4: Jo, {player} ha salvado al niño, así que Ciudad Cristal queda descartada como objetivo. En su lugar, parar el tiempo en Ciudad Arkhaia, devolver la paz a Ciudad Cristal y atraer a {player} a Ciudad Arkhaia. Cuando {player} esté lejos de la ciudad, tomar como rehenes a los amigos de {player} y hacerles la vida imposible. Pasado un tiempo, matar a los amigos. Recoger la comida de la casa. Y cuando {player} llegue a la mansión, hacerlo papilla con el Gran Crucero II.",
+    "Parte 5: Han derrotado al Gran Crucero II. He contactado con el señor Yokotank y hemos decidido que el pequeño Megasaurio lo haga trizas a mordiscos, ñam, ñam. ¡Cuento contigo, mi precioso Me, ga, sau, ri, toooo!"
+  ],
+  "warehouse.pc.shutdown_error": "Error: Hay varios archivos en uso por otras aplicaciones. Si apaga el equipo ahora, los datos podrían dañarse o el sistema podría volverse inestable. Espere un momento y vuelva a intentar apagarlo.",
+  "warehouse.truth.read": "{player}: Ya lo he leído todo...",
+  "warehouse.truth.summary": [
+    "El origen de todo este lío era Yokotank.",
+    "No sé qué es Yokotank, ni qué es lo que pretende.",
+    "Pero Yokotank y Yamijin se escribían correos.",
+    "Y en ellos se veía claramente que Yokotank quería reunir toda la comida para sí mismo.",
+    "Además, Yamijin parecía trabajar para Yokotank.",
+    "Entonces apareció una persona llamada {player}, alguien que intentaba estropearles el plan, y poco a poco Yamijin y los suyos empezaron a pensar en quitar de en medio a ese tal «{player}».",
+    "Y así fue como enviaron a Megasaurio como arma definitiva.",
+    "Como lo he derrotado, a Yamijin ya casi no le quedan formas de plantar cara.",
+    "Hasta lo de dejarse quitar la llave secreta fue un error por dejarlo todo en manos de Megasaurio.",
+    "En fin, con esto ya conozco casi toda la verdad.",
+    "Mi objetivo: sacar a la luz la verdad sobre el «Plan de saqueo de comida» de Yamijin y Yokotank.",
+    "¡Y detenerlo...!"
+  ],
+  "warehouse.rock.used": "Es la roca en la que el otro día aparecieron unas letras raras. Pero ahora no pasa nada.",
+  "warehouse.rock.found": "¿Eh? Hay una roca con el dibujo de una llave.",
+  "warehouse.rock.prompt": "¿Quieres poner la llave encima?",
+  "warehouse.rock.clue": [
+    "¡Han aparecido unas letras!",
+    "1u4l2u7r2d3r1u4l3u5r1d1r3d",
+    "{player}: ¿Pero esto qué es? ¡No se entiende nada! ¡Maldita roca! ¡Habla claro!"
+  ],
+  "warehouse.rock.warp_up": [
+    "{player}: ¡Yujuuu! ¡¡Otro teletransporte!!",
+    "Bueno, parece que solo te ha llevado al otro lado de la roca."
+  ],
+  "warehouse.rock.warp_down": [
+    "{player}: ¡Eh, eh, eh! ¿¡Otro teletransporte!?",
+    "Bueno, parece que solo te ha llevado al lado de Ciudad Arkhaia."
+  ]
+}

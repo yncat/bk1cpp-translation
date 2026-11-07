@@ -1,0 +1,148 @@
+{
+  "arkhaia_store.swordsman": "Tipo con pinta de espadachín: ¿Este cuchillo no viene con funda o algo? Quiero llevarlo escondido en el bolsillo, pero corta tanto que me rajaría la ropa.",
+  "arkhaia_store.strange_lady": [
+    "Supuesta señorita: ¡Oh, jo, jo, jo, jo! Mira por dónde, aquí hay cosas que serían unos juguetes perfectos para mí. Con esto podré jugar a placer con toda clase de personas.",
+    "{player}: (Iiih... ¿qué le pasa a esta señora...? Bah, ¿o será que simplemente tiene muy mal gusto?)",
+    "Señorita: ¿Cómo? ¿Ha dicho usted algo?",
+    "{player}: ¡¡A-ah, n-no, n-n-nada, n-nada de nada!!"
+  ],
+  "arkhaia_store.car_kid": "Niño: Quiero el coche que hay en la máquina de gancho. Qué chulo es. Lo quiero.",
+  "arkhaia_store.drummer": "Baterista aficionado: Esto mola. Una canción por 100 yenes está bien. Pero lo de Júpiter es un timo. Es cortísima.",
+  "arkhaia_store.ufo_maniac": [
+    "Fanático de las máquinas de gancho: Me encanta estudiar las máquinas de gancho.",
+    "Esta está hecha para que sea bastante difícil sacar algo. Yo diría que hay un 30 por ciento de probabilidades de pillar algo. Pero parece que dentro hay de todo, así que pruébala."
+  ],
+  "arkhaia_store.photo_kid": "Niña 2: Todo el mundo está con la máquina de gancho, pero este fotomatón de pegatinas es mucho más seguro. Alrededor de los otros juegos hay dos personas, pero delante del fotomatón estoy yo sola... ¿Es que no tiene éxito?",
+  "arkhaia_store.weapons.welcome": [
+    "Mercader: ¡Holaaa! Soy el que estaba en la entrada de Ciudad Arkhaia. Tengo de todo, así que cómprame algo, hombre.",
+    "Vendo sobre todo armas y protecciones. También vendo objetos imprescindibles para el viaje."
+  ],
+  "arkhaia_store.weapons.items": [
+    "Barreño, 500 yenes. Una birria, pero sirve para defenderse.",
+    "Placa de Cristal, 600 yenes. Se rompe enseguida, pero los trozos hacen daño.",
+    "Plancha de Aluminio, 1250 yenes. Una plancha de aluminio dura.",
+    "Barreño Grande, 1500 yenes. Bastante resistente.",
+    "Látigo, 4000 yenes. Doma a tus enemigos desde lejos.",
+    "Cuchillo de Bronce, 10000 yenes. Un cuchillo muy afilado que permite un rápido ataque triple.",
+    "100 bolas de tirachinas, 600 yenes. Lo que dice el nombre.",
+    "Fragmento de Luz, 1000 yenes. Recupera 150 PV.",
+    "Marcador Rojo, 50 yenes. Si lo pones en el suelo, sirve de señal.",
+    "Marcador Azul, 50 yenes. Si lo pones en el suelo, sirve de señal.",
+    "Marcador Amarillo, 50 yenes. Si lo pones en el suelo, sirve de señal.",
+    "Marcador Verde, 50 yenes. Si lo pones en el suelo, sirve de señal.",
+    "Pagar",
+    "Dinero"
+  ],
+  "arkhaia_store.weapons.title": "Elige qué quieres comprar.",
+  "arkhaia_store.weapons.owned": "Esto ya lo tienes.",
+  "arkhaia_store.weapons.cant_afford": "Parece que con el dinero que tienes ahora no te llega.",
+  "arkhaia_store.weapons.checkout": [
+    "Dependiente: Vas a pagar, ¿no?"
+  ],
+  "arkhaia_store.weapons.points_added": "Dependiente: Has acumulado {points} puntos en tu tarjeta de puntos de los Grandes Almacenes Arkhaia.",
+  "arkhaia_store.weapons.use_points": "Dependiente: Tienes {points} puntos acumulados en tu tarjeta de puntos de los Grandes Almacenes Arkhaia. ¿Quieres usarlos?",
+  "arkhaia_store.weapons.discount": "Dependiente: Entendido. Pues te descuento {points} yenes.",
+  "arkhaia_store.washtub": "Anda, aquí hay un barreño. Parece que puede servir de protección, así que me lo llevo.",
+  "arkhaia_store.table": "Es una mesa donde come la gente.",
+  "arkhaia_store.bento_fan": "Cliente 2: Mmm, ese bento de tonkatsu tiene buena pinta. A lo mejor me lo como arriba.",
+  "arkhaia_store.ramen_fan": [
+    "Cliente 2: Mmm, ¿por qué no tendrán ramen tonkotsu aquí?",
+    "{player}: Es verdad... ¿Por qué será?"
+  ],
+  "arkhaia_store.shopper1": [
+    "Cliente: Dicen que el fragmento de luz no es comida, así que aquí no lo venden.",
+    "{player}: Ah, vale."
+  ],
+  "arkhaia_store.takoyaki_fan": [
+    "Cliente: ¿¡P-pero quééé!? ¿¡Por qué está tan bueno este takoyaki!?",
+    "¡Maldita sea! ¿¡Qué hace el takoyaki en un sitio como este!? ¡Todo el mundo sabe que el takoyaki es de Osakaaa!",
+    "¡Aaah! Tú también lo piensas, ¿a que sí?",
+    "{player}: A mí qué me cuentas...",
+    "Cliente: Normalmente, cuando salgo de un restaurante, les digo «¡Qué bueno estaba!», ¡pero esta vez no se lo digo ni loco!",
+    "{player}: Vale..."
+  ],
+  "arkhaia_store.restaurant.welcome": [
+    "Camarero: ¡Bienvenido! ¡Esto es el comedor!",
+    "Tenemos de todo, ¡así que adelante!"
+  ],
+  "arkhaia_store.restaurant.items": [
+    "Arroz, 150 yenes",
+    "Ración grande de arroz, 300 yenes",
+    "Ramen de sal, 350 yenes",
+    "Ramen de soja, 350 yenes",
+    "Ramen de miso, 350 yenes",
+    "Ramen con cerdo asado, 480 yenes",
+    "Fideos crujientes, 420 yenes",
+    "Ramen de miso con cebolleta, 350 yenes",
+    "Tempura con fideos udon fríos, 600 yenes",
+    "Tempura con fideos soba fríos, 600 yenes",
+    "Takoyaki, 300 yenes",
+    "Takoyaki al estilo de Akashi, 400 yenes",
+    "Superramen deluxe de miso con cebolleta y cerdo asado, 850 yenes",
+    "Menú de tonkatsu, 900 yenes",
+    "Houtou, guiso de fideos, 620 yenes",
+    "Filete de lomo alto, 1000 yenes",
+    "Parfait de frutas, 500 yenes",
+    "Helado de vainilla, 500 yenes",
+    "Helado de fresa, 500 yenes",
+    "Pagar",
+    "Dinero"
+  ],
+  "arkhaia_store.restaurant.title": "Elige lo que quieres comer.",
+  "arkhaia_store.restaurant.waiter": [
+    "Aquí tiene su arroz. Es koshihikari de Niigata.",
+    "Aquí tiene su arroz. Es koshihikari de Niigata. ¡Ración grande!",
+    "Ramen de sal, aquí tiene. Lleva fideos gruesos.",
+    "Un ramen de soja. Lleva muchos brotes de bambú.",
+    "Ramen de miso, aquí tiene. Su intenso sabor a miso tiene mucho éxito.",
+    "Ramen con cerdo asado, aquí tiene. Somos muy exigentes con nuestro cerdo asado, por eso el precio ha salido algo alto. El cerdo asado está exquisito.",
+    "Fideos crujientes, aquí tiene. Cómaselos antes de que se reblandezcan.",
+    "Un ramen de miso con cebolleta. Es ramen de miso con un montón de cebolleta por encima.",
+    "Tempura con fideos udon fríos, aquí tiene. Es un menú de tempura y udon.",
+    "Tempura con fideos soba fríos, aquí tiene. Es un menú de tempura y soba.",
+    "Takoyaki, aquí tiene. Puede ponerle mayonesa y salsa al gusto.",
+    "Takoyaki al estilo de Akashi, aquí tiene. Vierta este caldo sobre el takoyaki crujiente y que aproveche.",
+    "Sí, un superramen deluxe de miso con cebolleta y cerdo asado. Creo que solo con esto se quedará lleno.",
+    "Menú de tonkatsu, aquí tiene. Es de lomo de cerdo, así que es bastante contundente.",
+    "Sí, houtou. Por esta zona es difícil encontrarlo.",
+    "Un filete de lomo alto. La plancha está muy caliente, así que tenga cuidado al comer. La salsa es teriyaki.",
+    "Parfait de frutas, aquí tiene. Va cargado de todo tipo de frutas.",
+    "Helado de vainilla, aquí tiene. Lleva copos de maíz por encima.",
+    "Helado de fresa, aquí tiene. Tiene mucho éxito porque va cubierto de fresas."
+  ],
+  "arkhaia_store.restaurant.recovered": "Recuperas {hp} PV.",
+  "arkhaia_store.restaurant.full": "Ya estoy lleno.",
+  "arkhaia_store.restaurant.checkout": [
+    "Camarero: Muy bien, va a pagar."
+  ],
+  "arkhaia_store.restaurant.points_added": "Camarero: Ha acumulado {points} puntos en su tarjeta de puntos de los Grandes Almacenes Arkhaia. No dude en utilizarlos.",
+  "arkhaia_store.restaurant.use_points": "Camarero: Disculpe, tiene {points} puntos acumulados en su tarjeta de puntos de los Grandes Almacenes Arkhaia. ¿Desea utilizarlos?",
+  "arkhaia_store.restaurant.discount": "Camarero: De acuerdo. Entonces le hacemos un descuento de {points} yenes.",
+  "arkhaia_store.stairs.down": "Hay una escalera que baja. ¿Quieres bajar a la planta de abajo?",
+  "arkhaia_store.stairs.up": "Hay una escalera que sube. ¿Quieres subir a la planta de arriba?",
+  "arkhaia_store.food.welcome": [
+    "Dependiente: Esta es la planta baja de los Grandes Almacenes Arkhaia.",
+    "Aquí vendemos alimentación."
+  ],
+  "arkhaia_store.food.items": [
+    "Bola de Arroz, 185 yenes",
+    "Seta Matsutake, 700 yenes",
+    "Bollo, 87 yenes",
+    "Fruto de Sabón, 98 yenes",
+    "Bento de Tonkatsu, 400 yenes",
+    "Bola de Arroz Gigante, 315 yenes",
+    "Sándwich de Huevo, 198 yenes",
+    "Sándwich de Jamón, 210 yenes",
+    "Bebida Isotónica, 128 yenes",
+    "Bebida Energética, 398 yenes",
+    "Pagar",
+    "Dinero"
+  ],
+  "arkhaia_store.food.title": "Elige qué quieres comprar.",
+  "arkhaia_store.food.checkout": [
+    "Dependiente: Muy bien, va a pagar."
+  ],
+  "arkhaia_store.food.points_added": "Dependiente: Muy bien, ha acumulado {points} puntos en su tarjeta de puntos de los Grandes Almacenes Arkhaia.",
+  "arkhaia_store.food.use_points": "Dependiente: Disculpe, tiene {points} puntos acumulados en su tarjeta de puntos de los Grandes Almacenes Arkhaia. ¿Desea utilizarlos?",
+  "arkhaia_store.food.discount": "Dependiente: De acuerdo. Entonces le hago un descuento de {points} yenes."
+}

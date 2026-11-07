@@ -1,0 +1,186 @@
+{
+  "city.manhole.vanished": "¡Anda! La alcantarilla ha desaparecido. ¿Qué habrá pasado...?",
+  "city.manhole.ask": "A partir de aquí, creo que no será fácil echarse atrás. ¿Estás preparado?",
+  "city.manhole.warp": [
+    "{player}: ¡Uaaaah!",
+    "Parece que me he teletransportado a un sitio rarísimo. ¿Será la guarida de Yamijin?",
+    "Bueno, de momento sigamos adelante.",
+    "Y así, {player} siguió avanzando."
+  ],
+  "city.mother.hopeful": "¡La policía me ha llamado para decirme que ya saben dónde podría estar mi hijo! Voy a creer y a esperar, ¡porque si no creo, no empieza nada!",
+  "city.mother.panic": "Vecina: ¿Qué hago, qué hago, qué hago, qué hago, qué hago, qué hagooo? ¡M-mi hijo no ha vuelto a casaaa! ¿Qué hago? ¡Ayúdame, por favor! ¡Haré lo que sea! ¡Te lo suplico!",
+  "city.mother.thanks": "Vecina: Muchísimas gracias, de verdad. Soy tan feliz...",
+  "city.mother.gift": [
+    "No es gran cosa, pero acéptalo, por favor.",
+    "Has recibido 3 setas matsutake."
+  ],
+  "city.boss3.intro": [
+    "Vecina: ¡¿Q-qué pasa?!",
+    "{player}: ¡Eh, tú eres...!",
+    "Yamijin: ¡Comiiida, ji, ji, ji, ji, jiii! ¡Te encontréee!",
+    "Venga, me llevo la comida, nya. ¡Comiiida, ji, ji, ji, jiii!",
+    "{player}: ¡Para!",
+    "Vecina: ¡E-eso es...! ¡Esa es la estantería donde guardamos la comida!",
+    "Yamijin: Pues me la llevo enterita, nya."
+  ],
+  "city.boss3.wait": "{player}: ¡Eeeh! ¡Vuelve aquí!",
+  "city.boss3.chase": "Yamijin está huyendo cada vez más hacia la derecha. Persíguelo sin perderlo de vista. Si lo pierdes, se acabó todo. Solo tienes una oportunidad. ¡A por Yamijin!",
+  "city.boss3.lost": "¡Aaah! ¡Lo he perdido!",
+  "city.boss3.escaped": [
+    "¡Yamijin se teletransportó a alguna parte a través de una alcantarilla con un dibujo extraño!",
+    "Parece que esa alcantarilla la creó el propio Yamijin, y basta con subirse encima para acabar teletransportado a otro sitio.",
+    "Pero en ese momento {player} no tuvo valor para subirse. No sabía adónde lo mandaría, ni si podría volver.",
+    "De momento, {player} llamó al policía que había conocido en el parque."
+  ],
+  "city.boss3.call": [
+    "Policía: ¿Diga? ¿Qué ocurre?",
+    "{player}: Esto... acabo de ir a una casa cerca del parque, y ha aparecido el tal Yamijin.",
+    "Policía: ¡¿En serio?! ¿Sigue ahí ahora?",
+    "{player}: No, ya no está. Robó la comida de la casa y huyó. Lo perseguí todo el rato y, al final, se teletransportó a alguna parte a través de una alcantarilla misteriosa.",
+    "Policía: Ya veo. Entonces ven un momento al parque. Búscame y cuéntamelo todo con detalle. Te espero en el mismo sitio que la otra vez.",
+    "{player}: Entendido. Voy enseguida.",
+    "Y así, {player} encontró una pequeña pista sobre Yamijin. Ve a ver al policía."
+  ],
+  "city.police.leaving": "Policía: Veo que has venido. Vámonos ya.",
+  "city.police.later": "Policía: Si pasa algo, avísame enseguida.",
+  "city.police.talk1": [
+    "Policía: Estamos investigando el caso de Yamijin. Hemos encontrado sangre por todo el parque, pero toda coincide con el ADN de las personas a las que hirieron. Así que parece que el culpable no recibió ni un rasguño. ¿Se te ocurre algo más? Si puedes, échanos una mano.",
+    "{player}: La verdad es que yo estaba en el parque cuando pasó. ¡Si puedo ayudar en algo, dígamelo!",
+    "Policía: ¿Ah, sí? Entonces cuéntame lo que pasó con todo el detalle que puedas."
+  ],
+  "city.police.talk2": [
+    "{player}: Los niños estaban jugando tan contentos y, de repente, se oyó una risa rarísima.",
+    "Algo así como: ¡Kiiiii, ji, ji, ji, jiii!",
+    "Entonces, de repente, se puso a decir no sé qué de que no tenía comida y le hizo un tajo a uno de los niños. Y luego, sin dejar de reírse, fue hiriendo a toda la gente de alrededor y se llevó a un niño.",
+    "Quise perseguirlo, pero había dejado un slime muy raro que me atacó. Conseguí destruirlo como pude, pero mientras tanto Yamijin se escapó."
+  ],
+  "city.police.talk3": [
+    "Policía: ¿Hum? ¿Acabas de decir que no tenía comida?",
+    "{player}: Sí.",
+    "Policía: Últimamente, justo por eso, ha habido muchísimos casos de gente que se mata entre sí y de ataques de monstruos. Por ejemplo, casas asaltadas por monstruos, y hasta detuvimos a alguien que robaba dinero a la gente por la calle para comprar comida a montones en el supermercado. Y, por lo visto, en ese supermercado también se cuelan muchos monstruos.",
+    "{player}: Yo también lo vi hace poco en una casa de por aquí. Nos atacó un chaval muy bruto y conseguí echarlo a duras penas. ¿Será que todas estas cosas que están pasando significan que algo, en algún sitio, ha cambiado?",
+    "Policía: No tenemos ni idea de para qué secuestró Yamijin a ese niño, ni de por qué estos problemas se han vuelto tan frecuentes últimamente. Pero hay una cosa que sí puedo decir: es muy probable que todos estos problemas estén relacionados de alguna forma.",
+    "{player}: La verdad es que ahora mismo estoy de viaje. Para acabar con todos estos problemas. Así que averiguaré la causa sin falta. Déjeme ayudar, por favor.",
+    "Policía: Eso nos ayuda mucho. Si surge algo, avísame aquí. Te contestaré enseguida.",
+    "{player}: Entendido. La encontraré sin falta. ¡La verdadera respuesta!",
+    "Y así, {player} recordó una vez más el propósito de su viaje."
+  ],
+  "city.park.onigiri": "¿Eh? Hay una bola de arroz aquí tirada. Parece que la trajo alguno de los niños, pero sería una pena desperdiciarla, así que decides quedártela.",
+  "city.park.smoker.lines": [
+    "Aah, el tabaco es lo mejor. No hay quien lo deje.",
+    "Ey. A mí me encantan el tabaco y la bebida. Están de vicio.",
+    "Acabo de tomarme siete cervezas en el bar, chaval. Qué fuerte, ¿eh?",
+    "Por favor te lo pido, no me digas que huelo a alcohol.",
+    "¿Oyes... mi... can... ción...? ¡Con... vi... no... y... ta... ba... co... mis... sue... ños... se... cum... pleeen!"
+  ],
+  "city.park.smoker.says": "Hombre fumando: {line}",
+  "city.park.kid1.lines": [
+    "Hala, no sé si eres un niño o un adulto. ¡No me fastidies el juego!",
+    "De camino al parque vi una cosa toda pegajosa. ¿Sería eso un slime?",
+    "¡Ah! ¡Espera, espera, coche teledirigido!",
+    "Me encantan los coches teledirigidos. Son geniales.",
+    "Puaj. Se me ha ensuciado el coche teledirigido.",
+    "Vengo siempre a este parque. Es grande, así que es perfecto para jugar.",
+    "En este parque no hay más que hierba.",
+    "Quiero un ordenador.",
+    "Quiero un coche teledirigido nuevo.",
+    "¡Bien! ¡Hoy también voy a jugar a tope!"
+  ],
+  "city.park.kid1.says": "Niño 1: {line}",
+  "city.park.kid2.lines": [
+    "Holaaa. A mí me gustan mucho las flores bonitas.",
+    "¿Eh? ¿Adónde se ha ido mi hermano mayor?",
+    "¡Ay, qué bonita es esta flor!",
+    "¿Sabes? Quiero prensar flores. Pero mi mamá no me deja. Con las ganas que tengo...",
+    "Este parque tiene un montón de flores distintas y es muy divertido, por eso vengo siempre."
+  ],
+  "city.park.kid2.says": "Niña 2: {line}",
+  "city.park.kid3.lines": [
+    "Me gusta este rincón estrechito. No sé, me tranquiliza.",
+    "Soy Yusuke. ¡Encantado!",
+    "Mmm, tendría que haberme puesto otro abrigo.",
+    "Es que soy muy friolero.",
+    "Sí, este sitio me tranquiliza mucho.",
+    "Quiero montar en avión. Nunca he montado. Ya estoy en segundo de primaria, así que tengo muchas ganas.",
+    "Este parque es grande y por eso es divertido."
+  ],
+  "city.park.kid3.says": "Niño 3: {line}",
+  "city.park.kid4.lines": [
+    "¿Sabes? Me gusta mirar a todo el mundo en este parque.",
+    "Mmm, ¿y si voy a jugar con Yusuke?",
+    "Me gusta un chico. Quiero ser su novia.",
+    "En el cole, mis amigas siempre están hablando de quién le gusta a quién. Qué bonito, ¿verdad?",
+    "Mmm, ¿qué hora será? A las cinco tengo academia...",
+    "¡Odio estudiaaar!",
+    "Buf, no sé... qué aburrimientooo."
+  ],
+  "city.park.kid4.says": "Niña 4: {line}",
+  "city.park.kid5.lines": [
+    "Ah, yo ya voy al instituto. Mi hermana pequeña quería venir al parque, así que la he traído.",
+    "Vaya, qué buen día hace hoy, ¿eh? Si mi hermana no me diera tanto la lata, podría jugar al fútbol todo el día.",
+    "Estoy en el equipo de fútbol. Así que, cuando mi hermana dice que quiere ir al parque, me traigo un balón.",
+    "Las cuentas con la x y la y no las entiendo. ¿Seré tonto?",
+    "Hola."
+  ],
+  "city.park.kid5.says": "Niño 5: {line}",
+  "city.park.sign": "Es un cartel que dice: Parque de la Amistad, por aquí.",
+  "city.boss2.what": "¡¿Q-q-qué ha sido eso?!",
+  "city.boss2.stranger": "Ha aparecido un tipo muy raro.",
+  "city.boss2.yamijin": [
+    "¡Kiiiii, ji, ji, ji, ji, jiii! ¡Soy Yamijin, nya!",
+    "Últimamente se ha acabado la comida, nya.",
+    "Así que me voy a llevar a la gente de aquí, nya. ¡Serán tooodos míooos, nya!",
+    "¡Y luego me los llevaré a la Mansión del Mal, nyaaa!",
+    "Qué sufrimiento, ¿eh? Cuánto sufrimiento.",
+    "¡Os haré probar ese sufrimiento, nya!",
+    "¡Kiiiii, ji, ji, ji, ji, ji, ji, jiii! ¡Kuriri, kuriii!"
+  ],
+  "city.boss2.danger": "Parece que esos niños están en peligro.",
+  "city.boss2.nyaa": "Yamijin: ¿Nyaaa?",
+  "city.boss2.child1": "Niño 1: ¡Aaah!",
+  "city.boss2.child2": "Niño 2: ¿Estás bien?",
+  "city.boss2.slashed": "Yamijin hirió a todos los que estaban por allí y se llevó a uno de los niños.",
+  "city.boss2.remained": "Cuando Yamijin desapareció, solo quedaban los niños, malheridos y en un estado lamentable, y un slime muy raro. Por lo visto, había dejado allí a un monstruo y había huido.",
+  "city.boss2.slime": "¡El Slime Grande se lanzó a por {player}! {player}, ¡ahora mismo solo tú puedes detener a ese slime!",
+  "city.boss2.phew": "{player}: Uf...",
+  "city.boss2.after": "{player} consiguió destruir el Slime Grande a duras penas. Pero aquella escena terrible seguía ahí. {player} llamó enseguida a emergencias, y los niños heridos salvaron la vida.",
+  "city.dresser.taken": "Lo que había en esta cómoda ya me lo he llevado. Ah, tranquilo, que el dueño me dio permiso. ¡Venga, vamos allá!",
+  "city.dresser.found": "Hay bolas de tirachinas en la cómoda. Bolas de tirachinas conseguidas: {count}.",
+  "city.neighbour.back_door": "Vecino: Ah, eres el que hizo de héroe en la casa de al lado, ¿eh? Lo vi todo. Eres bastante fuerte. La verdad es que últimamente están pasando muchos casos parecidos. Si no te importa, ¿podrías investigarlo? Si te animas, sal por la puerta trasera de esta casa.",
+  "city.neighbour.balls": "Ah, sí. Perdona, has venido hasta aquí y no tengo nada que ofrecerte. He estado recogiendo bolas de tirachinas por si algún día servían para algo. Esa cómoda de ahí está llena, así que llévatelas todas. Intenté venderlas, pero nadie las quiso. ¡Ja, ja, ja!",
+  "city.neighbour.poor": "Vecino: Lo siento, chaval. Soy pobre y no tengo nada de nada. Me gustaría ofrecerte aunque fuera un té, pero no tengo dinero. Perdóname.",
+  "city.neighbour.attacked": "Vecino: Dicen que a la casa de al lado la atacó un monstruo el otro día. Oí gritos. Y la voz de un chaval. Pero no la de un chaval normal, no; tenía una voz que ponía los pelos de punta. Oye, ese martillo tuyo es un arma, ¿no? Pues ve a echar un vistazo a la casa de al lado. Dicen que todavía la atacan monstruos de vez en cuando.",
+  "city.housewife.waiting": "Vecina: ¿Y ahora qué hago...? Ah, tú no te preocupes.",
+  "city.housewife.thanks": "Vecina: Muchas gracias. Gracias a ti, la comida está a salvo. Resulta que aquel chaval abrió nuestra despensa. Qué barbaridad, ¿verdad? Pero como tú luchaste contra él, de ahí tampoco se llevó nada. Muchísimas gracias.",
+  "city.housewife.talk": [
+    "Vecina: ¿Qué hago...? Ya no queda comida...",
+    "{player}: ¿Qué le pasa?",
+    "Vecina: El otro día, un monstruo rarísimo se coló a la fuerza en mi casa y se comió toda la comida que pudo. Y, después de comer tanto, encima se llevó lo que no se pudo terminar. Así que ahora no tenemos comida..."
+  ],
+  "city.housewife.offer": [
+    "{player}: Tengo una bola de arroz. ¿Se la quiere comer?",
+    "Vecina: ¿Eh? Ah, ¿de verdad? Gracias."
+  ],
+  "city.housewife.ate": [
+    "Vecina: Ay, qué rica. Gracias. Me has salvado.",
+    "{player}: No hay de qué."
+  ],
+  "city.housewife.troubled": "{player}: Mmm, menudo problema. ¿Qué podemos hacer?",
+  "city.boss1.intro": [
+    "¡E-esto es grave!",
+    "Vecina: ¡Ah, p-para! ¡Esa es la comida de hoy, para! ¡No te la comas! ¡Y lo que queda tampoco te lo lleves!",
+    "{player}: ¡Uaaah!",
+    "Increíble: el Mocoso que antes andaba merodeando por la calle se estaba comiendo la comida de esta casa.",
+    "Mocoso: ¡Por fin algo que llevarme a la boca! Llevo tres días sin comer nada. ¡Me voy a poner las botas!",
+    "Vecina: ¡No! ¡No te la comas! ¡Si no te la comes, te compro un bento de tonkatsu en la tienda de la esquina!",
+    "{player}: (A ver, si de todas formas va a comprar uno, ¿no sería mejor dejarle comer esto y comprarse usted el bento? Bueno, parece que está en apuros, así que tengo que hacer algo...)"
+  ],
+  "city.boss1.stronger": "Vaya, parece que este Mocoso es más fuerte que los que andaban por la calle. ¡{player} se echó el martillo al hombro!",
+  "city.boss1.after": [
+    "{player}: Uf.",
+    "Vecina: G-gracias...",
+    "{player}: ¿La comida... está bien?",
+    "Vecina: Está bien...",
+    "{player}: Menos mal..."
+  ]
+}

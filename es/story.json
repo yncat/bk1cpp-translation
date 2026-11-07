@@ -1,0 +1,128 @@
+{
+  "language.name": "Español",
+  "app.title": "Nuestra gran aventura: Ambición en la oscuridad",
+  "error.map_load": "No se han podido cargar los datos del mapa.",
+  "ui.ok": "Aceptar",
+  "ui.cancel": "Cancelar",
+  "common.yes": "Sí",
+  "common.no": "No",
+  "title.menu.title": "Menú principal",
+  "title.menu.items": [
+    "Nueva partida",
+    "Cargar",
+    "Salir"
+  ],
+  "settings.entry": "Ajustes / Settings / 設定",
+  "settings.title": "Ajustes. Usa arriba y abajo para elegir. Escape para volver.",
+  "settings.bgm": "Volumen de la música: {level} de {max}. Usa izquierda y derecha para cambiarlo.",
+  "settings.bgm.hint": "Usa izquierda y derecha para cambiar el volumen.",
+  "settings.language": "Idioma / Language / 言語",
+  "settings.back": "Volver",
+  "language.prompt": "Idioma / Language / 言語. Arriba y abajo para elegir, Intro para confirmar. / Up and down to choose, Enter to confirm. / 上下: 選択, Enter: 決定.",
+  "language.changed": "Has cambiado el idioma a español.",
+  "language.failed": "No se ha podido cambiar el idioma.",
+  "title.exit.confirm": "¿Seguro que quieres salir del juego? No se guardará la partida.",
+  "title.exit.cancelled": "Cancelado.",
+  "load.choose_slot": "Elige la ranura que quieres cargar.",
+  "load.no_data": "No hay partidas guardadas.",
+  "opening.name.prompt": "Escribe el nombre del jugador.",
+  "opening.name.confirm": "¿Quieres llamarte {player}?",
+  "opening.intro1": [
+    "A las afueras de Ciudad Cristal había un edificio grande, uno solo...",
+    "En la placa colgada bajo el alero ponía: «Casa de {player}»...",
+    "Pues sí. Soy {player}, el dueño de esta casa.",
+    "Un día me entraron ganas de vivir en una misma casa con mis amigos, todos juntos y pasándolo bien.",
+    "Y así nació esta casa... la casa de {player}.",
+    "En esta casa viven mis amigos tan felices. En el juego solo salen tres, pero en realidad hay muchísimos más.",
+    "Hoy, como siempre, me levanté temprano, me enfrenté con la cabeza medio dormida al jefe final de un RPG, me dio una paliza de campeonato y, de la rabia que me daba a mí mismo y de la vergüenza tan enorme que sentía, solté por puro instinto un"
+  ],
+  "opening.intro2": [
+    "grito que despertó a todos los de casa, que ahora estaban desayunando.",
+    "Todos refunfuñan y se quejan de mi grito."
+  ],
+  "opening.breakfast": [
+    "Amigo 1: Oye, ¿y a qué venía ese grito?",
+    "{player}: El señor oscuro de un RPG me ha hecho polvo. Con trampas, además.",
+    "Amigo 3: ¿Y eso qué es?",
+    "{player}: Parece que no tenía nivel suficiente.",
+    "Amiga 2: Haber usado trucos.",
+    "{player}: Pues no, no se puede abrir el panel de trucos en mitad de un combate.",
+    "Amigo 1: Bueno, que nosotros estamos durmiendo, así que para ya.",
+    "{player}: Ni hablar.",
+    "Amigo 3: ¡Pero bueno! ¿Cómo que «ni hablar»? ¡Te voy a quitar comida!",
+    "{player}: Si casi siempre cocino yo...",
+    "Amigo 3: Ja, si lo único que haces es tostar pan.",
+    "Todos: ¡Jajajajaja!"
+  ],
+  "opening.raid1": [
+    "{player}: ¿Qué pasa? ¿Qué pasa?",
+    "Alguien: ¡Venga, venga! ¡Danos la comida!",
+    "{player}: ¿La comida?",
+    "Alguien: ¿Qué pasa, que no sabes ni lo que es «comida»? Qué nivel más bajo.",
+    "{player}: Pero ¿tú sabes que esto es la casa de alguien?",
+    "Alguien: ¡Cállate! ¡Danos la comida ya!"
+  ],
+  "opening.raid2": [
+    "{player}: ¡¿Perdona?!",
+    "¿Te cuelas en casa ajena sin permiso y encima te crees que puedes hablar así?",
+    "Amiga 2: Qué... qué miedo...",
+    "Alguien: ¿Eh? ¿Qué dices tú?",
+    "{player}: ¡No te hagas el tonto! ¡Si no podéis vivir sin robar la comida de las casas de la gente, es que tenéis el nivel por los suelos!",
+    "Alguien: ¡¿Cómo?! ¿Me hablas así a mí, al gran yo? ¿Es que quieres morir?",
+    "{player}: ¿Eh? No, morir no quiero.",
+    "Alguien: Ya... bueno, igual meternos los tres a la vez no ha sido buena idea. Venga, nosotros nos vamos. ¡Hasta luegooo!",
+    "{player}: ¡Ah! ¡La comida!",
+    "Amigo 3: ¡Es verdad! ¡Eh, vosotros, volved aquííí!"
+  ],
+  "opening.raid3": [
+    "{player}: Aaah... estoy harto...",
+    "Amigo 3: ¿Pero qué les pasa a esos imbéciles?",
+    "Amiga 2: Antes que eso... {player} da miedo..."
+  ],
+  "opening.next_days": "Al día siguiente, y al otro, aquellos tipos raros volvieron a atacar. Buscaban comida.",
+  "opening.breakfast2": [
+    "Alguien: ¡Eh! ¡Dejadme desayunar con vosotros!",
+    "{player}: ¡Ni hablar! ¡Como mucho te doy un plato!"
+  ],
+  "opening.throwing": [
+    "Alguien: ¡Ayyy! ¡Me las vas a pagar!",
+    "Después de eso, les tiramos de todo, una cosa tras otra.",
+    "Alguien: ¡Vosotros! ¡Aunque acabéis con nosotros, esto no se acaba aquí! ¡Acordaos de estooo!"
+  ],
+  "opening.that_night": "Esa noche...",
+  "opening.dream": [
+    "Persona 1: Aaah...",
+    "Persona 2: Maldita sea... qué hambre tengo...",
+    "Persona 3: Ay, cómo duele...",
+    "Persona 4: ¿Qué va a ser de nosotros...?",
+    "Persona 5: De... devolvedme a mi hija...",
+    "Niño 1: ¡Buaaa, buaaaa!",
+    "{player}: Qué cruel... es demasiado cruel...",
+    "Alguien: ¡Juaaajajajajajaaa!",
+    "¡Morid! ¡Morid! ¡Moriiid!",
+    "Toda la comida es para nosotros y..."
+  ],
+  "opening.wake": [
+    "¡Ah!",
+    "¿Era un sueño...?",
+    "Y entonces, al día siguiente..."
+  ],
+  "opening.journey": [
+    "{player}: Me voy de viaje.",
+    "Amigo 3: ¿Qué? No digas tonterías. ¿De viaje? Que te puedes morir, ¿sabes? Y además, eso no va con nosotros.",
+    "Amiga 2: Eso. No tienes por qué ir tú.",
+    "Amigo 1: Eso, eso. Nos preocupas.",
+    "{player}: ¡Callaos!",
+    "Anoche tuve un sueño.",
+    "No sé muy bien por qué, pero tengo la sensación de que la comida se va a quedar fuera de nuestro alcance.",
+    "Los amigos: ...",
+    "Amigo 3: ¡Cállate tú! ¡Encima de que nos preocupamos por ti, nos sales con esas!",
+    "{player}: ¡Mira quién habla! ¿Por qué me queréis parar? ¡Si me voy es porque me preocupo por vosotros!",
+    "Por favor.",
+    "Vosotros tenéis vuestra propia vida.",
+    "Aunque yo muera, vosotros podéis seguir viviendo.",
+    "¡Porque quiero que viváis vuestra preciosa vida con todas vuestras fuerzas...!",
+    "Y así empezó mi aventura... Pero nadie sabía aún que iba a convertirse en un viaje totalmente inesperado..."
+  ],
+  "opening.title_card": "Nuestra gran aventura: Ambición en la oscuridad"
+}

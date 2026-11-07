@@ -1,0 +1,123 @@
+{
+  "minigames.ball.hello": "Niño 1: ¡Hala! ¡Vamos a jugaaar!",
+  "minigames.ball.prompt": "¿Juegas con el niño?",
+  "minigames.ball.declined": [
+    "{player}: Lo siento, ahora tengo prisa. ¡Otro día!",
+    "Niño 1: ¡Jooo! ¡Vaaale! ¡Pues hasta luegooo!"
+  ],
+  "minigames.ball.rules": [
+    "Niño 1: ¡Bieeen! ¡Pues a jugaaar!",
+    "Venga, yo tiro la pelota y, cuando la tire, la coges con la barra espaciadora, ¿vaaale?",
+    "Ah, y si pulsas la barra espaciadora cuando no toca, te quito puntos, ¿eh?"
+  ],
+  "minigames.ball.over": "Niño 1: ¡Uy, uy, uyyy! ¡Se te ha caído! ¡Has hecho {score} puntooos!",
+  "minigames.photo.found": "Hay un fotomatón. Parece que cuesta 100 yenes.",
+  "minigames.photo.broken": "Pero la pantalla del fotomatón está hecha añicos, y sus trocitos transparentes y preciosos están desperdigados por el suelo como si fueran joyas.",
+  "minigames.photo.no_money": "Pero ahora mismo no estás para esos lujos.",
+  "minigames.photo.prompt": "¿Te haces fotos en el fotomatón por 100 yenes?",
+  "minigames.photo.welcome": [
+    "Bienvenido.",
+    "Este es un fotomatón muy sencillito. El autor se ha esforzado más bien poco, así que perdónanos.",
+    "Bueno, vamos a hacerte la foto ya mismo. ¡Pon tu mejor pose!"
+  ],
+  "minigames.photo.smile": "Haciendo la foto. ¡Sonríe, sonríe!",
+  "minigames.photo.prank": "Jajaja, jijiji, ¡qué divertido! Y ahora, justo cuando {player} está poniendo una cara rarísima...",
+  "minigames.photo.done": "¡Hecho, ya está la foto! ¡Vuelve a jugar cuando quieras!",
+  "minigames.photo.angry": "{player}: ¡Pero bueno, tú! ¡¿Cómo te atreves a echarme agua a mí?! ¡Eres un fotomatón, ¿dónde narices guardabas eso, desgraciado?! ¡No te lo pienso perdonar! ¡Te voy a hacer pedazos!",
+  "minigames.photo.sorry": "¿Fotomatón?: ¡Pe... perdóooon! ¡Perdóname! ¡Que me perdones, he dicho! ¡Perdó",
+  "minigames.photo.smashed": [
+    "¡Aaaaah!",
+    "La pantalla del fotomatón quedó hecha añicos...",
+    "{player}: ¡Toma ya! ¡A que ahora te rindes! ¡Ni se te ocurra volver a echarme agua! ¡Juajajajajaaa!"
+  ],
+  "minigames.ufo.found": "Hay una máquina de gancho. A lo mejor puedes sacar cosas de todo tipo.",
+  "minigames.ufo.no_money": "Pero ahora mismo estoy sin blanca, así que mejor no.",
+  "minigames.ufo.prompt": "¿Echas 100 yenes y lo intentas?",
+  "minigames.ufo.declined": "Has decidido no jugar.",
+  "minigames.ufo.rules": "¡Bienvenido a la divertida máquina de gancho, la Máquina Ufofo! Pulsa Intro para empezar la partida, mueve la grúa adonde quieras con las flechas y agarra con la barra espaciadora. Y ahora, todos juntos: ¡Ufofo!",
+  "minigames.ufo.nothing": "Qué pena. No has sacado nada. ¡Vuelve a intentarlo!",
+  "minigames.ufo.won": "¡Bieeen! ¡Has pillado {item}!",
+  "minigames.ufo.prizes": [
+    "una figura de Mocoso",
+    "una figura de dragón",
+    "una figura de slime",
+    "una figura de murciélago",
+    "una figura de diablillo",
+    "una foto de fotomatón",
+    "una esponja",
+    "un coche de juguete",
+    "un cofrecito",
+    "una pegatina de monstruo",
+    "un juguete blandito",
+    "una pelota",
+    "una raqueta de tenis",
+    "un guante de béisbol"
+  ],
+  "minigames.drum.found": "Aquí hay un montón de baterías. Parece que, por 100 yenes, puedes tocar una canción.",
+  "minigames.drum.no_money": "Pero ahora mismo eres tan pobre que no tienes ni 100 yenes, así que no parece que puedas subirte a tocar. ¿Y si le quitas el dinero a algún Mocoso?",
+  "minigames.drum.prompt": "¿Lo intentas por 100 yenes?",
+  "minigames.drum.declined": "Lo has dejado estar.",
+  "minigames.drum.song_title": "Elige la canción que quieres tocar con la batería.",
+  "minigames.drum.songs": [
+    "Elgar: Pompa y circunstancia",
+    "Mozart: Sonatina número 1, cuarto movimiento",
+    "Verdi: Brindis, de La Traviata",
+    "Joplin: The Entertainer",
+    "Holst: Júpiter, solo la parte famosa (como es corta, igual sales perdiendo)",
+    "Jingle Bells (¿pero qué?)",
+    "Una canción chula (¡oye!)",
+    "Una canción animada",
+    "Una canción que suena divertida",
+    "Una canción que parece interesante (¡aclárate!)",
+    "¡Una marcha!"
+  ],
+  "minigames.drum.kit_title": "Hay nada menos que 13 baterías. Elige con cuál quieres jugar.",
+  "minigames.drum.kits": [
+    "Batería 1",
+    "Batería 2",
+    "Batería 3",
+    "Batería 4",
+    "Batería 5",
+    "Batería 6",
+    "Batería 7",
+    "Batería 8",
+    "Batería 9",
+    "Batería 10",
+    "Batería 11",
+    "Batería 12",
+    "Batería 13"
+  ],
+  "minigames.drum.start": "Venga, que empieza la canción. Los tambores están asignados a las flechas, a Control, a la barra espaciadora, al tabulador y a Intro, así que ¡dale caña todo lo que quieras! Pues allá vamos...",
+  "minigames.drum.end": "¿Te lo has pasado bien? Vuelve a jugar, ¿vale? Que al autor le ha costado lo suyo hacer esto.",
+  "minigames.fireballs2.intro": [
+    "{player}: ¡¿Pe... pero por quééé?!",
+    "Delante de ti había un montón de bolas rojas volando de un lado a otro, todavía más rápido que antes.",
+    "{player}: ¿Tengo que volver a pasar por ahííí?",
+    "¡Nooo!",
+    "Pero si el autor lo dice, hay que pasar. Así que pasa.",
+    "{player}: ¡¿Quééé?! Y encima van más rápido que antes. ¿Saldré de esta?"
+  ],
+  "minigames.fireballs2.done": [
+    "{player}: Estoy agotadííísimo...",
+    "Autor: Buen trabajo. Ya no quedan más bolas que esquivar, así que puedes estar tranquilo.",
+    "{player}: Menos maaal..."
+  ],
+  "minigames.fireballs1.intro": [
+    "{player}: Hala, ¿y esto qué es?",
+    "Más adelante, en el camino, había un montón de bolas rojas volando de un lado a otro. Parecían bolas de hierro al rojo vivo. Estaban rojísimas.",
+    "{player}: ¡¿Quééé?! ¿Tengo que pasar por aquí?",
+    "Alguien: Me temo que sí, {player}.",
+    "{player}: ¡¿Y tú quién narices eres?!",
+    "Alguien: Bueno, digamos que soy el autor de este juego. Las puedes esquivar con las flechas, así que ¡mucha suerteee!",
+    "{player}: ¿Oh? El autor me ha dado una pista. ¡Pues adentro!",
+    "Autor: Ah, por cierto. Si te dan, te hacen daño, así que ten cuidado. Mientras las cruzas no puedes comer nada."
+  ],
+  "minigames.fireballs1.done": [
+    "Por fin has conseguido salir.",
+    "{player}: Aaah, qué calor he pasado...",
+    "No quiero volver a hacer algo así en mi vida."
+  ],
+  "minigames.wall.rules": "En el muro pone: «Si no rompes este muro en 10 segundos, tu vida se apagará. ¿Te parece bien?». {player} se puso hecho una furia y decidió derribar el muro a martillazos. Pulsa la barra espaciadora sin parar para echar abajo el muro con el martillo antes de 10 segundos.",
+  "minigames.wall.broken": "¡Bien! Te has cargado el muro.",
+  "minigames.wall.failed": "¡{player} cayó en una grieta entre el espacio y el tiempo!"
+}
