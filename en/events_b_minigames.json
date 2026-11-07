@@ -1,0 +1,123 @@
+{
+  "minigames.ball.hello": "Child 1: Waaah, let's plaaaay!!",
+  "minigames.ball.prompt": "Play with the child?",
+  "minigames.ball.declined": [
+    "{player}: Sorry, I'm in a hurry right now. Maybe next time.",
+    "Child 1: Awwww! Okaaaaaaaaay! See ya laterrrrrrrrrrr!!!!!!"
+  ],
+  "minigames.ball.rules": [
+    "Child 1: Yaaaaaaaaaay! Let's plaaaaaaay!",
+    "Okay, I'll throw the ball, and when I throw it, catch it with the Space key, okaaaaaaaaaay!!!",
+    "Oh, and if you press Space when you're not supposed to, I'll take points away."
+  ],
+  "minigames.ball.over": "Child 1: Uh-ohhhhh! You dropped it! Your score is {score} poiiiiiiiiints!!!!!!",
+  "minigames.photo.found": "There's a photo sticker booth. Looks like it costs 100 yen.",
+  "minigames.photo.broken": "But the photo booth's screen is smashed to bits, and its clear, beautiful shards are scattered around like jewels.",
+  "minigames.photo.no_money": "But you can't afford that kind of thing right now.",
+  "minigames.photo.prompt": "Take photo stickers for 100 yen?",
+  "minigames.photo.welcome": [
+    "Welcome.",
+    "This is a very simple photo booth. The author cut a few corners, so please forgive us.",
+    "Now, let's take your picture right away. Strike a good pose!"
+  ],
+  "minigames.photo.smile": "Taking your photo. Smile, smile!",
+  "minigames.photo.prank": "Ahaha, uhyohyo, this is so much fun! And now, right while {player} is making a crazy face...",
+  "minigames.photo.done": "Okaaay, all done!! Come play again!",
+  "minigames.photo.angry": "{player}: Why you...! How dare you splash water on me! You're a photo booth, where were you even keeping that stuff, you jerk?! I won't forgive you! I'm gonna smash you to pieces!",
+  "minigames.photo.sorry": "Photo booth?: I, I'm so sorryyyy! Forgive meeee! I said forgive meeee! Forgi",
+  "minigames.photo.smashed": [
+    "Waaaaaaaaaaaah!!!!!!",
+    "The photo booth's screen was smashed to pieces...",
+    "{player}: How about thaaat! Bet you give up noooow! Don't you ever splash water on me again! Bwahahahahahaaaa!"
+  ],
+  "minigames.ufo.found": "There's a claw machine. Maybe you can win all sorts of things.",
+  "minigames.ufo.no_money": "But I'm broke right now, so I'll pass.",
+  "minigames.ufo.prompt": "Put in 100 yen and give it a try?",
+  "minigames.ufo.declined": "You decided not to.",
+  "minigames.ufo.rules": "Welcome to the fun claw machine, the Ufofo Machine! Press Enter to start the game, move the crane wherever you like with the arrow keys, and grab with Space! Now, everybody together: Ufofo!!",
+  "minigames.ufo.nothing": "Too bad. You didn't get anything. Try again!",
+  "minigames.ufo.won": "Yaaay! You nabbed the {item}!",
+  "minigames.ufo.prizes": [
+    "Gakishonen figure",
+    "Dragon figure",
+    "Slime figure",
+    "Bat figure",
+    "Imp figure",
+    "photo sticker",
+    "sponge",
+    "toy car",
+    "trinket box",
+    "monster sticker",
+    "squishy toy",
+    "ball",
+    "tennis racket",
+    "baseball glove"
+  ],
+  "minigames.drum.found": "There are lots of drums here. Looks like you can play one song for 100 yen.",
+  "minigames.drum.no_money": "But right now you're so poor you don't even have 100 yen, so it doesn't look like you can hop on and play. Maybe go take some money from a Gakishonen?",
+  "minigames.drum.prompt": "Give it a try for 100 yen?",
+  "minigames.drum.declined": "You passed.",
+  "minigames.drum.song_title": "Choose a song to play on the drums.",
+  "minigames.drum.songs": [
+    "Elgar: Pomp and Circumstance",
+    "Mozart: Sonatina No. 1, 4th movement",
+    "Verdi: The Drinking Song",
+    "Joplin: The Entertainer",
+    "Holst: Jupiter, just the famous part (it's short, so it's kind of a ripoff)",
+    "Jingle Bells (wait, what?)",
+    "A nice song (hey!)",
+    "An energetic song",
+    "A fun-sounding song",
+    "An interesting-sounding song (make up your mind!)",
+    "A march!"
+  ],
+  "minigames.drum.kit_title": "There are a whole 13 drum sets. Choose which one you want to play.",
+  "minigames.drum.kits": [
+    "Drum set 1",
+    "Drum set 2",
+    "Drum set 3",
+    "Drum set 4",
+    "Drum set 5",
+    "Drum set 6",
+    "Drum set 7",
+    "Drum set 8",
+    "Drum set 9",
+    "Drum set 10",
+    "Drum set 11",
+    "Drum set 12",
+    "Drum set 13"
+  ],
+  "minigames.drum.start": "Okay, the song is about to start. The drums are assigned to the arrow keys, Control, Space, Tab, and Enter, so bang away to your heart's content! Here we go...",
+  "minigames.drum.end": "Did you have fun? Come play again. The author worked pretty hard on this.",
+  "minigames.fireballs2.intro": [
+    "{player}: Wh, whyyyy?!",
+    "In front of you, lots of red balls were flying around, even faster than before.",
+    "{player}: I have to go through there agaaain?",
+    "Noooo!",
+    "But if the author says so, you have to go through. Go on through.",
+    "{player}: Whaaaat? And they're faster than before. Am I gonna be okay?"
+  ],
+  "minigames.fireballs2.done": [
+    "{player}: I'm so tiiiired...",
+    "Author: Good work. There are no more balls to dodge, so you can relax.",
+    "{player}: Thank goodnesssss."
+  ],
+  "minigames.fireballs1.intro": [
+    "{player}: Whoa, what the heck is that?",
+    "Up ahead on the path, lots of red balls were flying around. Looks like red-hot iron balls. They're glowing bright red.",
+    "{player}: Whaaat? I have to go through here?",
+    "???: I'm afraid so, {player}.",
+    "{player}: Who the heck are you?!",
+    "???: Well, let's just say I'm the author of this game. You can dodge these with the arrow keys, so good luuuck!",
+    "{player}: Oh? The author gave me a hint. Let's charge right in.",
+    "Author: Oh, right. These do damage if they hit you, so be careful. You can't eat anything while you're going through."
+  ],
+  "minigames.fireballs1.done": [
+    "You finally made it through.",
+    "{player}: Aaaah, that was so hooot.",
+    "I never want to do anything like that again."
+  ],
+  "minigames.wall.rules": "Written on the wall: \"If you don't break this wall within 10 seconds, your life will fade away. Is that okay with you?\" {player} lost it and decided to smash the wall with the hammer. Pound the wall down with the hammer within 10 seconds.",
+  "minigames.wall.broken": "Yes! You smashed the wall.",
+  "minigames.wall.failed": "{player} fell into the rift between space and time!"
+}
