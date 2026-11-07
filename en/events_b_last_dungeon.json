@@ -1,0 +1,71 @@
+{
+  "last_dungeon.potion.found": "Yes! There's a recovery potion lying on the ground.",
+  "last_dungeon.futon.found": "Huh? Someone laid out a futon here. Maybe I can get some rest.",
+  "last_dungeon.futon.rest_prompt": "Take a little nap?",
+  "last_dungeon.key.found": "There's a key on the ground. I'll just grab it.",
+  "last_dungeon.panel.intro": "This is the Warp Panel that leads to Yokotank's Fortress...",
+  "last_dungeon.panel.menu.title": "Choose an action.",
+  "last_dungeon.panel.menu.items": [
+    "Warp",
+    "Pick up the panel",
+    "Think about it a bit more"
+  ],
+  "last_dungeon.panel.collected": "You picked up the Warp Panel...",
+  "last_dungeon.warp.warning": "The next time you come back to this land, it will be after everything is over. Also, a boss battle starts right after the warp. And there are no more item shops from here on. You should get fully prepared before heading to your final destination.",
+  "last_dungeon.warp.prompt": "Warp?",
+  "last_dungeon.warp.confirm": "Are you really sure?",
+  "last_dungeon.fort.arrive1": [
+    "{player}: So this is...",
+    "Yokotank's Fortress...",
+    "Did Yokotank build it? Or did he just take over something that was already here?",
+    "Whatever. I'm going in. Through that door right in front of me!"
+  ],
+  "last_dungeon.fort.arrive2": [
+    "???: Looks like you finally made it, nyaa.",
+    "{player}: Yeah. Got a problem with that?"
+  ],
+  "last_dungeon.fort.yamijin_talk": [
+    "Yamijin: I'm impressed you managed to beat the Brats and Lord Yokotank's minions, nyaa.",
+    "{player}: Huh? Minions? What are you talking about?",
+    "Yamijin: Huh? That big giant robot. That was one of Lord Yokotank's minions.",
+    "{player}: Oh, so that's what it was... Well, I smashed it to pieces.",
+    "Yamijin: What a horrible thing to do. Do you have any idea how much money it cost to build that thing?",
+    "{player}: How should I know? Anyway, it attacked me, so I smashed it.",
+    "Enough. We've got no time for small talk.",
+    "Yamijin. This is our final battle, you and me.",
+    "Yamijin: Bring it on! I'll show you my true power!"
+  ],
+  "last_dungeon.fort.battle_cry": "{player}: I'm going to win, no matter what. I won't let you do as you please!",
+  "last_dungeon.fort.after_battle": [
+    "{player}: It's over...",
+    "Yamijin: Looks like I lost.",
+    "{player}: Looks like it. Too bad for you.",
+    "Yamijin: Now, finish me off.",
+    "{player}: Finish off who?",
+    "Yamijin: I lost the fight. So it's right that I die. Finish me off.",
+    "{player}: ..."
+  ],
+  "last_dungeon.fort.finish_prompt": "Finish off Yamijin?",
+  "last_dungeon.kill.agree": "{player}: Fine.",
+  "last_dungeon.kill.after": [
+    "Yamijin stopped moving...",
+    "{player}: Now, this time for real, here I go! Hyaaaaah!"
+  ],
+  "last_dungeon.spare.refuse": [
+    "{player}: I... I won't do that!"
+  ],
+  "last_dungeon.spare.speech": [
+    "{player}: No. I... I hate killing... and I especially hate killing someone I don't have to kill!",
+    "Everything that's alive was born with some kind of meaning to its life, right?!",
+    "Maybe we don't know what that meaning is. Maybe it's not even a good one.",
+    "But any life at all can make someone it cares about happy!",
+    "The meaning of life. Isn't it to believe in the ones you love, help each other out, and live a happy life together?!",
+    "Yamijin: ...",
+    "{player}: I'm going to stop Yokotank. I don't care what you think.",
+    "And I'm never going to kill you. No matter what you say, even if you try to kill yourself!",
+    "Anyway, I have to go further in.",
+    "Wait here. And don't you dare die on me!",
+    "With that, {player} turned his back on Yamijin and started walking toward the door..."
+  ],
+  "last_dungeon.spare.go": "{player}: Here I go! Toooooryaaaaah!"
+}
