@@ -1,0 +1,40 @@
+{
+  "battle.menu.title": "Main menu",
+  "battle.menu.items": [
+    "Check status",
+    "Items",
+    "Change weapon",
+    "Run away",
+    "Close menu"
+  ],
+  "battle.weapon.title": "Choose a weapon",
+  "battle.weapon.names": [
+    "Hammer",
+    "Slingshot",
+    "Short Sword",
+    "Long Sword",
+    "Whip",
+    "Bronze Knife",
+    "Buster Blade",
+    "Arrow Shot",
+    "Knuckles"
+  ],
+  "battle.weapon.back": "Back",
+  "battle.status.title": "{player}'s status",
+  "battle.status.hp": "HP: {hp} of {max}",
+  "battle.status.attack": "Attack: {value}",
+  "battle.status.defense": "Defense: {value}",
+  "battle.status.speed": "Speed: {value}",
+  "battle.status.constitution": "Vitality: {value}",
+  "battle.status.stamina": "Stamina: {value} of {max}",
+  "battle.status.money": "Money: {value} yen",
+  "battle.status.level": "Level: {value}",
+  "battle.status.exp": "EXP: {value} points",
+  "battle.status.next_level": "EXP to next level: {value} points",
+  "battle.status.close": "Close status screen",
+  "battle.defeated": "{player} ran out of strength...",
+  "battle.victory": "{player} beat {enemy}! Got {money} yen. Got {exp} EXP.",
+  "battle.level_up": "{player} went up to level {level}!",
+  "battle.level_up.prompt": "Press 1 for Attack, 2 for Defense, 3 for Speed, 4 for Vitality, 5 for Stamina, or 6 for HP.",
+  "battle.drop": "{enemy} dropped something: {item}!"
+}

@@ -1,0 +1,22 @@
+{
+  "dungeon.glass_wall": "Whoa! What's this? There seems to be an invisible wall. I can see the park on the other side, but...",
+  "dungeon.ball_machine.intro": "There's a machine with a picture of a round ball on it. The front says 255. It also has three buttons.",
+  "dungeon.ball_machine.prompt": "Choose the button you want to push.",
+  "dungeon.ball_machine.buttons": [
+    "Blue button",
+    "Yellow button",
+    "Red button",
+    "Don't push anything"
+  ],
+  "dungeon.ball_machine.display": "The number {count} appeared on the screen.",
+  "dungeon.ball_machine.payout": "Out came slingshot pellets. Count: {count}.",
+  "dungeon.double_dodge.intro": [
+    "{player}: Waaaah! N-no way, it's... bul-let dodg-ing?!",
+    "And this time they come two at a time! Heeelp!"
+  ],
+  "dungeon.double_dodge.done": "{player}: Aaaah, I'm so tiiired.",
+  "dungeon.memory_road": "Beyond this point lies the Road of Memories.",
+  "dungeon.door_hint": "In this game, when you open or close a door, the position changes depending on your direction. Your direction means the direction you last moved in, or the direction you last bumped into something.",
+  "dungeon.weapon_gate": "Those who go forward, sheathe your weapons. All others, draw your weapons.",
+  "dungeon.warp_back": "{player}: Hey! How far back are you gonna send me?!"
+}

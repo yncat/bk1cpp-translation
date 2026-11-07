@@ -1,0 +1,114 @@
+{
+  "common.yes": "Yes",
+  "common.no": "No",
+  "title.menu.title": "Title menu",
+  "title.menu.items": [
+    "New game",
+    "Load",
+    "Quit"
+  ],
+  "title.exit.confirm": "Do you really want to quit the game? Your progress will not be saved.",
+  "title.exit.cancelled": "Cancelled.",
+  "load.choose_slot": "Choose a slot to load.",
+  "load.no_data": "There is no save data.",
+  "opening.name.prompt": "Enter the player's name.",
+  "opening.name.confirm": "Is {player} OK?",
+  "opening.intro1": [
+    "On the edge of Crystal City, there stood one big building...",
+    "The plate hanging under the eaves said: {player}'s House...",
+    "That's right. I'm {player}, the owner of this house.",
+    "One day, I started wanting to live happily in one house together with my friends.",
+    "And so this house was built... {player}'s House.",
+    "My friends live happily in this house. Only three of them show up in this game, but really there are lots and lots more.",
+    "Today, like always, I got up early, took on the final boss of an RPG with my half-asleep brain, got totally crushed, and out of rage at myself and extreme embarrassment, I instinctively let out a"
+  ],
+  "opening.intro2": [
+    "Everyone in the house, woken up by that scream, was now eating breakfast.",
+    "They're all grumbling and complaining about my scream."
+  ],
+  "opening.breakfast": [
+    "Friend 1: Seriously, what was that scream about?",
+    "{player}: The demon lord in my RPG crushed me. Totally unfair.",
+    "Friend 3: What the heck?",
+    "{player}: I guess my level was too low.",
+    "Friend 2: You should've just cheated.",
+    "{player}: Sadly, you can't open the cheat panel during a battle.",
+    "Friend 1: Anyway, we're sleeping, so cut it out.",
+    "{player}: Nope.",
+    "Friend 3: You little...! What do you mean, nope?! I'll cut your food rations!",
+    "{player}: But I'm the one who does almost all the cooking.",
+    "Friend 3: Heh, all you ever do is make toast.",
+    "Everyone: Ha ha ha ha ha!"
+  ],
+  "opening.raid1": [
+    "{player}: What? What's going on?!",
+    "Someone: Hey hey hey! Hand over the food!",
+    "{player}: Food?",
+    "Someone: Huh? You don't even know what food means? How low-level can you get?",
+    "{player}: But this is somebody's house, you know?",
+    "Someone: Shut up! Hand it over already!"
+  ],
+  "opening.raid2": [
+    "{player}: Excuse me?!",
+    "You barge into somebody's house without asking, and you think you can talk like that?",
+    "Friend 2: S-scary...",
+    "Someone: Huh? What are you babbling about?",
+    "{player}: Don't play dumb! If you can't even get by without stealing food from people's houses, you guys are way too low-level!",
+    "Someone: Ohhh! Saying that to the great me? You wanna die?",
+    "{player}: Huh? No, I don't wanna die.",
+    "Someone: Huh... well, I guess barging in with three of us at once was a bad idea. Okay, we're going home. Seeee ya!",
+    "{player}: Ah! The food!",
+    "Friend 3: Hey, he's right! You jerks, get back heeeere!"
+  ],
+  "opening.raid3": [
+    "{player}: Aaah... I hate this...",
+    "Friend 3: What's with those stupid jerks?",
+    "Friend 2: Before that, {player} is scary..."
+  ],
+  "opening.next_days": "The next day, and the day after that, the weird guys attacked again. Looking for food.",
+  "opening.breakfast2": [
+    "Someone: Hey! Let me join your breakfast too!",
+    "{player}: Nope! You can have a plate, though!"
+  ],
+  "opening.throwing": [
+    "Someone: Owww! You'll pay for that!",
+    "After that, we threw all kinds of stuff at them, over and over.",
+    "Someone: You guys! Even if you take us out, this isn't over! You'll remember thiiis!"
+  ],
+  "opening.that_night": "That night...",
+  "opening.dream": [
+    "Person 1: Waaah...",
+    "Person 2: Darn it... I'm so hungry...",
+    "Person 3: Owww...",
+    "Person 4: What's going to happen to us...",
+    "Person 5: G... give me back my daughter...",
+    "Kid 1: Waaah, waaaaah!",
+    "{player}: That's cruel... way too cruel...",
+    "Someone: Hwaaa ha ha ha ha ha ha!",
+    "Die! Die! Diiiiie!",
+    "All the food belongs to us and..."
+  ],
+  "opening.wake": [
+    "Gasp!",
+    "It was a dream...",
+    "And then, the next day..."
+  ],
+  "opening.journey": [
+    "{player}: I'm going on a journey.",
+    "Friend 3: Huh? Don't joke around. A journey? You could die, you know. And it's got nothing to do with us.",
+    "Friend 2: That's right. There's no reason you have to go.",
+    "Friend 1: Yeah. We're worried.",
+    "{player}: Be quiet!",
+    "I had a dream last night.",
+    "I don't really get it, but I feel like food is going to end up out of our reach.",
+    "Friends: ...",
+    "Friend 3: Shut up! We're worried about you, and that's what you say?!",
+    "{player}: Look who's talking! Why are you stopping me? I'm going because I'm worried about you guys!",
+    "Please.",
+    "You guys have your own lives.",
+    "Even if I die, you can still live.",
+    "Because I want you to live your precious lives as hard as you can...!",
+    "And so, my adventure began... But nobody knew yet that it would turn into a journey no one could have imagined..."
+  ],
+  "opening.title_card": "Our Great Adventure: Ambition in the Dark"
+}

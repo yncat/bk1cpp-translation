@@ -1,0 +1,19 @@
+{
+  "trap.switch.ask": "There's a weird switch here. Do you want to push it?",
+  "trap.switch.monster": "Waaaah! A monsteeer!",
+  "trap.switch.phew": "Phew...",
+  "trap.switch.sword": "Huh? There's a thin sword lying around here. It's short, and it looks easy to swing without much effort. It's so easy to handle you could even hit with the blunt side. Might as well pick it up and use it as a weapon.",
+  "trap.switch.matsutake": "Oh? A matsutake mushroom was lying here. I'll take it.",
+  "trap.dodge.intro": [
+    "{player}: Are you seriouuus?!",
+    "After a maze full of doors, now it's dodging bullets?! Help me, author! You're the one programming this anyway!",
+    "Author: Oh, be quiet. Just get through it already. I wrote one and a half kilobytes just for this bullet dodging, you know.",
+    "{player}: Fine! I just have to get through, right? Geez!"
+  ],
+  "trap.dodge.done": [
+    "{player}: Huh. That didn't feel very last-dungeon-ish.",
+    "Author: Heh heh heh heh. Well, fine. Next up is another maze, so good luuuck.",
+    "{player}: Hey! Tell me the way!",
+    "Author: Hee hee hee. It's where the red marker is."
+  ]
+}
