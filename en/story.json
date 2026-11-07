@@ -1,4 +1,8 @@
 {
+  "app.title": "Our Great Adventure: Ambition in the Dark",
+  "error.map_load": "The map data could not be loaded.",
+  "ui.ok": "OK",
+  "ui.cancel": "Cancel",
   "common.yes": "Yes",
   "common.no": "No",
   "title.menu.title": "Title menu",
@@ -7,6 +11,9 @@
     "Load",
     "Quit"
   ],
+  "title.menu.language": "Language / 言語",
+  "language.changed": "Switched to English.",
+  "language.failed": "The language could not be switched.",
   "title.exit.confirm": "Do you really want to quit the game? Your progress will not be saved.",
   "title.exit.cancelled": "Cancelled.",
   "load.choose_slot": "Choose a slot to load.",

@@ -1,4 +1,8 @@
 {
+  "app.title": "僕らの大冒険〜闇の中の野望〜",
+  "error.map_load": "マップデータを読み込めませんでした。",
+  "ui.ok": "OK",
+  "ui.cancel": "キャンセル",
   "common.yes": "はい",
   "common.no": "いいえ",
   "title.menu.title": "タイトルメニュー",
@@ -7,6 +11,9 @@
     "ロード",
     "終了"
   ],
+  "title.menu.language": "Language / 言語",
+  "language.changed": "日本語に切り替えました。",
+  "language.failed": "言語を切り替えられませんでした。",
   "title.exit.confirm": "ゲームを終了してもよろしいですか?セーブは行われません。",
   "title.exit.cancelled": "キャンセルしました。",
   "load.choose_slot": "ロードするスロットを選んでください。",
