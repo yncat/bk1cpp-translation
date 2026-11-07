@@ -1,0 +1,186 @@
+{
+  "city.manhole.vanished": "Huh! The manhole has vanished. What on earth just happened...?",
+  "city.manhole.ask": "Once you go in, I don't think there's any easy turning back. Are you ready?",
+  "city.manhole.warp": [
+    "{player}: Waaaaaah!",
+    "Looks like I've been warped somewhere weird. Is this Yamijin's hideout?",
+    "Well, let's keep going for now.",
+    "And so, {player} pressed onward."
+  ],
+  "city.mother.hopeful": "The police called me! They found out where my child might be! I'll believe and wait, because if I don't believe, nothing will ever start!",
+  "city.mother.panic": "Resident: What do I do, what do I do, what do I do what do I do what do I do what do I doooooooo! M-my child hasn't come hooooome! What should I do? Please help me! I'll do anything! I'm begging you!",
+  "city.mother.thanks": "Resident: Thank you so, so much. I'm so happy.",
+  "city.mother.gift": [
+    "It's only a small thing, but please take this.",
+    "You got matsutake mushrooms."
+  ],
+  "city.boss3.intro": [
+    "Resident: Wh-what?!",
+    "{player}: Hey, it's you!",
+    "Yamijin: Eeeeat-hee-hee-hee-hee-heeee! Fouuund youuuu!",
+    "Now, hand over the food, nya. Eeeeat-hee-hee-hee-hee!",
+    "{player}: Stop it!",
+    "Resident: Th-that's... that's the shelf with all our food in it!",
+    "Yamijin: I'm taking the whole thing, nya!"
+  ],
+  "city.boss3.wait": "{player}: Heeeey! Get back here!",
+  "city.boss3.chase": "Yamijin is running further and further to the right. Chase him and don't lose him. If you lose him, it's all over. You only get one chance. After Yamijin!",
+  "city.boss3.lost": "Waah! I lost him!",
+  "city.boss3.escaped": [
+    "Yamijin warped away through a manhole with a strange pattern drawn on it!",
+    "It looks like Yamijin made that manhole himself. Just stepping on it warps you somewhere.",
+    "But right now, {player} didn't have the guts to step on it. Who knows where it leads, or whether there's a way back.",
+    "For now, {player} called the police officer from the park."
+  ],
+  "city.boss3.call": [
+    "Police officer: Hello? What is it?",
+    "{player}: Um, I just went to a house near the park, and that Yamijin showed up.",
+    "Police officer: Really? Is he there right now?",
+    "{player}: No, he's gone. He stole the family's food and ran off. I chased him the whole way, and then he warped somewhere through a weird manhole.",
+    "Police officer: I see. Then come to the park. Find me and tell me everything in detail. I'll be waiting in the same spot as before.",
+    "{player}: Got it. I'm on my way.",
+    "And so, {player} found a small clue about Yamijin. Head to the police officer."
+  ],
+  "city.police.leaving": "Police officer: So you've come. Let's go right away.",
+  "city.police.later": "Police officer: If anything happens, contact me right away.",
+  "city.police.talk1": [
+    "Police officer: We're investigating that Yamijin incident. We found blood all over the park, but all of it matched the DNA of the people who got slashed. So it looks like the culprit didn't get a single scratch. Can you think of anything else? If you can, please help us out.",
+    "{player}: Actually, I was in the park when it happened. If there's anything I can do to help, just tell me!",
+    "Police officer: Is that so? Then please tell me what happened, in as much detail as you can."
+  ],
+  "city.police.talk2": [
+    "{player}: The kids were playing happily, and then suddenly there was this weird laugh.",
+    "Kweeeee-hee-hee-hee-heeeeee! Like that.",
+    "Then he suddenly started going on about not having any food, and he slashed one of the kids. And then, laughing, he slashed everyone around and carried one kid off.",
+    "I wanted to chase him, but he'd left a weird slime behind and it attacked me. I managed to destroy it, but while I was doing that, Yamijin got away."
+  ],
+  "city.police.talk3": [
+    "Police officer: Hm? Did you just say he had no food?",
+    "{player}: Yes.",
+    "Police officer: Lately, for that very reason, there have been lots of people killing each other and lots of monster attacks. For example, houses getting raided by monsters, and someone got arrested after stealing money from people on the street and buying up food at the supermarket. And apparently lots of monsters keep getting into that supermarket too.",
+    "{player}: I saw that at a house nearby too. A rough-looking boy attacked, and I just about chased him off. Could all these things that keep happening mean that something, somewhere, has changed?",
+    "Police officer: We have no idea why Yamijin kidnapped that child, or why these problems have suddenly been happening so often lately. But one thing I can say is that it's very likely all these problems are connected somehow.",
+    "{player}: Actually, I'm on a journey right now. To stop all these problems. So I'll find out what's causing them for sure. Please let me help.",
+    "Police officer: That's a big help. If anything comes up, contact me here. I'll answer right away.",
+    "{player}: Got it. I'll find it for sure. The real answer!",
+    "And so, {player} remembered once more what the journey was for."
+  ],
+  "city.park.onigiri": "Huh? There's a rice ball sitting here. Looks like one of the kids brought it, but it'd be a waste to leave it, so you decided to take it.",
+  "city.park.smoker.lines": [
+    "Ahh, smokes are the best. Can't quit 'em.",
+    "Yo. I love cigarettes and booze. So good.",
+    "I just had seven beers at the liquor store, man. Pretty awesome, huh?",
+    "Please, whatever you do, don't say I smell like booze.",
+    "Can... you... hear... my... sooong... Booze... and... smokes... my... dreams... are... fuuuuuull!"
+  ],
+  "city.park.smoker.says": "Smoking man: {line}",
+  "city.park.kid1.lines": [
+    "Whoa, I can't tell if you're a kid or a grown-up. Don't get in the way of my playing!",
+    "On my way to the park, I saw some gooey thing. Was that a slime?",
+    "Ah! Wait, wait, my RC car!",
+    "I love RC cars. They're awesome.",
+    "Ewww. My RC car got all dirty.",
+    "I come to this park all the time. It's big, so it's perfect for playing.",
+    "This park is nothing but grass.",
+    "I want a computer.",
+    "I want a new RC car.",
+    "All right! Time to play all day again!"
+  ],
+  "city.park.kid1.says": "Kid 1: {line}",
+  "city.park.kid2.lines": [
+    "Hellooo. I really like pretty flowers.",
+    "Huh? Where did my big brother go?",
+    "Oh, this flower is so pretty!",
+    "You know, I want to press flowers. But my mom won't let me. I really want to.",
+    "This park has all kinds of flowers and it's fun, so I always come here."
+  ],
+  "city.park.kid2.says": "Kid 2: {line}",
+  "city.park.kid3.lines": [
+    "I like this narrow spot. It kind of calms me down.",
+    "I'm Yusuke. Nice to meet you.",
+    "Hmm, I should've worn one more coat.",
+    "I get cold really easily.",
+    "Yep, this spot really calms me down.",
+    "I want to ride an airplane. I've never been on one. I'm in second grade now, so I really want to.",
+    "This park is big, so it's fun."
+  ],
+  "city.park.kid3.says": "Kid 3: {line}",
+  "city.park.kid4.lines": [
+    "You know, I like watching everyone in this park.",
+    "Hmm, maybe I'll go play with Yusuke?",
+    "I have a crush on someone. I want to be his girlfriend.",
+    "At school, my friends are always talking about who likes who. It's so nice.",
+    "Hmm, what time is it? I have cram school at five...",
+    "I hate studyiiiiiing!",
+    "Ugh, whatever... I'm so boooored."
+  ],
+  "city.park.kid4.says": "Kid 4: {line}",
+  "city.park.kid5.lines": [
+    "Oh, I'm in junior high. My little sister said she wanted to come to the park, so I brought her.",
+    "Wow, nice weather today, huh? If only my sister would stop bossing me around, I could play soccer all day.",
+    "I'm on the soccer team. So whenever my sister says she wants to go to the park, I bring a ball.",
+    "I just don't get algebra with x and y. Maybe I'm dumb?",
+    "Hello."
+  ],
+  "city.park.kid5.says": "Kid 5: {line}",
+  "city.park.sign": "It's a sign that says: Friendship Park, this way.",
+  "city.boss2.what": "Wh... wh... what was that?!",
+  "city.boss2.stranger": "Some weirdo just showed up.",
+  "city.boss2.yamijin": [
+    "Kweeeee-hee-hee-hee-hee-heeeeeee! I'm Yamijin, nya!",
+    "Lately, all the food's run out, nya.",
+    "So, I'm gonna take the people here, nya. I'll make them aaaall miiiine, nya!",
+    "And then I'll drag them off to the Evil Mansion, nyaa!",
+    "It hurts, doesn't it? It hurts so much.",
+    "I'll make you taste that pain, nya!",
+    "Kweeeeeeeeee-hee-hee-hee-hee-hee-hee-heeeee! Kreeree-kreeeeee!"
+  ],
+  "city.boss2.danger": "Uh-oh, those kids look like they're in danger.",
+  "city.boss2.nyaa": "Yamijin: Nyaaa?",
+  "city.boss2.child1": "Kid 1: Waaah!",
+  "city.boss2.child2": "Kid 2: Are you okay?",
+  "city.boss2.slashed": "Yamijin slashed everyone nearby and carried one of the children away.",
+  "city.boss2.remained": "By the time Yamijin had vanished, all that was left were the poor, slashed-up children and one weird slime. It seems he left a monster behind and ran away.",
+  "city.boss2.slime": "The Big Slime came at {player}! {player}, you're the only one who can stop that slime now!",
+  "city.boss2.phew": "{player}: Phew...",
+  "city.boss2.after": "{player} somehow managed to destroy the Big Slime. But the terrible scene was still there. {player} quickly called an ambulance, and the slashed children's lives were saved.",
+  "city.dresser.taken": "You've already taken what was in this dresser. Oh, don't worry, the owner said it was okay. Now, let's go!",
+  "city.dresser.found": "There are slingshot balls in the dresser. You got {count} slingshot balls.",
+  "city.neighbour.back_door": "Resident: Oh, you were the hero next door, huh? I saw it. You're pretty tough. Actually, lots of incidents like that have been happening lately. If you don't mind, could you look into it? If you will, go out the back door of this house.",
+  "city.neighbour.balls": "Oh, right. Sorry, you came all this way and I've got nothing. I've been collecting slingshot balls, thinking they might come in handy someday. That dresser over there is full of them, so take them all. I tried to sell them, but nobody would buy them. Ha ha ha.",
+  "city.neighbour.poor": "Resident: Sorry, pal. I'm poor, so I've got nothing at all. I'd really like to offer you some tea, but I've got no money. Forgive me.",
+  "city.neighbour.attacked": "Resident: I heard the house next door got attacked by some monster the other day. I heard screaming. And a boy's voice. Not a normal boy, though. His voice was real scary. Hey, that hammer of yours is a weapon, right? Then go check out the house next door. I hear monsters still raid it now and then.",
+  "city.housewife.waiting": "Resident: What am I going to do now... Oh, don't you worry about it.",
+  "city.housewife.thanks": "Resident: Thank you. Thanks to you, our food is safe. Actually, that boy opened up our food storage room. Isn't that just awful? But because you fought him, nothing in there got taken either. Thank you so much.",
+  "city.housewife.talk": [
+    "Resident: What do I do... There's no food left...",
+    "{player}: What's wrong?",
+    "Resident: The other day, a weird monster forced its way into my house and ate as much food as it could. And even after eating all that, it carried off what it couldn't finish. So now we have no food..."
+  ],
+  "city.housewife.offer": [
+    "{player}: I've got a rice ball. Do you want it?",
+    "Resident: Oh, really? Are you sure? Thank you."
+  ],
+  "city.housewife.ate": [
+    "Resident: Mmm, delicious. Thank you. You saved me.",
+    "{player}: No problem."
+  ],
+  "city.housewife.troubled": "{player}: Hmmm, that's a real problem. What should we do, I wonder?",
+  "city.boss1.intro": [
+    "Oh no, this is bad!",
+    "Resident: Ah! S-stop it! That's today's food, so stop! Don't eat it! And don't take the rest with you either!",
+    "{player}: Whoaaa!",
+    "Unbelievably, the Gakishonen who'd been wandering around in the street earlier was eating this family's food.",
+    "Gakishonen: Finally, some grub! I haven't eaten anything in three days. I'm gonna stuff myself!",
+    "Resident: No! Don't eat it! If you don't eat it, I'll go buy you a pork cutlet bento from the convenience store!",
+    "{player}: (Um, if you're going to buy one anyway, wouldn't it be better to let him eat this and buy yourself the bento? Anyway, she looks like she's in trouble, so I have to do something...)"
+  ],
+  "city.boss1.stronger": "Looks like this Gakishonen is stronger than the ones wandering around the streets. {player} hoisted up the hammer!",
+  "city.boss1.after": [
+    "{player}: Phew.",
+    "Resident: Th... thank you.",
+    "{player}: Is the food... okay?",
+    "Resident: It's okay...",
+    "{player}: Thank goodness..."
+  ]
+}
