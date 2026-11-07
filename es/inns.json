@@ -1,0 +1,64 @@
+{
+  "inn.crystal.welcome": "¡Bienvenidooo! Pasar la noche cuesta 200 yenes. ¿Desea alojarse con nosotros?",
+  "inn.crystal.declined": "¿Ah, nooo? Pues cuando quiera volver a descansar, ¡no dude en venir a nuestro hoteeel!",
+  "inn.crystal.pay_first": "Esteee... Verá, en nuestro hotel se paga por adelantado. Tiene que abonar el dinero primeeero.",
+  "inn.crystal.only_have": "{player}: ¡¿Quéee?! ¡Solo tengo {money} yenes!",
+  "inn.crystal.sorry": "¡Ay, cuánto lo sientooo! ¡Vuelva otro día, por favooor!",
+  "inn.crystal.room": "¡Entendidooo! Aquí tiene la llave. Su habitación es la número {room}. ¡Que disfrute de su estanciaaa!",
+  "inn.crystal.nice_room": "Mmm. No está nada mal. Es amplia. Tiene cama. ¿Todo esto por 200 yenes? Qué barato. Un momento, ¿los yenes de este juego son distintos de los de verdad? Ni ideaaa.",
+  "inn.crystal.bath": "Así que este es el baño. ¡Qué grande!",
+  "inn.crystal.bath_alone": "¿Eh? ¡Lo tengo todo para mí solo! ¡Yujuuu!",
+  "inn.crystal.bath_good": "¡Qué agua más buena! ¡Qué gustitooo! Bueno, a lavarse... Espera, lo normal es lavarse antes de meterse, ¿no? ¡Jajaja!",
+  "inn.crystal.bath_basin": "Ay, se me ha caído la palangana.",
+  "inn.crystal.bath_done": "¡Qué gustazo!",
+  "inn.crystal.cold": "Qué frío...",
+  "inn.crystal.comfortable": "Qué a gusto se está.",
+  "inn.crystal.beaten": "Así que aquí hay baño y todo. No estaría mal ir a verlo. Además, {enemy} me ha dado una buena paliza.",
+  "inn.crystal.hammer": [
+    "Qué habitación tan maja.",
+    "¿Eh?",
+    "¿Eso de allí es el baño? Vamos a ver.",
+    "Pero antes, a lo mejor me pongo a jugar un rato con el martillo."
+  ],
+  "inn.door_stuck": [
+    "¡Maldita sea! ¿Por qué no se abre?",
+    "¡Ya está bien, a lo bruto! ¡Hiyaaa!"
+  ],
+  "inn.key_card": "Ah, tengo que meter aquí la tarjeta. ¡Clic!",
+  "inn.opened": "Se ha abierto. Bueno, a dormir.",
+  "inn.bored": [
+    "Ay, qué aburrimiento.",
+    "No hay nada que hacer. ¿Qué hagooo?"
+  ],
+  "inn.dream": "¿Eh? ¿Qué? ¿Ha... ha sido un sueño...? Ay, qué miedo he pasadooo.",
+  "inn.crystal.morning": "¡Buenos díaaas! ¡Vaya con cuidado hoy también!",
+  "inn.arkhaia.welcome": "Bienvenido. La noche cuesta 700 yenes. ¿Te quedas?",
+  "inn.arkhaia.declined": "Ya veo. Si quieres descansar, vuelve cuando quieras.",
+  "inn.arkhaia.pay_first": "Lo siento, pero si no pagas, no puedo dejarte quedarte.",
+  "inn.arkhaia.only_have": "{player}: ¡No puede seeer! ¡Solo tengo {money} yenes!",
+  "inn.arkhaia.sorry": "Qué pena. Vuelve otro día, ¿eh?",
+  "inn.arkhaia.room": "Entendido. Tu habitación es la número {room}, así que descansa bien.",
+  "inn.arkhaia.nice_room": "Ah, el hotel de Ciudad Arkhaia es otra cosa. Como era de esperar de una posada de lujo. Aunque, cuando ves que venden el Cuchillo de Bronce a 10000 yenes, dan ganas de gritar: «¡¿Cómo puede costar tanto un simple cuchillo?!».",
+  "inn.arkhaia.traveller": [
+    "{player}: ¡Ah, holaaa!",
+    "Viajero: Hola."
+  ],
+  "inn.arkhaia.dog": [
+    "{player}: ¡Qué perro tan mono!",
+    "Viajero: Es mono, ¿verdad? Se llama Jade.",
+    "{player}: ¡Hala!",
+    "Viajero: Me lo encontré en mis viajes, muerto de hambre, y me lo traje conmigo. Detecta bombas y cosas así con el olfato, así que me ayuda muchísimo. Y también desentierra los frutos de sabón que se quedan enterrados. ¡Jajajaja!",
+    "{player}: ¡Qué pasada! ¡Sigue así, Jade!"
+  ],
+  "inn.arkhaia.sleep": "{player}: ¿Me voy a dormir ya?",
+  "inn.arkhaia.arcade": "Uaaah... Qué gustito. Quiero volver a los recreativos.",
+  "inn.arkhaia.comfortable": "Qué a gusto se está. Y encima, por lo visto, tiene aire acondicionado, calefacción y cable de internet.",
+  "inn.arkhaia.beaten": "Uf. Qué cansado estoy. Voy a descansar tranquilamente. Además, {enemy} me ha dado una buena paliza.",
+  "inn.arkhaia.hammer": [
+    "Qué habitación tan maja.",
+    "Mmm...",
+    "Pero no hay nada que hacer.",
+    "Mmm... Pues nada, a jugar un rato con el martillo."
+  ],
+  "inn.arkhaia.morning": "¡Ya es de día! ¡Ánimo hoy también!"
+}

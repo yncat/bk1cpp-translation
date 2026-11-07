@@ -1,0 +1,292 @@
+{
+  "arkhaia_city.gate.side_entrance": "Es una entrada de Ciudad Arkhaia. No es la misma que la del lado de Ciudad Cristal.",
+  "arkhaia_city.gate.enter_prompt": "¿Entrar en la ciudad?",
+  "arkhaia_city.exit.message": "Es la salida de la ciudad.",
+  "arkhaia_city.exit.prompt": "¿Salir de la ciudad?",
+  "arkhaia_city.boss8.leaving": [
+    "{player}: Qué bien me lo he pasado en Ciudad Arkhaia.",
+    "De momento, parece que allí los monstruos todavía no han hecho daño. Algo es algo.",
+    "Pero nunca se sabe cuándo pueden aparecer los monstruos, así que quiero descubrir la verdad cuanto antes."
+  ],
+  "arkhaia_city.boss8.huh": "¿Eh?",
+  "arkhaia_city.boss8.coming": [
+    "¡V-viene algo!",
+    "¿¡Pero qué tamaño es ese!?",
+    "Lo que vio {player} fue un monstruo gigantesco, parecido a un dinosaurio, de más de diez metros de alto.",
+    "{player}: ¡Iiiih! ¡Viene hacia aquí! ¡Y es tan rápido que no puedo escapar! ¿¡Qué hago!?"
+  ],
+  "arkhaia_city.boss8.charge": [
+    "¡El monstruo se lanza hacia aquí con un estruendo tremendo!",
+    "{player}: ¡E-eso es...!",
+    "Eso es lo mismo que llevaba Yamijin... ¿Será un secuaz de Yamijin?",
+    "Pero no se parece en nada a lo que he visto hasta ahora. ¿¡Qué demonios es esa cosa!?",
+    "¡...Cuidado!"
+  ],
+  "arkhaia_city.boss8.bitten": [
+    "¡Uaaah!",
+    "¡Maldita sea, si me tiene agarrado con los dientes no puedo escapar!"
+  ],
+  "arkhaia_city.boss8.pain": [
+    "¡Uaaaaah!",
+    "{player} sintió un dolor más intenso que nada que hubiera sentido jamás.",
+    "{player}: Maldita sea... ¿Se acaba todo aquí...?",
+    "{player} se preparó para morir."
+  ],
+  "arkhaia_city.boss8.spat_out": [
+    "Pero el monstruo mordisqueó un poco a {player} y luego lo escupió sin más.",
+    "{player}: Maldita sea..."
+  ],
+  "arkhaia_city.boss8.rush": [
+    "{player}: ¡Haaah!",
+    "Mientras {player} cargaba contra él, el monstruo también se lanzó a la carga. Y, sin hacer ruido, sacó unas garras de brillo apagado.",
+    "{player}: ¿¡Qué!? ¡No puedo frenar! Si sigo así..."
+  ],
+  "arkhaia_city.boss8.dribble": [
+    "{player}: ¡Aaaaah!",
+    "Y no fue solo eso. El monstruo lanzó a {player} por los aires ¡y siguió embistiendo hacia él!",
+    "{player}: ¡Uaaah! ¡Pero si me está regateando como si yo fuera la pelotaaa!"
+  ],
+  "arkhaia_city.boss8.ready": [
+    "{player}: Así no hay vida que aguante, por muchas que tenga. ¡Si no me concentro en esquivar sus ataques, no tengo nada que hacer! Pero también tengo que atacar...",
+    "Sin conocer todavía cómo se movía el monstruo, ¡{player} empuñó su arma!",
+    "{player}: ¡No sé qué demonios eres, pero vamos allá! ¡Haaaaah!"
+  ],
+  "arkhaia_city.boss8.alive": [
+    "{player}: ¿Lo he... vencido?",
+    "¡!",
+    "¡Sigue vivo!"
+  ],
+  "arkhaia_city.boss8.gaze": [
+    "En ese momento, los ojos del monstruo, hasta entonces feroces, se quedaron mirando a {player}.",
+    "Su mirada era tranquila.",
+    "{player}: ¿Qué pasa? Si tienes algo que decir, dilo. Que te queda poco de vida, ¿eh?"
+  ],
+  "arkhaia_city.boss8.key": [
+    "{player}: ¿Qué pasa?",
+    "El monstruo dejó caer una llavecita al suelo, esperó a ver que {player} la recogía y luego desapareció.",
+    "{player}: ¿Quería decirme que me la llevara?",
+    "Fuera como fuese, {player} guardó la llave con mucho cuidado."
+  ],
+  "arkhaia_city.boss8.backstory": [
+    "Mientras tanto, en la Mansión del Mal...",
+    "Yamijin: No puede ser...",
+    "Es imposible...",
+    "El Megasaurio. Hace más de cien millones de años, fue algo así como un dios entre los dinosaurios: la criatura más feroz y poderosa del mundo entero.",
+    "Y Yamijin descubrió el fósil de aquel Megasaurio.",
+    "Por aquel entonces, Yamijin investigaba cómo recuperar las células y el cuerpo de un dinosaurio a partir de sus fósiles, así que se llevó el fósil enseguida e hizo un experimento tras otro.",
+    "Y al final, el experimento salió bien.",
+    "Al devolverlo a la vida, dejó fuera a propósito su mente y sus recuerdos. Para poder controlarlo a su antojo.",
+    "Desde entonces, el Megasaurio quedó en manos de Yamijin...",
+    "Yamijin le confió al Megasaurio la llave del lugar donde guardaba su información secreta, y moldeó su mente para que jamás se la entregara a nadie más que a él, pasara lo que pasara. Pensaba que, por mucho cuidado que pusiera él mismo, siempre habría fallos. Pero el Megasaurio tenía un poder invencible.",
+    "Yamijin estaba convencidísimo de que el Megasaurio era invencible.",
+    "Además, creó otras cosas que podía fabricar en serie, como el Gran Crucero o el Slime Grande.",
+    "Pero cuando {player} derrotó al Gran Crucero II, la nueva generación del Gran Crucero, Yamijin decidió aplastar a {player} con el Megasaurio.",
+    "Pero {player} hizo desaparecer al Megasaurio.",
+    "{player} hizo desaparecer el fruto de todos sus esfuerzos.",
+    "Y no fue solo eso.",
+    "Mientras luchaba contra {player}, el Megasaurio recuperó su verdadero corazón.",
+    "Y le confió la llave a {player}.",
+    "El plan de Yamijin empezó a desmoronarse.",
+    "Perder la llave fue un golpe demasiado duro para Yamijin.",
+    "Yamijin: Maldita sea. Si las cosas están así, no queda más remedio que aplastarlo yo mismo..."
+  ],
+  "arkhaia_city.boss8.truth_moves": "La verdad de la historia empezó a moverse. Despacio, muy despacio...",
+  "arkhaia_city.punishment_room": "Cuar. To. De. Cas. Ti. Go.",
+  "arkhaia_city.traveller": "Viajero: Hoy descansaremos por aquí. ¿Verdad, Jade?",
+  "arkhaia_city.chest": "Parece una cómoda. Pero no da la impresión de que haya nada dentro que te sirva para la aventura.",
+  "arkhaia_city.vase": "Hay unas flores en un jarrón. ¡Qué bonitas!",
+  "arkhaia_city.table": "Parece la mesa donde comen. Pero no da la impresión de que haya nada encima que te sirva para la aventura.",
+  "arkhaia_city.trophy": "Es un trofeo de algo. Parece que lo ganó un niño en alguna competición. Es impresionante.",
+  "arkhaia_city.figure": [
+    "¿Eh? Aquí hay una figura de Mocoso.",
+    "Niño 1: Ah, eso. Me salió en una máquina de bolas sorpresa, pero la que yo quería era la figura de Diablillo, así que te la puedes llevar. Como recuerdo de tu visita a esta casa.",
+    "{player}: Ah, ¿sí? ¡Gracias mil!"
+  ],
+  "arkhaia_city.person8": "Persona 2: Hoy voy a comer a los Grandes Almacenes Arkhaia. Es que allí los helados están buenísimos, ¿sabe usted?",
+  "arkhaia_city.person9": "Persona 2: No me preguntes por qué venden armas en los Grandes Almacenes Arkhaia. Es un videojuego, ¿vale?",
+  "arkhaia_city.person10": "Persona 3: Ay, ¡qué buen tiempo hace hoy!",
+  "arkhaia_city.person11": "Persona 4: ¿Qué? Le dije que quedábamos aquí y ya lleva media hora de retraso en qué estará pensando ese tío de verdad qué cansino.",
+  "arkhaia_city.security_robot": "Por lo visto, esto es un robot de vigilancia. Si haces algo malo, envía la información a la comisaría. ¡Qué invento tan bueno!",
+  "arkhaia_city.flowerbed.look": "Es un parterre normal y corriente. Por lo visto, aquí también cuidan la naturaleza.",
+  "arkhaia_city.flowerbed.prompt": "¿Hurgar en el parterre?",
+  "arkhaia_city.flowerbed.nothing": "Pero no parece que haya nada fuera de lo normal.",
+  "arkhaia_city.flowerbed.found": "¿Eh? Aquí hay un fruto de sabón. Ya que lo he encontrado, me lo quedo.",
+  "arkhaia_city.person14": "Niño 1: Qué bonitas son esas flores de ahí. A lo mejor corto unas y me las llevo a casa.",
+  "arkhaia_city.person15": "Niño 2: Aaaah... Qué hambre tengo.",
+  "arkhaia_city.person16": "Vecina 1: Hola. Ahora mismo los niños están fuera. Si tienes un rato libre, juega un poco con nuestro gatito.",
+  "arkhaia_city.person17": "Vecino 2: Hoy libro en el trabajo. Casi nunca tengo tiempo para estar tranquilo con mi mujer, así que quiero aprovechar este rato. Ah, y con los niños también.",
+  "arkhaia_city.person18": "Vecina: Pues mira, estoy tomando esta bebida de Súper Sesamina que anunciaban en la teletienda. Dicen que con ella adelgazas y rejuveneces. Es que ya tengo 83 años, ¿sabes? Si no me apoyo en estas cosas, no tiro. Una quiere seguir siendo joven aunque se haga mayor.",
+  "arkhaia_city.person19": "Vecina 1: Mi marido trabaja en Ciudad Cristal.",
+  "arkhaia_city.person21": "Niño 2: A mi hermano mayor le encanta jugar con todo tipo de gente. Por eso le cae bien a todo el mundo. Es lo que se dice un chico simpático, ¿eh?",
+  "arkhaia_city.person22": "Vecino 1: Ay, qué viejos nos hemos hecho. Los hijos se independizaron hace mucho y no te imaginas lo solos que nos hemos quedado. Tan solos estábamos que nos hemos comprado un gato. Si quieres, hazle unos mimos.",
+  "arkhaia_city.person23": "Vecino 2: De joven, me iba con los hijos a recorrer los alrededores de la ciudad y hacíamos de todo. Habremos ido al mar y a la montaña cientos de veces. Vivir experiencias es muy importante, ¿sabes? Ojalá los hijos lleven una vida buena y feliz.",
+  "arkhaia_city.person24": "Vecino 1: Nos casamos hace solo tres días. Quiero vivir feliz con mi preciosa mujer.",
+  "arkhaia_city.person25": "Vecina 2: ¡¡Nos casamos hace tres días!! ¡Mi marido y yo solitos! ¡¡Qué divertido!!",
+  "arkhaia_city.store_fan.intro": "Persona: Aquí están los Grandes Almacenes Arkhaia. En este edificio hay de todo, hasta un salón recreativo y cosas así. Alucinante, ¿eh?",
+  "arkhaia_city.store_fan.gift": [
+    "Por cierto, en los Grandes Almacenes Arkhaia venden cosas bastante chulas. Te voy a regalar una.",
+    "{player}: Ah, muchas gracias.",
+    "Persona: Que conste que esto va a tus objetos de colección. No te confundas, ¿eh?"
+  ],
+  "arkhaia_city.sword.time_back": [
+    "Mercader: ¡Bravo, bravo! Parece que el tiempo ha vuelto a la normalidad. Ahora yo también podré entrar.",
+    "{player}: ¡Qué bien! ¡Pues venga, vamos ya!",
+    "Yo también quiero entrar, así que déjeme pasar, por favor.",
+    "Mercader: Ay, perdona, perdona. Bueno, yo me voy."
+  ],
+  "arkhaia_city.sword.found": "¿Eh? Aquí hay un mercader.",
+  "arkhaia_city.sword.meet": [
+    "Mercader: Hola.",
+    "{player}: Ah, hola.",
+    "Mercader: He venido a Ciudad Arkhaia a vender armas para plantar cara a los monstruos de fuera, pero...",
+    "{player}: ¿Ha pasado algo?",
+    "Mercader: Mira. Parece que de aquí en adelante el tiempo se ha detenido.",
+    "En aquella plaza de allí parece que no se ha parado. Por lo visto, los de allí se pasan el día fuera tomando el sol. ¿No se habrán dado cuenta?"
+  ],
+  "arkhaia_city.sword.frozen": [
+    "{player}: ¿¡Quééé!?",
+    "¡E-e-es verdad...! ¡Están todos congelados y no se mueven...!",
+    "¿P-pero qué está pasando aquí? ¡Dígamelo, por favor!",
+    "Mercader: Lo siento. Yo tampoco lo sé.",
+    "{player}: ¡Lo que sea! Que les han echado un hechizo, o que como no llueve están todos muertos de sed, ¡yo qué sé!",
+    "Mercader: (Me estoy aguantando la risa como puedo.)",
+    "Mercader: Tranquilo. En cualquier caso, está claro que pasa algo raro.",
+    "{player}: Pues voy a entrar ahí. ¡No me detenga, se lo suplico!"
+  ],
+  "arkhaia_city.sword.thrown": [
+    "{player}: ¡Uaaaah!",
+    "Mercader: ¡Ay, qué daño! No me vengas volando encima, hombre.",
+    "¿Eh? Qué raro. La puerta de la ciudad está allí, y has salido despedido hasta aquí. Aquí pasa algo raro.",
+    "Por lo menos habrá cinco metros.",
+    "¿¡Estás bien!?",
+    "{player}: Ay, ay, ay... No estoy bien... Me he dado un buen golpe...",
+    "Mercader: Qué fastidio. Si no puedo entrar en la ciudad, no puedo hacer negocio.",
+    "Ya sé. Te voy a dar los fragmentos de luz que no vendí ayer. Si no puedo entrar en la ciudad, no voy a vender nada de todos modos.",
+    "{player}: ¿Seguro? ¿Me los puedo quedar?",
+    "Mercader: Claro.",
+    "{player}: Muchísimas gracias. Se lo agradezco de verdad."
+  ],
+  "arkhaia_city.sword.shards": [
+    "{player}: Las heridas me duelen bastante, así que voy a usar uno, perdone. De verdad que se lo agradezco mucho.",
+    "Mercader: Ya, no parece que eso se cure comiendo algo."
+  ],
+  "arkhaia_city.sword.offer": [
+    "{player}: ¡Aaah, qué alivio!",
+    "{player}: Muchísimas gracias. Me ha salvado de verdad.",
+    "Mercader: Me alegro.",
+    "Y, cambiando de tema...",
+    "{player}: ¿Qué pasa?",
+    "Mercader: Esto ya no te lo puedo regalar, pero...",
+    "El mercader le dijo esto a {player} mientras le enseñaba una espada larga de brillo plateado.",
+    "Esto es una Espada Larga. Es una versión mejorada de la Espada Corta: igual de fácil de manejar, pero unos dos metros más larga. En resumen, puedes considerarla una Espada Corta alargada.",
+    "Dicen que por esta zona es utilísima.",
+    "{player}: ¿Me vendería esa espada?",
+    "Mercader: Si tienes el dinero, claro. Eso sí, son 4500 yenes."
+  ],
+  "arkhaia_city.sword.offer_no_money": [
+    "{player}: Vaya... No tengo tanto.",
+    "Mercader: Ya veo. Pues cuando hayas ahorrado lo suficiente, háblame y te la vendo.",
+    "{player}: Sí, así lo haré, sin falta."
+  ],
+  "arkhaia_city.sword.offer_buy": [
+    "{player}: Me la quedo.",
+    "Mercader: De acuerdo.",
+    "{player}: Aquí tiene, 4500 yenes."
+  ],
+  "arkhaia_city.sword.offer_bought": [
+    "Mercader: Recibido. Venga, ya es tuya.",
+    "{player}: Muchísimas gracias."
+  ],
+  "arkhaia_city.sword.take_care": "Mercader: Ten cuidado ahí fuera.",
+  "arkhaia_city.sword.buy_prompt": "¿Comprar la Espada Larga?",
+  "arkhaia_city.sword.no_money": "No tienes suficiente dinero.",
+  "arkhaia_city.person1.lines": [
+    "En esta ciudad no puede vivir quien no tenga dinero, ¿sabes? ¡Ohhh, jo, jo, jo, jo, jo, jo!",
+    "Yo vivo en una casa de cuatro plantas, ¿sabes? Te da envidia, ¿a que sí?",
+    "Yo siempre como unos banquetes deliciosos, ¿sabes? ¡Ohhh, jo, jo, jo, jo, jo, jo!",
+    "Soy guapísima, ¿verdad?",
+    "Este vestido es una monada, ¿a que sí?"
+  ],
+  "arkhaia_city.person1.says": "Persona 1: {line}",
+  "arkhaia_city.person2.lines": [
+    "La de al lado va de mona, así que exagera un poco. No dice nada sensato, así que ojo con ella. Lo de que su casa es grande es verdad, pero parece que tiene tres plantas.",
+    "Qué calor, qué calor. Toda esta ciudad es de hormigón, así que hace un calor insoportable. Me quiero ir al campo.",
+    "En esta ciudad hay tiendas de todo tipo, así que date una vuelta. Si vas mal de dinero, puedes ganar bastante cargándote a los que rondan por ahí fuera.",
+    "Últimamente hay muchas más cosas peligrosas ahí fuera. Los mocosos y los dragones antes vivían en las montañas, ¿sabes? Y lo mismo los slimes y todo lo demás. Y los murciélagos antes no atacaban así a la gente. Aquí pasa algo raro.",
+    "En esta ciudad la policía y los vigilantes son bastante estrictos, así que más vale que tengas cuidado. Como saques en la calle un arma de esas que pueden matar a alguien, te detienen."
+  ],
+  "arkhaia_city.person2.says": "Persona 2: {line}",
+  "arkhaia_city.lady.gift": [
+    "Señorita: Oye, tú, el de ahí.",
+    "{player}: ¿Q-qué pasa?",
+    "Señorita: En esta ciudad hace falta bastante dinero. Lo entiendes, ¿no?",
+    "{player}: Sí, eso lo entiendo.",
+    "Señorita: A mí me encanta darle dinero a la gente. ¿Cuánto llevas ahora?",
+    "{player}: Pues unos {money} yenes, más o menos.",
+    "Señorita: Mmm. Entonces te doy esto.",
+    "{player}: ¿Quééé? ¿De verdad puedooo?",
+    "Señorita: ¡Chist! No grites tanto. Que la policía está vigilando.",
+    "{player}: M-m-muchísimas gracias."
+  ],
+  "arkhaia_city.lady.got": "¡Te ha dado nada menos que 1000 yenes!",
+  "arkhaia_city.lady.later": "Señorita: Usa bien el dinero, ¿eh?",
+  "arkhaia_city.police.lines": [
+    "Nosotros velamos por la seguridad de esta gran ciudad. Si haces algo malo, te detendremos y te meteremos en la cárcel, así que mucho cuidado.",
+    "Nosotros siempre vigilamos con mano dura. Si pasa algo, detenemos a quien sea sin piedad. Por los medios que hagan falta.",
+    "Parece que vienes de fuera, pero como hagas algo malo, disparo.",
+    "Nosotros siempre protegemos la seguridad de la ciudad. Deberíais estar agradecidos de que estemos aquí.",
+    "Nosotros nos desvivimos siempre, siempre, por los ciudadanos. Los ciudadanos deberían respetarnos y adorarnos."
+  ],
+  "arkhaia_city.police.says": "Policía: {line}",
+  "arkhaia_city.phantom.police": "Policía: ¿Vaya? Pero si tú eres... Je, je, je, je, je.",
+  "arkhaia_city.phantom.suspicious": "¿No es un poco sospechoso?",
+  "arkhaia_city.phantom.where": [
+    "{player}: ¿Eh? ¿Dónde estoy? ¡Uaaah!",
+    "¿¡Q-q-qué es esooo!?",
+    "¿Qué demonios es eso que se ve allí?"
+  ],
+  "arkhaia_city.phantom.no_way": "N-no puede ser...",
+  "arkhaia_city.phantom.screams": [
+    "Amigo 1: ¡Uaaaah! ¡So... so... corro...!",
+    "Amiga 2: ¡Aaaaaaah!",
+    "Amigo 3: Agh... T-tú... cómo... te atreves..."
+  ],
+  "arkhaia_city.phantom.vision": [
+    "Sí. Lo que vio {player} fueron sus amigos, despedazados por Yamijin y el Gran Crucero.",
+    "Sus amigos escupieron sangre y cayeron de bruces al suelo. Y Yamijin, soltando unas carcajadas espantosas, seguía despedazando los cuerpos destrozados de sus amigos.",
+    "La hoja de la espada se tiñó de rojo intenso y se abalanzaba sobre sus amigos como un ser vivo que devora vidas."
+  ],
+  "arkhaia_city.phantom.despair": [
+    "{player}: N-no puede ser... ¿Por qué? ¿Por qué...?",
+    "Me prometisteis que me esperaríais en casa...",
+    "Por favor. ¡Decidme que es mentira...!",
+    "Pero su deseo no se cumplió."
+  ],
+  "arkhaia_city.phantom.stop": [
+    "{player}: ¡P-para ya! Duele... Qué tristeza... Qué sufrimiento..."
+  ],
+  "arkhaia_city.phantom.gone": [
+    "Nada más decir eso, la visión que {player} había estado viendo se esfumó.",
+    "Y, para su sorpresa, el policía que estaba allí hacía un momento había desaparecido.",
+    "Resulta que aquel policía era una creación de Yamijin.",
+    "{player}: Sea como sea, tengo que averiguar qué ha pasado de verdad. Me vuelvo a casa.",
+    "Y así, {player} decidió volver a su casa."
+  ],
+  "arkhaia_city.child1.lines": [
+    "¿El policía de ahí será un narcisista?",
+    "Qué aburrimientooo.",
+    "¿Por qué esa señora de ahí lleva un vestido de fiesta en plena calle?",
+    "Ay, qué calor. Solo me queda la mitad del agua de la cantimplora.",
+    "¿Y ahora qué hagooo?"
+  ],
+  "arkhaia_city.child1.says": "Niño 1: {line}",
+  "arkhaia_city.girl.lines": [
+    "Puaj, el poli de ahí es supercutre. ¡Qué asco, gordo, esa cara me da un repelús que te mueres, es asquerosísimo!",
+    "¡Aaaaah! ¡Qué aburrimientooo!",
+    "¡Hala, jajaja! ¡Ese poli es un caos, jajaja! ¡Me parto, jajaja! ¡No, mejor dicho, está acabado, jajaja!",
+    "Yo soy fan de la mayonesa a muerte. ¡Me chifla chupar mayonesa directamente del bote!",
+    "Qué calor, ufff, este calor no es normal, jajaja. Ojalá hubiera aire acondicionado en la calle (bla, bla, bla)."
+  ],
+  "arkhaia_city.girl.says": "¿Chica del pelo teñido?: {line}",
+  "arkhaia_city.gate.entrance": "Es la entrada de Ciudad Arkhaia."
+}

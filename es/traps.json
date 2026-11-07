@@ -1,0 +1,19 @@
+{
+  "trap.switch.ask": "Hay un interruptor raro. ¿Quieres pulsarlo?",
+  "trap.switch.monster": "¡Uaaah! ¡Un monstruooo!",
+  "trap.switch.phew": "Uf...",
+  "trap.switch.sword": "¿Anda? Aquí hay una espada fina tirada. Es corta y parece que se puede blandir sin ningún esfuerzo. Es tan manejable que hasta se podría golpear con el lomo sin cortar. Ya que estoy, me la llevo como arma.",
+  "trap.switch.matsutake": "¿Eh? Había una seta matsutake en el suelo. Me la llevo.",
+  "trap.dodge.intro": [
+    "{player}: ¡¿En seriooo?!",
+    "¡Después de un laberinto lleno de puertas, ahora toca esquivar balas! ¡Ayúdame, autor! ¡Total, eres tú el que programa todo esto!",
+    "Autor: Qué pesado eres. Pasa de una vez. Que solo para esquivar balas he escrito kilobyte y medio, ¿eh?",
+    "{player}: ¡Vale, vale! Solo tengo que pasar, ¿no? ¡Jo!"
+  ],
+  "trap.dodge.done": [
+    "{player}: Vaya. Pues tampoco ha sido tan de mazmorra final.",
+    "Autor: Je, je, je, je. Bueno, lo dejaremos estar. Ahora toca otro laberinto, así que ¡suerteee!",
+    "{player}: ¡Eh! ¡Dime por dónde se va!",
+    "Autor: Ji, ji, ji, ji. Es donde está el marcador rojo."
+  ]
+}

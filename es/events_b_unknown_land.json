@@ -1,0 +1,150 @@
+{
+  "unknown_land.rough.intro": "Mercader: ¡Buenas, buenas! Yo vendo objetos de curación como cualquier mercader normal, pero soy un poco distinto. También vendo un arma alucinante llamada Nudilleras, vendo acero que te puede servir de protección y llevo una posada sencillita. Por aquí los enemigos son duros, así que dales una buena paliza con las Nudilleras y, cuando te canses, ven a descansar aquí. ¡Jua, jua, jua, jua!",
+  "unknown_land.rough.menu.title": "¿Qué quieres hacer?",
+  "unknown_land.rough.menu.items": [
+    "Pedirle que me deje descansar",
+    "Comprar acero",
+    "Que me enseñe esas Nudilleras o como se llamen",
+    "Comprar objetos de curación y tal",
+    "Irme a corretear por ahí"
+  ],
+  "unknown_land.rough.farewell": "Vale. Pues nada, ¡mucho ánimo! Un consejo: a los diablillos mecánicos se les tumba bastante bien si les atacas por la espalda.",
+  "unknown_land.rough.shop.intro": "Tengo de todo, así que cómprame algo, ¿eh? Lo vendo baratito.",
+  "unknown_land.rough.shop.items": [
+    "Fragmento de Luz, 900 yenes",
+    "Hierba Vital, 1600 yenes",
+    "Poción, 500 yenes",
+    "Incienso Misterioso, 1000 yenes",
+    "Fragmento Vital, 2500 yenes",
+    "Cristal Vital, 4000 yenes",
+    "Elixir Legendario, 5000 yenes",
+    "Estrella Fresca, 10000 yenes",
+    "Luz entre las Hojas, 1200 yenes",
+    "Superbebida, 600 yenes",
+    "Megabebida Energética, 1300 yenes",
+    "Botella Fresca, 1700 yenes",
+    "1000 Flechas de Hierro, 9500 yenes",
+    "3000 Flechas de Hierro, 35000 yenes",
+    "Pagar",
+    "Dinero"
+  ],
+  "unknown_land.rough.shop.title": "Elige qué quieres comprar.",
+  "unknown_land.rough.shop.thanks": "Mercader: ¡Gracias, chaval!",
+  "unknown_land.rough.knuckle.owned": "Eh, eh, que ya las tienes. No te sirve de nada comprar otras.",
+  "unknown_land.rough.knuckle.pitch": "¡Muy bien! Mira, estas piden bastante Velocidad, pero si la tienes, son un arma bestial. Cada golpe hace más o menos lo mismo que la Espada Larga, pero con mucha Velocidad dejas menos huecos, así que puedes hacer que el enemigo se tambalee y darle una paliza. Si las vas alternando con tus otras armas, serás feliz. Las vendo por 20000 yenes, pero",
+  "unknown_land.rough.knuckle.prompt": "¿Te mueres tanto por tener las Nudilleras que se te cae la baba, y vas a pagarle 20000 yenes al mercader por ellas?",
+  "unknown_land.rough.knuckle.declined": "Vale. Si cambias de idea, vuelve a comprarlas, ¿eh?",
+  "unknown_land.rough.knuckle.no_money": "{player}: ¡Buaaa, no me llega el dinero!",
+  "unknown_land.rough.inn.pitch": "Bueno, por 500 yenes te puedo dejar descansar. Pero ya te aviso: por ese precio, no hay sketch gracioso cuando te quedas a dormir.",
+  "unknown_land.rough.inn.prompt": "¿Estás al límite de tus fuerzas, a punto de morir y sin aliento, y vas a suplicar con toda tu alma que te deje descansar? (¿pero qué?)",
+  "unknown_land.rough.inn.declined": "Vale. ¡Pues vuelve cuando un mocoso te haya dado cien cuchilladas! ¡Jajajá!",
+  "unknown_land.rough.inn.no_money": "{player}: ¡Buaaa, con las ganas que tengo de descansar y no me llega el dinero!",
+  "unknown_land.rough.inn.morning": "Buenos días. ¿Has descansado bien?",
+  "unknown_land.rough.steel.pitch": "Esto tiene 300 de resistencia. Los ataques de los enemigos de por aquí te rebotan sin problema. Pero se rompe, así que cuidadito. Es un juego, ¿vale? No me vengas con que el acero no debería romperse. El precio es de 2000 yenes la plancha.",
+  "unknown_land.rough.steel.prompt": "Es una pena que se rompa, pero ¿vas a comprar por 2000 yenes esta placa pesada, de unos 150 centímetros de alto y de ancho, hecha de una cosa llamada acero que seguro que hace algo curioso si la calientas?",
+  "unknown_land.rough.steel.declined": "Vale. Bueno, es caro y pesa, así que tiene sus inconvenenientes, no, no, sus incovenientes, ay, que se me traba la lengua, sus inconvenientes, eso, eso es.",
+  "unknown_land.rough.steel.no_money": "{player}: ¡Maldita sea! ¡Con lo gracioso que es este mercader, a mí no se me ocurre ni una sola réplica, y encima no me llega el dinero!",
+  "unknown_land.rough.laser.pitch": [
+    "Mmm. Me has comprado las Nudilleras y también el acero. Venga, pues te voy a vender algo especial que normalmente no vendo.",
+    "Esto se llama Escudo Láser. Crea un muro especial de láser que devuelve los ataques del enemigo. Tiene una resistencia increíble. Y además deja muy pocos huecos. Cuesta 10000 yenes. ¡Una ganga!"
+  ],
+  "unknown_land.rough.laser.prompt": "¿¡Qué!? ¿Existe un escudo tan tramposo? ¡Lo quiero, lo quiero! Ay, espera, que eso se lo tengo que preguntar al jugador. ¿Lo quieres?",
+  "unknown_land.rough.laser.declined": "¿¡Quéééé!? ¿¡Que no lo compras!? (firmado: el autor)",
+  "unknown_land.researcher.done": "Vecino: Ve con cuidado.",
+  "unknown_land.researcher.drive": [
+    "Vecino: Yo investigo dispositivos de memoria, como los de los robots.",
+    "Mi objetivo es analizar todo tipo de dispositivos de memoria para poder guardar cada vez más datos.",
+    "De momento he llegado a los 300 terabytes, pero creo que se puede llegar mucho más lejos.",
+    "{player}: Esto... perdone que le interrumpa, pero tengo una cosa que me gustaría que mirara.",
+    "Vecino: ¿Qué es? Me encanta investigar, así que si lo llevas encima, enséñamelo.",
+    "{player}: Sí, es esto.",
+    "Vecino: ¡Pero si esto es...! ¡La Unidad ISO Super Compact Flash que andaba buscando!",
+    "{player}: ¿Ehhh? ¿La quééé?",
+    "Vecino: Es el dispositivo de memoria más potente del mundo. Mide solo unos 3 centímetros, pero gracias a un sistema especial de láser flash puede almacenar nada menos que 512 terabytes de imágenes ISO.",
+    "{player}: A ver, a ver. ¿Que solo puede grabar imágenes ISO? ¿O sea, que para usarlo en un aparato de verdad hay que montarlas cada vez? Qué rollo.",
+    "Vecino: Pues sí.",
+    "En fin, es muy difícil de conseguir. Cuando termine de analizarlo, ¿me lo darías?",
+    "{player}: Eh, vale, sí...",
+    "Vecino: Te lo agradezco mucho. Bueno, voy a analizarlo ahora mismo, espérame un momento."
+  ],
+  "unknown_land.researcher.analyse": [
+    "Vecino: Ahora te va a aparecer un texto, léelo con atención. Debería ser el resultado del análisis."
+  ],
+  "unknown_land.researcher.result": [
+    "L, A. F, O, R, T, A, L, E, Z, A. D, E. Y, O, K, O, T, A, N, K.",
+    "Vecino: ¿La Fortaleza de Yokotank? No entiendo nada.",
+    "{player}: Muchas gracias.",
+    "Vecino: ¿Eh?"
+  ],
+  "unknown_land.researcher.resolve": [
+    "Ya sé cuál es mi destino final.",
+    "Si voy a «la Fortaleza de Yokotank», todo terminará.",
+    "No tengo pruebas. Ninguna prueba.",
+    "Pero tengo que ir.",
+    "Todo para frenar la ambición de Yokotank.",
+    "Y, sobre todo, ¡para volver con mis queridos amigos, que confían en mí!",
+    "{player}: ¡Vamos allááá! ¡Allá voooy!"
+  ],
+  "unknown_land.researcher.panel": [
+    "Vecino: El resto de los datos era el programa de un Panel de Teletransporte.",
+    "{player}: Muchas gracias.",
+    "Vecino: De momento solo he metido el programa del Panel de Teletransporte en un núcleo, pero úsalo.",
+    "{player}: De verdad, muchísimas gracias.",
+    "Vecino: Nada, nada. Es mi forma de agradecerte la memoria."
+  ],
+  "unknown_land.researcher.gaki1": [
+    "{player}: ¿¡Qué pasa!?",
+    "Ultramocoso: ¡Oooora, ora, ora, ora, ora, ora, ora, oraaa!",
+    "Vecino: ¿Y tú quién eres?",
+    "Ultramocoso: ¡Yo soy el tío más guay del mundo, el Ultramocoso! ¡Yijaaa!",
+    "Vecino: Bueno, da igual. ¿A qué has venido?",
+    "Ultramocoso: ¡Cállate! ¡He venido a por tu papeo! ¡Suéltalo ya! ¡Si no, te reviento el ordenata este!",
+    "{player}: Ooooh, qué música más nostálgica. Y cuánto tiempo sin vernos, ¿eh?"
+  ],
+  "unknown_land.researcher.gaki2": [
+    "Ultramocoso: ¡Ah! ¿¡Tú!? ¿¡Todavía sigues por aquí!?",
+    "{player}: Mira quién habla. ¿Por qué sigues haciendo maldades, si ya te gané?",
+    "Ultramocoso: ¡Cállate! ¡Que me ganaras me da igual, yo lo hago porque me divierte! Eres un pesado, ¿y si te borro del mapa de verdad?",
+    "{player}: ¿Ah, sí? ¿Por qué no lo intentas?",
+    "Ultramocoso: ¡Aaah! ¡Lo has dicho! ¡Prepárate! ¡Yijaaa!",
+    "{player}: No se preocupe. Yo me encargo de tumbar a este, seguro.",
+    "Y ya me tienes harto con tu «¡Yijaaa!». ¡Piensa otra frase! ¡Allá vaaa!"
+  ],
+  "unknown_land.researcher.after1": [
+    "{player}: ¡Aaaah! ¡Ahora suena la música del paseo! ¡Bieeen!",
+    "Ultramocoso: ¡T-tú! ¿¡Cómo te has vuelto tan fuerte!?",
+    "{player}: Oye, que yo también lo he pasado mal, ¿eh? Los diablillos mecánicos me han mandado volando a puñetazos, tus secuaces me han hecho trizas, en el monte he pasado un miedo de muerte, un robot raro casi me mata... Supongo que será por haber superado todo eso...",
+    "Ahora te pregunto yo. ¿Cómo es que tú no te has vuelto más fuerte?",
+    "Ultramocoso: ¡Cállate! ¡Que yo también he comido un poco y he hecho pesas! ¡Por eso mi ataque normal ha pasado de 15 de daño a 25!",
+    "{player}: Perdona, me he equivocado. Entonces, ¿por qué has perdido? Si has recorrido el mismo camino que yo, deberías haberte vuelto igual de fuerte, ¿no? Y como te encanta pelear, seguro que has jugado con los diablillos mecánicos hasta hartarte, ¿verdad? Daban 400 puntos de experiencia cada uno, ¿no?",
+    "Ultramocoso: Qué va, esos no parecían divertidos, así que pasé de ellos.",
+    "{player}: ¿Eso no será que te daban miedo?",
+    "Ultramocoso: ¡N-no, qué va!",
+    "{player}: Pues no lo parece.",
+    "Bueno, ¿te puedes ir ya a tu casa? Que el vecino no nos quita ojo.",
+    "Ultramocoso: ¡Mecachiiis! ¡Yo...! ¡Yo...! ¡Bu, bu, buaaaaah!"
+  ],
+  "unknown_land.researcher.after2": [
+    "Se fue corriendo y llorando.",
+    "Vecino: Gracias. Me has salvado.",
+    "{player}: No hay de qué. Ha sido divertido."
+  ],
+  "unknown_land.mountain.exit_facing": "Aquí está la salida del monte. A partir de aquí, los enemigos seguramente serán más fuertes.",
+  "unknown_land.mountain.merchant.warning": "Hombre: En este monte hay sitios que se desmoronan de vez en cuando. Si te acercas, el suelo se hunde, así que ten muchísimo cuidado. Si se hunde, no lo cuentas.",
+  "unknown_land.mountain.merchant.intro": "Además, tengo un pequeño negocio. ¿Quieres comprar algo? Bueno, que quede entre nosotros, pero no estoy ganando nada, así que cómprame algo, porfa.",
+  "unknown_land.mountain.merchant.title": "Elige qué quieres comprar.",
+  "unknown_land.mountain.merchant.items": [
+    "Fragmento de Luz, 1200 yenes",
+    "Poción, 800 yenes",
+    "Hierba Vital, 2000 yenes",
+    "Incienso Misterioso, 1000 yenes",
+    "Marcador Arcoíris, 2500 yenes",
+    "Seta Matsutake, 650 yenes",
+    "100 Flechas de Hierro, 1800 yenes",
+    "300 Flechas de Hierro, 3700 yenes",
+    "Pagar",
+    "Dinero"
+  ],
+  "unknown_land.mountain.merchant.bye": "Ten cuidado.",
+  "unknown_land.mountain.entrance_facing": "Parece que por aquí se puede entrar al monte. Pero ahora mismo el jugador está mirando hacia un lado raro, así que vamos a ponernos bien de cara a la entrada del monte, ¿eh? Para el autor, vigilar este tipo de cosas está chupado."
+}

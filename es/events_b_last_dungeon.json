@@ -1,0 +1,71 @@
+{
+  "last_dungeon.potion.found": "¡Bien! Hay una poción en el suelo.",
+  "last_dungeon.futon.found": "¿Eh? Aquí hay un futón extendido. A lo mejor puedo echarme a descansar.",
+  "last_dungeon.futon.rest_prompt": "¿Quieres echar una siestecita?",
+  "last_dungeon.key.found": "Hay una llave en el suelo. Me la llevo.",
+  "last_dungeon.panel.intro": "Este es el Panel de Teletransporte que lleva a la Fortaleza de Yokotank...",
+  "last_dungeon.panel.menu.title": "Elige qué hacer.",
+  "last_dungeon.panel.menu.items": [
+    "Teletransportarse",
+    "Recoger el panel",
+    "Pensarlo un poco más"
+  ],
+  "last_dungeon.panel.collected": "Has recogido el Panel de Teletransporte...",
+  "last_dungeon.warp.warning": "La próxima vez que vuelvas a esta tierra será cuando todo haya terminado. Además, justo después del teletransporte empezará un combate contra un jefe. Y a partir de aquí ya no hay tiendas de objetos. Te recomendamos que te prepares bien antes de partir hacia tu destino final.",
+  "last_dungeon.warp.prompt": "¿Quieres teletransportarte?",
+  "last_dungeon.warp.confirm": "¿Estás completamente seguro?",
+  "last_dungeon.fort.arrive1": [
+    "{player}: Así que esto es...",
+    "La Fortaleza de Yokotank...",
+    "¿La habrá construido Yokotank? ¿O solo se ha apoderado de algo que ya estaba aquí?",
+    "Da igual. Yo voy a entrar. ¡Voy a abrir la puerta que tengo delante!"
+  ],
+  "last_dungeon.fort.arrive2": [
+    "Alguien: Por fin has llegado, nya.",
+    "{player}: Pues sí. ¿Algún problema?"
+  ],
+  "last_dungeon.fort.yamijin_talk": [
+    "Yamijin: Hay que ver, has sido capaz de derrotar a los Mocosos y a los secuaces del señor Yokotank, nya.",
+    "{player}: ¿Eh? ¿Secuaces? ¿De qué hablas?",
+    "Yamijin: ¿Eh? Ese robot gigantesco era un secuaz del señor Yokotank.",
+    "{player}: Ah, conque era eso... Pues lo he hecho pedazos.",
+    "Yamijin: ¡Qué barbaridad! ¿Tienes idea de cuánto dinero costó construir ese trasto?",
+    "{player}: ¿Y yo qué sé? El caso es que me atacó, así que lo hice pedazos.",
+    "Bueno, no hay tiempo para charlas.",
+    "Yamijin. Este es nuestro último combate: tú contra mí.",
+    "Yamijin: ¡Cuando quieras! ¡Te voy a enseñar mi verdadero poder!"
+  ],
+  "last_dungeon.fort.battle_cry": "{player}: Voy a ganar sí o sí. ¡No te dejaré salirte con la tuya!",
+  "last_dungeon.fort.after_battle": [
+    "{player}: Se acabó...",
+    "Yamijin: Parece que he perdido.",
+    "{player}: Eso parece. Mala suerte.",
+    "Yamijin: Venga, remátame.",
+    "{player}: ¿A quién?",
+    "Yamijin: He perdido el combate. Así que lo justo es que muera. Remátame.",
+    "{player}: ..."
+  ],
+  "last_dungeon.fort.finish_prompt": "¿Quieres rematar a Yamijin?",
+  "last_dungeon.kill.agree": "{player}: Está bien.",
+  "last_dungeon.kill.after": [
+    "Yamijin dejó de moverse...",
+    "{player}: ¡Venga, esta vez va en serio! ¡Allá voooy!"
+  ],
+  "last_dungeon.spare.refuse": [
+    "{player}: Yo... ¡yo no pienso hacer eso!"
+  ],
+  "last_dungeon.spare.speech": [
+    "{player}: No... Yo... yo odio matar... ¡y todavía más matar a alguien cuando no hace ninguna falta!",
+    "¡¿Acaso no nace cada ser vivo con algún sentido para su vida?!",
+    "Puede que no sepamos cuál es ese sentido. Puede que ni siquiera sea bueno.",
+    "¡Pero cualquier vida puede hacer feliz a alguien a quien quiere!",
+    "El sentido de la vida... ¡¿No consiste en confiar en quienes quieres, ayudaros unos a otros y vivir felices?!",
+    "Yamijin: ...",
+    "{player}: Voy a detener a Yokotank. Me da igual lo que opines.",
+    "Y a ti no pienso matarte jamás. ¡Digas lo que digas, aunque intentes quitarte la vida tú mismo!",
+    "En fin, tengo que seguir hacia dentro.",
+    "Espérame aquí. ¡Y ni se te ocurra morirte!",
+    "Dicho esto, {player} le dio la espalda a Yamijin y echó a andar hacia la puerta..."
+  ],
+  "last_dungeon.spare.go": "{player}: ¡Vamos allá! ¡A por todaaas!"
+}

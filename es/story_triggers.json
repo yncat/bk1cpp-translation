@@ -1,0 +1,298 @@
+{
+  "trigger.kuroro.tired": [
+    "{player}: Uf, qué cansado estoyyy.",
+    "Pero qué enorme es este edificio...",
+    "Ya estoy hecho polvo de tanto andar... ¿Cuándo se acabará esto...?"
+  ],
+  "trigger.kuroro.finally": "Alguien: Por fin nos vemos.",
+  "trigger.kuroro.talk": [
+    "{player}: ¡Hala! ¡Ha salido algo!",
+    "Alguien: ¿Cómo que «algo»? ¡Qué falta de respeto!",
+    "{player}: ¡Si ni siquiera dices cómo te llamas, es normal que seas «algo»!",
+    "Alguien: Vaya, es verdad. Perdona.",
+    "¡Mi nombre es Kuroro!",
+    "{player}: ¿Qué? ¿Keroro? ¿Shiroro?",
+    "Kuroro: ¡Que no, que no! ¡Kuroro! ¡Ku! ¡Ro! ¡Ro!",
+    "{player}: Ah. Oye, ¿no había un Kuroro en algún anime?",
+    "Kuroro: ¡Ese era Kururu!",
+    "{player}: Ah, ¿sí? Perdón, perdón.",
+    "¿Y qué haces aquí?",
+    "Kuroro: ¿No es evidente? El señor Yokotank me ha pedido que acabe con todo este jaleo...",
+    "Y encima has derrotado al gran kissenon, que es mi superior...",
+    "{player}: Ah, ya. O sea, que quieres derrotarme.",
+    "Kuroro: ¡Exacto! Por fin lo pillas...",
+    "{player}: Bueno... ¿Por qué no lo intentas?",
+    "Kuroro: No subestimes mi poder. Je, je, je, je, je."
+  ],
+  "trigger.kuroro.attack": "Kuroro: ¡Vamos allá! ¡Allá voy, allá voy, allá voy, allá voy, que me lanzooo!",
+  "trigger.kuroro.won": [
+    "{player}: ¡Bieeen! ¡He ganado, he ganado!",
+    "Kuroro: P-por tan poco...",
+    "{player}: ¿Eh? Todavía está consciente. No quiero que me vuelva a atacar... Pues nada... un poquito, sin llegar a matarlo..."
+  ],
+  "trigger.kuroro.end": "Y así, {player} derrotó de forma magistral a su atacante sorpresa. ¡La historia ya se acerca a su final!",
+  "trigger.kissenon.intro": [
+    "Alguien: Uh, ji, ji, ji, ji. Te estaba esperando.",
+    "{player}: ¿¡Y tú quién eres!?",
+    "Alguien: ¡Mi nombre es kissenon! ¡El señor Yokotank me ha ordenado que te mande al infierno de helio!",
+    "Ah, por cierto, mi comida favorita es el arroz con anguila. ¡Encantadito!",
+    "{player}: Ah, vale.",
+    "kissenon: ¿Quééé? ¿Que no te interesa el arroz con anguila? ¡Pero si está buenísimo! La armonía de sabores que se te extiende por la boca. El arroz, dulce en su punto justo. Todo es lo mejor del mundo. ¿No lo sabías?",
+    "{player}: Es que odio la anguila, así que no me interesa."
+  ],
+  "trigger.kissenon.hurt": [
+    "kissenon: ¡Ay, ay, ay!",
+    "¡Pero bueno! ¡Me has hecho sangre!",
+    "{player}: Bah. Yo, en tu lugar, prefiero una pelea a puñetazos que el infierno de helio. ¿Qué pasa, no te gusta el dolor?",
+    "kissenon: No, no. No me gusta nada el dolor.",
+    "{player}: Con un corazón tan blandengue, nunca me vas a ganar.",
+    "kissenon: Bah, cállate. ¿Ves esto que tengo en la mano? Si lo disparo, te va a pasar algo muy raro.",
+    "{player}: Total, me hará daño y ya está, ¿no? Pues esquivaré todos los disparos.",
+    "kissenon: Si tan seguro estás de que me vas a ganar, ven a por mí.",
+    "{player}: ¡Vale! ¡Te voy a derrotar!"
+  ],
+  "trigger.kissenon.end": "{player}: ¡Aaaah! ¡Ha explotado! Y yo que quería oírle lloriquear por haber perdido... ¡Bueno, qué más da!",
+  "trigger.beams.intro": [
+    "¡Eso es! ¡El monstruo raro que andaba rondando antes! ¡El que dispara rayos raros!",
+    "¡Mecachis! Hay tres juntos. Pero si no los destrozo, no puedo seguir..."
+  ],
+  "trigger.beams.end": "Uf. ¡Venga, sigamos adelante!",
+  "trigger.soldier2.intro": [
+    "Apareció otra vez el soldado de antes.",
+    "Soldado: Eh, tú. Si no quieres palmarla, lárgate de aquí ya. Hasta te voy a enseñar la salida.",
+    "{player}: Pues no.",
+    "Soldado: ¿Eh? Mucho hablar, pero ¿de verdad crees que puedes con el Gran Crucero que voy a crear?",
+    "{player}: Sí."
+  ],
+  "trigger.soldier2.not_weak": [
+    "Soldado: Grrr... Pero te advierto que yo no soy un flojo como el soldado de antes.",
+    "{player}: ¿El soldado de antes? ¿Quién es ese?",
+    "Soldado: ¿Eres tonto o qué? El que sacó al Slime Grande hace un rato.",
+    "{player}: ¿Eh? Pero si tenía la misma pinta, la misma cara y la misma voz que tú."
+  ],
+  "trigger.soldier2.sly": [
+    "Soldado: ...",
+    "{player}: Vaaaya. Así que usted es de esos tramposos que, como se han echado a llorar, se hacen pasar por otro para hacerse los duros. Me ha quedado clarito, clarito."
+  ],
+  "trigger.soldier2.angry": [
+    "Soldado: ¡Serás...! ¡No te burles de mí! Antes es que, esto, verás,"
+  ],
+  "trigger.soldier2.serious": [
+    "¡Eso, que no iba en serio! ¡No estaba dándolo todo!",
+    "{player}: Tengo una preguntaaa.",
+    "Soldado: ¿Qué? A ver, dila.",
+    "{player}: ¿Y por qué se ha quedado pensando un momentitooo?"
+  ],
+  "trigger.soldier2.cry": [
+    "Soldado: Ah, eso es, esto, pues, verás,",
+    "{player}: He dado en el clavo, ¿eh? Lo entiendo.",
+    "Soldado: ¡Buaaaah!",
+    "{player}: Anda, se ha puesto a llorar.",
+    "Soldado: Snif, hip, b-bueno, da igual, ¡t-te voy a d-desafiar! ¡V-ven, hip, ven a por mí!"
+  ],
+  "trigger.soldier2.accept": "{player}: Qué divertido. Vamos allá.",
+  "trigger.soldier2.lost": [
+    "Soldado: ¡He perdidooo!",
+    "{player}: Qué flojito es usted, ¿eh?",
+    "Soldado: ¡Maldita sea! ¡Ahora sí que te voy a hacer carne picada, te voy a cortar en filetes y te voy a tirar a la basura!"
+  ],
+  "trigger.soldier2.wait": [
+    "{player}: Espera un momento.",
+    "Soldado: ¿Qué? ¿Tanto miedo te doy? ¡Ja, ja, ja, ja, ja, jaaa!"
+  ],
+  "trigger.soldier2.mince": [
+    "{player}: ¿¡Y cómo vas a cortar en filetes algo que ya has hecho carne picada!?"
+  ],
+  "trigger.soldier2.megya": [
+    "Soldado: ¡Meeegyaaah!",
+    "{player}: Además, la carne picada normalmente se come, ¿no? Aunque yo no estaría muy rico."
+  ],
+  "trigger.soldier2.fugya": [
+    "Soldado: ¡Fuuugyaaah!",
+    "¡Da igual! ¡Te voy a hacer papilla y picadillo!"
+  ],
+  "trigger.soldier2.lines": [
+    "{player}: Ja, ja, no use palabras tan infantiles, hombre. ¡Pruebe con algo un poco más, no sé, más guay!",
+    "Soldado: Vale.",
+    "¡Eres escoria! ¡Eres un inútil! ¡Siéntete honrado de que sea yo quien te borre del mapa!",
+    "{player}: Mmm, bueno, eso ya vale.",
+    "Soldado: ¡Venga, retuércete! ¡Sufre! ¡Ja, ja, ja, ja, ja, jaaa!"
+  ],
+  "trigger.soldier2.question": [
+    "{player}: Tengo una preguntaaa.",
+    "Soldado: ¡Maldita sea! ¿¡Qué pasa!?",
+    "{player}: Es que no me ha dolido nada. ¿De verdad no tiene más fuerza que estooo?"
+  ],
+  "trigger.soldier2.ugah": [
+    "Soldado: ¡Ugaaah, aaaaah!"
+  ],
+  "trigger.soldier2.end": "{player} dejó tirado al soldado y siguió adelante.",
+  "trigger.dark_room.whoa": [
+    "{player}: ¡Uaaah!",
+    "¿¡Qué está pasando!?"
+  ],
+  "trigger.dark_room.spell": [
+    "Tú, que posees la llave. Si en verdad eres su dueño, pronuncia el conjuro que aparece ante tus ojos...",
+    "{player}: ¿Oh, dueño de la llave, por el derecho que como dueño aquí y ahora ostento, rompe el sello de esa puerta...?"
+  ],
+  "trigger.dark_room.yay": [
+    "{player}: ¡Bieeen!",
+    "¡Resulta que el dueño era yo! ¡Yupi, yupi!",
+    "Y, como siempre, parece que me he teletransportado a algún sitio."
+  ],
+  "trigger.dark_room.documents": [
+    "{player}: ¡Hala!",
+    "Parece que todo esto son documentos de Yamijin.",
+    "Lo siento, pero me los voy a leer todos, sin cortarme. A lo mejor descubro la verdad.",
+    "¡Yamijincito! ¡Perdonaaa!",
+    "Como {player} se ha vuelto un poco majara, adelantamos el tiempo 2 minutos y 28 segundos."
+  ],
+  "trigger.soldier1.intro": [
+    "De repente, aparecieron delante de ti un soldado y un Slime Grande.",
+    "Soldado: Eh, tú. Por orden del señor Yamijin, he venido a matarte.",
+    "{player}: ¿Y?",
+    "Soldado: Pero yo no sé pelear. Lo único que sé hacer es la técnica de invocación que me enseñó el señor Yamijin.",
+    "{player}: O sea, que usted es un cacharro inútil y tontorrón que sabe invocar cosas pero no sabe pelear."
+  ],
+  "trigger.soldier1.rules": [
+    "Soldado: ¡Aaagh, eso no se dice, hombreee!",
+    "{player}: Pero es la verdad.",
+    "Soldado: ¿¡Y quién ha decidido que el que no sabe pelear es un cacharro inútil!? ¿¡En qué año!? ¿¡Dónde!? ¿¡En qué artículo de qué ley!?",
+    "{player}: Lo decidí yo, el 11 de marzo de 2010, a las 12 y 14 minutos y 2 segundos, en el artículo 32651 de las Normas de los Niños Buenos.",
+    "Soldado: ¡Aaagh! ¿¡Y por qué hay tantos artículooos!?",
+    "{player}: Artículo 1. Ningún ser vivo de este mundo podrá atacarme ni hacerme daño."
+  ],
+  "trigger.soldier1.convenient": [
+    "Soldado: Qué conveniente, ¿no?",
+    "{player}: Es que las normas las he puesto yo."
+  ],
+  "trigger.soldier1.enough": [
+    "Soldado: Ay, me rindo, me rindo. Contigo no hay quien pueda.",
+    "Bueno, se acabó el juego. ¡A por él!"
+  ],
+  "trigger.soldier1.won": [
+    "{player}: Bah, si es casi igual que antes.",
+    "Soldado: Buaaah, mamiii."
+  ],
+  "trigger.soldier1.cry": [
+    "{player}: Ay, ¿se ha puesto a llorar? Pedón, pedooón.",
+    "Soldado: Snif... ¡Déjalo ya! ¡Sigue adelante y vete! ¡Adiós!",
+    "{player}: Vale, vale, ya me voy, señor soldado cacharro, tontaina y feúcho.",
+    "Soldado: ¡Buaaah, buaaaaah! ¡Qué dolor! ¡Me duele el corazón muchísimooo!"
+  ],
+  "trigger.soldier1.end": [
+    "El soldado se fue.",
+    "Donde había estado el soldado, había quedado un lago de lágrimas.",
+    "{player}: Qué soldado más raro... Bueno, sigamos."
+  ],
+  "trigger.mech.climbed": [
+    "{player}: ¡Aaaah, qué miedo he pasadooo!",
+    "El suelo no paraba de crujir y me he agobiado un montón, pero parece que he llegado arriba.",
+    "Pero qué vistas, ¿eh? Y el aire es buenísimo. ¡Esto es lo más!"
+  ],
+  "trigger.mech.huge": [
+    "¡Uaaaah!",
+    "¡Q-qué graaaaande!",
+    "¿¡Qué es eso!? ¿¡Qué!?"
+  ],
+  "trigger.mech.weak": [
+    "{player}: Je, je, je, je, je. Esos ataques de pacotilla no me hacen nada.",
+    "Para lo grande que eres, eres bien flojito. Cha... ta... rri... lla."
+  ],
+  "trigger.mech.ouch": [
+    "{player}: ¡Aaaaaaaaah!",
+    "Oye, oye... ¿Pero qué fuerza tiene este bicho raro...?",
+    "¡Eso duele, desgraciado!"
+  ],
+  "trigger.mech.hit": [
+    "¡Toma!",
+    "¡Bien! ¡Le voy a dar sin parar hasta hacerlo pedazos!"
+  ],
+  "trigger.mech.jump": "¡Hala! ¡Eso es trampa! ¡Baja aquí!",
+  "trigger.mech.shot": [
+    "{player}: Maldita sea... Que me disparen tanto ya es pasarse... Qué vergüenza.",
+    "Total, este bicho es fortísimo. Tengo que enfrentarme a él preparado para todo..."
+  ],
+  "trigger.mech.won": [
+    "¡Toma ya!",
+    "Pero todavía no lo he hecho pedazos. No quiero que se vuelva a mover, así que voy a hacer lo mismo que aquella vez."
+  ],
+  "trigger.mech.fun": [
+    "¡Yujuuu! ¡Qué divertido! ¡Divertidísimo!",
+    "¿Eh? Hay algo dentro."
+  ],
+  "trigger.mech.media": [
+    "¿Qué es esto?",
+    "Parece que es el soporte de memoria del robot. A lo mejor tiene datos, así que me lo llevo.",
+    "Pero ¿qué será esto? No es una tarjeta SD, ni una memoria USB, ni un disco magnetoóptico, ni un disquete, ni un disco duro, ni papel, ni un boli, ni una grabadora.",
+    "¡Bah, da igual! ¡Me lo llevo!"
+  ],
+  "trigger.manhole.officer": [
+    "{player}: Ahí está, la alcantarilla.",
+    "Policía: Tiene un dibujo raro. Si no te importa, ¿podrías subirte encima y teletransportarte?",
+    "{player} dudó. Les había prometido a sus amigos que volvería sin falta. Pero quizá ya no pudiera volver. Esa idea lo llenaba de inquietud.",
+    "Pero {player} se armó de valor.",
+    "¡Déjeme ir, por favor!"
+  ],
+  "trigger.ultra_brat.key": [
+    "{player}: Uf.",
+    "Muy bien que me hayan dado una llave, pero ¿de dónde demonios será?",
+    "Grrr. No tengo ni idea.",
+    "Y entonces, {player} se puso a fantasear con cosas raras..."
+  ],
+  "trigger.ultra_brat.daydream": [
+    "{player}: A veeer, el hecho de que ahora mismo yo tenga esta llave significaaa...",
+    "A veeer, se supone que tiene algo que ver con el avance de la historia...",
+    "En este tipo de RPG, nombre oficial «juego de rol de acción con combates», lo típico es que, a partir de alguna pista, se destape la verdad de golpe...",
+    "Bueno, como esto es el mundo de un videojuego, de alguna manera"
+  ],
+  "trigger.ultra_brat.author": [
+    "{player}: ¡Aaaaaaaaah!",
+    "Autor: Vale, vale. No digas esas cosas que no tienen ninguna gracia.",
+    "Querías hacer reír, ¿verdad?",
+    "Seguro que al otro lado de la pantalla están todos poniendo los ojos en blanco.",
+    "{player}: ¡N-no es verdad! Yo solo, esto, verás,"
+  ],
+  "trigger.ultra_brat.next": [
+    "Autor: No tienes nada que decir, ¿eh?",
+    "Uy, uy, uy, uy. Que tengo que lanzar el siguiente evento. ¡Venga, allá vamooos!"
+  ],
+  "trigger.ultra_brat.hey": "Alguien: ¡Eh, tú!",
+  "trigger.ultra_brat.intro": [
+    "{player}: ¡Eh, tú! ¿Te crees que puedes hablarle así a alguien que acabas de conocer? ¡Idiota!",
+    "Alguien: Eso da igual. Parece que les has dado mucho cariño a mis secuaces, ¿eh?",
+    "{player}: ¿Qué? ¿Tus secuaces? ¿Y yo qué sé?",
+    "Alguien: ¿Cómooo? ¡No me vengas con que no lo sabes!",
+    "Pues nada, primero te diré cómo me llamo.",
+    "¡Mi nombre es Ultramocoso!",
+    "{player}: ¿Qué? ¡Deja de hacerte el chulo!",
+    "Ultramocoso: ¡Cállate! ¡Deja de rechistar y palma de una vez! ¡Yijaaa!",
+    "{player}: Vaaaya. Como te han derrotado a los secuaces, estás sacando todo tu jefazismo, ¿eh?",
+    "Ultramocoso: ¡Que te calles, te digo! ¡Desaparece! ¡Desaparece! ¡Esfúmate de una veeez!",
+    "{player}: ¡Serás...! ¡Pues venga, cuando quieras!"
+  ],
+  "trigger.ultra_brat.end": [
+    "{player}: Oye. Te quiero preguntar una cosa.",
+    "Ultramocoso: Ugh, ¿qué?",
+    "{player}: Oye, ¿tú conoces a Yamijin?",
+    "Ultramocoso: Sí, más o menos.",
+    "{player}: ¿Así que eres uno de sus secuaces?",
+    "Ultramocoso: Qué va, yo no.",
+    "{player}: ¿Y entonces de qué lo conoces?",
+    "Ultramocoso: Yamijin me pidió que le echara una mano con una cosa, pero le dije que no.",
+    "{player}: ¿Y sabes algo de la llave que tenía Yamijin?",
+    "Ultramocoso: Ah, ¿te refieres a la Llave de la Sala Oscura?",
+    "{player}: ¿La qué?",
+    "Ultramocoso: Sácala y enséñamela. Tranquilo, palabra de hombre. He perdido el combate, así que no me voy a revolver contra ti.",
+    "{player}: Vale.",
+    "Toma.",
+    "Ultramocoso: Sí. No hay duda. Es la Llave de la Sala Oscura.",
+    "{player}: ¿Ah, sí? ¿Sabes algo de ella?",
+    "Ultramocoso: Por lo visto, es la llave con la contraseña del ordenador donde están los archivos secretos de Yamijin.",
+    "{player}: ¿Y dónde está ese ordenata?",
+    "Ultramocoso: Ni idea. Si no te conviertes en el dueño de la llave, no te dice dónde está.",
+    "{player}: Ya veo. Qué pena.",
+    "Me has ayudado mucho, gracias.",
+    "Ultramocoso: Sí. Ten cuidado por ahí. Vete a saber qué trama ese Yamijin."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "mansion.boss7.yamijin": [
+    "¡Kiiijijijijiii!",
+    "{player}: ¡Por fin das la cara!",
+    "Yamijin: Espera un momento. ¿Lo que tú buscas no son tus amigos, en vez de a mí, nya?",
+    "{player}: ¡Cállate! ¡Si fuiste tú quien se los llevó, desgraciado!",
+    "Yamijin: Sí, en eso no te equivocas."
+  ],
+  "mansion.boss7.rage": [
+    "{player}: ¡Desgraciadooo!",
+    "No te lo perdono. ¡A ti sí que no te lo perdono nunca! ¡Cómo te atreves a hacer esto, desgraciado! ¡Te voy a mandar al infierno de un porrazo ahora mismooo!",
+    "Yamijin: Venga, venga, que si yo no estoy, todo se vuelve más peligroso. Bueno, pues ¡adióóós, nya! ¡Kiiijijijijiii, jijijiii!"
+  ],
+  "mansion.boss7.escaped": [
+    "{player}: ¡Eh, espera! ¡Maldita seaaa, se me ha vuelto a escapar!"
+  ],
+  "mansion.boss7.companions": [
+    "{player}: ¡Ah!",
+    "Sin pensárselo dos veces, {player} salió corriendo hacia sus amigos. Y no se dio cuenta de que les pasaba algo raro.",
+    "Amigo 3: ¿Eh?",
+    "{player}: ¡He venido a rescataros! ¡Cuánto os he echado de menos!",
+    "Pero las palabras que le soltaron sus amigos fueron más que suficientes para romperle el corazón a {player}."
+  ],
+  "mansion.boss7.strangers": [
+    "Amigo 1: ¿Quién será este?",
+    "Amiga 2: Y yo qué sé. Ni idea.",
+    "Amigo 3: Yo tampoco he visto nunca a un bicho raro como este.",
+    "Amiga 2: Oye, ¿y si este es el monstruo del que hablaba el señor Yamijin?"
+  ],
+  "mansion.boss7.forgotten": [
+    "{player}: No... no puede ser... ¿No os acordáis de mí?",
+    "Amigo 3: ¿Eh? ¿Acordarnos? Si es que no sé ni quién eres.",
+    "Amiga 2: Eso. ¿Nos hemos visto en algún sitio?",
+    "Amigo 1: Mmm. O sea, que es un monstruo, ¿no?",
+    "{player}: Un momento. ¡¿Lo decís en serio?!",
+    "Amiga 2: ¿En serio? ¿Tú eres tonto o qué?",
+    "Amigo 3: En fin, que no te conocemos de nada. ¡Que nosotros somos los fieles siervos del señor Yamijin!"
+  ],
+  "mansion.boss7.attack": [
+    "No puede ser...",
+    "Amigo 1: Bueno, venga. Vamos a machacar a este cuanto antes. A lo mejor el señor Yamijin nos felicita.",
+    "Amigo 3: Hecho. Vamos a divertirnos un rato con él.",
+    "Amiga 2: Sí. A mí estas cosas me gustan bastante. Jijijiji."
+  ],
+  "mansion.boss7.cannot": [
+    "{player}: ¡Ugh!",
+    "No puedo... no puedo... no puedo atacar a mis amigos...",
+    "Aunque le estaban dando una paliza, {player} no era capaz de atacar a sus amigos. Y, mientras tanto, los que antes eran sus amigos, manejados como marionetas, seguían haciéndole daño a su querido amigo.",
+    "Con cada herida nueva en el cuerpo, {player} sentía cómo se le abría una herida más grande en el corazón.",
+    "Entre la desesperación, el dolor y la tristeza, {player} solo podía pensar en sus amigos y seguir sufriendo."
+  ],
+  "mansion.boss7.shadow": [
+    "Rodeado por sus amigos, {player} vio una enorme sombra.",
+    "Era una sombra que le resultaba familiar.",
+    "Sí, ¿no era el Gran Crucero?",
+    "Aquello era, sin duda, el Gran Crucero.",
+    "Tenía el mismo tamaño y la misma forma que antes, pero a {player} no se le escaparon los cables finos que llevaba enganchados.",
+    "Aguantando el dolor, {player} dio un gran salto y, en pleno aire, usó el Fragmento de Luz que le había dado el mercader. ¡Resulta que lo tenía escondido en otro sitio, fuera de la bolsa de siempre!"
+  ],
+  "mansion.boss7.throw": [
+    "{player}: ¡Haaa!",
+    "{player} volvió a agarrar bien la Espada Larga y la lanzó con todas sus fuerzas contra uno de los cables que salían del Gran Crucero."
+  ],
+  "mansion.boss7.cut": [
+    "Y la Espada Larga dio de lleno en uno de los tres cables y lo cortó de un tajo limpio."
+  ],
+  "mansion.boss7.siren": [
+    "Al instante, una sirena espantosa empezó a sonar en el Gran Crucero, y la conexión se perdió."
+  ],
+  "mansion.boss7.you": [
+    "Amigo 3: ¡Tú... tú eres...!"
+  ],
+  "mansion.boss7.awake": [
+    "{player}: ¡Bien! ¡Me has reconocido!",
+    "Amigo 3: Lo siento muchísimo. Yamijin nos atrapó y esta cosa nos estaba controlando. Qué idiota he sido.",
+    "Y los otros dos siguen descontrolados.",
+    "{player}: Sí. Tengo que cortar los otros dos cables.",
+    "Amigo 3: Ya. Pero ahora el Gran Crucero se ha dado cuenta, así que creo que será más rápido cargárselo entero.",
+    "Yo intentaré frenar a esos dos como pueda. Tú destruye el Gran Crucero.",
+    "{player}: Entendido.",
+    "Amigo 3: Seguro que este Gran Crucero tiene funciones nuevas. Ten cuidado."
+  ],
+  "mansion.boss7.collapsed": [
+    "El Gran Crucero se vino abajo.",
+    "Y entonces..."
+  ],
+  "mansion.boss7.hold_on": [
+    "¡{player}! ¡Aguanta!",
+    "Allí estaban sus tres amigos, otra vez como siempre, mirando a {player}.",
+    "{player}: ¡Chicos...!"
+  ],
+  "mansion.boss7.thanks": [
+    "{player}: Gracias... chicos.",
+    "Amiga 2: Lo siento mucho. Nos estaban controlando y te hicimos todo esto",
+    "Amigo 1: De verdad que lo siento. La culpa es nuestra, ¿verdad?",
+    "Amigo 3: Sí, del todo. Si hubiéramos sido más fuertes",
+    "{player}: No, no es eso.",
+    "Los amigos: ¿Eh?",
+    "El culpable es Yamijin.",
+    "Voy a derrotar a Yamijin, seguro. Para que esto no vuelva a pasar nunca, pero nunca jamás.",
+    "Amigo 3: {player}...",
+    "{player}: Venga. Volvamos a casa. Además, hay un Panel de Teletransporte.",
+    "Amiga 2: Sí. Volvamos."
+  ]
+}

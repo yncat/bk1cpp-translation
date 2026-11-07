@@ -1,0 +1,316 @@
+{
+  "ending.final.arrive": [
+    "{player}: Así que esto es...",
+    "lo más profundo de la Fortaleza de Yokotank...",
+    "¿Qué demonios habrá aquí dentro?",
+    "¿Quién habrá aquí?"
+  ],
+  "ending.final.welcome": [
+    "Alguien: Bienvenido a mi fortaleza.",
+    "Me llamo Yokotank.",
+    "{player}: ¡¿Pero tú qué te has creído?! ¡Le has robado la comida a todo el mundo! ¡Y encima ha muerto un montón de gente! ¡Gente inocente!",
+    "Yokotank: Acabamos de conocernos, ¿y ya empiezas así? Bueno, está bien. De todas formas, eso no va conmigo.",
+    "{player}: ¡¿Cómo que no va contigo?! ¡Eres un asesino! ¡Y eso que eres humano!"
+  ],
+  "ending.final.human": "Yokotank: Yo también fui humano hace tiempo...",
+  "ending.final.backstory": [
+    "Yo era un humano normal y corriente. Una persona.",
+    "Pasaba los días con todo el mundo y tenía amigos.",
+    "Pero había una sola cosa en la que era distinto a los demás.",
+    "Un día, empecé a sufrir un trastorno por atracón.",
+    "Quiero comer... Quiero comer... Estuviera donde estuviera, hiciera lo que hiciera, una voz me repetía: quiero comer, quiero comer.",
+    "Aunque no tuviera hambre, no podía parar de comer... Y fui engordando cada vez más.",
+    "Mis amigos empezaron a odiarme, no me llegaba el dinero para comida y, aunque quería devolver lo que había pedido prestado para comer, no encontraba trabajo.",
+    "Quería morirme.",
+    "Entonces se me ocurrió: ¿y si investigaba una cura para mi trastorno?",
+    "Antes de enfermar estudiaba ciencias en la universidad, así que sabía bastante, y como sacaba muy buenas notas, era capaz de fabricarme un robot yo solo.",
+    "Así que pensé en examinar uno a uno los genes y las células de mi cuerpo, y en controlar las señales que llegan al cerebro para curar el trastorno de forma artificial.",
+    "Durante años seguí investigando sin preocuparme por el dinero.",
+    "Y, por fin, lo terminé.",
+    "Loco de alegría, me dispuse a curarme.",
+    "Pero el robot tenía un solo parámetro que estaba incompleto.",
+    "El robot, con aquel programa incompleto, reescribió las partes equivocadas de mis genes y borró, deformó y modificó células que no tenían nada que ver. El trastorno no se curó, y mi cuerpo acabó convertido en el de un monstruo.",
+    "Con este aspecto, fuera adonde fuera, nadie me daba nada.",
+    "En los restaurantes me echaban, los niños me pegaban y pasaba los días solo en casa.",
+    "Y entonces pensé: la gente que me quita la comida sobra en este mundo.",
+    "Y que la comida debería existir solo para mí."
+  ],
+  "ending.final.reply": [
+    "{player}: Así que tú también lo has pasado mal.",
+    "Pero tu forma de pensar está mal.",
+    "¡Lo que eres es un egoísta y punto!"
+  ],
+  "ending.final.erase": [
+    "Así que yo mismo voy a corregir tu error.",
+    "Yokotank: Yo nunca cambio lo que he decidido ni lo que he pensado. Digas lo que digas, toda la comida será solo para mí.",
+    "Y a cualquiera que se interponga en mi plan...",
+    "¡¡Lo eliminaré!!"
+  ],
+  "ending.final.true_power": [
+    "Yokotank: Vaya, eres duro de pelar. Parece que ha llegado la hora de mostrar mi verdadero poder.",
+    "Ahora mismo voy a machacarte por completo."
+  ],
+  "ending.final.time_bomb": [
+    "Yokotank: ¿Sabes lo que acabo de hacer?",
+    "Exacto, he puesto una bomba de relojería. Le he dado bastante tiempo, pero si no acabamos con esto pronto, saltaremos los dos por los aires. Si hay que morir, muramos juntos, ¿no te parece?"
+  ],
+  "ending.final.machine": [
+    "{player}: ¡Maldito seaaas!",
+    "Yokotank: ¡Y ya puestos! También he fabricado una máquina muy divertida que te persigue y te acribilla a balazos. ¿A que mola? ¡Hoy es su estreno!",
+    "{player}: ¡Desgraciado! ¡Deja de fabricar tantas chorradas! ¡¿Por qué no te haces un robot que te quite el hambre?! ¡¿Eh?!",
+    "Yokotank: Je, je, je, je, je. Bueno, antes de que explote la bomba, seguramente ya te habré comido, bien sabrosito. Y como trato especial, te comeré crudo.",
+    "{player}: Ni loco dejo que me comas. ¡Ni loco me muero!",
+    "Yo... ¡voy a volver con mis amigos!"
+  ],
+  "ending.final.last_fight": [
+    "{player}: Acabemos con esto. Yo... ¡ya no quiero luchar más!",
+    "Yokotank: Muy bien. Este es mi último intento desesperado, ¡y tú serás mi último bocado!"
+  ],
+  "credits.title": "Créditos",
+  "credits.lines": [
+    "Idea y creación: Nyanchan",
+    "Efectos de sonido y música: Morokuma, Yokota, Nyanchan, ayakong, Kubotchi y varias colecciones de sonidos",
+    "Voces de los personajes: Yokota, Nyanchan, Shinji Sakiyama, Un-chan y varias colecciones de voces",
+    "Ideas, consejos y peticiones: Morokuma, Shinji Sakiyama, Un-chan y Rain",
+    "Probadores del juego: Nyanchan, Morokuma, Rain, Shinji Sakiyama y mm",
+    "Agradecimientos especiales: Morokuma, Yokota, Un-chan, Shinji Sakiyama, Rain y MM",
+    "Canción principal: «Nuestra gran aventura». Música de Morokuma"
+  ],
+  "credits.the_end": "Nuestra gran aventura: Ambición en la oscuridad\n\n    fin",
+  "ending.stop_bomb": [
+    "{player}: Todavía no. Esto aún no ha terminado.",
+    "Voy a parar la bomba. ¡No quiero morir!",
+    "Yokotank: ...",
+    "{player}: Mmm, ¿por dónde y cómo se supone que hay que cortar? No tengo ni idea.",
+    "Para... para... ¡¡para ya, por favor!!",
+    "Yokotank: ¡Espera! ¡Si cortas el que no es, explotará!"
+  ],
+  "ending.bad.flee": [
+    "{player}: ¡N-n-n-no puede seeer!",
+    "Yokotank: ¡Cálmate! ¡¿Qué vas a hacer si no te calmas?!",
+    "{player}: ...",
+    "Yokotank: Tú huye. Yo me quedo aquí.",
+    "Todo lo que he hecho es imperdonable. Luchando contra ti, por fin lo he entendido. No sé por qué, pero también me has hecho ver que odiar a los humanos no lleva a ninguna parte.",
+    "Todo es culpa mía. ¡Por eso voy a desaparecer aquí mismo!",
+    "Vamos, no hay tiempo. ¡Rápido!",
+    "{player}: ...Gracias. Ha sido divertido. No te olvidaré mientras viva."
+  ],
+  "ending.bad.alone": "{player}: Yo...",
+  "ending.bad.remorse": [
+    "He matado a muchísima gente inocente.",
+    "Yokotank... Yamijin... los Mocosos... ¿De verdad tenía que matarlos?",
+    "¿Para qué he ido matando a tanta gente?",
+    "Antes de que estallara la bomba, ¿por qué elegí huir yo solo?",
+    "¡Yo... yo...!",
+    "Claro. Yokotank y los demás me están llamando. Puede que yo también deba volver... con Yokotank y con Yamijin..."
+  ],
+  "ending.bad.never_returned": "Después de aquello, {player} nunca volvió con sus amigos. Nadie sabe qué fue de {player}...",
+  "ending.good.refuse": [
+    "{player}: ¡N-n-n-no puede seeer!",
+    "Yokotank: ¡Cálmate! ¡¿Qué vas a hacer si no te calmas?!",
+    "{player}: ...",
+    "Yokotank: Tú huye. Yo me quedo aquí.",
+    "Todo lo que he hecho es imperdonable. Luchando contra ti, por fin lo he entendido. No sé por qué, pero también me has hecho ver que odiar a los humanos no lleva a ninguna parte.",
+    "Todo es culpa mía. ¡Por eso voy a desaparecer aquí mismo!",
+    "Vamos, no hay tiempo. ¡Rápido!",
+    "{player}: ¡No! ¡No pienso irme!",
+    "¡Cuando salga de aquí, saldré contigo! ¡Si no, moriré aquí mismo!",
+    "Yokotank: ...¿Qué?",
+    "{player}: Vale, puede que lo que has hecho estuviera mal.",
+    "Pero yo también he quitado un montón de vidas para derrotarte.",
+    "Soy un asesino de los pies a la cabeza. ¡¿Cómo va un asesino a abandonar a otro asesino?!",
+    "Yokotank: ...Gracias. Si aún llegamos a tiempo, salgamos juntos.",
+    "{player}: ¡Maldita sea! ¡Parece que no vamos a llegar! ¡La puerta está ardiendo!",
+    "Yokotank: Maldición... ¿Este es el final...?"
+  ],
+  "ending.good.cruiser": [
+    "Yokotank: ¡¿Qué es eso?!",
+    "{player}: ¡Es un Gran Crucero! ¡Y de los grandes!",
+    "Yokotank: ¿No los habías destruido todos?",
+    "{player}: ¡Eso creía yo! ¡Da igual, sube! ¡Con eso saldremos de aquí a toda pastilla!"
+  ],
+  "ending.good.yamijin": [
+    "¡Eh! ¡El que va ahí subido es...!",
+    "Yokotank: ¡Yamijin!",
+    "Yamijin: ¡Kiiii, ji, ji, ji, ji, jiiii! ¡Vámonos rápido, nyaaan! ¡No quiero morir, nyaaan! ¡Como {player} no me mató, ahora sé lo valiosa que es la vida, tanto que hasta duele! ¡Vamos a salvarnos todos! ¡Kiiii, ji, ji, ji, ji, jiiii! ¡Kurirí, kuriiii!"
+  ],
+  "ending.good.saved": [
+    "{player}: ¿Nos hemos salvado...?",
+    "Yokotank: ¡Parece que sí!",
+    "Yamijin: ¡Lo conseguimos, nya! ¡Soy un genio! ¡Kiiii, ji, ji, ji, ji, jiiii! ¡Kurirí, kuriii!",
+    "{player}: Gracias, Yamijin.",
+    "Yamijin: Bueno... ¡es lo que se llama devolver un favor!",
+    "Yokotank: ¡Callaos! A vosotros os parecerá bien, pero ¡¿por qué me he salvado yo?!",
+    "Vosotros tenéis talento, pero yo tengo esta pinta. ¡¿Cómo se supone que voy a vivir a partir de ahora?!",
+    "{player}: ¿Eh? ¿Por qué lo dices?",
+    "Pues vente a vivir a mi casa y ya está.",
+    "Y de paso, que venga Yamijin también.",
+    "Ya no vais a volveros contra mí, ¿no? ¡Además, ya ha quedado demostrado que soy más fuerte que vosotros!",
+    "Yokotank y Yamijin: ¡Muchísimas gracias, amo! ¡Se lo agradecemos de corazón! ¡Le seguiremos toda la vida! ¡Le protegeremos con todas nuestras fuerzas, amo!",
+    "{player}: Eh, eh. Dejad ya lo de «amo», que agobia. ¡Ja, ja, ja, ja, ja, ja!",
+    "Venga. Volvamos. ¡¡A nuestra casa!!"
+  ],
+  "ending.good.home": [
+    "{player}: ¡Chicooos!",
+    "¡Ya estoy en casaaa!",
+    "Amigo 3: ¡Eh! ¡Ha vuelto el héroe!",
+    "Amigo 1: ¡Menos maaal, ha vueltooo!",
+    "Amiga 2: ¡Bienvenido a casa!",
+    "{player}: Venga ya. En vez de tanto «héroe» y tanto «te estábamos esperando», ¡me haría más ilusión que me dijerais «bienvenido a casa»!",
+    "Amigo 3: ¡Calla! ¡Es que no cabemos en nosotros de alegría! ¡Entra de una vez!",
+    "{player}: Esperad un momento, que traigo invitados.",
+    "Yokotank y Yamijin: Buenas tardes. Somos Yokotank y Yamijin, y a partir de hoy tendremos el honor de vivir aquí. Esperamos que nos acojan con cariño."
+  ],
+  "ending.good.guests": [
+    "Amigo 3: ¡¿Pero qué dices?!",
+    "Amiga 2: ¡Eso! ¡Que son enemigos! ¡E-ne-mi-gos!",
+    "{player}: Tranquilos, tranquilos. Los he vencido yo, así que si intentan algo raro, ¡les doy una paliza!",
+    "Amigo 1: Oye, ¿y eso que tienes al lado?",
+    "{player}: Ah, ¿esto? Por lo visto se llama Yokotank.",
+    "Yokotank: ¡Oye! ¡No me trates como si fuera un trasto!",
+    "{player}: ¿Eh? Ah, perdona, perdona.",
+    "Yokotank: Bueno, da igual.",
+    "Amigo 1: Bueno, da igual.",
+    "Amiga 2: Bueno, da igual.",
+    "{player}: ¿Qué sois, loros? No paráis de repetir lo que dice.",
+    "Amigo 3: Bueno, da igual.",
+    "{player}: ¡Eh, eh, no os subáis todos al carro!",
+    "Yamijin: Yo no me he subido a ningún carro, ¿eh?",
+    "{player}: Bueno... da igual.",
+    "Amigos 1, 2 y 3: ¡Ja, ja, ja, ja, ja, ja, ja, ja, ja!",
+    "En fin, parece que estos dos... ¿bichos?, ¿personas?, se van a quedar a vivir en esta casa.",
+    "Amigo 3: Bueno, pasad."
+  ],
+  "ending.good.charm": [
+    "{player}: Oye, acabo de oír un ruido raro.",
+    "Amigo 1: Alguien ha caído rendido de amor. ¿Quién será?",
+    "{player}: Ah... Ya... Yamijin está...",
+    "Amiga 2: ¿Qué? ¿En serio? ¿Es broma? Mi chico ideal es"
+  ],
+  "ending.good.charm2": [
+    "¡y nadie más!",
+    "Amigo 3: ¿Eh? Con un pitido en medio no hay quien sepa quién es."
+  ],
+  "ending.good.heart": [
+    "{player}: ¡Anda! Creo que el corazón de Yamijin se acaba de resquebrajar un poco.",
+    "Yamijin: ...",
+    "Amiga 2: ¿Eh? ¿Y qué más da si se rompe? No es mi tipo, la verdad."
+  ],
+  "ending.good.heart2": [
+    "{player}: Esta vez, 2 puntos de daño.",
+    "Amiga 2: Además, después de tener a todo el mundo bajo tu control, ¿vas y te enamoras? ¿Tú estás bien de la cabeza? Puedes quedarte en casa, pero nada de cosas raras. Y deja ya de hablar como un gato, hombre. ¡Qué cosas!"
+  ],
+  "ending.good.heart_broken": [
+    "Amigo 1: Vaya, vaya...",
+    "{player}: ¡El corazón de Yamijin se ha hecho añicos! ¡¡Game over!!",
+    "Amigo 3: ¡Venga, hoy toca fiesta, fiesta! Ya nos contaréis lo que ha pasado más tarde. ¡A pasarlo bien!",
+    "Después, todos lo pasaron en grande..."
+  ],
+  "ending.good.epilogue": [
+    "{player}: Seguro que así está bien, ¿verdad?",
+    "Lo que hice... no estuvo mal, ¿verdad?",
+    "Amigo 3: Claro que no. Salvaste el mundo de una ambición muy rara.",
+    "Amiga 2: Has salvado a muchísima gente.",
+    "{player}: Pero he quitado muchas vidas.",
+    "Creo que toda vida tiene un sentido.",
+    "Por eso no se pueden ir borrando vidas porque sí.",
+    "Creo que eso vale para cualquier vida, sea cual sea.",
+    "La muerte tiene su orden.",
+    "Pero los asesinatos y los suicidios hacen descarrilar ese orden.",
+    "Y, en vez de llevar la vida de alguien a la estación de la «felicidad», la llevan a estaciones como la «tristeza», la «rabia» o la «soledad».",
+    "En esta aventura he aprendido muchas cosas.",
+    "A partir de ahora, pasémoslo bien todos juntos para que nunca vuelva a pasar algo así.",
+    "Amigo 1: Sí. A partir de ahora volveremos a tener una vida divertida, ¿verdad?",
+    "Amiga 2: ¡Y encima tenemos nuevos amigos! ¡Vamos a disfrutarlo!",
+    "Amigo 3: Todo eso está muy bien, pero...",
+    "¿cómo vamos a pagar tanta comida?",
+    "Amigos 1, 2, 3 y {player}: ¡¡Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja!!",
+    "Las risas de los cuatro resonaron por toda la casa para siempre jamás..."
+  ],
+  "omake3.intro": [
+    "¡En... ho... ra... bue... naaa!",
+    "Has superado el modo sin futuro, y encima te lo has vuelto a pasar. No hay nada que me haga más feliz.",
+    "Así que hoy hay aquí 12 cofres del tesoro.",
+    "Cada uno guarda algún documento, algún truco secreto, ese tipo de cosas.",
+    "Venga, abre el cofre que quieras. ¡No te cortes!"
+  ],
+  "omake3.boxes": [
+    "E",
+    "N",
+    "H",
+    "O",
+    "R",
+    "A",
+    "B",
+    "U",
+    "E",
+    "N",
+    "A",
+    "Signo de exclamación"
+  ],
+  "omake3.choose": "¿Qué cofre vas a abrir?",
+  "omake3.docs": [
+    "Nuestra gran aventura: comando oculto 2\nCon este comando oculto puedes hacer auténticas barbaridades.\nO, mejor dicho, puedes alzarte en la cima del mundo de «Nuestra gran aventura».\nEso sí, comprenderás que un autor con tan mala uva como yo jamás de los jamases te lo diría así, sin más.\nAbajo tienes un mensaje cifrado.\nQuien lo descifre podrá proclamarse rey de «Nuestra gran aventura».\no y / y o s / r o t u a /\nl e / , r o t u a / l e d /\na b e u r p / o d o m\n\nUna vez introducido, podrás usar los siguientes controles.\nTen en cuenta que el autor no se hace responsable de nada de lo que pase por usar esto.\nQué pasa exactamente, lo descubrirás cuando lo pruebes.\nLa tecla Escape, Mayúsculas más Tabulador y la tecla F2.\nSolo son estas tres, pero tú, que has descifrado el mensaje, seguro que enseguida verás las cosas tan terribles que pueden provocar.\nPorque, al descifrarlo, te convertirás en un ser más malvado que Yokotank y conseguirás la libertad...",
+    "Nuestra gran aventura: comando oculto 1\nUso de la Espada Destructora.\nCon este comando oculto podrás hacer trizas a los enemigos con la Espada Destructora, siempre.\nSi mantienes pulsado Intro mientras blandes la Espada Destructora, mandarás al enemigo volando con todas tus fuerzas y, encima, se quedará sin poder moverse.\nDespués, vas alternando poco a poco y le das un ¡TOMAAAA!\nPor cierto, cuenta la leyenda que en el modo sin futuro no funciona.\n\n",
+    "Tanto si entras por el lado de Pueblo Llama como por el de la Tierra Desconocida,\nlas direcciones y el número de pasos se cuentan desde el punto en el que chocas de espaldas con la entrada y suena un «¡pum!», así que, nada más entrar en el Monte Llama, retrocede hasta que oigas el «¡pum!».\nSi entras desde la Tierra Desconocida, lee de la última línea hacia arriba e interpreta la U como D y la L como R, y al revés.\nSi sigues esta ruta, no darás ni un paso en falso y podrás cruzar la montaña en los dos sentidos.\n La u significa pulsar la flecha arriba (up); la d, la flecha abajo (down); la l, la flecha izquierda (left), y la r, la flecha derecha (right).\nAdemás, usando un arma puedes buscar el suelo que se desmorona.\nY con el Tirachinas puedes reparar el suelo desmoronado.\nPara ello, mantén pulsado Control.\n--------------------\nLado de Pueblo Llama\nu4\nl1\nu10\nl2\nu9\nl1\nu8\nl1\nu3\nl1\nu2\nAquí está el Robot de la Muerte. La primera vez que pases por aquí, te espera un combate contra él. A partir de la segunda, puedes pasar de largo.\nu5\nr14\nd1\nr2\nd1\nr1\nd2\nr5\nd1\nr3\nd1\nl1\nd30\nl2\nd2\nr4\nd2\nl1\nd1\nl2\nLado de la Tierra Desconocida\nAl salir de la montaña, básicamente hay una zona cuadrada vacía.\nLa entrada al Monte Llama está encima de 157,311.\nEn la esquina inferior derecha, en 170,301, está la entrada a una casa, mirando hacia abajo.\nEntra y habla con la persona que está en 167,297: descubrirás tu destino final, conseguirás el Panel de Teletransporte que te lleva hasta allí y luego tendrás un combate contra el Ultramocoso, el último minijefe entre tu casa y aquí.\nEn 170,311 hay un mercader que vende las Nudilleras, la última de las armas nuevas.\nDespués de comprarle las Nudilleras, cada vez que compres Acero te preguntará si quieres comprar un Escudo Láser.\nAdemás, este mercader también hace de posada.\n",
+    "Nuestra gran aventura: la verdad sobre la última mazmorra\nLa última mazmorra empieza directamente con un combate contra Yamijin.\nJusto después del combate contra Yamijin, estás cerca de 174,304.\nSi, al terminar el combate, matas a Yamijin, no podrás ver el final bueno.\nDesde aquí, sube uno y luego ve a la izquierda y hacia arriba, cada vez hasta el fondo, y encontrarás una puerta.\nAl cruzar la puerta, estás en 172,313.\nDespués, ve hacia arriba, a la derecha y hacia arriba: hay unas cuantas ventanas que cortan el paso, así que rómpelas mientras avanzas.\nLlega hasta 174,333 y ve a la derecha: hay una ventana, así que rómpela.\nEn 186,333 aparecen tres Máquinas de Rayos.\nA partir de 186,337 hay una explanada.\nHay puertas en 180,346, 200,340 y 187,349.\nSi cruzas la puerta de 180,346, hay una llave tirada en 173,349, así que cógela.\nSi cruzas la puerta de 200,340, hay un montón de Bollos,\npero si destruyes el de 212,340 en vez de cogerlo, podrás bajar. Es una pena desperdiciar un Bollo... pero qué se le va a hacer.\nHay una llave tirada en 212,336, así que cógela.\nPasa de 211,341.\nLa puerta de 187,349 no se abre sin las dos llaves de antes, así que tienes que cogerlas primero.\nCrúzala y ve hacia arriba, derecha, abajo, derecha, arriba, derecha y abajo: en 193,351 hay una puerta a la derecha donde puedes conseguir algunos objetos de curación.\nSin ir tan lejos, a mitad del primer camino hacia arriba, en 187,353, hay un camino hacia la izquierda.\nSigue ese camino a la izquierda y luego hacia arriba, y hay una puerta en 185,356.\nEntra y sigue recto hacia arriba: hay otra puerta en 185,370.\nCruza esa puerta, sube un poco y lucharás contra el minijefe kissenon.\nSigue subiendo y, a partir de 185,377, hay una explanada con la parte derecha un poco abarrotada.\nEn la esquina superior izquierda de esta explanada hay dos objetos.\nHay una puerta en 194,389; si entras hacia arriba, delante se abre un espacio amplio y el camino sigue hacia abajo a la derecha.\nEn 196,382 hay una puerta que lleva a la derecha.\nEn 196,377 hay una puerta que lleva hacia abajo.\nLas dos dan a la habitación de la derecha.\nEn esa habitación no hay nada: solo se puede salir hacia la derecha por la puerta de 199,380.\nAl cruzar la puerta, hay un camino hacia arriba desde 208,380. Si subes, hay una puerta a la derecha. Si sigues recto sin subir, también hay una puerta a la derecha.\nLa puerta de arriba te lleva directamente; la del extremo derecho te hace pasar por un cuartito con una puerta que sale a la derecha. Por las dos llegas a la misma habitación de la derecha.\nEn esta habitación, pulsa Intro mirando a la derecha en 218,382 y empezará la prueba de esquivar bolas.\nEn la zona donde termina la prueba de esquivar bolas, si tocas 222,384, volverás al sitio de nueve líneas más arriba.\nEn 223,382 hay una puerta que sale a la derecha. Crúzala y\nen 227,382 y 228,382 hay puertas hacia abajo; por cualquiera de las dos llegas a la misma zona.\nAquí hay marcadores de cuatro colores esparcidos y puertas por todas partes.\nSi pisas 239,379, parece que pasa algo y suena un ¡buuum! A lo mejor conviene pisarlo.\nAl otro lado de las salidas hacia arriba de 229,390 y 230,390: fin de la partida.\nAl otro lado de la salida hacia arriba de 234,390: fin de la partida.\nAl otro lado de la salida hacia abajo de 230,370: fin de la partida.\nAl otro lado de la salida hacia abajo de 236,370 puedes coger unos cuantos Fragmentos de Luz.\nAl otro lado de la salida hacia arriba de 240,390, al subir hasta 240,398, hay un camino ancho que gira de vuelta hacia la derecha.\nA mitad de este camino, en 243,371, hay una puerta hacia la derecha.\nCruza la puerta, sigue recto a la derecha, tala el árbol de sabón, coge el fruto y ve hasta el fondo: en 252,371 hay una puerta hacia arriba.\nCrúzala y rompe las ventanas que hay a izquierda y derecha de 252,380. A la derecha hay objetos de curación y una ventana que no parece servir para nada,\ny a la izquierda hay una puerta; al fondo del todo, en 245,398, hay un futón que funciona igual que un hotel.\nDesde 252,380, sigue hacia arriba hasta el fondo y cruza la puerta de 252,387;\nsi subes uno más, lucharás contra Kuroro.\nCuando acabes, tala el árbol de sabón para abrir camino hacia el siguiente sitio.\nVe hacia abajo y a la derecha: al fondo, en 259,388, hay una puerta.\nCrúzala y sube hasta chocar: desde ahí sale un camino hacia la izquierda. A la derecha hay algo parecido a una pequeña explanada.\nEn 255,390 hay un Panel de Teletransporte hacia arriba, pero si no te quitas el arma, no podrás pasar bien.\nAdemás, si ya lo has usado y vuelves desde este punto de teletransporte: sin arma equipada, vuelves al sitio del combate contra Kuroro; con arma equipada, no he comprobado adónde vuelves.\nEn 255,397 hay un Panel de Teletransporte, y aquí tampoco debes llevar ningún arma equipada.\nA partir de 255,401, a la derecha hay una explanada complicada.\nVe hasta su extremo derecho y busca por dónde subir moviéndote poco a poco a izquierda y derecha. Al llegar a 264,407, oirás una puerta a la izquierda, así que ve hacia allí.\nCruza la puerta de 263,407 y, en 257,407, hay un cruce de tres caminos.\nEn 254,407 hay una puerta hacia la izquierda, y al fondo te dan una pequeña pista.\nEn 257,412 hay una puerta hacia arriba, y es un mecanismo tan engorroso como la pista de la habitación de la izquierda.\nEntra hacia arriba tres veces y\nen 257,418 hay una ventana a la izquierda y una puerta arriba.\nSi cruzas la puerta de arriba, en 255,420 hay una puerta hacia arriba que te saca a 255,422. Para volver, cruza hacia abajo la puerta de 255,422; 257,420 se ha convertido en una ventana, así que tendrás que romperla, solo una vez.\nO bien rompe la ventana de la izquierda, ve a la izquierda hasta el fondo y luego hacia arriba: en 255,420 hay una puerta hacia arriba que te saca a 255,422. Para volver, cruza hacia abajo la puerta de 255,422, baja hasta 255,418, ve a la derecha hasta el fondo y mira hacia abajo.\nHaz cualquiera de las dos líneas anteriores y cruza tres puertas hacia abajo para volver a 257,412, pero adonde de verdad tienes que ir después es a 255,422.\nA partir de 255,422 hay una explanada bastante grande.\nEn el extremo derecho, en 272,423, hay una puerta; dentro hay un camino recto, y en 282,423 hay un combate contra un minijefe.\nSube y, en 272,428, hay una puerta; dentro hay un camino recto, y en 281,428 hay un combate contra un minijefe.\nSubiendo desde abajo a la izquierda, en 241,428, hay una puerta; dentro hay un camino recto, y en 230,428 hay un combate contra un minijefe.\nAquí hay un futón en 234,428 donde puedes descansar.\nSube y, en 241,436, hay una puerta; dentro hay un camino recto, y en 226,436 hay un combate contra un minijefe.\nEntra en los cuatro caminos anteriores en el orden que quieras: en todos hay dos combates contra minijefes menos en el último, que tiene uno, y donde ya has entrado una vez ya no hay más combates.\nCuando termines los siete combates seguidos contra minijefes, podrás cruzar la puerta de 255,440. Es la única puerta que queda.\nEste sitio está lleno de cómodas, mesas y jarrones, y hacia la derecha hay unos cuantos Bollos.\nAl entrar, muévete hacia arriba hasta chocar y ve cinco a la izquierda: hay una puerta en 250,446.\nCruza esta puerta y recorre la habitación alargada hacia arriba hasta chocar;\nluego pulsa Intro en el extremo derecho, en 275,450, y empezará la prueba de esquivar bolas.\nAquí, cuando vengan volando dos bolas, tienes que elegir la dirección en la que no te dé ninguna de las dos, y las bolas llegan cada vez más rápido.\nAl terminar la prueba de esquivar bolas, estarás en 275,446; muévete abajo a la derecha hasta 276,430 y encontrarás una puerta hacia la derecha.\nCruza la puerta. En 280,432 hay una máquina con tres botones: comprueba cuántas bolas llevas con el botón azul y dispara 255 bolas de tirachinas a la máquina. Entonces se abrirá la puerta de 283,436, pero ojo: una vez que la cruces, no podrás guardar hasta el final.\nAquí está Yokotank; si lo vences en dos combates seguidos, podrás ver el final.\nEstos son los patrones de ataque de Yokotank.\nYokotank, primer combate\nAtaque: Puñetazo. Ataque cuerpo a cuerpo. Lo usa al azar. 120 de daño.\nAtaque: Terremoto. Golpea todo el campo de batalla. Lo usa al azar. Necesita cargar. 50 de daño, 5 veces seguidas, rápido.\nYokotank, segundo combate\nAtaque: Puñetazo. Ataque cuerpo a cuerpo. Lo usa al azar. 100 de daño.\nAtaque: Terremoto. Golpea todo el campo de batalla. Lo usa al azar. Necesita cargar. 50 de daño, 10 veces seguidas, superrápido.\nAtaque: Paliza Total. Ataque cuerpo a cuerpo. Lo usa al azar. Carga un poco. 60 de daño, 9 veces.\nAtaque: Bola de Hierro. Ataque a distancia. Lo usa al azar. Necesita cargar. 200 de daño y te manda por los aires.\nAtaque: Ñam Ñam. Ataque cuerpo a cuerpo. Lo usa cuando está pegado a ti. Necesita cargar. Muerte instantánea. Ni siquiera se oye tu último grito.\nTeletransporte: se teletransporta a un sitio al azar. Lo usa al azar.\nBarriga de Hierro: durante un rato no recibe daño. Lo usa al azar. Hace que el láser avance más rápido.\nAtaque: Láser. Persigue al jugador. Se activa cuando está pegado a ti. Necesita cargar. Hace un daño del 20 % de tus PV máximos.\nTodo esto es para el modo normal; en los otros modos está reforzado como corresponde.\n Cuando te pases el juego entero, se creará un archivo especial, replay_tempsavedata.dat. Sin cambiarle el nombre, ejecuta play.exe y deja que genere los datos de guardado para volver a jugar;\na partir de entonces, entrarás en la nueva partida usando esos datos de guardado.\nAdemás, una vez empezada la nueva partida, puedes cambiar de modo en la mesa de 10,10, en el trastero de tu casa.\n",
+    "Nuestra gran aventura: lista de tiendas\n53,45: recepción del hotel de Ciudad Cristal\nAlojamiento: 200 yenes\n\n44,86: mercader nada más salir de Ciudad Cristal\nSeta Matsutake: 500 yenes. Recupera 50 PV.\n\n34,136: mercader de Ciudad Arkhaia, hasta que la ciudad vuelve a la normalidad\nEspada Larga: 4500 yenes\n\n25,144: Grandes Almacenes Arkhaia, planta baja, alimentación\nBola de Arroz: 185 yenes. Recupera 20 PV.\nSeta Matsutake: 700 yenes. Recupera 50 PV.\nBollo: 87 yenes. Recupera el 10 % de los PV máximos.\nFruto de Sabón: 98 yenes. Recupera 15 PV.\nBento de Tonkatsu: 400 yenes. Recupera 40 PV.\nBola de Arroz Gigante: 315 yenes. Recupera 30 PV.\nSándwich de Huevo: 198 yenes. Recupera 25 PV.\nSándwich de Jamón: 210 yenes. Recupera 25 PV.\nBebida Isotónica: 128 yenes. Recupera 30 de Aguante.\nBebida Energética: 398 yenes. Recupera 60 de Aguante.\n\n21,159: Grandes Almacenes Arkhaia, primera planta, restaurante. No se puede pedir para llevar, así que no se sabe qué efecto tiene.\nArroz: 150 yenes\nRación grande de arroz: 300 yenes\nRamen de sal: 350 yenes\nRamen de soja: 350 yenes\nRamen de miso: 350 yenes\nRamen con chashu: 480 yenes\nSara udon, fideos crujientes: 420 yenes\nRamen de miso con cebolleta: 350 yenes\nTempura con udon frío: 600 yenes\nTempura con soba frío: 600 yenes\nTakoyaki: 300 yenes\nTakoyaki al estilo de Akashi: 400 yenes\nSuperramen de lujo de miso con cebolleta y chashu: 850 yenes\nMenú de tonkatsu: 900 yenes\nHoutou, guiso de fideos: 620 yenes\nFilete de lomo alto: 1000 yenes\nCopa de frutas: 500 yenes\nHelado de vainilla: 500 yenes\nHelado de fresa: 500 yenes\n\n24,168: Grandes Almacenes Arkhaia, segunda planta, ¿armas y protecciones?\nBarreño: 500 yenes. Resistencia 50. Es una birria, pero para defenderse sirve.\nPlaca de Cristal: 600 yenes. Resistencia 1. Se rompe enseguida, pero los trozos hacen daño.\nPlancha de Aluminio: 1250 yenes. Resistencia 100. Bastante resistente.\nBarreño Grande: 1500 yenes. Resistencia 150. Muy fuerte.\nLátigo: 4000 yenes. Para domar a los enemigos desde lejos.\nCuchillo de Bronce: 10000 yenes. Un cuchillo muy afilado. Permite un ataque triple muy rápido.\n100 bolas de tirachinas: 600 yenes. Lo que su nombre indica.\nFragmento de Luz: 1000 yenes. Recupera 150 PV.\nMarcador Rojo: 50 yenes. Déjalo en el suelo para marcar un sitio.\nMarcador Azul: 50 yenes. Déjalo en el suelo para marcar un sitio.\nMarcador Amarillo: 50 yenes. Déjalo en el suelo para marcar un sitio.\nMarcador Verde: 50 yenes. Déjalo en el suelo para marcar un sitio.\n\n20,172: Grandes Almacenes Arkhaia, tercera planta, fotomatón\n100 yenes\n\n22,177: Grandes Almacenes Arkhaia, tercera planta, juego de tambores\n100 yenes\n\n27,179: Grandes Almacenes Arkhaia, tercera planta, máquina de gancho\n100 yenes\n\n44,167: recepción del hotel de Ciudad Arkhaia\nAlojamiento: 700 yenes\n\n89,305: mercader de Pueblo Llama\n100 bolas de tirachinas: 500 yenes. Más baratas que en Arkhaia.\nEspada Destructora: 24000 yenes. La espada más fuerte.\nLanzaflechas: 15500 yenes. Tiene forma de pistola, es muy fácil de usar y dispara flechas afiladas.\n100 Flechas de Hierro: 2000 yenes. Flechas para el Lanzaflechas.\n\n138,311: mercader de la entrada del Monte Llama\nFragmento de Luz: 1200 yenes. Recupera 150 PV.\nPoción: 800 yenes. Recupera 80 PV.\nHierba Vital: 2000 yenes. Recupera 200 PV.\nIncienso Misterioso: 1000 yenes. Recupera 50 PV y 50 de Aguante.\nMarcador Arcoíris: 2500 yenes. Colócalo y písalo: en combate recupera PV, y mientras te mueves, Aguante. Pero si lo pisas cuando ya estás a tope, se dispara y desaparece.\nSeta Matsutake: 650 yenes. Recupera 50 PV.\n100 Flechas de Hierro: 1800 yenes. Flechas para el Lanzaflechas.\n300 Flechas de Hierro: 3700 yenes. Flechas para el Lanzaflechas.\n\n170,311: mercader de la Tierra Desconocida\nAlojamiento: 500 yenes\nAcero: 2000 yenes. Resistencia 300. Acero duro de verdad.\nNudilleras: 20000 yenes\nFragmento de Luz: 900 yenes. Recupera 150 PV.\nHierba Vital: 1600 yenes. Recupera 200 PV.\nPoción: 500 yenes. Recupera 80 PV.\nIncienso Misterioso: 1000 yenes. Recupera 50 PV y 50 de Aguante.\nFragmento Vital: 2500 yenes. Recupera 300 PV.\nCristal Vital: 4000 yenes. Recupera 500 PV.\nElixir Legendario: 5000 yenes. Recupera todos los PV.\nEstrella Fresca: 10000 yenes. Recupera todos los PV y todo el Aguante y, si estás aturdido en combate, se te pasa al instante.\nLuz entre las Hojas: 1200 yenes. Si estás aturdido en combate, se te pasa al instante. Mientras exploras, recupera 70 de Aguante.\nSuperbebida: 600 yenes. Recupera 90 de Aguante.\nMegabebida Energética: 1300 yenes. Recupera 150 de Aguante.\nBotella Fresca: 1700 yenes. Recupera todo el Aguante.\n1000 Flechas de Hierro: 9500 yenes. Flechas para el Lanzaflechas.\n3000 Flechas de Hierro: 35000 yenes. Flechas para el Lanzaflechas.\nEscudo Láser: 10000 yenes. Resistencia 600. Un muro láser que repele cualquier ataque. Si has comprado las Nudilleras, puedes comprar uno por cada Acero que compres.\n",
+    "Nuestra gran aventura: la Sala Oscura de Yamijin, y más allá\nAl lanzarte dentro, apareces en 90,232.\nVe a la izquierda hasta chocar: en 58,232 hay un sitio donde usar la llave, y te dice la contraseña.\norawayamijindanyan\nEn 89,238 hay un ordenata, y para usarlo necesitas la contraseña de arriba.\nCuando abras el ordenata, lee todos los correos y documentos, y ciérralo.\nDespués, si tocas la estantería de 69,240, aparecerá Yamijin y se dejará vencer él solito.\nAdemás, encima de 34,139 hay una cómoda; si la rompes, se abre un camino a una especie de cuartito donde puedes coger objetos.\nSi vuelves a 58,232, en vez de decirte la contraseña del ordenata, ahora te teletransporta fuera de la sala, aunque igualmente tienes que meter la llave.\nEl teletransporte te lleva a 77,242.\nDesde aquí, ve a la derecha, arriba y a la derecha, cada vez hasta chocar, y encima de 99,272 está la entrada a Pueblo Llama.\nAparte de eso, no debería haber nada más que un sitio enorme y vacío, aunque un poco enrevesado.\nAdemás, en 58,242 hay un Panel de Teletransporte para volver a lo que hay pasada Ciudad Arkhaia; te lleva a 75,200.\n",
+    "Nuestra gran aventura: Ciudad Cristal\nBajando desde 1,50 está la entrada a tu casa.\nDelante de tu casa hay mucho espacio y, si subes hasta 52, puedes seguir recto por un camino hacia la derecha. Este camino se ensancha aquí y allá, y hay sitios donde se pueden coger objetos.\nEn 33,52 salen caminos hacia arriba y hacia abajo, y en los dos hay casas.\nDespués de hablar con la persona de la casa cuya entrada está a la derecha de 34,54,\nentra en la casa cuya entrada está a la derecha de 33,49 y lucharás contra el primer minijefe, el Mocoso Fortachón.\nPor cierto, si atacas al vecino de la casa de abajo, pasa algo gracioso, así que pruébalo.\n¡Con el Látigo es para partirse!\nDespués, vuelve a la casa de 34,54 y habla con la persona: podrás salir al otro lado por la puerta trasera, que está siguiendo recto a la derecha.\nPara volver desde ese lado, entra hacia la izquierda por la entrada de 45,54 y sigue recto a la izquierda.\nEn 53,55 hay un interruptor raro; si lo pulsas, salen monstruos, y al terminar el primer combate consigues la Espada Corta.\nLa entrada que baja desde 47,52 es un hotel: si te alojas, recuperas todos los PV y todo el Aguante, y además está el mismo sofá que había fuera de tu cuarto en casa.\nDe 56,52 hacia la derecha está el Parque de la Amistad. Al principio hay niños desperdigados por todas partes y un adulto, creo que solo uno.\nEste parque no es una simple explanada: los caminos son un poco complicados, y hay gente en estos sitios:\n59,54: un niño.\n61,45: un niño.\n62,52: un niño.\n65,55: un niño.\n66,50: un niño.\n71,53: un hombre fumando.\nSi te pones al lado de cualquier persona del parque y hablas unas cinco veces en total, más o menos, lucharás contra el segundo minijefe, el Slime Grande,\ny el hombre que fumaba se convertirá en policía, y los sitios donde estaban los niños, en Bolas de Arroz.\nDespués de vencer al Slime Grande, habla con el policía.\nLuego ve a 50,67: encima está la entrada de una casa. Entra y\nhabla con la persona de 49,73. Hay un evento en el que persigues a Yamijin aporreando la flecha derecha, así que no pares de pulsarla rápido para que la voz de Yamijin no se pierda por la derecha.\nDespués volverás a donde está el vecino, así que ve otra vez con el policía de 71,52 y habla con él;\na la derecha de 54,67, es decir, a la derecha de donde estaba la entrada de la casa de antes, aparecerá una alcantarilla que te teletransporta al Edificio Misterioso.\nCruza esa alcantarilla, termina el evento del Edificio Misterioso y lleva al niño a la casa cuya entrada está encima de 50,67;\nasí podrás salir de la ciudad por la salida hacia arriba de 47,78.\nYa no hay combate contra el minijefe, pero la alcantarilla que lleva al Edificio Misterioso sigue ahí.\nAl salir de la ciudad, la entrada hacia abajo para volver a ella está en 47,82.\nEn 44,86 hay un mercader que solo vende Setas Matsutake.\nAparte de eso, solo hay objetos que coger y árboles,\ny hasta la entrada hacia arriba de Ciudad Arkhaia, en 34,124, hay una explanada de forma algo irregular.\nSi quieres ir directo a Ciudad Arkhaia, una posible ruta es: 10 a la izquierda, arriba hasta chocar, 3 a la izquierda y arriba hasta chocar.\n",
+    "Nuestra gran aventura: el Edificio Misterioso\nAl entrar, apareces en 57,68.\nDesde aquí, ve a la derecha y arriba hasta chocar, uno a la izquierda y arriba hasta chocar;\nsi no coges las cerillas de 60,78, mirando a la izquierda, no podrás seguir.\nPasa por debajo de la tablilla de piedra de 64,71 y ve a la derecha;\nenciende la vela que hay a la derecha de 72,71 e irás a 76,71.\nEncima de 79,71 hay un Panel de Teletransporte para volver a la zona anterior.\nSi rompes con el Martillo la pared de encima de 81,71, podrás entrar en una zona con tres velas y un Panel de Teletransporte que todavía no se puede usar.\nEnciende la vela a la derecha de 81,73, teletranspórtate a 85,73, coge el fragmento rojo que hay debajo de 86,73 y usa lo que hay a la derecha de 90,73 para volver a la zona anterior.\nEnciende la vela a la derecha de 81,76, teletranspórtate a 85,76, coge el fragmento azul que hay justo a su derecha y usa lo que hay a la derecha de 89,76 para volver a la zona anterior.\nEnciende la vela a la derecha de 81,78, teletranspórtate a 85,78, coge el fragmento amarillo que hay a la derecha de 91,80 y usa lo que hay en 90,78 para volver a la zona anterior.\nLas tres líneas anteriores puedes hacerlas en el orden que quieras, pero tienes que hacerlas todas.\nCon esto ya funciona el Panel de Teletransporte de 80,77; si lo usas, empezará un combate contra un minijefe.\nDespués del combate, más vale que des por hecho que no sabes en qué parte de esta zona vas a aparecer.\nDesde ahí, ve a 79,87 y usa lo que hay encima, creo que es un Panel de Teletransporte, para teletransportarte a 79,90.\nCinco hacia arriba y siete a la derecha, en 86,95, rompe la pared de arriba golpeándola 60 veces en menos de 10 segundos. ¡Ojo, que si la golpeas despacio, se acaba la partida!\nVe a 81,97, pulsa Intro y rescata al niño.\nVe hacia arriba y a la derecha, cada vez hasta chocar, y enciende la vela de 86,100 para teletransportarte a 90,100.\nEn 94,100 hay un Panel de Teletransporte, pero si lo usas te devuelve atrás, así que lo mejor es pasar de él, a no ser que quieras ganar experiencia en este edificio.\nDesde 96,100, sube hasta chocar: a la derecha hay un Panel de Teletransporte, y con él puedes escapar de este edificio.\nAterrizarás en la piscina de tu casa. Antes de llevar al niño a su casa, mejor que hables con tus amigos en la entrada de la tuya.\nPor cierto, aunque hayas escapado del Edificio Misterioso, creo que puedes volver más adelante las veces que quieras. Eso sí, ya sin minijefe.\n",
+    "Nuestra gran aventura: Ciudad Arkhaia, y más allá\nLa primera vez que entras, hay un mercader encima de 34,136, siguiendo recto desde la entrada; si hablas con él, acabarás comprando una Espada Larga.\nDespués, habla con el policía de 45,134, vuelve a casa y teletranspórtate a la Mansión del Mal desde el limpiador de borradores de pizarra.\nTras terminar ese evento, cuando vuelvas a Ciudad Arkhaia, estará normal; si le pides al mercader del sitio de antes que se aparte, podrás entrar en la ciudad.\nEn 28,139, encima, está la entrada de los grandes almacenes; por dentro son como se describe en las 14 líneas siguientes.\n25,144: sección de alimentación, en la planta baja de los grandes almacenes.\nEncima de 29,149: escalera de subida a la primera planta.\n21,160: restaurante, en la primera planta de los grandes almacenes.\nDebajo de 29,153: escalera de bajada a la planta baja.\nEncima de 28,159: escalera de subida a la segunda planta.\nEncima de 24,168: sección de armas y protecciones, en la segunda planta de los grandes almacenes. Aquí están las armas nuevas, el Látigo y el Cuchillo de Bronce.\nDebajo de 28,163: escalera de bajada a la primera planta.\nEncima de 28,168: escalera de subida a la tercera planta.\n20,171: fotomatón, en la tercera planta de los grandes almacenes.\n22,177: en la misma planta, el juego de tambores.\n27,179: en la misma planta, la máquina de gancho.\nDebajo de 28,172: escalera de bajada a la segunda planta.\nEn el resto de los grandes almacenes hay gente, supongo que clientes.\nLa salida de los grandes almacenes está en 28,141.\nEn 48,174, debajo, está la entrada a un hotel.\nAparte de eso, en esta ciudad hay varias casas con gente y parterres de flores por todas partes, así que los caminos son un poco complicados.\nUna ruta aproximada para cruzar desde la entrada del lado de Ciudad Cristal hasta el otro lado: sube hasta 34,139 y luego ve a la izquierda, arriba, izquierda, arriba, izquierda, arriba, derecha, abajo y derecha, cada vez hasta chocar, y la salida quedará encima.\nEn 62,175, encima, hay una salida de la ciudad, pero\nla primera vez que sales por ahí, aparece el minijefe Megasaurio.\nLa primera vez que pisas 67,189, en la esquina superior derecha, aparece el minijefe Ultramocoso.\nSi lo vences, se abre un camino hacia arriba. Ve hacia arriba, izquierda, arriba y derecha\nhasta 69,193: encima hay una roca. Si pones la llave en ella,\naparecerá el código\n1u4l2u7r2d3r1u4l3u5r1d1r3d\ny te teletransportarás al otro lado de la pared.\nDesde el otro lado de la pared, hay una roca debajo de 69,195, así que puedes volver con ella.\nAdemás, en cuanto pisas 77,202, te teletransportas a la sala de Yamijin. Aquí no hay ningún sonido que te avise, ni objetos ni puertas, y ni siquiera puedes hacer que te lean esta coordenada, así que tienes que ir comprobando con cuidado por la zona.\nTienes que ir sí o sí a la sala de Yamijin, o la historia no avanzará.\n",
+    "Nuestra gran aventura: la Mansión del Mal\nEmpiezas en 48,135.\nVe todo el rato a la derecha; si tocas 57,135, empezará la prueba de esquivar bolas.\nTermina en 60,135.\nSube hasta chocar y ve a la derecha; desde 62,138, un paso más a la derecha empieza un combate contra un minijefe,\ny al acabar el combate estarás en 62,138.\nDespués, cruza la puerta de 63,138 y ve a la derecha y arriba, cada vez hasta chocar: encima hay una pared que se puede romper.\nBaja hasta 72,140, sube un paso hasta 72,141 y blande ahí la Espada Larga: se romperá fácilmente, pero si te acercas más antes de romperla, acabarán contigo.\nSube hasta chocar, ve a la derecha hasta 79,149 y pulsa Intro: empieza la segunda prueba de esquivar bolas.\nTermina en 82,149.\nSube hasta chocar y ve a la derecha hasta 86,155; un paso más a la derecha empieza un combate contra un minijefe.\nTras el combate, ve a la derecha y arriba, cada vez hasta chocar: a la derecha de 89,157 hay una puerta.\nSi abres esta puerta, sí, otro combate contra un minijefe.\nEse combate termina en 91,157.\nVe hasta 94,158: a la derecha hay un Panel de Teletransporte, y aterrizarás a la izquierda del limpiador de borradores de pizarra de tu casa.\nA partir de este momento, Ciudad Arkhaia vuelve a la normalidad.\nPor cierto, esta mazmorra solo aparece una vez.\n",
+    "Nuestra gran aventura: Pueblo Llama\nLa primera vez que entras en el pueblo, está hecho un desastre, con Supermocosos por todas partes, y tienes que acabar con todos.\nLa salida del pueblo por el lado del Monte Llama está en 94,305.\nAdemás, al mercader que hay encima de 89,304 le puedes comprar cuando quieras.\nEste mercader tiene las armas nuevas: la Espada Destructora y el Lanzaflechas.\nPonte al lado de las siguientes coordenadas, por arriba, abajo, izquierda o derecha, y habla: lucharás contra un Supermocoso.\n82,293\n87,270\n87,275\n89,282\n91,277\n91,298\n94,280\n98,274\n100,274\n100,278\n104,274\n104,280\n114,283\n116,279\n120,274\n122,279\n130,278\n130,286\n130,300\n139,279\n137,283\nDeberían ser 21 en total, pero cuando has vencido a 20, sale el mensaje «Aquí está tirado lo que antes era un Mocoso.», y parece que uno se queda ahí sin desaparecer.\nTras completar el evento, podrás salir por el lado del Monte Llama.\nPara ir desde el lado de la sala de Yamijin hasta el lado del Monte Llama, lo más fácil es ir cinco a la izquierda desde donde entras y luego arriba hasta chocar.\nOjo: en este pueblo, durante el evento y después, no puedes huir de ningún combate.\nAl salir del pueblo, estás en 94,310.\nPara ir de aquí al Monte Llama, una ruta es: arriba y derecha, cada vez hasta chocar; uno abajo; derecha, arriba, izquierda, arriba y derecha, cada vez hasta chocar; ocho abajo; y derecha y arriba, cada vez hasta chocar.\nEn 138,311 hay un mercader.\n",
+    "Nuestra gran aventura: empezar la partida\nAl principio de la partida estás en 1,1.\nDesde aquí, ve hacia arriba, derecha, abajo y derecha, cada vez hasta chocar, y a mitad de camino subiendo,\nen 5,9, entra en el trastero por la puerta de la derecha.\nComo mínimo, abre el cofre de 7,1 y saca la llave, y coge el Barreño de 9,13. Sin la llave no puedes ir a la salida de casa, y el Barreño sirve de protección.\nTambién hay bolas de tirachinas tiradas por todas partes, así que conviene cogerlas.\nSal del trastero, sube hasta chocar, ve dos a la izquierda y sal hacia arriba por la puerta de 3,13: llegarás al pasillo.\nEn el pasillo, ve a la izquierda y arriba, cada vez hasta chocar; luego a la derecha hasta 8,18, y después arriba, derecha y abajo, cada vez hasta chocar;\nluego dos a la derecha y dos arriba, y entra hacia arriba por la puerta de 12,27;\nsube uno más, ve a la izquierda hasta chocar y mira hacia abajo: hay un Martillo, así que cógelo.\nCoge también el tirachinas de madera de 9,34. Sin él no puedes disparar bolas de tirachinas.\nHay algunos objetos más.\nEn 7,44 hay una ventana a la izquierda; rómpela con el Martillo en cualquier momento antes de partir de viaje. Si no lo haces, no podrás salir de casa.\nVuelve a donde está tu cuarto y ve hasta 5,48 esquivando paredes, o lo que sean, y cosas: abajo hay una puerta metida hacia dentro. Rómpela con el Martillo y entra; podrás coger muchos Bollos y bolas de tirachinas, pero\nten cuidado de no pulsar Intro en 15,6, 16,5, 15,4, 15,2 ni 16,1. Los objetos que no hayas cogido saldrán volando, y según el sitio se acabará la partida; y si no, te quedarás con 1 PV.\nPulsa Intro en 5,48, siguiendo el camino con curvas que hay tras la ventana que rompiste, y tus amigos de casa te estarán esperando para despedirte. La primera vez te dan objetos.\nVe a la izquierda de ahí, choca hacia arriba con la flecha arriba y pulsa Intro: saldrás por la puerta principal.\nPor cierto, cerca de tu cuarto, en 5,16, hay un sofá que recupera 10 PV, así que vale la pena aprenderse bien el camino entre la salida de casa y este sofá. Al principio te ayudará a ahorrar objetos de curación.\nAdemás, el limpiador de borradores de pizarra de 9,16 se convertirá más adelante en un teletransportador.\n"
+  ],
+  "omake3.outro": [
+    "¡Enhorabuena! Por cierto, los cofres siempre tienen lo mismo, así que si los quieres todos, ¡solo tienes que pasarte el juego 12 veces! ¡Gracias por seguir ahí!",
+    "Y ahora, escucha esta música, anda."
+  ],
+  "omake2.intro": [
+    "¡Ooooh! ¡Por fin has superado el modo sin futuro! ¡Enhorabuena!",
+    "Venga, pongo música. ¡La música del modo sin futuro es la versión SC-8850, que lo sepaaas!"
+  ],
+  "omake.bad_ending": "¡Anda, anda! Vaya, vaya, ¿así que te ha tocado el final malo? Qué pena.",
+  "omake2.bad_ending": "¡Anda, anda! Vaya, vaya, ¿así que te ha tocado el final malo? ¿Alguna vez has llegado a ver el final bueno?",
+  "omake.good_ending": "¡Oh! Parece que el mundo vuelve a estar en paz.",
+  "omake2.gift": [
+    "Esta vez te traigo un regalo por superar el modo sin futuro, y además un pequeño premio según el final que hayas visto, así que venga, escucha. ¡Y, por supuesto, es información más gorda y más útil que la del modo infierno!"
+  ],
+  "omake.saved": "Acabo de guardarte información interesante en la carpeta. ¡Ahora te voy a dar un premio según el final que acabas de ver! Aunque también es información, eso sí.",
+  "omake2.good_gift": "¡Aquí tienes, este es un regalo precioso para ti por ver el final bueno! ¡Algo de utilidad tiene!",
+  "omake2.bad_gift": "¡Aquí tienes, este es un regalo maravillosísimo para ti, que por desgracia has visto el final malo! ¡Toma ya!",
+  "omake2.outro": [
+    "¿Qué tal? El resto te lo daré a partir de la cuarta vez que te pases el juego. ¡Así que si vuelves a jugar, aparecerán trucos!",
+    "Así que rezo para que sigas jugando. ¡Hasta luegooo!"
+  ],
+  "omake1.intro": [
+    "Enhorabuena por superar el modo infierno.",
+    "Yo soy lo que se dice el autor de este juego.",
+    "¿Qué? ¿Que ya salí en el juego?",
+    "Ah, eso no era más que una payasada. Esta vez he venido en serio.",
+    "Bueno, pongamos algo de música, ¿vale?"
+  ],
+  "omake1.gift": [
+    "Esta vez te traigo un regalo por superar el modo infierno, y además un pequeño premio según el final que hayas visto, así que venga, escucha."
+  ],
+  "omake1.good_gift": "¡Aquí tienes, este es un regalo precioso para ti por ver el final bueno! ¡Un regalito para tiii!",
+  "omake1.bad_gift": "¡Aquí tienes, este es un regalo maravillosísimo para ti, que por desgracia has visto el final malo! ¡Un regalo para ti, para mí, para yo, para tu!",
+  "omake1.outro": [
+    "¿Qué tal? Bueno, hay muchas cosas más, pero dejémoslas como una sor... pre... sa... para cuando superes el modo sin futuro, ¿vale? ¿Vale? ¿Vale, vale, vale?",
+    "Así que rezo para que juegues al modo sin futuro. ¡Hasta luegooo!"
+  ],
+  "omake2.doc.flame_mountain": "Nuestra gran aventura: guía del Monte Llama\nTanto si entras por el lado de Pueblo Llama como por el de la Tierra Desconocida,\nlas direcciones y el número de pasos se cuentan desde el punto en el que chocas de espaldas con la entrada y suena un «¡pum!», así que, nada más entrar en el Monte Llama, retrocede hasta que oigas el «¡pum!».\nSi entras desde la Tierra Desconocida, lee de la última línea hacia arriba e interpreta la U como D y la L como R, y al revés.\nSi sigues esta ruta, no darás ni un paso en falso y podrás cruzar la montaña en los dos sentidos.\n La u significa pulsar la flecha arriba (up); la d, la flecha abajo (down); la l, la flecha izquierda (left), y la r, la flecha derecha (right).\n\n--------------------\nLado de Pueblo Llama\nu4\nl1\nu10\nl2\nu9\nl1\nu8\nl1\nu3\nl1\nu2\nAquí está el Robot de la Muerte. La primera vez que pases por aquí, te espera un combate contra él. A partir de la segunda, puedes pasar de largo.\nu5\nr14\nd1\nr2\nd1\nr1\nd2\nr5\nd1\nr3\nd1\nl1\nd30\nl2\nd2\nr4\nd2\nl1\nd1\nl2\nLado de la Tierra Desconocida\n",
+  "omake2.doc.last_dungeon": "Nuestra gran aventura: ¡guía completa de la última mazmorra!\nLa última mazmorra empieza directamente con un combate contra Yamijin. Después, más vale rematarlo.\nJusto después del combate contra Yamijin, estás en 174,304.\nDesde aquí, ve a la izquierda y luego hacia arriba, cada vez hasta el fondo, y encontrarás una puerta.\nAl cruzar la puerta, estás en 172,313.\nDespués, ve hacia arriba, a la derecha y hacia arriba: hay tres ventanas. Rómpelas y se abrirá un camino hacia arriba; rompe la ventana que acabará apareciendo a la derecha y sigue avanzando.\nEn 174,333 se abre espacio hacia arriba y hacia la derecha, pero ve a la derecha.\nEn 178,333 hay una ventana que corta el camino que, creo, lleva a la derecha.\nEn 186,333 aparecen tres Máquinas de Rayos. ¿Será este el minijefe de esta parte? Si las vences, aparece un camino hacia arriba.\nA partir de 186,337 hay una explanada.\nHay puertas en 180,346, 200,340 y 187,349.\nSi cruzas la puerta de 180,346, hay una llave tirada en 173,349, así que cógela.\nSi cruzas la puerta de 200,340, hay un montón de Bollos,\npero si destruyes el de 212,340 en vez de cogerlo, podrás bajar.\nHay una llave tirada en 212,336, así que cógela.\nPasa de 211,341.\nPasa de 212,342.\nCruza la puerta de 187,349 y ve hacia arriba, derecha, abajo, derecha, arriba, derecha y abajo: en 193,351 hay una puerta a la derecha donde puedes conseguir algunos objetos de curación.\nSin ir tan lejos, a mitad del primer camino hacia arriba, en 187,353, hay un camino hacia la izquierda.\nSigue ese camino a la izquierda y luego hacia arriba, y hay una puerta en 185,356.\nEntra y sigue recto hacia arriba: hay otra puerta en 185,370.\nCruza esa puerta, sube un poco y lucharás contra el minijefe kissenon.\nSigue subiendo y, a partir de 185,377, hay una explanada con la parte derecha un poco abarrotada.\nEn la esquina superior izquierda de esta explanada hay dos objetos.\nHay una puerta en 194,389; si entras hacia arriba, delante se abre un espacio amplio y el camino sigue hacia abajo a la derecha.\nEn 196,382 hay una puerta que lleva a la derecha.\nEn 196,377 hay una puerta que lleva hacia abajo.\nLas dos dan a la habitación de la derecha.\nEn esa habitación no hay nada: solo se puede salir hacia la derecha por la puerta de 199,380.\nAl cruzar la puerta, hay un camino hacia arriba desde 208,380. Si subes, hay una puerta a la derecha. Si sigues recto sin subir, también hay una puerta a la derecha.\nLa puerta de arriba te lleva directamente; la del extremo derecho te hace pasar por un cuartito con una puerta que sale a la derecha. Por las dos llegas a la misma habitación de la derecha.\nEn esta habitación, si tocas 218,382, empezará la prueba de esquivar bolas.\nEn la zona donde termina la prueba de esquivar bolas, si tocas 222,384, volverás al sitio de nueve líneas más arriba.\nEn 223,382 hay una puerta que sale a la derecha. Crúzala y\nen 227,382 y 228,382 hay puertas hacia abajo; por cualquiera de las dos llegas a la misma zona.\nAquí hay marcadores de cuatro colores esparcidos y puertas por todas partes.\nSi pisas 239,379, parece que pasa algo y suena un ¡buuum! A lo mejor conviene pisarlo.\nAl otro lado de las salidas hacia arriba de 229,390 y 230,390: fin de la partida.\nAl otro lado de la salida hacia arriba de 234,390: fin de la partida.\nAl otro lado de la salida hacia abajo de 240,390: fin de la partida.\nAl otro lado de la salida hacia abajo de 230,370: fin de la partida.\nAl otro lado de la salida hacia abajo de 236,370 puedes coger unos cuantos Fragmentos de Luz.\nAl otro lado de la salida hacia arriba de 240,390, al subir hasta 240,398, hay un camino ancho que gira de vuelta hacia la derecha.\nA mitad de este camino, en 243,371, hay una puerta hacia la derecha.\nCruza la puerta, sigue recto a la derecha, tala el árbol de sabón, coge el fruto y ve hasta el fondo: en 252,371 hay una puerta hacia arriba.\nCrúzala y rompe las ventanas que hay a izquierda y derecha de 252,380. A la derecha hay objetos de curación y una ventana que no parece servir para nada,\ny a la izquierda hay una puerta; al fondo del todo, en 245,398, hay un futón que funciona igual que un hotel.\nDesde 252,380, sigue hacia arriba hasta el fondo y cruza la puerta de 252,387;\nsi subes uno más, lucharás contra Kuroro.\nLánzate por el camino sin desvíos de la derecha y, al fondo, en 259,388, hay una puerta.\nCrúzala y sube hasta chocar: desde ahí sale un camino hacia la izquierda. A la derecha hay algo parecido a una pequeña explanada.\nEn 255,390 hay un Panel de Teletransporte hacia arriba, pero si no te quitas el arma, no podrás pasar bien.\nAdemás, si ya lo has usado y vuelves desde este punto de teletransporte: sin arma equipada, vuelves al sitio del combate contra Kuroro; con arma equipada, no he comprobado adónde vuelves.\nEn 255,397 hay un Panel de Teletransporte, y aquí tampoco debes llevar ningún arma equipada.\nA partir de 255,401, a la derecha hay una explanada complicada.\nVe hasta su extremo derecho y busca por dónde subir moviéndote poco a poco a izquierda y derecha. Al llegar a 264,407, oirás una puerta a la izquierda, así que ve hacia allí.\nCruza la puerta de 263,407 y, en 257,407, hay un cruce de tres caminos.\nEn 254,407 hay una puerta hacia la izquierda, y al fondo te dan una pequeña pista.\nEn 257,412 hay una puerta hacia arriba, y es un mecanismo tan engorroso como la pista de la habitación de la izquierda.\nEntra hacia arriba tres veces y\nen 257,418 hay una ventana a la izquierda y una puerta arriba.\nSi cruzas la puerta de arriba, en 255,420 hay una puerta hacia arriba que te saca a 255,422. Para volver, cruza hacia abajo la puerta de 255,422; 257,420 se ha convertido en una ventana, así que tendrás que romperla, solo una vez.\nO bien rompe la ventana de la izquierda, ve a la izquierda hasta el fondo y luego hacia arriba: en 255,420 hay una puerta hacia arriba que te saca a 255,422. Para volver, cruza hacia abajo la puerta de 255,422, baja hasta 255,418, ve a la derecha hasta el fondo y mira hacia abajo.\nHaz cualquiera de las dos líneas anteriores y cruza tres puertas hacia abajo para volver a 257,412, pero adonde de verdad tienes que ir después es a 255,422.\nA partir de 255,422 hay una explanada bastante grande.\nEn el extremo derecho, en 272,423, hay una puerta; dentro hay un camino recto, y en 282,423 hay dos combates contra minijefes.\nSube y, en 272,428, hay una puerta; dentro hay un camino recto, y en 281,428 hay dos combates contra minijefes.\nSubiendo desde abajo a la izquierda, en 241,428, hay una puerta; dentro hay un camino recto, y en 230,428 hay dos combates contra minijefes.\nSube y, en 241,436, hay una puerta; dentro hay un camino recto, y en 226,436 hay un combate contra un minijefe.\nNo he comprobado si las cuatro líneas anteriores son exactamente así. ¿Qué pasará si cruzas estas puertas en otro orden? Pero lo que parece seguro es que aquí hay siete combates seguidos contra minijefes.\nCuando termines los siete combates seguidos contra minijefes, podrás cruzar la puerta de 255,440. Es la única puerta que queda.\nEste sitio está lleno de cómodas, mesas y jarrones, y hacia la derecha hay unos cuantos Bollos.\nAl entrar, muévete hacia arriba hasta chocar y ve cinco a la izquierda: hay una puerta en 250,446.\nCruza esta puerta y recorre la habitación alargada hacia arriba hasta chocar;\nluego pulsa Intro en el extremo derecho, en 275,450, y empezará la prueba de esquivar bolas.\nAquí, cuando vengan volando dos bolas, tienes que elegir la dirección en la que no te dé ninguna de las dos, y las bolas llegan cada vez más rápido.\nAl terminar la prueba de esquivar bolas, estarás en 275,446; muévete abajo a la derecha hasta 276,430 y encontrarás una puerta hacia la derecha.\nCruza la puerta. En 280,432 hay una máquina con tres botones: comprueba cuántas bolas llevas con el botón azul y dispara 255 bolas de tirachinas a la máquina. Entonces se abrirá la puerta de 283,436, pero ojo: una vez que la cruces, no podrás guardar hasta el final.\nAquí está Yokotank; si lo vences en dos combates seguidos, podrás ver el final.\n\n Cuando te pases el juego entero, se creará un archivo especial, replay_tempsavedata.dat. Sin cambiarle el nombre, ejecuta play.exe y deja que genere los datos de guardado para volver a jugar;\na partir de entonces, entrarás en la nueva partida usando esos datos de guardado.\nAdemás, una vez empezada la nueva partida, puedes cambiar de modo en la mesa de 10,10, en el trastero de tu casa.\nPor cierto, ¡parte de todo esto es men... ti... ra!",
+  "omake2.doc.multi_ending": "Nuestra gran aventura: ¡cómo funcionan los distintos finales!\nEste juego tiene dos finales. Ni que decir tiene que son el final bueno y el final malo.\nEn cierto momento, el final se divide en dos.\nY ese momento es cuando decides si matas o no a Yamijin.\nSi lo matas, tendrás el final malo.\nY, de regalo, un truco.\n1. Pulsa Control más Tabulador.\n2. Escribe kill all monster! y pulsa Intro.\nAsí no aparecerán enemigos hasta que cambies de zona.",
+  "omake1.doc.stun": "Nuestra gran aventura: ¿Eh? Los enemigos...\nBueno, bueno, enhorabuena por superar el modo infierno. Hoy traigo información divertida para todos los que os habéis dejado la piel en el modo infierno.\nSe llama ¡Ataque Los-Enemigos-No-Se-Mueven-Y-Puedes-Machacarlos-Yupi-Yupi, ahora rebautizado como Golpe de Plano!!\nLo que necesitas es la Espada Corta o la Espada Larga. Cuando la blandas, prueba a mantener pulsado Mayúsculas mientras atacas. Ah, en combate, claro.\nLo demás es una sorpresa para cuando lo pruebes. Ah, sí, sí. Ten presente que en el modo sin futuro no funciona, querido. ¡Oh, jo, jo, jo, joooo!",
+  "omake1.doc.damage": "Nuestra gran aventura: ¡a ver cuánto daño haces!\nEsta vez, como has visto el final bueno, te enseño un truco divertido.\nPasos\n1. Mantén pulsado Control y pulsa Tabulador.\n2. Escribe damage message on o damage message off (como ves, sirve para activarlo y desactivarlo).\nDespués, pulsa Intro rapidito y a luchar.\nAsí verás el daño que acaba de recibir el enemigo: cuánto daño le estás haciendo, etcétera. Creo que te servirá de referencia.\nBueno, ¡hasta lueguiii!",
+  "omake1.doc.fastwalk": "Nuestra gran aventura: ¡a toda mecha!\nEsta vez te enseño un truco para recorrer el mapa a toda velocidad.\nPasos\n1. Mantén pulsado Control y pulsa Tabulador.\n2. Escribe fastwalk.\n3. Pulsa Intro y prueba a salir pintando. ¡Huy, quería decir pitando! ¡Me he equivocado de palabra!\nSi vuelves a cargar la partida, se quita. Pero a veces es bastante útil.",
+  "replay.offer": "Enhorabuena. Parece que te has pasado el juego entero. En este juego puedes volver a jugar conservando tus estadísticas, tu dinero y tus objetos. Sin embargo, en la versión actual no se garantiza al 100 % que se conserven todos los datos. ¿Quieres volver a jugar?",
+  "replay.declined": "Vaya. Así que no vas a jugar. Entonces, para que estos datos no se usen nunca para volver a jugar, ¿puedo borrarlos? Si los borras, se eliminarán los datos para volver a jugar. Las partidas guardadas de antes de terminar el juego no se verán afectadas.",
+  "replay.deleted": "Datos borrados.",
+  "replay.generating": "Ahora se generarán los datos para volver a jugar. Pulsa Intro y espera un momento.",
+  "replay.choose_slot": "Elige la ranura donde guardar los datos para volver a jugar.",
+  "replay.press_enter": "Pulsa Intro.",
+  "replay.restart": "Volviendo a la pantalla de título. En el menú del título, elige «Cargar» y carga la ranura {slot}."
+}
