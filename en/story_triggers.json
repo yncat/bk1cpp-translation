@@ -1,0 +1,298 @@
+{
+  "trigger.kuroro.tired": [
+    "{player}: Phewww, I'm so tired.",
+    "How huge is this building, seriously...",
+    "My legs are worn out from walking... When is this ever going to end..."
+  ],
+  "trigger.kuroro.finally": "???: Finally, we meet.",
+  "trigger.kuroro.talk": [
+    "{player}: Whoa! Something popped out!",
+    "???: Something? How rude.",
+    "{player}: If you don't even say your name, of course you're a something!",
+    "???: Is that so? My apologies.",
+    "My name is Kuroro!",
+    "{player}: Huh? Keroro? Shiroro?",
+    "Kuroro: No, no! Kuroro! Ku! Ro! Ro!",
+    "{player}: Huh. Wasn't there a Kuroro in some anime?",
+    "Kuroro: That was Kururu!",
+    "{player}: Oh, was it? My bad, my bad.",
+    "So, why are you here?",
+    "Kuroro: Isn't it obvious? Lord Yokotank told me to put an end to all this fuss...",
+    "And now that you've even beaten my senior, the great kissenon...",
+    "{player}: Oh yeah? So you want to beat me.",
+    "Kuroro: Exactly! You finally get it...",
+    "{player}: Well... give it a shot, then?",
+    "Kuroro: Don't underestimate my power. Hee hee hee hee hee."
+  ],
+  "trigger.kuroro.attack": "Kuroro: Here I come! Here I come here I come here I come, here I goooooooo!",
+  "trigger.kuroro.won": [
+    "{player}: Yaaay! I won, I won!",
+    "Kuroro: S-so close...",
+    "{player}: Huh? He's still conscious. I'd hate for him to attack me again... All right then... just enough not to kill him..."
+  ],
+  "trigger.kuroro.end": "And so, {player} brilliantly took down the surprise attacker. The story is finally nearing its end!",
+  "trigger.kissenon.intro": [
+    "???: Ooh-hee-hee-hee-hee. I've been waiting for you.",
+    "{player}: Who the heck are you?!",
+    "???: My name is kissenon! Lord Yokotank ordered me to throw you into helium hell!",
+    "Oh, and by the way, my favourite food is eel rice bowl. Nice to meetcha!",
+    "{player}: Oh yeah?",
+    "kissenon: Whaaat? You're not interested in eel rice bowl? It's delicious, you know! The harmony of flavours spreading through your mouth. The perfectly sweet rice. Every bit of it is the best in the world. Didn't you know?",
+    "{player}: I hate eel, so I'm not interested."
+  ],
+  "trigger.kissenon.hurt": [
+    "kissenon: Owwie!",
+    "Oh, come on! Now I'm bleeding!",
+    "{player}: Hmph. If it were me, I'd pick a fistfight over helium hell. What, you don't like pain?",
+    "kissenon: No, no. I hate pain.",
+    "{player}: With a wimpy heart like that, you'll never beat me.",
+    "kissenon: Hmph, shut up. See this thing I'm holding? If I fire it, something weird is gonna happen to you.",
+    "{player}: It'll just do damage anyway, right? I'll dodge every single shot.",
+    "kissenon: If you're so sure you can beat me, then come and get me.",
+    "{player}: Fine! I'm gonna beat you!"
+  ],
+  "trigger.kissenon.end": "{player}: Aaaaah! He blew up! And I wanted to hear him whine about losing... Oh well!",
+  "trigger.beams.intro": [
+    "That's the weird monster that was wandering around earlier! The one that shoots weird beams!",
+    "Dang it! There are three of them together. But unless I smash them, I can't get through..."
+  ],
+  "trigger.beams.end": "Phew. Now, let's keep going!",
+  "trigger.soldier2.intro": [
+    "The soldier from before appeared again.",
+    "Soldier: Hey, you. If you don't wanna kick the bucket, get out of here, now. I'll even show you the exit.",
+    "{player}: Nope.",
+    "Soldier: Huh? You talk big, but do you really think you can beat the Grand Cruiser I'm about to create?",
+    "{player}: Yep."
+  ],
+  "trigger.soldier2.not_weak": [
+    "Soldier: Grrr... But I'm not weak like that other soldier.",
+    "{player}: Other soldier? Who's that?",
+    "Soldier: Are you stupid? The guy who summoned the Big Slime earlier.",
+    "{player}: Huh? But he had the same looks, the same face and the same voice as you."
+  ],
+  "trigger.soldier2.sly": [
+    "Soldier: ...",
+    "{player}: Ohhh, I seeee. So you're the sneaky type who cries and then pretends to be someone else to act tough. I understand perfectly now."
+  ],
+  "trigger.soldier2.angry": [
+    "Soldier: You little...! Don't you dare make fun of me! Back then, I was just, um, uhhh,"
+  ],
+  "trigger.soldier2.serious": [
+    "That's it, I wasn't being serious! I wasn't going all out!",
+    "{player}: I have a questiooon.",
+    "Soldier: What? Fine, let's hear it.",
+    "{player}: Why did you have to think about it for a second just nowww?"
+  ],
+  "trigger.soldier2.cry": [
+    "Soldier: Ah, well, that's, uhhh, ummm,",
+    "{player}: Hit the nail on the head, did I? I get it.",
+    "Soldier: Waaaaah!",
+    "{player}: Oh dear, he's crying.",
+    "Soldier: Sniff, *hic*, a-anyway, I-I'll fight you! C-come on, *hic*, bring it!"
+  ],
+  "trigger.soldier2.accept": "{player}: Now this is fun. Bring it on.",
+  "trigger.soldier2.lost": [
+    "Soldier: I lost! Waaaaaah!",
+    "{player}: You're so weak.",
+    "Soldier: Dammit! Now I'm gonna make mincemeat out of you, then fillet you into three slices and throw you in the trash!"
+  ],
+  "trigger.soldier2.wait": [
+    "{player}: Hold on a sec.",
+    "Soldier: What? Are you that scared? Ha ha ha ha ha haaaaa!"
+  ],
+  "trigger.soldier2.mince": [
+    "{player}: How are you supposed to fillet something into three slices after you've already turned it into mincemeat?!"
+  ],
+  "trigger.soldier2.megya": [
+    "Soldier: Megyaaaaah!",
+    "{player}: Also, normally when you make mincemeat, don't you eat it? Not that I'd taste any good."
+  ],
+  "trigger.soldier2.fugya": [
+    "Soldier: Fugyaaaaaaah!",
+    "Whatever! I'm gonna beat you to a pulp and smash you to smithereens!"
+  ],
+  "trigger.soldier2.lines": [
+    "{player}: Ha ha, please don't use such childish words. Try something a little, you know, cooler!",
+    "Soldier: Fine.",
+    "You're trash! You're useless! Be grateful that I'm the one erasing you!",
+    "{player}: Hmmm, well, I guess that'll do.",
+    "Soldier: Now, struggle! Suffer! Ha ha ha ha ha haaaaaa!"
+  ],
+  "trigger.soldier2.question": [
+    "{player}: I have a questiooon.",
+    "Soldier: Dammit, what is it?!",
+    "{player}: That didn't hurt at all. Is that really all the strength you've gooot?"
+  ],
+  "trigger.soldier2.ugah": [
+    "Soldier: Ugahhhhaaaaaaaaaah!"
+  ],
+  "trigger.soldier2.end": "{player} left the fallen soldier lying there and moved on.",
+  "trigger.dark_room.whoa": [
+    "{player}: Whoaaaa!",
+    "What's happening?!"
+  ],
+  "trigger.dark_room.spell": [
+    "You who hold the key. If you are truly its owner, recite the spell that appears before your eyes...",
+    "{player}: Owner of the key... by the right of the owner, here and now, break the seal of that door...?"
+  ],
+  "trigger.dark_room.yay": [
+    "{player}: Yaaay!",
+    "I was the owner! Woohoo, woohoo!",
+    "And, as usual, it looks like I got warped somewhere."
+  ],
+  "trigger.dark_room.documents": [
+    "{player}: Whoa!",
+    "These all look like Yamijin's files.",
+    "Sorry, but I'm gonna read every single one of them, no holding back. I might find out the truth.",
+    "Yamijin, sweetie! Sorryyyy!",
+    "{player} has gone slightly crazy, so we'll skip ahead 2 minutes and 28 seconds."
+  ],
+  "trigger.soldier1.intro": [
+    "Suddenly, a soldier and a Big Slime appeared in front of you.",
+    "Soldier: Hey, you. By order of Lord Yamijin, I've come to kill you.",
+    "{player}: And?",
+    "Soldier: But I don't know how to fight. The only thing I can use is the summoning art Lord Yamijin taught me.",
+    "{player}: In other words, you're a useless dummy who can summon stuff but can't fight."
+  ],
+  "trigger.soldier1.rules": [
+    "Soldier: Gaaaah, you're not supposed to say that out looooud!",
+    "{player}: But it's true.",
+    "Soldier: Who decided that not being able to fight makes you useless?! In what year? Where? Which article of which law?!",
+    "{player}: I did, on March 11, 2010, at 12:14 and 2 seconds. Article 32651 of the Good Kids' Promise Rules.",
+    "Soldier: Gaaaah, and why are there so many of theeeem?!",
+    "{player}: Article 1. No living creature in this world may attack or hurt me."
+  ],
+  "trigger.soldier1.convenient": [
+    "Soldier: That's way too convenient.",
+    "{player}: Well, I'm the one who made the rules."
+  ],
+  "trigger.soldier1.enough": [
+    "Soldier: Ugh, I give up, I give up. You're too ridiculous for me.",
+    "Now then, playtime's over! Get him!"
+  ],
+  "trigger.soldier1.won": [
+    "{player}: Pfft, that was barely any different from before.",
+    "Soldier: Waaaaah, mommyyy."
+  ],
+  "trigger.soldier1.cry": [
+    "{player}: Oh, are you crying? Sowwy, sowwyyyy.",
+    "Soldier: Sniff... Forget it! Just go on ahead already! Bye-bye!",
+    "{player}: Okay, okay, I'm going, you useless, dumb, ugly soldier, sir.",
+    "Soldier: Waaaaah, waaaaaaaah! It hurts! My heart hurts so muuuuch!"
+  ],
+  "trigger.soldier1.end": [
+    "The soldier left.",
+    "Where the soldier had stood, there was now a lake of tears.",
+    "{player}: What a weird soldier... Well, onward I go."
+  ],
+  "trigger.mech.climbed": [
+    "{player}: Aaaaah, that was so scaaary.",
+    "The ground kept cracking and I was freaking out, but it looks like I made it to the top.",
+    "Wow, what a view, though. The air's nice too. This is the best."
+  ],
+  "trigger.mech.huge": [
+    "Waaaaaah!",
+    "I-it's huuuuuuuuuge!",
+    "What is that?! What?!"
+  ],
+  "trigger.mech.weak": [
+    "{player}: Hee hee hee hee hee. Wimpy attacks like that don't work on me.",
+    "You're pretty weak for something so big. You use-less piece of junk."
+  ],
+  "trigger.mech.ouch": [
+    "{player}: Gyaaaaaaaaaaaaaaah!",
+    "Hey, hey... how strong is this weird thing...?!",
+    "That hurt, you jerk!"
+  ],
+  "trigger.mech.hit": [
+    "Yes!",
+    "All right! I'll keep hitting it and smash it to pieces!"
+  ],
+  "trigger.mech.jump": "Whoa! That's cheating! Get down here!",
+  "trigger.mech.shot": [
+    "{player}: Dammit... getting shot this much is a bit much, even for me... So uncool.",
+    "Anyway, this thing is ridiculously strong. I'd better be ready for anything..."
+  ],
+  "trigger.mech.won": [
+    "Yeaaaah!",
+    "But I haven't smashed it to pieces yet. I'd hate for it to start moving again, so let's do what I did that one time."
+  ],
+  "trigger.mech.fun": [
+    "Woohooo! This is fun! This is way too fun!",
+    "Huh? There's something inside."
+  ],
+  "trigger.mech.media": [
+    "What's this?",
+    "Looks like the robot's data storage. There might be some data on it, so I'll take it with me.",
+    "But what is this thing? It's not an SD card, it's not a flash drive, it's not an MO disk, it's not a floppy, it's not a hard drive, it's not paper, it's not a pen, it's not a voice recorder.",
+    "Oh well! I'll just take it!"
+  ],
+  "trigger.manhole.officer": [
+    "{player}: There it is, the manhole.",
+    "Police officer: It has a strange pattern on it. If you're willing, could you step on it and warp?",
+    "{player} hesitated. {player} had promised the friends back home to come back for sure. But maybe there would be no way back. That feeling made {player} anxious.",
+    "But {player} made up their mind.",
+    "Please, let me go!"
+  ],
+  "trigger.ultra_brat.key": [
+    "{player}: Phewww.",
+    "Getting a key is nice and all, but where on earth is this key even for?",
+    "Argh. I have no idea.",
+    "And then, {player} started daydreaming weird stuff..."
+  ],
+  "trigger.ultra_brat.daydream": [
+    "{player}: Ummm, sooo, the fact that I've got this key right now meeeans...",
+    "Ummm, it's probably related to the progress of the story somehow...",
+    "In this kind of RPG, official name Battle-Style Action Role-Playing Game, the usual thing is that you use some kind of hint to bust the truth wide open...",
+    "Well, it's a game world, so somehow"
+  ],
+  "trigger.ultra_brat.author": [
+    "{player}: Gyaaaaaaaaaaaaaaah!",
+    "Author: Okay, okay. Don't say such unfunny things.",
+    "You were trying to get a laugh, weren't you?",
+    "I bet everyone on the other side of the screen is rolling their eyes right now.",
+    "{player}: N-no I wasn't! I was just, uhhh, ummm,"
+  ],
+  "trigger.ultra_brat.next": [
+    "Author: Nothing to say, huh?",
+    "Whoops, whoops, whoops. I have to start the next event. Okay, here we gooo!"
+  ],
+  "trigger.ultra_brat.hey": "???: Hey, you!",
+  "trigger.ultra_brat.intro": [
+    "{player}: Hey, you! You think you can talk like that to someone you just met? You idiot!",
+    "???: Never mind that. Looks like you've been real nice to my underlings, huh?",
+    "{player}: Huh? Your underlings? How should I know?",
+    "???: Haaah? Don't you dare say you don't know!",
+    "Fine, then I'll tell you my name first.",
+    "My name is Ultra Gakishonen!!",
+    "{player}: Huh? Quit trying to look cool!",
+    "Ultra Gakishonen: Shut up! Quit yapping and just drop dead already! Yee-haaaah!",
+    "{player}: Ohhh. Just because your henchmen got beaten, you're really showing off your big-boss-ship, aren't you?",
+    "Ultra Gakishonen: I said shut up! Get lost! Get lost! Get the heck out of heeeere!",
+    "{player}: Oh, you're on! Bring it!"
+  ],
+  "trigger.ultra_brat.end": [
+    "{player}: Hey. There's something I want to ask you.",
+    "Ultra Gakishonen: Ugh, what?",
+    "{player}: Do you know Yamijin?",
+    "Ultra Gakishonen: Yeah, kind of.",
+    "{player}: So you're one of his henchmen?",
+    "Ultra Gakishonen: Nope, not me.",
+    "{player}: Then how do you know him?",
+    "Ultra Gakishonen: Yamijin asked me to help him out with something, but I turned him down.",
+    "{player}: Then do you know about the key Yamijin had?",
+    "Ultra Gakishonen: Oh, you mean the Dark Room Key?",
+    "{player}: The what now?",
+    "Ultra Gakishonen: Take it out and show me. Relax, I'm a man of my word. I lost the fight, so I won't turn on you now.",
+    "{player}: Okay.",
+    "Here you go.",
+    "Ultra Gakishonen: Yeah. No doubt about it. That's the Dark Room Key.",
+    "{player}: Really? Do you know anything about it?",
+    "Ultra Gakishonen: Apparently it's the password key for the compooter with Yamijin's secret files on it.",
+    "{player}: So where's this compooter?",
+    "Ultra Gakishonen: No idea. It won't tell you where it is unless you become the key's owner.",
+    "{player}: I see. Too bad.",
+    "Thanks, that helped.",
+    "Ultra Gakishonen: Yeah. Watch yourself out there. Who knows what Yamijin's gonna pull."
+  ]
+}
