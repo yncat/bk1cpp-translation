@@ -10,6 +10,7 @@
     "Change weapon",
     "Change armor",
     "Check current location",
+    "Settings",
     "Close menu"
   ],
   "menu.walk.title": "How do you want to walk?",

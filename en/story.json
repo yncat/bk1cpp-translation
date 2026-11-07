@@ -11,7 +11,12 @@
     "Load",
     "Quit"
   ],
-  "title.menu.language": "Language / 言語",
+  "settings.entry": "設定 / Settings",
+  "settings.title": "Settings. Use up and down to choose. Escape goes back.",
+  "settings.bgm": "Music volume {level} of {max}. Use left and right to change it.",
+  "settings.bgm.hint": "Use left and right to change the volume.",
+  "settings.language": "Language / 言語",
+  "settings.back": "Back",
   "language.prompt": "Language / 言語. Up and down to choose, Enter to confirm. / 上下キーで選んで、Enterで決定。",
   "language.changed": "Switched to English.",
   "language.failed": "The language could not be switched.",
