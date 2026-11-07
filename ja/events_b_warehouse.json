@@ -42,7 +42,7 @@
     "でも、この後どうすればいいんだろう?"
   ],
   "warehouse.password.look": "{player}:あ、これのこと?",
-  "warehouse.password.note": "パスワード:orawayamizinndanyan",
+  "warehouse.password.note": "パスワード:{password}",
   "warehouse.keywarp.prompt": "この建物の外にワープできるようだ。ワープしますか？",
   "warehouse.pc.logon_prompt": "ログオンパスワードを入力してください",
   "warehouse.pc.intro": "これは、どうやら簡単なパソコンみたいだ。",

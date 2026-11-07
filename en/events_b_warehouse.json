@@ -42,7 +42,7 @@
     "But what am I supposed to do now?"
   ],
   "warehouse.password.look": "{player}: Oh, is this it?",
-  "warehouse.password.note": "Password: orawayamizinndanyan",
+  "warehouse.password.note": "Password: {password}",
   "warehouse.keywarp.prompt": "Looks like you can warp outside this building. Warp?",
   "warehouse.pc.logon_prompt": "Enter the logon password.",
   "warehouse.pc.intro": "This looks like a simple computer.",

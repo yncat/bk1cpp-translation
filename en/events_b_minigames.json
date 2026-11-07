@@ -117,7 +117,7 @@
     "{player}: Aaaah, that was so hooot.",
     "I never want to do anything like that again."
   ],
-  "minigames.wall.rules": "Written on the wall: \"If you don't break this wall within 10 seconds, your life will fade away. Is that okay with you?\" {player} lost it and decided to smash the wall with the hammer. Pound the wall down with the hammer within 10 seconds.",
+  "minigames.wall.rules": "Written on the wall: \"If you don't break this wall within 10 seconds, your life will fade away. Is that okay with you?\" {player} lost it and decided to smash the wall with the hammer. Mash the Space key to pound the wall down with the hammer within 10 seconds.",
   "minigames.wall.broken": "Yes! You smashed the wall.",
   "minigames.wall.failed": "{player} fell into the rift between space and time!"
 }
