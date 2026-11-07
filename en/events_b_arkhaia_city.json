@@ -1,0 +1,292 @@
+{
+  "arkhaia_city.gate.side_entrance": "It's an entrance to Arkhaia City. A different one from the entrance on the Crystal City side.",
+  "arkhaia_city.gate.enter_prompt": "Enter the town?",
+  "arkhaia_city.exit.message": "It's the town exit.",
+  "arkhaia_city.exit.prompt": "Leave the town?",
+  "arkhaia_city.boss8.leaving": [
+    "{player}: Arkhaia City was so much fun.",
+    "For now, it looked like the monsters hadn't done any damage there yet. I guess that's a relief.",
+    "But there's no telling when the monsters might show up, so I want to find out the truth soon."
+  ],
+  "arkhaia_city.boss8.huh": "Hm?",
+  "arkhaia_city.boss8.coming": [
+    "S, something's coming!",
+    "What, it's huge?!",
+    "What {player} saw was a gigantic dinosaur-like monster, easily over 10 meters tall.",
+    "{player}: Eeeek! It's coming this way! And it's too fast to run from! What do I do?!"
+  ],
+  "arkhaia_city.boss8.charge": [
+    "The monster comes charging this way with a tremendous roar!",
+    "{player}: Th, that's...!!",
+    "That's the same thing Yamijin was wearing... Is it one of Yamijin's minions?",
+    "But it's different from anything I've seen so far. What on earth is that thing?!",
+    "...Look out!"
+  ],
+  "arkhaia_city.boss8.bitten": [
+    "Waaah!",
+    "Dammit, I can't get away while it's biting me!"
+  ],
+  "arkhaia_city.boss8.pain": [
+    "Waaaaaaah!",
+    "{player} felt a pain more intense than anything he had ever felt before.",
+    "{player}: Dammit... is this the end...?",
+    "{player} prepared himself to die."
+  ],
+  "arkhaia_city.boss8.spat_out": [
+    "But the monster chewed on {player} a little and then spat him right out.",
+    "{player}: Dammit..."
+  ],
+  "arkhaia_city.boss8.rush": [
+    "{player}: Haaaah!",
+    "As {player} charged, the monster started charging too. And it quietly bared its dully gleaming claws.",
+    "{player}: Wha?! I can't stop! At this rate..."
+  ],
+  "arkhaia_city.boss8.dribble": [
+    "{player}: Gyaaaah!",
+    "And that wasn't all. The monster sent {player} flying, then kept charging after him!",
+    "{player}: Waaaaah! It's dribbling me like a ballllll!"
+  ],
+  "arkhaia_city.boss8.ready": [
+    "{player}: At this rate, I won't survive no matter how many lives I have. I can't win unless I focus on dodging its attacks! But I have to attack too...",
+    "Still not knowing the monster's attack patterns, {player} readied his weapon!",
+    "{player}: I don't know what you are, but bring it on! Haaaaaaah!!"
+  ],
+  "arkhaia_city.boss8.alive": [
+    "{player}: Did I... get it?",
+    "!",
+    "It's still alive!"
+  ],
+  "arkhaia_city.boss8.gaze": [
+    "Just then, the monster's eyes, which had been so fierce, started gazing at {player}.",
+    "Its eyes were gentle.",
+    "{player}: What? If you've got something to say, say it. You're about to die, you know."
+  ],
+  "arkhaia_city.boss8.key": [
+    "{player}: What?",
+    "The monster dropped a small key on the ground, made sure {player} picked it up, and then vanished.",
+    "{player}: Was it trying to tell me to take this?",
+    "Anyway, {player} put the key away carefully."
+  ],
+  "arkhaia_city.boss8.backstory": [
+    "Meanwhile, at the Evil Mansion...",
+    "Yamijin: No...",
+    "That's impossible...",
+    "Megasaurus. Over a hundred million years ago, it was like a god among dinosaurs, the most ferocious and powerful creature in the whole world.",
+    "And Yamijin discovered the fossil of that Megasaurus.",
+    "At the time, Yamijin had been researching how to restore a dinosaur's cells and body from fossils, so he took the fossil home right away and ran experiment after experiment.",
+    "In the end, the experiment succeeded.",
+    "When he brought it back to life, he deliberately left out its mind and memories. So he could control it however he liked.",
+    "From then on, Megasaurus was in Yamijin's hands...",
+    "Yamijin entrusted Megasaurus with the key to the place where his secret information was stored, and built its mind so that it would never hand the key to anyone but him, no matter what. He figured that no matter how carefully he guarded it himself, there would be holes. But Megasaurus had invincible power.",
+    "Yamijin was completely convinced that Megasaurus was invincible.",
+    "He also built things he could mass-produce, like the Grand Cruiser and the Big Slime.",
+    "But when {player} defeated Grand Cruiser II, the next-generation Grand Cruiser, Yamijin decided to crush {player} with Megasaurus.",
+    "But {player} wiped Megasaurus out.",
+    "{player} wiped out the fruit of all his hard work.",
+    "And that wasn't all.",
+    "While fighting {player}, Megasaurus got its true heart back.",
+    "And it entrusted the key to {player}.",
+    "Yamijin's plan began to fall apart.",
+    "Losing the key hit Yamijin far too hard.",
+    "Yamijin: Dammit. If it's come to this, I'll just have to crush him myself..."
+  ],
+  "arkhaia_city.boss8.truth_moves": "The truth of the story began to move. Slowly, ever so slowly...",
+  "arkhaia_city.punishment_room": "Pun. Ish. Ment. Room.",
+  "arkhaia_city.traveller": "Traveler: Let's rest around here today. Right, Shade?",
+  "arkhaia_city.chest": "This looks like a chest of drawers. But there doesn't seem to be anything in it you'd need for your adventure.",
+  "arkhaia_city.vase": "There are flowers in a vase. How pretty.",
+  "arkhaia_city.table": "Looks like a dining table. But there doesn't seem to be anything on it you'd need for your adventure.",
+  "arkhaia_city.trophy": "It's some kind of trophy. Looks like a kid won it for something. It's very impressive.",
+  "arkhaia_city.figure": [
+    "Huh? There's a Gakishonen figure here.",
+    "Child 1: Oh, that? I got it from a capsule toy machine, but the one I wanted was the Imp figure, so you can take it. Like a souvenir of your visit to this house.",
+    "{player}: Oh, really? Thanks a bunch."
+  ],
+  "arkhaia_city.person8": "Person 2: Today I'm going to the Arkhaia Department Store to eat. Their ice cream is delicious, you know.",
+  "arkhaia_city.person9": "Person 2: Don't ask me why the Arkhaia Department Store sells weapons. It's a game, okay?",
+  "arkhaia_city.person10": "Person 3: My, what lovely weather today!",
+  "arkhaia_city.person11": "Person 4: Huh? I told him to meet me here, and he's already thirty minutes late, what is that guy even thinking, geez.",
+  "arkhaia_city.security_robot": "Looks like this is a security robot. If you do something bad, it apparently sends the information to the police station. Pretty clever.",
+  "arkhaia_city.flowerbed.look": "It's an ordinary flowerbed. Looks like they take good care of nature here too.",
+  "arkhaia_city.flowerbed.prompt": "Dig around in the flowerbed?",
+  "arkhaia_city.flowerbed.nothing": "But there doesn't seem to be anything unusual in it.",
+  "arkhaia_city.flowerbed.found": "Huh? There's a Sabon Fruit in here. Since I found it, I'll just take it.",
+  "arkhaia_city.person14": "Child 1: Those flowers over there are so pretty. Maybe I'll cut some and take them home.",
+  "arkhaia_city.person15": "Child 2: Yaaawn, I'm hungry.",
+  "arkhaia_city.person16": "Resident 1: Hello. The kids are outside right now. If you have some free time, please play with our kitty.",
+  "arkhaia_city.person17": "Resident 2: I'm off work today. I hardly ever get time to relax with my wife, so I want to treasure this time. Oh, and with the kids too.",
+  "arkhaia_city.person18": "Resident: You know what, I'm drinking this Super Sesamin Drink I saw on a TV shopping channel. Apparently it makes you lose weight and look younger. I'm already 83, you see. I can't get by without relying on stuff like this. I want to stay young even as I get older.",
+  "arkhaia_city.person19": "Resident 1: My husband works in Crystal City.",
+  "arkhaia_city.person21": "Child 2: My big brother loves hanging out with all kinds of people. That's why he's so popular with everyone. He's what you call friendly, huh.",
+  "arkhaia_city.person22": "Resident 1: We've gotten old, haven't we. The children moved out long ago, and we're lonelier than you can imagine. We got so lonely that we got a cat. Please give it some love if you like.",
+  "arkhaia_city.person23": "Resident 2: When I was young, I used to wander around outside town with the children and do all sorts of things. We've been to the sea and the mountains hundreds of times. Experience is very important, you know. I hope the children are living good, happy lives.",
+  "arkhaia_city.person24": "Resident 1: We just got married three days ago. I want to live happily with my lovely wife.",
+  "arkhaia_city.person25": "Resident 2: We got married three days ago!! Just me and my husband! It's so much fun!!",
+  "arkhaia_city.store_fan.intro": "Person: This is where the Arkhaia Department Store is. Even an arcade and stuff like that is packed into this building. Awesome, right?",
+  "arkhaia_city.store_fan.gift": [
+    "Oh, right. They sell some pretty stylish stuff at the Arkhaia Department Store. I'll give you one.",
+    "{player}: Oh, thank you very much.",
+    "Person: Just so you know, this goes in your Collection Items. Don't get confused."
+  ],
+  "arkhaia_city.sword.time_back": [
+    "Merchant: Yes, yes, it worked! Looks like time is back to normal. Now I can go in too.",
+    "{player}: That's great! Well then, let's go right away!",
+    "I want to go in too, so please let me through.",
+    "Merchant: Oh, sorry, sorry. Well, I'm off."
+  ],
+  "arkhaia_city.sword.found": "Huh? There's a merchant here.",
+  "arkhaia_city.sword.meet": [
+    "Merchant: Hi there.",
+    "{player}: Oh, hello.",
+    "Merchant: I came to Arkhaia City to sell weapons for fighting the monsters outside, but...",
+    "{player}: Is something wrong?",
+    "Merchant: Take a look. It seems like time has stopped from here on.",
+    "The plaza over there doesn't seem to be stopped. The folks there are always sunbathing outside, apparently. I wonder if they haven't noticed?"
+  ],
+  "arkhaia_city.sword.frozen": [
+    "{player}: Whaaaaaat?!",
+    "I, i, it's true... Everyone is frozen stiff and not moving...!!",
+    "Wh, what on earth is going on? Please tell me!",
+    "Merchant: Sorry. I don't know either.",
+    "{player}: Anything will do. Like maybe there's a spell on them, or everyone's thirsty because it hasn't rained!",
+    "Merchant: (I can barely keep from laughing.)",
+    "Merchant: Calm down. Anyway, something strange is definitely going on.",
+    "{player}: Then I'm going in there. Please don't stop me, I'm begging you!"
+  ],
+  "arkhaia_city.sword.thrown": [
+    "{player}: Waaaaaah!",
+    "Merchant: Oww! Don't come flying into me like that.",
+    "Hm? That's strange. The town gate is way over there, and you got thrown all the way here? Something's not right.",
+    "That's at least 5 meters.",
+    "Are you okay?!",
+    "{player}: Uuuugh... I'm not okay... I hit myself...",
+    "Merchant: What a pickle. If I can't get into town, I can't do business.",
+    "I know. I'll give you the Light Shards I didn't sell yesterday. If I can't get into town, I can't sell anything anyway.",
+    "{player}: Are you sure? I can just have them?",
+    "Merchant: Sure.",
+    "{player}: Thank you very much. I really appreciate it."
+  ],
+  "arkhaia_city.sword.shards": [
+    "{player}: My wounds hurt pretty bad, so I'm going to use one, I hope that's okay. I'm really grateful.",
+    "Merchant: Yeah, it doesn't look like eating something would fix that."
+  ],
+  "arkhaia_city.sword.offer": [
+    "{player}: Aaah, that feels so much better!",
+    "{player}: Thank you very much. You really saved me.",
+    "Merchant: Glad to hear it.",
+    "So, changing the subject.",
+    "{player}: What is it?",
+    "Merchant: This one won't be free, though.",
+    "The merchant said this while showing {player} a long, silvery gleaming sword.",
+    "This is a Long Sword. It's an improved version of the Short Sword, just as easy to use, but about 2 meters longer. Basically, you can think of it as a longer Short Sword.",
+    "It's considered very useful around here.",
+    "{player}: Could you sell me that sword?",
+    "Merchant: Sure, as long as you have the money. It's 4500 yen, though."
+  ],
+  "arkhaia_city.sword.offer_no_money": [
+    "{player}: Oh... I don't have that much.",
+    "Merchant: I see. Well, talk to me when you've saved up the money and I'll sell it to you.",
+    "{player}: Okay, I'll definitely do that."
+  ],
+  "arkhaia_city.sword.offer_buy": [
+    "{player}: I'll buy it.",
+    "Merchant: Got it.",
+    "{player}: Here you go, 4500 yen."
+  ],
+  "arkhaia_city.sword.offer_bought": [
+    "Merchant: Received, thank you. Go on, it's yours.",
+    "{player}: Thank you very much."
+  ],
+  "arkhaia_city.sword.take_care": "Merchant: Take care out there.",
+  "arkhaia_city.sword.buy_prompt": "Buy the Long Sword?",
+  "arkhaia_city.sword.no_money": "You didn't have enough money.",
+  "arkhaia_city.person1.lines": [
+    "You can't live in this town unless you have money, you know. Ohohohohohohohooo!",
+    "I live in a four-story house, you know. Jealous, aren't you?",
+    "I always eat delicious feasts, you know. Ohohohohohohohoho!",
+    "I'm beautiful, aren't I?",
+    "Isn't this dress cute?"
+  ],
+  "arkhaia_city.person1.says": "Person 1: {line}",
+  "arkhaia_city.person2.lines": [
+    "The lady next door likes to act all cute, so she exaggerates a bit. She doesn't say anything sensible, so watch out. Her house really is big, but it looks like it's only three stories.",
+    "So hot, so hot. This whole town is concrete, so it's ridiculously hot. I wanna go to the countryside.",
+    "This town has all kinds of shops, so go check them out. If you're short on money, you can earn a good bit by beating the things wandering around outside.",
+    "Lately there are a lot more dangerous things outside. The Gakishonen and the dragons used to live in the mountains, you know. Same with the slimes and everything. And the bats never used to attack people like that. Something's off.",
+    "The police and the guards in this town are pretty strict, so you'd better be careful. If you pull out a weapon that could kill someone outside, you'll get arrested."
+  ],
+  "arkhaia_city.person2.says": "Person 2: {line}",
+  "arkhaia_city.lady.gift": [
+    "Young lady: Excuse me, you there?",
+    "{player}: Wh, what is it?",
+    "Young lady: This town takes quite a lot of money. You understand, don't you?",
+    "{player}: Yeah, I get that.",
+    "Young lady: I like giving people money. How much do you have right now?",
+    "{player}: Um, about {money} yen?",
+    "Young lady: Hmm. Then I'll give you this.",
+    "{player}: Whaaat, are you suuure?",
+    "Young lady: Shhh, don't be so loud. The police are watching.",
+    "{player}: Th, th, thank you very much."
+  ],
+  "arkhaia_city.lady.got": "You got a whole 1000 yen!",
+  "arkhaia_city.lady.later": "Young lady: Spend your money wisely.",
+  "arkhaia_city.police.lines": [
+    "We keep the peace in this great city. If you do anything bad, we'll arrest you and throw you in prison, so be very careful.",
+    "We are always on strict watch. If anything happens, we'll catch anyone, no mercy. By any means necessary.",
+    "You seem to be from out of town, but if you do anything bad, I'll shoot.",
+    "We always keep the city safe. We'd like you to be grateful that we're here.",
+    "We devote ourselves to the citizens, always and forever. The citizens should respect us, and worship us."
+  ],
+  "arkhaia_city.police.says": "Police officer: {line}",
+  "arkhaia_city.phantom.police": "Police officer: Oh? You are... hehehehehe.",
+  "arkhaia_city.phantom.suspicious": "Something seems fishy?",
+  "arkhaia_city.phantom.where": [
+    "{player}: Hm? Where am I? Waaah!",
+    "Wh, wh, what is thaaaat?!",
+    "What on earth is that over there?"
+  ],
+  "arkhaia_city.phantom.no_way": "N, no way...",
+  "arkhaia_city.phantom.screams": [
+    "Friend 1: Waaaaah! H, hel... p...",
+    "Friend 2: Kyaaaaaaaaaah!",
+    "Friend 3: Gahh... y, you... how... dare..."
+  ],
+  "arkhaia_city.phantom.vision": [
+    "Yes. What {player} saw was his friends being slashed apart by Yamijin and the Grand Cruiser.",
+    "His friends coughed up blood and collapsed face-down on the ground. And Yamijin, laughing a horrible laugh, kept on slashing his friends' mangled bodies.",
+    "The blade was dyed bright red, and it attacked his friends like a living thing that devours lives."
+  ],
+  "arkhaia_city.phantom.despair": [
+    "{player}: N, no... why, why...",
+    "You promised you'd wait for me at home...",
+    "Please. Tell me it's a lie...!",
+    "But that wish went unanswered."
+  ],
+  "arkhaia_city.phantom.stop": [
+    "{player}: S... stop it! It hurts... it's so sad... it's so painful..."
+  ],
+  "arkhaia_city.phantom.gone": [
+    "As soon as he finished saying that, the vision {player} had been seeing vanished into thin air.",
+    "And, to his surprise, the police officer who had been standing there was gone.",
+    "It turned out that police officer had been created by Yamijin.",
+    "{player}: Anyway, I have to find out what's really going on. I'm going home.",
+    "And so, {player} decided to head back home."
+  ],
+  "arkhaia_city.child1.lines": [
+    "I wonder if that police guy over there is a narcissist.",
+    "I'm so boooored.",
+    "Why is that lady over there wearing a dress outside?",
+    "Oh, it's so hot. There's only about half the water left in my water bottle.",
+    "What should I dooo?"
+  ],
+  "arkhaia_city.child1.says": "Child 1: {line}",
+  "arkhaia_city.girl.lines": [
+    "Ewww, that police officer over there is sooo uncool. Gross, fatso, that face is like, seriously the worst, he's super grooooss!",
+    "Aaaaaah! I'm so boooooored!",
+    "OMG lolololol! That cop is total chaos lolololol! I'm dying lolol, no wait, it's over for him lolololol!!!!!!",
+    "I'm like, a total mayo addict. I love slurping mayo straight from the bottle!!!!!!",
+    "So hooot, ugh, this heat is insane lolololol. If only there was air conditioning outside, (rest omitted)"
+  ],
+  "arkhaia_city.girl.says": "Brown-haired girl?: {line}",
+  "arkhaia_city.gate.entrance": "It's the entrance to Arkhaia City."
+}
