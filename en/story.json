@@ -12,6 +12,7 @@
     "Quit"
   ],
   "title.menu.language": "Language / 言語",
+  "language.prompt": "Language / 言語. Up and down to choose, Enter to confirm. / 上下キーで選んで、Enterで決定。",
   "language.changed": "Switched to English.",
   "language.failed": "The language could not be switched.",
   "title.exit.confirm": "Do you really want to quit the game? Your progress will not be saved.",

@@ -12,6 +12,7 @@
     "終了"
   ],
   "title.menu.language": "Language / 言語",
+  "language.prompt": "Language / 言語. Up and down to choose, Enter to confirm. / 上下キーで選んで、Enterで決定。",
   "language.changed": "日本語に切り替えました。",
   "language.failed": "言語を切り替えられませんでした。",
   "title.exit.confirm": "ゲームを終了してもよろしいですか?セーブは行われません。",
