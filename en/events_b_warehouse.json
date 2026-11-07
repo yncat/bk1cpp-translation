@@ -1,0 +1,122 @@
+{
+  "warehouse.lodewarp.message": "Looks like you can warp to just outside Arkhaia City.",
+  "warehouse.lodewarp.prompt": "Warp, as usual?",
+  "warehouse.matsutake": "Oh, there's a matsutake mushroom here. They're rare, so I'll gratefully take it.",
+  "warehouse.light_shard": "Yaaay! There's a Light Shard on the ground. I'll gratefully take it.",
+  "warehouse.bookshelf": "There's a big bookshelf here. It's full of science books, and books on how to be a thief. How on earth did they get hold of these?",
+  "warehouse.yamijin.taunt": [
+    "{player}: What? No \"Kwiiiiihihihihihiiiii!\" today?",
+    "Yamijin: Shut up, shut up! How dare you mess up my plan! I won't forgive you, nya!",
+    "{player}: You never change, huh? Still with that half-baked cat talk. Weren't you a cat in your past life?",
+    "Yamijin: Th, th, this is not cat talk, nya!",
+    "{player}: Sure sounds like cat talk.",
+    "Yamijin: Ugh...",
+    "{player}: Oh, by the way. The key I'm carrying looks like it wants to tell me something, so mind if I listen to it for a sec? Looks like my cute little Dark Room Key wants to beat you to a pulp."
+  ],
+  "warehouse.yamijin.key_throw": [
+    "Yamijin: What?! You mean the power hidden in that key, which even I couldn't figure out, wants to be set free on its own?",
+    "{player}: Uh-huh, uh-huh. I kind of get it. Alright, Dark Room Key, little buddy. I'm counting on you!",
+    "Hyah!",
+    "{player} pointed the tip of the Dark Room Key at Yamijin and threw it!"
+  ],
+  "warehouse.yamijin.drained": [
+    "Yamijin: M, my power...",
+    "{player}: Whoooa! Yamijin is so happy!",
+    "Yamijin: I, I'm not happy!!",
+    "{player}: Sure you are. Bwahahahahahaaaa!"
+  ],
+  "warehouse.yamijin.powered": [
+    "{player}: Huh. So it's sharing the energy it sucked out with me.",
+    "Alriiight. My power's overflowing. I'm all fired up!",
+    "Alright! I'm gonna beat you to a pulp! Get ready! Kyahahaha!"
+  ],
+  "warehouse.yamijin.beaten": [
+    "{player}: How about thaaat!",
+    "Yamijin: I... I give up... I'm all floppy now, nyaa...",
+    "{player}: Oh, I see, I see. Well then, I'll get you out of here right now, so go rest at the Evil Mansion or something. Gotta take care of your body, you know.",
+    "Yamijin: Don't tell me... through this broken window..."
+  ],
+  "warehouse.yamijin.throw_out": "{player}: Toooryaaaah!",
+  "warehouse.yamijin.won": [
+    "{player}: Yaaay! I won, I won!",
+    "But what am I supposed to do now?"
+  ],
+  "warehouse.password.look": "{player}: Oh, is this it?",
+  "warehouse.password.note": "Password: orawayamizinndanyan",
+  "warehouse.keywarp.prompt": "Looks like you can warp outside this building. Warp?",
+  "warehouse.pc.logon_prompt": "Enter the logon password.",
+  "warehouse.pc.intro": "This looks like a simple computer.",
+  "warehouse.pc.start.title": "Start menu",
+  "warehouse.pc.start.items": [
+    "Outlook Express. Tooltip: Sends and receives e-mail and newsgroup messages.",
+    "My Documents. Tooltip: Contains letters, reports, and other documents and files.",
+    "Shut down"
+  ],
+  "warehouse.pc.mail.prompt": "Look at the e-mail?",
+  "warehouse.pc.mail.title": "Mail list box",
+  "warehouse.pc.mail.items": [
+    "1. Subject: How are things? From: Yokotank",
+    "2. Subject: Re: How are things? From: Yokotank",
+    "3. Subject: Re 2: How are things? From: Yokotank",
+    "4. Subject: Re 3: How are things? From: Yokotank",
+    "5. Subject: Re 4: How are things? From: Yokotank",
+    "6. Subject: Re 5: How are things? From: Yokotank",
+    "Exit"
+  ],
+  "warehouse.pc.mail.bodies": [
+    "Hello. How are things going? Right now I'm sitting around some matsutake mushrooms and barbecue. If you don't hurry back, I might eat it all myself.",
+    "To Yamijin. Hello. How are things going? Over here, I've taken monsters to the next town and I'm waiting for them to come back. How about on your end?",
+    "I see. So you let the kid get away. That {player} guy or whatever lives in Crystal City, huh. If you know where his house is, go see if there's any food there. Thanks.",
+    "I see. That's good to hear. So, what should we do about this {player} guy? If Grand Cruiser II got wrecked, why not just let Megasaurus take care of him? No good? Thanks.",
+    "Oh, is that so. Make sure you tell Megasaurus not to eat all of him, okay? I want to eat {player} too, so I'm getting the barbecue ready, lol.",
+    "I hear Megasaurus got beaten. Well, isn't that a big problem. I was planning to eat him, but oh well. I'll get that thing ready, so buy us some time. Thanks."
+  ],
+  "warehouse.pc.docs.title": "My Documents list box, list items",
+  "warehouse.pc.docs.items": [
+    "Food Plunder Plan 1.txt",
+    "Food Plunder Plan 2.txt",
+    "Food Plunder Plan 3.txt",
+    "Food Plunder Plan 4.txt",
+    "Food Plunder Plan 5.txt",
+    "Exit"
+  ],
+  "warehouse.pc.docs.bodies": [
+    "Part 1: Send Gakishonen, dragons and slimes into Crystal City. Give them no food at all and have them wander the town looking for food, throwing the residents into chaos.",
+    "Part 2: At Friendship Park in Crystal City, take a hostage, anyone will do, and demand food. Collect all the food from that person's house. Grand Cruiser carries the collected food to headquarters and delivers it to Lord Yokotank.",
+    "Part 3: Whoa, a crazy incident happened. Some weirdo called {player} or whatever beat our guard monster. And unluckily, we got spotted at the house. No choice but to switch to plan B and kill the kid. Target changed to a different house.",
+    "Part 4: Aww, {player} saved the kid, so Crystal City is off the target list. Instead, stop time in Arkhaia City, make Crystal City peaceful, and lure {player} to Arkhaia City. Once {player} is away from town, take {player}'s friends hostage and pick on them. After a while, kill the friends. Collect the food from the house. Then, when {player} comes to the mansion, smash him to bits with Grand Cruiser II.",
+    "Part 5: Grand Cruiser II was defeated. Contacted Lord Yokotank and decided to have little Megasaurus crunch and munch him to pieces. I'm counting on you, my cute little Me, ga, sau, rus, sweetieeeee."
+  ],
+  "warehouse.pc.shutdown_error": "Error: Several files are in use by other applications. If you shut down the computer now, data may be corrupted or the system may become unstable. Please wait a while and then try shutting down again.",
+  "warehouse.truth.read": "{player}: I've read it all...",
+  "warehouse.truth.summary": [
+    "The one behind this whole mess was Yokotank.",
+    "What Yokotank is, or what he is after, I don't know.",
+    "But Yokotank and Yamijin were exchanging e-mails.",
+    "And in them, Yokotank was clearly trying to gather food for himself.",
+    "Yamijin also seemed to be working for Yokotank.",
+    "Then a person named {player} came along, someone trying to get in the way of their plan, and little by little Yamijin and the others started thinking about getting rid of this \"{player}\".",
+    "And so Megasaurus was sent out as their ultimate weapon.",
+    "Since I beat it, Yamijin has almost no way left to fight back.",
+    "Even losing the secret key was a mistake that happened because they left everything to Megasaurus.",
+    "Anyway, now I've got hold of most of the truth.",
+    "My goal. It's to expose the truth about Yamijin and Yokotank's Food Plunder Plan.",
+    "And to stop it...!"
+  ],
+  "warehouse.rock.used": "It's the rock where that weird text appeared the other day. But nothing in particular happens now.",
+  "warehouse.rock.found": "Huh? There's a rock with a key pattern drawn on it.",
+  "warehouse.rock.prompt": "Place the key on it?",
+  "warehouse.rock.clue": [
+    "Some text has appeared!",
+    "1u4l2u7r2d3r1u4l3u5r1d1r3d",
+    "{player}: Huh? That makes no sense! You stupid rock! Just say it clearly!"
+  ],
+  "warehouse.rock.warp_up": [
+    "{player}: Woohooo! Another warp!!",
+    "Well, looks like it just teleported you to the other side of the rock."
+  ],
+  "warehouse.rock.warp_down": [
+    "{player}: Hey, hey, hey! Another warp?!",
+    "Well, looks like it just teleported you to the Arkhaia City side."
+  ]
+}
