@@ -1,0 +1,97 @@
+{
+  "flame_town.reentry.message": "You can head back into Flame Town.",
+  "flame_town.reentry.prompt": "Go back to the town?",
+  "flame_town.exit_forward.refuse": "{player}: No way. I can't just leave a town with monsters running all over it. Besides, it looks exactly like what I saw in my dream. There's no way I can go...",
+  "flame_town.exit.message": "You can leave the town.",
+  "flame_town.exit_forward.prompt": "Go on ahead?",
+  "flame_town.shop.intro": "Merchant: Hello. The Gakishonen broke my door, so the place looks pretty shabby, but have a look if you like. All the food got eaten. Sorry about that.",
+  "flame_town.shop.title": "Choose an item to buy.",
+  "flame_town.shop.items": [
+    "100 slingshot balls, 500 yen. Cheaper than in Arkhaia.",
+    "Buster Blade, 24000 yen. The strongest sword.",
+    "Arrow Shot, 15500 yen. Shaped like an easy-to-use gun, it fires sharp arrows.",
+    "100 Iron Arrows, 2000 yen. Arrows for the Arrow Shot.",
+    "Check out",
+    "Money"
+  ],
+  "flame_town.shop.thanks": "Thank you very much.",
+  "flame_town.shop.owned": "You already have this.",
+  "flame_town.dying_man.words": "Person 1: Damn it... that monster bastard... how dare he kill my precious daughter... I'll never... forgive... him... I'd rather... go... with her...",
+  "flame_town.dying_man.after": [
+    "{player}: Aaaaaah!",
+    "He... he died!",
+    "Right in front of you, a person suffered, and then died.",
+    "That reality was too painful for {player}, who stayed there for a while with his hands together, crying."
+  ],
+  "flame_town.person2": "Person 2: Oh, I'm so hungry... And this heat, too. Somebody do something about it.",
+  "flame_town.person3": "Person 3: Oh, I'm so tired... What's going to happen to us...?",
+  "flame_town.child1": "Child 1: Waaaaaah! I'm hungry! I want something to eat! Sniff, sniff sniff, waaaaaaah! Waaaaaah! Waaaaaaaaaaah! Mommy! Mommy! Where are you, Mommy!",
+  "flame_town.gaki.taunts": [
+    "Hey, you there! Are you giving me a look like you wanna pick a fight?! Huh?!",
+    "Huh? Who the heck are you?! You don't look like you're from this town! Don't tell me you came to share food with these lowlifes! Well, whatever, killing is fun! Kyahahaha!",
+    "Youuuu! I'm super ticked off right now! I'm gonna kill you!",
+    "Hey, you! Fight me!",
+    "Oho. So you want to become a lump of meat too. Bwahahahahahaaaa!"
+  ],
+  "flame_town.gaki.remains": "What used to be a Gakishonen is lying here.",
+  "flame_town.gaki.says": "Super Gakishonen: {line}",
+  "flame_town.gaki.defeats": [
+    "Ugaaaah! I give up!",
+    "Dammit! But you know, I've got plenty of buddies besides me!",
+    "Ugh, how dare you beat me... You'd better remember this!",
+    "Dang it! I lost! Me, I actually lost! Daaaamn it!",
+    "Gwah! Nice one... I'm no match for you... But it's way too early to relax!"
+  ],
+  "flame_town.gaki.after": [
+    "{player}: How about thaaat!",
+    "Super Gakishonen: {line}"
+  ],
+  "flame_town.cleared": [
+    "Traveler 1: Alright! We got all of them!",
+    "Traveler 2: Done over here too!",
+    "Traveler 3: All clear!",
+    "Traveler 1: You. You did great. Now, once the food rations arrive, the town should manage for a few days. Looks like the dragons and the rest have pulled out too. Thank you, really. We might not have beaten that many on our own.",
+    "This is just a small token of thanks, but please take it.",
+    "You got 20000 yen!",
+    "Traveler 3: There's a shop at the back of this town. They have powerful weapons there. But they're pretty expensive, so put this toward buying one. Thank you.",
+    "Traveler 2: Well, let's go home. This place is creepy, so let's get out of here! Hurry!",
+    "{player}: Thank you very much..."
+  ],
+  "flame_town.person4": "Person 4: Oh... so hot... so hungry... And it hurts, 'cause a Gakishonen beat me to a pulp...",
+  "flame_town.girl": "Girl: I've decided! I'm leaving! I don't want to live in a place like this! I'm going to live happily and peacefully in the next town! Don't get in my way!",
+  "flame_town.joker": [
+    "Person 5: You know, they made fourteen slots for us townspeople, but I think they made a few too many. Looks like they've run out of material.",
+    "{player}: Why are you so cheerful? And what nonsense are you even talking about? Are you the author or something?",
+    "Person 5: Ahh, don't ask about that part.",
+    "{player}: What the heck."
+  ],
+  "flame_town.child3": "Child 3: Isn't there anything I can eat? Hmmm, oh! This! Oh well, it's just a weed, but I'll eat it raw! Better than starving to death!",
+  "flame_town.child4.thanks": "Child 4: Thanks a bunch for earlier. I'm rootin' for ya. Do your best, y'hear!",
+  "flame_town.child4.rations": "Child 4: In the end I got lucky and got some of the food rations, so I'm gonna survive on these for a while, no matter what. So I'm doin' fine. Thanks a bunch!",
+  "flame_town.child4.ask": "Child 4: What am I gonna do... I'm so hungry I'm 'bout to die... Could ya give me somethin' to eat?",
+  "flame_town.child4.give": [
+    "{player}: Oh, I've got a sweet bun. It'd be bad if someone else took it, so hide it while you eat. Sorry to the others, though.",
+    "Child 4: Oh, thank ya! As thanks, I'll give ya this weird marker I picked up the other day. Use it, okay?",
+    "{player} received a marker that shines in seven colors."
+  ],
+  "flame_town.child4.none": [
+    "{player}: Sorry, I don't have any. I'm really sorry.",
+    "Child 4: Aw, too bad. Well, I ain't gonna force ya, so take care of yourself too, y'hear.",
+    "Such kindness brought a few tears to {player}'s eyes."
+  ],
+  "flame_town.person6": "Person 6: It's just like back in the war.",
+  "flame_town.traveller1": "Traveler 1: Those Gakishonen punks! I'll make them rust on my sword! You, chase off the Gakishonen around here too!",
+  "flame_town.traveller2": "Traveler 2: You there! There are Gakishonen all over the town! Kick every last one of them out! Before the town fills up with dead people!",
+  "flame_town.traveller3": "Traveler 3: We're about to take down the Gakishonen in this town! You help too! There are too many to beat alone!",
+  "flame_town.entrance.message": "There's a town here.",
+  "flame_town.entrance.prompt": "Go into the town?",
+  "flame_town.intro": [
+    "{player}: Wh, what is thaaaat?!",
+    "There lay a town turned to ruins, in a terrible state.",
+    "Red liquid was splattered everywhere, and the townspeople wandered around in pain, searching for something.",
+    "And from somewhere, laughter could be heard.",
+    "{player}: Dammit! That Yokotank! He really did it!",
+    "{player} hurried toward the town."
+  ],
+  "flame_town.exit_back.prompt": "Head back toward Arkhaia City?"
+}

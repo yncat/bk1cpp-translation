@@ -1,0 +1,148 @@
+{
+  "arkhaia_store.swordsman": "Swordsman-looking guy: Doesn't this knife come with a cover or something? I want to keep it hidden in my pocket, but it's so sharp it'd probably cut right through my clothes.",
+  "arkhaia_store.strange_lady": [
+    "Suspicious young lady?: Ohohohohoho. Look what's here, things that would make perfect toys for me. With these, I could play with all sorts of people to my heart's content.",
+    "{player}: (Eeek... what is wrong with this lady... nah, maybe she just has really bad taste?)",
+    "Young lady: Oh my? Did you say something?",
+    "{player}: Ah, n, no, n, n, nothing at all!!"
+  ],
+  "arkhaia_store.car_kid": "Kid: I want that car in the claw machine. It's so cool. I want it so bad.",
+  "arkhaia_store.drummer": "Amateur drummer: Yeah, this is great. One song for 100 yen is nice. But Jupiter is such a ripoff. It's so short.",
+  "arkhaia_store.ufo_maniac": [
+    "Claw machine maniac: I just love studying claw machines.",
+    "This claw machine is built to be pretty hard to win. I'd say your chance of grabbing something is about 30 percent. But it looks like there's all sorts of stuff inside, so give it a try."
+  ],
+  "arkhaia_store.photo_kid": "Kid 2: Everyone's all about the claw machine, but this photo sticker booth is way more of a sure thing. There are two people around each of the other games, but in front of the photo booth it's just me... Is it not popular?",
+  "arkhaia_store.weapons.welcome": [
+    "Merchant: Heyyy. I'm the guy who was at the Arkhaia entrance. I've got all kinds of stuff in stock, so do buy something.",
+    "I mainly sell weapons and armor. I also sell items you can't travel without."
+  ],
+  "arkhaia_store.weapons.items": [
+    "Washtub, 500 yen. Junky, but it'll do for self-defense.",
+    "Glass Plate, 600 yen. Breaks quickly, but the shards do damage.",
+    "Aluminum Plate, 1250 yen. A hard aluminum plate.",
+    "Big Washtub, 1500 yen. Pretty strong.",
+    "Whip, 4000 yen. Tame your enemies from far away.",
+    "Bronze Knife, 10000 yen. A very sharp knife, capable of a quick triple attack.",
+    "100 slingshot balls, 600 yen. Exactly what it says.",
+    "Light Shard, 1000 yen. Restores 150 HP.",
+    "Red marker, 50 yen. Place it to mark a spot.",
+    "Blue marker, 50 yen. Place it to mark a spot.",
+    "Yellow marker, 50 yen. Place it to mark a spot.",
+    "Green marker, 50 yen. Place it to mark a spot.",
+    "Check out",
+    "Money"
+  ],
+  "arkhaia_store.weapons.title": "Choose what to buy.",
+  "arkhaia_store.weapons.owned": "You already have this.",
+  "arkhaia_store.weapons.cant_afford": "Looks like you can't afford it with the money you have right now.",
+  "arkhaia_store.weapons.checkout": [
+    "Clerk: Checking out, huh?"
+  ],
+  "arkhaia_store.weapons.points_added": "Clerk: You earned {points} points on your Arkhaia Department Store point card.",
+  "arkhaia_store.weapons.use_points": "Clerk: You've got {points} points saved up on your Arkhaia Department Store point card. Want to use them?",
+  "arkhaia_store.weapons.discount": "Clerk: Got it. I'll take {points} yen off, then.",
+  "arkhaia_store.washtub": "Huh, someone left a washtub here. Looks like it could work as armor, so I'll just take it with me.",
+  "arkhaia_store.table": "It's a table where everyone eats.",
+  "arkhaia_store.bento_fan": "Person 2: Mmm, that pork cutlet bento looks tasty. Maybe I'll eat it upstairs.",
+  "arkhaia_store.ramen_fan": [
+    "Person 2: Hmmm, why don't they have pork bone ramen here?",
+    "{player}: Good point... I wonder why?"
+  ],
+  "arkhaia_store.shopper1": [
+    "Person: I heard Light Shards aren't food, so they don't sell them here.",
+    "{player}: Huh."
+  ],
+  "arkhaia_store.takoyaki_fan": [
+    "Person: Wh, whaaaaaat?! Why is this takoyaki so darn good?!",
+    "Dang it! Why is there takoyaki in a place like this?! Everybody knows takoyaki belongs in Osakaaaa!",
+    "Aaaah! You think so too, right?!",
+    "{player}: Don't ask me...",
+    "Person: Usually, when I leave a restaurant, I tell 'em \"That was delicious!\", but this time I ain't sayin' it, no way!",
+    "{player}: Uh-huh..."
+  ],
+  "arkhaia_store.restaurant.welcome": [
+    "Clerk: Welcome! This is the cafeteria!",
+    "We have all kinds of dishes, so please, help yourself!"
+  ],
+  "arkhaia_store.restaurant.items": [
+    "Rice, 150 yen",
+    "Large rice, 300 yen",
+    "Salt ramen, 350 yen",
+    "Soy sauce ramen, 350 yen",
+    "Miso ramen, 350 yen",
+    "Roast pork ramen, 480 yen",
+    "Crispy noodles, 420 yen",
+    "Green onion miso ramen, 350 yen",
+    "Tempura with cold udon, 600 yen",
+    "Tempura with cold soba, 600 yen",
+    "Takoyaki, 300 yen",
+    "Akashi-style takoyaki, 400 yen",
+    "Super green onion miso roast pork deluxe ramen, 850 yen",
+    "Pork cutlet set meal, 900 yen",
+    "Houtou noodle stew, 620 yen",
+    "Rib roast steak, 1000 yen",
+    "Fruit parfait, 500 yen",
+    "Vanilla ice cream, 500 yen",
+    "Strawberry ice cream, 500 yen",
+    "Check out",
+    "Money"
+  ],
+  "arkhaia_store.restaurant.title": "Choose what you want to eat.",
+  "arkhaia_store.restaurant.waiter": [
+    "Here's your rice. It's Koshihikari from Niigata.",
+    "Here's your rice. It's Koshihikari from Niigata. A large serving!",
+    "Salt ramen, here you go. It comes with thick noodles.",
+    "One soy sauce ramen. It's loaded with bamboo shoots.",
+    "Miso ramen, here you go. The rich miso flavor is very popular.",
+    "Roast pork ramen, here you go. We're really picky about our roast pork, so the price ended up high. The roast pork is exquisite.",
+    "Crispy noodles, here you go. Please enjoy them before they go soggy.",
+    "One green onion miso ramen. It's miso ramen topped with lots of green onions.",
+    "Tempura with cold udon, here you go. It's a set of tempura and udon.",
+    "Tempura with cold soba, here you go. It's a set of tempura and soba.",
+    "Takoyaki, here you go. Add mayonnaise and sauce as you like.",
+    "Akashi-style takoyaki, here you go. Please pour this broth over the crispy fried takoyaki and enjoy.",
+    "Yes, one super green onion miso roast pork deluxe ramen. I think this alone will fill you right up.",
+    "Pork cutlet set meal, here you go. It's a pork loin cutlet, so it's quite hearty.",
+    "Yes, houtou. You hardly ever get to eat this around here.",
+    "One rib roast steak. The iron plate is hot, so please be careful while eating. The sauce is teriyaki.",
+    "Fruit parfait, here you go. It's packed with all kinds of fruit.",
+    "Vanilla ice cream, here you go. It comes with corn flakes on top.",
+    "Strawberry ice cream, here you go. It's popular because it's piled high with strawberries."
+  ],
+  "arkhaia_store.restaurant.recovered": "Recovered {hp} HP.",
+  "arkhaia_store.restaurant.full": "I'm already full.",
+  "arkhaia_store.restaurant.checkout": [
+    "Clerk: Yes, checking out."
+  ],
+  "arkhaia_store.restaurant.points_added": "Clerk: You've earned {points} points on your Arkhaia Department Store point card, so please make use of them.",
+  "arkhaia_store.restaurant.use_points": "Clerk: Um, you have {points} points saved up on your Arkhaia Department Store point card. Would you like to use them?",
+  "arkhaia_store.restaurant.discount": "Clerk: Certainly. Then we'll take {points} yen off.",
+  "arkhaia_store.stairs.down": "There are stairs going down. Go down to the floor below?",
+  "arkhaia_store.stairs.up": "There are stairs going up. Go up to the floor above?",
+  "arkhaia_store.food.welcome": [
+    "Clerk: This is the first floor of the Arkhaia Department Store.",
+    "We sell food here."
+  ],
+  "arkhaia_store.food.items": [
+    "Rice Ball, 185 yen",
+    "Matsutake Mushroom, 700 yen",
+    "Sweet Bun, 87 yen",
+    "Sabon Fruit, 98 yen",
+    "Pork Cutlet Bento, 400 yen",
+    "Giant Rice Ball, 315 yen",
+    "Egg Sandwich, 198 yen",
+    "Ham Sandwich, 210 yen",
+    "Sports Drink, 128 yen",
+    "Stamina Drink, 398 yen",
+    "Check out",
+    "Money"
+  ],
+  "arkhaia_store.food.title": "Choose an item to buy.",
+  "arkhaia_store.food.checkout": [
+    "Clerk: Yes, checking out."
+  ],
+  "arkhaia_store.food.points_added": "Clerk: There you go, you've earned {points} points on your Arkhaia Department Store point card.",
+  "arkhaia_store.food.use_points": "Clerk: Um, you have {points} points saved up on your Arkhaia Department Store point card. Would you like to use them?",
+  "arkhaia_store.food.discount": "Clerk: Certainly. Then we'll take {points} yen off."
+}

@@ -1,0 +1,202 @@
+{
+  "crystal_mansion.friends.panel": [
+    "Friend 3: This is it.",
+    "{player}: Huh? So this really was a Warp Panel?",
+    "Friend 3: Huh? You said it was a Warp Panel a minute ago, didn't you?",
+    "{player}: Well, I wasn't sure.",
+    "Friends 1 and 2: Ahahahahahahahahaha!",
+    "{player}: D, don't laugh, you jerks!",
+    "Friend 3: Aw, who cares. Okay, we'll use this to fly home.",
+    "{player}: Huh? How can we fly home with it?",
+    "Friend 2: Yamijin made us watch him do all kinds of stuff, so we know how to change where a Warp Panel goes.",
+    "Friend 3: Pretty awesome, right? Apparently this thing can go anywhere.",
+    "Friend 1: Well, the person changing the destination has to know the place, though.",
+    "{player}: Huh. That's amazing.",
+    "Friend 2: Actually, that blackboard eraser thingy should be able to warp too, so we could send you all the way to Arkhaia if you want.",
+    "{player}: Th, that makes me kind of nervous.",
+    "Friend 3: Don't underestimate us. This is actually pretty easy. It's just locked with a password, that's all.",
+    "Friend 1: Yep, yep.",
+    "Friend 2: Okay, let's hurry up and go.",
+    "Friend 3: Right. While we're at it, let's slow down the transfer speed and enjoy the view on the way.",
+    "Friend 2: Ooh, nice, nice.",
+    "Friend 1: So that means jet type, not capsule type, right?",
+    "{player}: Excuuuse me. I have no idea what you're talking about?",
+    "Friend 3: Just watch. This is gonna be fun."
+  ],
+  "crystal_mansion.friends.speed": [
+    "Friend 3: Alright. Destination, our house. Then set it to jet type. Transfer speed, about 480 kilometers per hour should be fine.",
+    "{player}: Hey, that's too fast, it's scary.",
+    "Friend 3: Are you dumb? The normal speed is 1200 kilometers per hour. It's a warp, after all. Oh, whatever."
+  ],
+  "crystal_mansion.friends.ready": [
+    "Friend 1: All done. Shall we go, then?",
+    "Friend 2: Alright! Let's take it easy and enjoy the view.",
+    "Friend 3: Technically, you're not supposed to use it like this, though."
+  ],
+  "crystal_mansion.friends.flight": [
+    "Friend 3: Ow ow ow. The spot where {player} slashed me really hurts.",
+    "{player}: If you're gonna say that, think how much it hurt me.",
+    "Friend 3: Well, the Light Shards helped you out a lot, didn't they? YOU, I mean.",
+    "Friend 2: Yeah, yeah. Keeping them all to yourself isn't fair. Give us some Light Shards.",
+    "{player}: Let's just go home and sleep.",
+    "Friend 1: Whaaaat?",
+    "{player} and friends: Hahahahahahahahaha!",
+    "Friend 3: But seriously, {player}, why are you carrying such a dangerous thing?",
+    "{player}: Huh, this? As you can see, it's a sword. Shall I slice you up, sir?",
+    "Friend 3: Why you. If you slice me, I'll snatch it from you and beat you to a pulp, just like that resident of that house did that one ti"
+  ],
+  "crystal_mansion.friends.silenced": [
+    "Friend 2: Ooh, looks like he got silenced. Guess that was inconvenient for the author.",
+    "Friend 1: Speaking of which, {player}, do you know anything about that resident?",
+    "{player}: Hmm, no idea. Even if we met, the flag goes back to 0 when you go to an inn, so it's not saved right now.",
+    "Wait,"
+  ],
+  "crystal_mansion.friends.author": [
+    "Don't make me say weird stuuuuuuuff!",
+    "Author: I, I, I'm so sorryyyyy! P, please forgive meeeee!",
+    "{player}: Oh, don't mind that. I was just dealing with this weird person who's noisy, hopeless, stupid, a glutton but still skinny, and loves snacks."
+  ],
+  "crystal_mansion.friends.arriving": [
+    "Friend 1: Now {player} got silenced too.",
+    "Friend 3: So cold. We're almost there.",
+    "{player}: Yahooo! Time to finally relax at home for once."
+  ],
+  "crystal_mansion.friends.home": [
+    "{player}: Wow, we actually landed in the hallway.",
+    "Friend 2: Amazing, right? We landed close to the sofa, so let's sit down and talk.",
+    "Friend 3: Agreed.",
+    "Friend 1: We haven't really talked in a while, after all.",
+    "Friend 3: So here's the deal. If you try to go outside without going to the sofa, I'll grab you and drag you back, so make sure you come, okay?",
+    "Friend 2: Actually, let's all just race over there together.",
+    "Friend 1: Ooh, good idea.",
+    "{player}: Don't worry. Unless the player does something like that, I want to talk with everyone.",
+    "Friend 3: Right. It's up to the player."
+  ],
+  "crystal_mansion.iron_wall": "If you break this wall from up close, you'll get squashed flaaaat!",
+  "crystal_mansion.letter.desk": "There's a desk here. There's a letter on top of the desk.",
+  "crystal_mansion.letter.prompt": "Read the letter?",
+  "crystal_mansion.letter.before": "I moved the entrance to the Evil Mansion somewhere else, so if your foolish little heart really wants to save your friends, go ahead and find the entrance and come on in. But can you fiiind it, nyaaa? Kwiiiihihihihihiiiii!",
+  "crystal_mansion.letter.after": "Aww, looks like I messed up. But I've already cooked up my next plan, so look forward to it! Kwiiiihihihihihiiiii!",
+  "crystal_mansion.letter.friends": [
+    "Huh? Your friends came running over.",
+    "Friend 1: I think we'd better wait here after all.",
+    "Friend 3: Yeah.",
+    "Friends: Have a good triiiip!"
+  ],
+  "crystal_mansion.matsutake.offer": "Merchant: Hi there. I'm selling tasty matsutake mushrooms. They're 500 yen each. Want one?",
+  "crystal_mansion.matsutake.no_money": "You wanted to buy one, but you didn't have the money...",
+  "crystal_mansion.matsutake.bought": "You bought a matsutake mushroom!",
+  "crystal_mansion.sabon_tree": "It's a Sabon tree. This tree drops fruit, and apparently the fruit can heal wounds.",
+  "crystal_mansion.sabon_fruit": "There's a Sabon Fruit on the ground. I'll just take it.",
+  "crystal_mansion.gate.too_early": "It's the town exit. But it's too early to leave town now.",
+  "crystal_mansion.gate.exit": "It's the town exit.",
+  "crystal_mansion.gate.exit_prompt": "Leave the town?",
+  "crystal_mansion.gate.return": "You can go back into town.",
+  "crystal_mansion.gate.return_prompt": "Go back to the town?",
+  "crystal_mansion.exit.found": [
+    "Child: Yahooo! It's the exit! If we get on this, we'll zoom right home!",
+    "Alright, let's get on!"
+  ],
+  "crystal_mansion.exit.hesitate": [
+    "{player}: W, wait a sec. Are we really getting on this?",
+    "Child: Huh? Why wouldn't we? If we don't, we can't get home.",
+    "Come on, let's get on.",
+    "{player}: W, would you kindly wait one moment, please?",
+    "Child: Whaaat, whyyy?",
+    "{player}: We have come this far, but where is the guarantee that we can go home? It might be a door to the afterlife. Let us not, or rather, to put it precisely, I am terribly frightened, so might you kindly reconsider, if at all possible?",
+    "Child: Dummy. This is the very end of the place. Even if we die, we can't get home either way, so let's try it. Come on, let's go now. One, twooo...",
+    "{player}: P, please stop! S, sto",
+    "Child: Mister {player}? Let's... ride... it... together... with... me... ufufufufufu!"
+  ],
+  "crystal_mansion.exit.arrived": [
+    "Child: Okay. Where are we now?",
+    "{player}: Waaah, it's the afterlife!",
+    "Child: It's not the afterlife. There's water under our fee"
+  ],
+  "crystal_mansion.exit.water": [
+    "Child: W, w, w, water?!?!?!",
+    "{player}: Like I said, this is the afterliiiife! Oh, dear God...",
+    "Child: No way, this isn't really water, is it? I was in water just a while ago, so I'm sick of water.",
+    "{player}: Hey, doesn't this water look red?",
+    "Child: D, don't say stupid stuff. There's water everywhere, there's no w, w, way...",
+    "{player}: I know. B, but still, isn't it red? This stuff?",
+    "Child: S, stop it! Stop iiiit!",
+    "{player}: I don't like red water either. This happened because you jumped in like it was fun!",
+    "Child: D, don't be stupid. You didn't know we'd end up somewhere like this either, did you?",
+    "{player}: Don't just jump in without thinking, geez. Thanks to you, now I'm in this mess too.",
+    "Child: So, what's gonna happen to us?",
+    "{player}: What's gonna happen? What's wrong with you?",
+    "Child: Anyway. I've had enough of sinking and dying in this stuff. Let's walk around a bit.",
+    "{player}: Then say that in the first place."
+  ],
+  "crystal_mansion.exit.rusty": [
+    "Child: No doubt about it.",
+    "This is water. It seems to be genuine, honest-to-goodness water!",
+    "So the water here is just... rusty, huh.",
+    "So, why have you been so quiet all this time?",
+    "Hey. What's wrong with you? Say something!",
+    "{player}: I, I'm th, thinking about wh, where we are. Is thinking not allowed, you jerk?!"
+  ],
+  "crystal_mansion.exit.gun1": [
+    "Child: Whoa, he's lost it! Then I'll splash him with this water! Firing in 3 seconds!",
+    "{player}: Don't mess with me, you!",
+    "Here I goooo!"
+  ],
+  "crystal_mansion.exit.gun2": [
+    "{player}: Ugaaaah, what are you doing, you brat?!",
+    "Child: Ahaha, uhyohyo, this is fun!",
+    "{player}: It's not fun!",
+    "Child: Now, now, calm down, calm dooown.",
+    "{player}: What do you mean, calm down, calm dooown?!",
+    "Child: Looks like he's still confused. One more shot, then. Sorry about thaaat. Here I goooo, 5 seconds!"
+  ],
+  "crystal_mansion.exit.floating": [
+    "{player} was completely beaten to a pulp and ended up bobbing on top of the water. And by the time {player} came to, every last bit of his will to be angry, his strength, his energy and his courage had utterly, fragilely, violently, spectacularly, miserably vanished without a trace. And then {player} realized where they were.",
+    "{player}: Th, this is {player}'s house. And it looks like we're in the pool."
+  ],
+  "crystal_mansion.exit.pool": [
+    "Child: Huh? {player}'s house? Where you live? That's way too fancy, a pool and everything.",
+    "{player}: You've got a kiddie pool or two at your house too, right?",
+    "Child: Don't lie. How is this a kiddie pool?! There's even a fountain over there!",
+    "{player}: But hey, my house isn't as big as yours, you know.",
+    "Child: No, just the pool alone is way bigger than my whole house.",
+    "{player}: Well, anyway, looks like this isn't the afterlife, so let's go to your house, okay, okay?",
+    "Child: Good point. Let's go, then."
+  ],
+  "crystal_mansion.child.tank": [
+    "It's the kidnapped child! He's been sunk in a water tank with no lid. If you don't break it fast, the child is in danger. Luckily, he's still struggling in the water, so he seems to be alive!",
+    "{player} quickly pulled out the hammer and threw it at the tank!"
+  ],
+  "crystal_mansion.child.saved": [
+    "The hammer flew straight at the tank and hit the glass part dead on. Water gushed out from inside.",
+    "Then the child crawled out on his own. Miraculously, his life was not in danger.",
+    "The child breathed in lots of fresh oxygen and cried like a newborn baby.",
+    "And when he stopped crying, he saw his savior standing in front of him."
+  ],
+  "crystal_mansion.child.talk": [
+    "Child: Y, you're {player}... right?",
+    "{player}: Thank goodness. Thank goodness.",
+    "Child: I see. So I've been saved.",
+    "{player}, thank you so much. You saved me.",
+    "{player}: I'm glad you're okay.",
+    "Child: Yeah. I thought I was gonna die here without ever seeing anyone again.",
+    "After that, the two of them shared their joy for a while. And before they knew it, they had been talking for over an hour.",
+    "But then, something terrible happened.",
+    "Child: So, that's all great, but how do we get home?"
+  ],
+  "crystal_mansion.child.no_way_back": [
+    "That's right. {player} had charged in, but never thought about how to get back out. {player} suddenly started to panic.",
+    "{player}: W, w, w, well, you see, I, I'm sure we can g, get home s, somehow, can't we?",
+    "Child: Wh, wait, d, don't tell me you didn't think about it...",
+    "Bull's-eye, totally. But {player} couldn't bring himself to admit it.",
+    "Child: Whaaat? If we can't get home, then what was the point?!",
+    "{player}: Oh, come on, that's not fair. Do you have any idea what I went through to save you, you idiot?!",
+    "Child: I'll admit that, but how about apologizing for not thinking about the way back?",
+    "{player}: W, well, you see, it's like this, you see, it was sort of a hunch, you see, or a guess, you see, something like that, you see, that I jumped in with, you see, and therefore I, you see, at this point in time, you see, do not know the way back, you see, and so, as of now, you see, I am in the process of thinking, you see, that I shall look for it, you see...",
+    "That weird speech went on for about five minutes.",
+    "Child: Ugh, shut up, shut up. Let's just hurry up and find the exit. I want to see my mom soon. Okay, let's go!",
+    "{player} had no choice but to head further in, getting dragged around by the child."
+  ],
+  "crystal_mansion.panel.locked": "There's an oddly shaped Warp Panel. But for some reason, you can't warp.",
+  "crystal_mansion.panel.warped": "You warped to the next place!"
+}

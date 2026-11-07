@@ -1,0 +1,150 @@
+{
+  "unknown_land.rough.intro": "Merchant: Yo, yo. Me, I sell recovery items like any normal merchant, but I'm a little different. I also sell an awesome weapon called the Knuckles, I sell steel you could use as armor, and I run a cheap little inn. The enemies around here are strong, so beat 'em to a pulp with the Knuckles, and when you get tired, come rest here. Wahahahaha!",
+  "unknown_land.rough.menu.title": "What will you do?",
+  "unknown_land.rough.menu.items": [
+    "Ask to rest here",
+    "Buy steel",
+    "Have a look at these Knuckles or whatever",
+    "Go shopping for recovery items and stuff",
+    "Go run around out there"
+  ],
+  "unknown_land.rough.farewell": "Okay. Well, go do your best. Tip: Mecha Imps go down pretty easy if you hit 'em from behind.",
+  "unknown_land.rough.shop.intro": "I've got all kinds of stuff, so buy something, will ya? I'm selling cheap.",
+  "unknown_land.rough.shop.items": [
+    "Light Shard, 900 yen",
+    "Life Herb, 1600 yen",
+    "Recovery Potion, 500 yen",
+    "Mysterious Incense, 1000 yen",
+    "Life Shard, 2500 yen",
+    "Life Crystal, 4000 yen",
+    "Legendary Elixir, 5000 yen",
+    "Fresh Star, 10000 yen",
+    "Gentle Sunbeam, 1200 yen",
+    "Super Drink, 600 yen",
+    "Mega Stamina Drink, 1300 yen",
+    "Fresh Bottle, 1700 yen",
+    "1000 Iron Arrows, 9500 yen",
+    "3000 Iron Arrows, 35000 yen",
+    "Check out",
+    "Money"
+  ],
+  "unknown_land.rough.shop.title": "Choose an item to buy.",
+  "unknown_land.rough.shop.thanks": "Merchant: Thanks a bunch!",
+  "unknown_land.rough.knuckle.owned": "Hey, hey. You already have them. Buying two pairs won't do you any good.",
+  "unknown_land.rough.knuckle.pitch": "Alright! Now these, you need a decent amount of Speed for 'em, but if you've got the Speed, they're a crazy strong weapon. One hit does about the same damage as a Long Sword, but with high Speed you leave fewer openings, so you can make enemies flinch and beat 'em to a pulp. Switch between these and your other weapons and you'll be a happy camper. I'm selling 'em for 20000 yen, but",
+  "unknown_land.rough.knuckle.prompt": "Do you want the Knuckles so badly your hands are practically reaching out of your throat, and will you pay the merchant 20000 yen for them?",
+  "unknown_land.rough.knuckle.declined": "Okay. Come buy 'em if you change your mind.",
+  "unknown_land.rough.knuckle.no_money": "{player}: Waaah, I don't have enough money!",
+  "unknown_land.rough.inn.pitch": "Well, I could let you rest for 500 yen. But you get what you pay for: no funny little comedy skit when you stay the night.",
+  "unknown_land.rough.inn.prompt": "Are you at the absolute limit of your strength, about to die, barely breathing, so you'll beg with all your heart to be allowed to rest? (wait, what?)",
+  "unknown_land.rough.inn.declined": "Okay. Then come back after a Gakishonen has slashed you a hundred times! Ahahaha!",
+  "unknown_land.rough.inn.no_money": "{player}: Waaah, I finally want to rest and I don't have enough money!",
+  "unknown_land.rough.inn.morning": "Mornin'. Did you get a good rest?",
+  "unknown_land.rough.steel.pitch": "This has a durability of 300. It'll bounce back the attacks of the enemies around here, no problem. But it does break, so be careful. It's a game, okay? Don't nitpick about steel being surprisingly breakable. The price is 2000 yen a sheet.",
+  "unknown_land.rough.steel.prompt": "It's a shame that it breaks, but will you buy this heavy plate, about 150 centimeters tall and wide, made of a thing called steel that seems like it would do something interesting if you heated it, for 2000 yen?",
+  "unknown_land.rough.steel.declined": "Okay. Well, it's expensive and heavy, so it does have its downslides, no, no, its downsites, argh, my tongue's all twisted, its downsides, yeah, that's the one.",
+  "unknown_land.rough.steel.no_money": "{player}: Dang it! This merchant is so funny, and I can't come up with a single comeback, and on top of that I don't have enough money!",
+  "unknown_land.rough.laser.pitch": [
+    "Hmmm. You bought the Knuckles, and you bought the steel. Alright then, I'll sell you something special I don't usually sell.",
+    "This is called the Laser Shield. It makes a special wall of laser that bounces enemy attacks right back. Its durability is outstanding. It also leaves very few openings. The price is 10000 yen. What a bargain!"
+  ],
+  "unknown_land.rough.laser.prompt": "What?! There's a cheat shield like that? I want it, I want it! Oh wait, I have to ask the player, don't I. Do you want it?",
+  "unknown_land.rough.laser.declined": "Whaaaaaat?! You're not buying it?! (by the author)",
+  "unknown_land.researcher.done": "Resident: Take care out there.",
+  "unknown_land.researcher.drive": [
+    "Resident: I research memory devices, for robots and such.",
+    "My goal is to analyze all sorts of memory devices and make it possible to store even more data.",
+    "So far I've reached 300 terabytes, but I think I can go much further.",
+    "{player}: Um, sorry to interrupt, but there's something I'd like you to look into for me.",
+    "Resident: What is it? I love investigating things, so if you have it on you, please show me.",
+    "{player}: Sure, it's this.",
+    "Resident: Why, this is! The Super Compact Flash ISO Drive I've been looking for!",
+    "{player}: Huuuh? The what nooow?",
+    "Resident: This is the best-performing memory device in the world. The device itself is only about 3 centimeters, yet thanks to a special flash laser system it can store a whole 512 terabytes of ISO images.",
+    "{player}: Wait, hold on. It can only burn ISOs? So when you use it with a real device, you have to mount it every single time? What a pain.",
+    "Resident: That's right.",
+    "Anyway, these are very hard to come by. After I analyze it, would you give it to me?",
+    "{player}: Uh, sure, I guess...",
+    "Resident: Thank you so much. Well then, I'll go analyze it right away, so wait here a moment."
+  ],
+  "unknown_land.researcher.analyse": [
+    "Resident: Some text is about to appear on your side, so read it carefully. It should be the analysis result."
+  ],
+  "unknown_land.researcher.result": [
+    "Y, O, K, O, T, A, N, K, apostrophe, S, F, O, R, T, R, E, S, S.",
+    "Resident: Yokotank's Fortress? I have no idea what that means.",
+    "{player}: Thank you very much.",
+    "Resident: ???"
+  ],
+  "unknown_land.researcher.resolve": [
+    "My final destination is decided.",
+    "If I go to Yokotank's Fortress, it will all be over.",
+    "I have no proof. No proof at all.",
+    "But I have to go.",
+    "All to stop Yokotank's ambition.",
+    "And above all, to get back to my dear friends who believe in me...!",
+    "{player}: Alriiiight! Here I gooooo!"
+  ],
+  "unknown_land.researcher.panel": [
+    "Resident: The rest of the data turned out to be a program for a Warp Panel.",
+    "{player}: Thank you very much.",
+    "Resident: I just shoved the Warp Panel program into a core for now, but please use it.",
+    "{player}: Thank you so, so much.",
+    "Resident: No, no. It's my thanks for giving me the memory."
+  ],
+  "unknown_land.researcher.gaki1": [
+    "{player}: What was that?!",
+    "Ultra Gakishonen: Ooooora ora ora ora ora ora ora oraaa!",
+    "Resident: And who are you?",
+    "Ultra Gakishonen: I'm the coolest guy around, the Ultra Gakishonen! Yeehaaaw!",
+    "Resident: Whatever. What did you come here for?",
+    "Ultra Gakishonen: Shut up! I came to take your grub! Hand it over, quick! Or else I'll smash your compooter to bits!",
+    "{player}: Ooooh, what a nostalgic BGM. And long time no see, buddy."
+  ],
+  "unknown_land.researcher.gaki2": [
+    "Ultra Gakishonen: Ah! You! You're still hanging around?!",
+    "{player}: Look who's talking. Why are you still doing bad stuff, even after I beat you?",
+    "Ultra Gakishonen: Shut up! So what if I lost to you, I just do it 'cause it's fun! You're annoying, so how about I really get rid of you?",
+    "{player}: Huh? Go ahead and try?",
+    "Ultra Gakishonen: Aaah! You said it! Get ready! Yeehaaaw!",
+    "{player}: Don't worry, sir. I'll take this guy down for sure.",
+    "And I'm sick of hearing your Yeehaw already. Think up a new line! Hyaaaaaah!"
+  ],
+  "unknown_land.researcher.after1": [
+    "{player}: Aaaah! The BGM turned into the strolling song! Yaaay!",
+    "Ultra Gakishonen: Y, you! How'd you get so strong?!",
+    "{player}: Hey, I had a rough time too, you know. I got punched flying by Mecha Imps, slashed up by your little gang, scared half to death on the mountain, almost killed by a weird robot... I guess it's because I got through all that...",
+    "Let me ask you the opposite. How come you didn't get any stronger?",
+    "Ultra Gakishonen: Shut up! I ate a little food and did muscle training too, you know! That's how my normal attack went from 15 damage to 25!",
+    "{player}: Sorry, my mistake. So why did you lose? If you came down the same road as me, you should've gotten just as strong, right? And since you love fighting so much, you must have played with the Mecha Imps till you were sick of them, right? Those were 400 EXP each, weren't they?",
+    "Ultra Gakishonen: Nah, they didn't look like fun, so I just skipped 'em.",
+    "{player}: Isn't that just because you were scared?",
+    "Ultra Gakishonen: N, no way, it's not!",
+    "{player}: Sure doesn't look that way.",
+    "So, could you go home already? The resident is staring at us.",
+    "Ultra Gakishonen: Daaaamn it! I'm, I'm...! Wa, wa, waaaaaaaaaaaah!"
+  ],
+  "unknown_land.researcher.after2": [
+    "He ran off crying.",
+    "Resident: Thank you. You really saved me.",
+    "{player}: No, it's fine. It was fun."
+  ],
+  "unknown_land.mountain.exit_facing": "There's the way out of the mountain. The enemies will probably get stronger from here on.",
+  "unknown_land.mountain.merchant.warning": "Man: There are places on this mountain that crumble now and then. If you get close, the ground gives way, so be really careful. If it crumbles, you're dead.",
+  "unknown_land.mountain.merchant.intro": "Also, I run a little business. Want to buy something? Actually, between you and me, I'm not making any money, so please buy something.",
+  "unknown_land.mountain.merchant.title": "Choose what to buy.",
+  "unknown_land.mountain.merchant.items": [
+    "Light Shard, 1200 yen",
+    "Recovery Potion, 800 yen",
+    "Life Herb, 2000 yen",
+    "Mysterious Incense, 1000 yen",
+    "Rainbow Marker, 2500 yen",
+    "Matsutake Mushroom, 650 yen",
+    "100 Iron Arrows, 1800 yen",
+    "300 Iron Arrows, 3700 yen",
+    "Check out",
+    "Money"
+  ],
+  "unknown_land.mountain.merchant.bye": "Take care.",
+  "unknown_land.mountain.entrance_facing": "Looks like you can enter the mountain from here. But right now the player is facing a weird direction, so let's face the mountain entrance properly, okay? Keeping an eye on this kind of thing is a piece of cake for the author."
+}
