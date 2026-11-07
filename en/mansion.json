@@ -1,0 +1,105 @@
+{
+  "mansion.boss7.yamijin": [
+    "Kyeeheeheeheehee!",
+    "{player}: There you are!",
+    "Yamijin: Hold on now. Aren't you here for your friends, not me, nya?",
+    "{player}: Shut up! You're the one who took them, you jerk!",
+    "Yamijin: Yep, that's not wrong."
+  ],
+  "mansion.boss7.rage": [
+    "{player}: Yooou baaastaaard!",
+    "I won't forgive you. You, of all people, I'll never forgive! How dare you do this, you jerk! I'm gonna smash you straight into hell right now!",
+    "Yamijin: Now, now. If I'm gone, things will only get more dangerous. Well then, good-byeee! Kyeeheeheeheehee, hee-hoo, heeeee!"
+  ],
+  "mansion.boss7.escaped": [
+    "{player}: Hey, wait! Daaamn it, Yamijin got away again!"
+  ],
+  "mansion.boss7.companions": [
+    "{player}: Ah!",
+    "Without thinking, {player} ran straight to the friends, and didn't notice that something was off about them.",
+    "Friend 3: Huh?",
+    "{player}: I came to save you! I missed you so much!",
+    "But the words that came back from the friends were more than enough to break {player}'s heart."
+  ],
+  "mansion.boss7.strangers": [
+    "Friend 1: Who is this person, I wonder?",
+    "Friend 2: Don't ask me. I have no idea.",
+    "Friend 3: I've never seen a weirdo like this either.",
+    "Friend 2: Hey, maybe this is the monster Lord Yamijin was talking about?"
+  ],
+  "mansion.boss7.forgotten": [
+    "{player}: N-no way... You don't remember me?",
+    "Friend 3: Huh? Remember? I don't even know who you are.",
+    "Friend 2: Yeah. Have we met somewhere?",
+    "Friend 1: Hmm. So it's a monster, basically?",
+    "{player}: Wait a minute. Are you serious?!",
+    "Friend 2: Serious? Are you an idiot or something?",
+    "Friend 3: Anyway, we don't know you. We're Lord Yamijin's loyal servants, you know!"
+  ],
+  "mansion.boss7.attack": [
+    "No way...",
+    "Friend 1: Anyway, let's hurry up and smash this thing. Lord Yamijin might praise us.",
+    "Friend 3: All right. Let's play with it a little.",
+    "Friend 2: Yeah. I kind of like this sort of thing. Hee hee hee."
+  ],
+  "mansion.boss7.cannot": [
+    "{player}: Ugh!",
+    "I can't... I can't do it... I can't cut down my friends...",
+    "Even while being beaten, {player} could not strike back at the friends. And all the while, the former friends, controlled like puppets, kept hurting their own dear friend.",
+    "With every new wound on the outside, {player}'s heart was wounded more deeply too.",
+    "In despair, pain and sorrow, {player} could only think of the friends, and keep getting hurt."
+  ],
+  "mansion.boss7.shadow": [
+    "Surrounded by the friends, {player} saw a single huge shadow.",
+    "It was a shadow that looked strangely familiar.",
+    "Yes, wasn't that the Grand Cruiser?",
+    "It was the Grand Cruiser, no doubt about it.",
+    "It had the same size and the same shape as before, but {player} did not miss the thin cords attached to it.",
+    "Fighting through the pain, {player} leaped high and, in midair, used the Light Shard from the merchant. Turns out {player} had kept it hidden somewhere other than the usual bag!"
+  ],
+  "mansion.boss7.throw": [
+    "{player}: Haaah!",
+    "{player} took a fresh grip on the Long Sword and hurled it with full force at one of the cords coming out of the Grand Cruiser."
+  ],
+  "mansion.boss7.cut": [
+    "The Long Sword struck one of the three cords dead on, and sliced it clean through."
+  ],
+  "mansion.boss7.siren": [
+    "Instantly, a horrible siren blared from the Grand Cruiser, and its connection was lost."
+  ],
+  "mansion.boss7.you": [
+    "Friend 3: Y-you're...!"
+  ],
+  "mansion.boss7.awake": [
+    "{player}: Yes! You recognize me!",
+    "Friend 3: I'm really sorry. Yamijin caught us, and this thing was controlling us. What an idiot I was.",
+    "And the other two are still out of control.",
+    "{player}: Right. I have to cut the other two cords.",
+    "Friend 3: Yeah. But now the Grand Cruiser is onto us, so I think it'd be faster to wreck the whole thing.",
+    "I'll do what I can to hold those two back. You destroy the Grand Cruiser.",
+    "{player}: Got it.",
+    "Friend 3: This Grand Cruiser is bound to have some new tricks. Be careful."
+  ],
+  "mansion.boss7.collapsed": [
+    "The Grand Cruiser crumbled to pieces.",
+    "And then..."
+  ],
+  "mansion.boss7.hold_on": [
+    "{player}! Hang in there!",
+    "There stood the three friends, back to their old selves, looking at {player}.",
+    "{player}: Everyone...!"
+  ],
+  "mansion.boss7.thanks": [
+    "{player}: Thank you... everyone.",
+    "Friend 2: I'm so sorry. We were being controlled, and we did such awful things",
+    "Friend 1: I'm really sorry. It's our fault, isn't it?",
+    "Friend 3: Yeah, totally. If only we'd been tougher",
+    "{player}: No, that's not it.",
+    "Friends: Huh?",
+    "The one to blame is Yamijin.",
+    "I'll beat Yamijin for sure. I'll make absolutely, positively sure this never happens again.",
+    "Friend 3: {player}...",
+    "{player}: Come on. Let's go home. There's a Warp Panel, too.",
+    "Friend 2: Right. Let's go back."
+  ]
+}

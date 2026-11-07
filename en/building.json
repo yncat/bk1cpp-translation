@@ -1,0 +1,61 @@
+{
+  "building.boss4.deepest": [
+    "{player}: Is this the deepest part?",
+    "Looks like you've reached the very end. There don't seem to be any Warp Panels or anything here."
+  ],
+  "building.boss4.yamijin": [
+    "Whoa!",
+    "And here it is! The one and only Lord Yamijin!",
+    "Yamijin: Kyeeheeheeheehee!",
+    "So glad you caaame!",
+    "Welcome to the Evil Mansion."
+  ],
+  "building.boss4.talk": [
+    "{player}: Th-this is the Evil Mansion?",
+    "Yamijin: That's riiight. Glad you came.",
+    "{player}: You! Why did you kidnap that kid?!",
+    "Yamijin: Nya? What an idiot, nya. We met at that house just the other day.",
+    "{player}: (I get it! Yamijin kidnapped the kid, found out where the kid lives, and went there to steal the food!)",
+    "Yamijin: I've got no use for someone I'm done with, nya. They're probably suffering way in the back, nyee hee, kyeeheeheeheehee!",
+    "Hearing that, {player} totally snapped.",
+    "{player}: You! What do you think a person's life is?! Answer me right now, you scum!",
+    "Yamijin: Now, now, calm down, okay?",
+    "{player}: Huh? Calm down? If you think I can calm down, you're dead wrong. Think about what you're doing and sort out your head before you say that!",
+    "Come on, answer me already!",
+    "Yamijin: Oh, fiiine. Life is just a thing that exists, nya. Nobody can live without eating other lives, nya.",
+    "{player}: Yeah, asking you was a mistake. I'll smash you right here.",
+    "Yamijin: Oh well, can't be hewped, nya."
+  ],
+  "building.boss4.summon": [
+    "Yamijin: Kyeeheeheeheehee! This one's a little different from last tiiime!",
+    "{player}: Fight fair!",
+    "Yamijin: Nuh-uh, no way!",
+    "Bye-byeee!"
+  ],
+  "building.boss4.vanished": "With that, Yamijin vanished. No matter how furious you are, the enemy right in front of you has to be beaten first. Wait, this time it's... this weirdly huge mecha?!",
+  "building.boss4.after": [
+    "{player}: Phew.",
+    "Yamijin, you jerk! Next time I see you, I'll squash you flat! Stupid, stupid!",
+    "Grumbling insults, {player} looked around. It seems a path further in has opened up. Either way, the kid is very likely somewhere in this mansion, so {player} decided to keep going."
+  ],
+  "building.red": "There's a red fragment on the floor. Let's grab it.",
+  "building.blue": "There's a blue fragment on the floor. Let's grab it.",
+  "building.yellow": "There's a yellow fragment on the floor. Let's grab it.",
+  "building.warp_back": "Looks like you moved back to the previous area.",
+  "building.kid_chatter": [
+    "Hey, hey, can we go home?",
+    "Geez, where's the exit?",
+    "Let's run!",
+    "Ugh, these slimes are so annoying.",
+    "Come on, there's no exit!",
+    "Come on, hurry up and take me to the exit!",
+    "Ugh, where even are we?"
+  ],
+  "building.kid_says": "Kid: {line}",
+  "building.do_not_cut": "Something is written here: If you value your life, never cut this wall...",
+  "building.tablet": "It's a stone tablet. It says: Bring light to this place, and your wish will come true.",
+  "building.match.ask": "There's a match on the floor. Pick it up?",
+  "building.candle": "There's a candle. It isn't lit.",
+  "building.candle.ask": "Light it with the match?",
+  "building.candle.warped": "You warped to the other side of the wall where the candle was!"
+}

@@ -1,0 +1,64 @@
+{
+  "inn.crystal.welcome": "Welcome! A night's stay is 200 yen. Would you like to stay with us?",
+  "inn.crystal.declined": "Is that sooo? Well then, whenever you want to rest again, please come stay at our hotel!",
+  "inn.crystal.pay_first": "Ummm, our hotel is pay-in-advance, you seeee. We need you to pay first.",
+  "inn.crystal.only_have": "{player}: Whaaat?! I only have {money} yen!",
+  "inn.crystal.sorry": "Ahh, I'm so terribly sorryyy. Please come again some other time!",
+  "inn.crystal.room": "Understooood. Here's your room key. Your room is number {room}. Enjoy your stay!",
+  "inn.crystal.nice_room": "Hmm. Pretty nice. It's big. It's got a bed. Only 200 yen for this? That's cheap. Wait, is the yen in this game different from real yen? I dunnooo.",
+  "inn.crystal.bath": "So this is the bath. It's huge.",
+  "inn.crystal.bath_alone": "Oh? I've got it all to myself! Woo-hoo!",
+  "inn.crystal.bath_good": "What a nice bath! Feels sooo good. Time to wash up. Wait, you're supposed to wash before you get in, right? Ahahaha!",
+  "inn.crystal.bath_basin": "Oops, I dropped the wash basin.",
+  "inn.crystal.bath_done": "That felt so good.",
+  "inn.crystal.cold": "It's cold...",
+  "inn.crystal.comfortable": "This is so comfy.",
+  "inn.crystal.beaten": "So there's a bath here and stuff. Might be nice to go check it out. I did get beaten to a pulp by {enemy}, after all.",
+  "inn.crystal.hammer": [
+    "Pretty nice room, huh.",
+    "Oh?",
+    "Is that a bath over there? Let's go see.",
+    "But first, maybe I'll swing my hammer around for fun."
+  ],
+  "inn.door_stuck": [
+    "Dang it! Why won't it open?!",
+    "Argh, forget it. Hiyaaaah!"
+  ],
+  "inn.key_card": "Oh, I have to stick the key card in here. Click!",
+  "inn.opened": "It opened. Okay, time for bed.",
+  "inn.bored": [
+    "Ahh, I'm bored.",
+    "Nothing to do. What should I dooo?"
+  ],
+  "inn.dream": "Huh, wha? W-was it a dream...? Ahh, that was so scaryyy.",
+  "inn.crystal.morning": "Good morniiing! Take care out there today!",
+  "inn.arkhaia.welcome": "Welcome. It's 700 yen for the night. Want to stay?",
+  "inn.arkhaia.declined": "I see. If you want to rest again, come by anytime.",
+  "inn.arkhaia.pay_first": "Sorry, but I can't let you stay without paying.",
+  "inn.arkhaia.only_have": "{player}: Nooo! I only have {money} yen!",
+  "inn.arkhaia.sorry": "Too bad. Come again sometime, okay?",
+  "inn.arkhaia.room": "Understood. Your room is number {room}, so get some good rest.",
+  "inn.arkhaia.nice_room": "Ah, the Arkhaia City hotel really is something else. Just what you'd expect from a fancy inn. Though when I see them selling a Bronze Knife for 10000 yen, I just wanna yell, why does a knife cost that much?!",
+  "inn.arkhaia.traveller": [
+    "{player}: Oh, hellooo.",
+    "Traveler: Hello."
+  ],
+  "inn.arkhaia.dog": [
+    "{player}: Your dog is so cute.",
+    "Traveler: Cute, isn't he? His name's Jade.",
+    "{player}: Cool!",
+    "Traveler: He was starving when I found him on my travels, so I brought him along. He sniffs out bombs and stuff, so he's a huge help. He also digs up Sabon fruit that got buried in the ground. Hahahaha!",
+    "{player}: That's amazing! Keep up the good work, Jade!"
+  ],
+  "inn.arkhaia.sleep": "{player}: Time for bed, I guess?",
+  "inn.arkhaia.arcade": "Yaaawn. This feels so good. I wanna go to the arcade again.",
+  "inn.arkhaia.comfortable": "This is so comfy. And apparently it has air conditioning and an internet cable, too.",
+  "inn.arkhaia.beaten": "Phew. I'm so tired. Time to get some good rest. I did get beaten to a pulp by {enemy}, after all.",
+  "inn.arkhaia.hammer": [
+    "Pretty nice room, huh.",
+    "Hmmm.",
+    "But there's nothing to do.",
+    "Hmmm. Guess I'll swing my hammer around for fun."
+  ],
+  "inn.arkhaia.morning": "It's morning! Do your best today!"
+}
