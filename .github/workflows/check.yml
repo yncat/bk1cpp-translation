@@ -1,0 +1,23 @@
+# Checks every translation against ja/ (tools/check_translation.py) on pull requests and pushes.
+name: Check translations
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Check translations
+        run: python tools/check_translation.py -v
