@@ -26,6 +26,6 @@ The language picked at first start follows the Windows display language when a f
 that code exists (`de` for German Windows), otherwise English, otherwise Japanese.
 
 `ja/` is the source text and its keys are defined by the game's code, so keys are added or
-removed only together with a change of the game. Fixes to the Japanese wording are welcome.
+removed only together with a change of the game.
 
 Style and names: see [glossary.md](glossary.md) (written for English; follow its spirit).
