@@ -34,7 +34,7 @@ with exactly the same keys (a test enforces this). Placeholders such as `{player
 | アークハイアシティー | Arkhaia City |
 | アークハイアデパート | Arkhaia Department Store |
 | フレイムタウン / フレイムマウンテン | Flame Town / Flame Mountain |
-| 仲良し公園 | Friendship Park |
+| 仲良し公園 | Nakayoshi Park |
 | 邪悪なる館 | the Evil Mansion |
 | なぞの建物 / なぞの家 | the Mystery Building / the Mystery House |
 | 未知の地 | the Unknown Land |
