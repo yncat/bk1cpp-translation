@@ -1,0 +1,19 @@
+{
+  "trap.switch.ask": "Có một cái công tắc kỳ lạ ở đây. Bạn có muốn nhấn thử không?",
+  "trap.switch.monster": "Áaaa! Quái vật kìaaa!",
+  "trap.switch.phew": "Phù...",
+  "trap.switch.sword": "Ủa ủa? Sao lại có một thanh kiếm mảnh mai nằm lăn lóc ở chỗ thế này nhỉ. Thanh kiếm khá ngắn, chẳng cần tốn mấy sức cũng vung vẩy ngon lành. Lại còn dễ dùng đến mức có thể đánh bằng sống kiếm nữa chứ. Đằng nào cũng thấy rồi nên nhặt luôn làm vũ khí vậy.",
+  "trap.switch.matsutake": "Ồ? Có cây nấm Matsutake rơi ở đây kìa. Nhặt luôn thôi.",
+  "trap.dodge.intro": [
+    "{player}: Thật luôn hả trờiii!",
+    "Hết mê cung toàn cửa giờ lại đến màn né bóng sao hảaa! Cứu tôi với Tác giả ơi! Đằng nào chẳng phải chính ông lập trình ra cái trò này hả!",
+    "Tác giả: Ồn ào quá đi mất. Mau đi qua cho lẹ lên. Riêng cái đoạn né bóng này thôi tôi cũng phải gõ mất 1,5 kilobyte mã nguồn đấy nhé.",
+    "{player}: Biết rồi khổ lắm. Chỉ cần đi qua là được chứ gì, thiệt tình!"
+  ],
+  "trap.dodge.done": [
+    "{player}: Xời, tưởng thế nào. Chẳng ra dáng hầm ngục cuối gì cả.",
+    "Tác giả: Hừm hứm hưm. Thôi kệ vậy. Thế nhé, phía trước lại là mê cung đấy, cố mà vượt qua nghen!",
+    "{player}: Này! Chỉ đường cho tôi đã chứ!",
+    "Tác giả: Hư hư hư. Cứ đi theo chỗ có đặt mấy cái Dấu mốc đỏ ấy."
+  ]
+}

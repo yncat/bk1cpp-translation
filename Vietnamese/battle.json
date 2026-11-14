@@ -1,0 +1,41 @@
+{
+  "battle.menu.title": "Menu chính",
+  "battle.menu.items": [
+    "Kiểm tra chỉ số",
+    "Vật phẩm",
+    "Đổi vũ khí trang bị",
+    "Bỏ chạy",
+    "Cài đặt",
+    "Đóng menu"
+  ],
+  "battle.weapon.title": "Chọn vũ khí",
+  "battle.weapon.names": [
+    "Búa",
+    "Ná cao su",
+    "Kiếm Ngắn",
+    "Kiếm Dài",
+    "Roi da",
+    "Dao Đồng",
+    "Đại Kiếm Phá Hủy",
+    "Súng Bắn Tên",
+    "Nắm Đấm Thép"
+  ],
+  "battle.weapon.back": "Quay lại",
+  "battle.status.title": "Chỉ số của {player}",
+  "battle.status.hp": "HP: {hp}/{max}",
+  "battle.status.attack": "Tấn công: {value}",
+  "battle.status.defense": "Phòng thủ: {value}",
+  "battle.status.speed": "Nhanh nhẹn: {value}",
+  "battle.status.constitution": "Thể chất: {value}",
+  "battle.status.stamina": "Thể lực: {value}/{max}",
+  "battle.status.money": "Tiền hiện có: {value} yên",
+  "battle.status.level": "Cấp độ: {value}",
+  "battle.status.exp": "Điểm kinh nghiệm: {value} điểm",
+  "battle.status.next_level": "Điểm kinh nghiệm cần để lên cấp tiếp theo: {value} điểm",
+  "battle.status.close": "Đóng màn hình chỉ số",
+  "battle.defeated": "{player} đã kiệt sức gục ngã...",
+  "battle.victory": "{player} đã đánh bại {enemy}. Nhận được {money} yên. Nhận được {exp} điểm kinh nghiệm.",
+  "battle.level_up": "{player} đã lên cấp {level}!",
+  "battle.level_up.prompt": "Nhấn 1 để tăng Tấn công, 2 tăng Phòng thủ, 3 tăng Nhanh nhẹn, 4 tăng Thể chất, 5 tăng Thể lực, 6 tăng HP.",
+  "battle.drop": "{enemy} đã đánh rơi {item}."
+}

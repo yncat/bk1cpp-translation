@@ -1,0 +1,61 @@
+{
+  "building.boss4.deepest": [
+    "{player}: Đây là chỗ sâu nhất rồi chăng?",
+    "Có vẻ như đã đi tới tận cùng bên trong rồi. Chẳng thấy có Tấm dịch chuyển nào ở quanh đây cả."
+  ],
+  "building.boss4.yamijin": [
+    "Oá!",
+    "Xuất hiện rồi! Ngài Yamijin!",
+    "Yamijin: Khư hứ hứ hứ hứưư!",
+    "Chào mừng ngươi đã lặn lội tới tận đâyyy",
+    "Chào mừng tới Dinh thự Tà Ác."
+  ],
+  "building.boss4.talk": [
+    "{player}: Đ-đây là Dinh thự Tà Ác ư?",
+    "Yamijin: Đúng thế đấyyy. Giỏi lắm mới mò được tới tận đây.",
+    "{player}: Tên kia, tại sao ngươi lại bắt cóc đứa trẻ hả!",
+    "Yamijin: Nya? Ngốc thế nyaaa. Hôm nọ vừa mới chạm mặt ở ngôi nhà đó xong mà còn hỏi.",
+    "{player}: (Ra là vậy! Yamijin bắt cóc đứa trẻ để dò ra ngôi nhà nó đang ở, rồi mò tới đó nhằm cướp lương thực!)",
+    "Yamijin: Kẻ hết giá trị lợi dụng thì ta chẳng cần nữa nyan. Chắc giờ này nó đang quằn quại đau đớn ở tít bên trong kia kìa, khư hứ hứ hứ hứưư!",
+    "Nghe những lời đó, {player} tức nổ đom đóm mắt.",
+    "{player}: Tên khốn kia! Mày coi mạng sống con người là cái thứ gì hả! Mau mở mồm trả lời ngay đồ rác rưởi!",
+    "Yamijin: Nào nào, bình tĩnh lại chút đi?",
+    "{player}: Hả, mày bảo ai cơ? Tưởng tao bình tĩnh nổi là mày nhầm to rồi đấy! Tự nhìn lại những gì mày đang làm và sắp xếp lại cái đầu đất của mày trước khi sủa đi nhé!",
+    "Nào, mau trả lời tao ngay!",
+    "Yamijin: Hết cách với ngươi thật đấyyy. Sinh mạng suy cho cùng cũng chỉ là thứ có sẵn để dùng thôi nyan. Bất cứ ai nếu không nuốt chửng sinh mạng khác thì làm sao mà sống nổi nyan.",
+    "{player}: Ờ, tao mở lời hỏi mày đúng là một sai lầm. Tao sẽ nghiền nát mày ngay tại đây!",
+    "Yamijin: Đành chịu vậy thôi nyaaa."
+  ],
+  "building.boss4.summon": [
+    "Yamijin: Khư hứ hứ hứ hứưư! Con hàng lần này hơi bị khác con lần trước đấy nhéee!",
+    "{player}: Giỏi thì ra đây đấu tay đôi quang minh chính đại đi!",
+    "Yamijin: Còn lâu nhé.",
+    "Tạm biệt nghen!"
+  ],
+  "building.boss4.vanished": "Yamijin nói xong liền biến mất tăm. Dù đang tức điên người nhưng trước hết vẫn phải hạ gục kẻ địch trước mắt đã. Khoan, con hàng lần này... chẳng lẽ là cái cỗ máy khổng lồ kỳ dị này ư!?",
+  "building.boss4.after": [
+    "{player}: Phù.",
+    "Tên Yamijin khốn kiếppp, lần tới mà gặp lại tao sẽ đập cho mày bẹp dí! Đồ ngốc, đồ đại ngốc!",
+    "{player} vừa chửi rủa vừa đảo mắt nhìn quanh. Hình như một lối đi dẫn sâu vào bên trong vừa mới mở ra. Dù sao thì khả năng cao đứa trẻ đang bị giam trong tòa nhà này nên đành tiến sâu vào trong vậy."
+  ],
+  "building.red": "Có mảnh vỡ màu đỏ rơi dưới đất kìa, nhặt luôn thôi.",
+  "building.blue": "Có mảnh vỡ màu xanh dương rơi dưới đất kìa, nhặt luôn thôi.",
+  "building.yellow": "Có mảnh vỡ màu vàng rơi dưới đất kìa, nhặt luôn thôi.",
+  "building.warp_back": "Hình như vừa dịch chuyển về lại khu vực trước đó rồi.",
+  "building.kid_chatter": [
+    "Này này, chúng ta có về nhà được không thế?",
+    "Thiệt tình, lối ra nằm ở đâu vậy hả?",
+    "Chạy nhanh lên đi mà.",
+    "Trời ơi, mấy con Slime phiền phức quá đi.",
+    "Ê này, làm gì có lối ra nào đâu hả.",
+    "Này này, mau đưa em tới lối ra nhanh lên đi.",
+    "Trời đất ơi, rốt cuộc chỗ này là chỗ quái nào thế"
+  ],
+  "building.kid_says": "Đứa trẻ: {line}",
+  "building.do_not_cut": "Trên bức tường này có viết: Nếu còn tiếc mạng thì tuyệt đối chớ có chém vào đây...",
+  "building.tablet": "Đây là một tấm bia đá có khắc dòng chữ: Khi mang ánh sáng tới nơi này, điều ước sẽ thành hiện thực.",
+  "building.match.ask": "Có que diêm rơi dưới đất kìa. Bạn có muốn nhặt lên không?",
+  "building.candle": "Có một cây nến ở đây. Nến vẫn chưa được thắp lửa.",
+  "building.candle.ask": "Bạn có muốn dùng diêm thắp lửa lên không?",
+  "building.candle.warped": "Hình như vừa dịch chuyển sang phía bên kia bức tường nơi đặt cây nến rồi!"
+}

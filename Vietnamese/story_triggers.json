@@ -1,0 +1,298 @@
+{
+  "trigger.kuroro.tired": [
+    "{player}: Phù, mệt rã rời cả chân tay.",
+    "Cái tòa nhà này sao mà rộng mênh mông bát ngát thế không biết...",
+    "Đi bộ tới mức mỏi nhừ cả hai chân rồi... Rốt cuộc bao giờ mới tới điểm cuối cùng đây..."
+  ],
+  "trigger.kuroro.finally": "Ai đó: Cuối cùng chúng ta cũng gặp được nhau rồi nhỉ.",
+  "trigger.kuroro.talk": [
+    "{player}: Oá! Có cái thứ gì đó vừa mới chui ra kìa!",
+    "Ai đó: Gọi người ta là cái thứ gì đó nghe thật bất lịch sự quá đấy.",
+    "{player}: Chưa chịu xưng tên tuổi đàng hoàng thì bị gọi là cái thứ gì đó là lẽ đương nhiên rồi còn gì!",
+    "Ai đó: Ra là vậy. Thế thì cho tôi xin lỗi nhé.",
+    "Tên của tôi là Kuroro!",
+    "{player}: Hả? Keroro á? Hay là Shiroro?",
+    "Kuroro: Sai bét rồi! Là Kuroro cơ mà! Ku - Ro - Ro!",
+    "{player}: Ái chà. Hình như trong phim hoạt hình anime cũng có một nhân vật tên là Kuroro đúng không nhỉ?",
+    "Kuroro: Nhân vật đó tên là Kururu cơ mà!",
+    "{player}: À, hóa ra là thế à. Xin lỗi, xin lỗi nhé.",
+    "Cơ mà sao ngươi lại đứng chặn đường ở cái nơi thế này?",
+    "Kuroro: Chẳng cần tôi nói ra chắc cậu cũng tự hiểu rồi chứ? Ngài Yokotank đã yêu cầu tôi ra mặt dẹp yên cuộc náo loạn do cậu gây ra...",
+    "Nhất là khi ngay cả tiền bối kính mến của tôi là Ngài kissenon cũng đã bị cậu đánh bại mất rồi.",
+    "{player}: Ra thế. Nói tóm lại là ngươi muốn đánh gục tao tại đây chứ gì.",
+    "Kuroro: Chính xác! Cuối cùng cậu cũng hiểu ra vấn đề rồi đấy...",
+    "{player}: Chà... Ngon thì cứ thử xem sao?",
+    "Kuroro: Cậu mà đánh giá thấp thực lực của tôi là sẽ phải trả giá đắt đấy nhé. Hư hư hư hư."
+  ],
+  "trigger.kuroro.attack": "Kuroro: Nào! Lên đây, lên đây, lên đây, tôi xông lên tấn công ngay bây giờ đâyyy!!",
+  "trigger.kuroro.won": [
+    "{player}: Hoan hô! Thắng rồi, thắng rồi!",
+    "Kuroro: Ch-chỉ còn thiếu... một chút xíu nữa thôi mà...",
+    "{player}: Ủa? Vẫn còn tỉnh táo cơ à. Nhỡ đang đi mà hắn vùng dậy đánh lén thì phiền phức lắm... Vậy thì đành... đánh thêm cho bất tỉnh nhân sự ở mức không nguy hiểm tới tính mạng vậy..."
+  ],
+  "trigger.kuroro.end": "Thế là {player} đã xuất sắc đánh bại kẻ tập kích bất ngờ. Câu chuyện của chúng ta cuối cùng cũng đang tiến dần tới hồi kết rồi!",
+  "trigger.kissenon.intro": [
+    "Ai đó: Hư hứ hứ hứ. Ta đã đợi ngươi ở đây suốt nãy giờ rồi đấy.",
+    "{player}: Nhà ngươi là kẻ nào!",
+    "Ai đó: Tên của ta là kissenon! Theo mệnh lệnh của Ngài Yokotank, ta tới đây để tống cổ nhà ngươi xuống địa ngục khí Heli đâyyy.",
+    "À nhân tiện giới thiệu luôn, món ăn yêu thích nhất của ta là cơm lươn nướng Unadon đấy nhé. Rất vui được làm quen nha!",
+    "{player}: Thế à.",
+    "kissenon: Cái gì cơơơ? Ngươi chẳng có chút hứng thú nào với món cơm lươn nướng ư? Món đó ngon tuyệt cú mèo luôn đấy nhé! Bản giao hưởng hương vị lan tỏa trong khoang miệng hòa quyện cùng từng hạt cơm dẻo thơm ngọt dịu vừa phải. Xét ở bất kỳ khía cạnh nào cũng xứng danh đệ nhất mỹ vị thế gian đấy! Bộ ngươi không biết thật hả?",
+    "{player}: Tao vốn ghét ăn lươn nên chẳng quan tâm mấy thứ đó đâu."
+  ],
+  "trigger.kissenon.hurt": [
+    "kissenon: Ái đau quá đi mất!",
+    "Thiệt tình à! Chảy cả máu ra rồi đây này!",
+    "{player}: Hừ. Nếu là tao thì tao thà chọn đánh giáp lá cà còn hơn cái trò địa ngục khí Heli của mày. Bộ mày sợ đau lắm hả?",
+    "kissenon: Không chịu đâu, không chịu đâu. Ta ghét bị đau lắm.",
+    "{player}: Mang cái tinh thần yếu ớt mỏng manh cỡ đó thì mày không đời nào thắng nổi tao đâu.",
+    "kissenon: Hừ, im mồm đi! Ngươi có thấy thứ vũ khí ta đang cầm trên tay đây không? Hễ bị thứ này bắn trúng là cơ thể ngươi sẽ rơi vào trạng thái kỳ quái ngay lập tức đấy.",
+    "{player}: Cùng lắm là gây sát thương mất máu chứ gì. Mấy cái đòn bắn đó tao sẽ né sạch sành sanh từ đầu tới cuối cho mày xem.",
+    "kissenon: Nếu ngươi đã tự tin có thể đánh bại được ta đến thế thì cứ việc nhào vô đây.",
+    "{player}: Được thôi! Tao sẽ đánh gục mày ngay bây giờ!"
+  ],
+  "trigger.kissenon.end": "{player}: Áaaa! Tự dưng phát nổ tan xác luôn rồi kìa! Đang định đứng nghe xem hắn nói lời cay cú lúc thua trận thế nào... mà thôi kệ vậy!",
+  "trigger.beams.intro": [
+    "Đó là! Mấy con quái vật kỳ dị cứ lượn lờ lúc nãy kìa! Cái lũ chuyên bắn ra mấy chùm tia kỳ quái ấy!",
+    "Chết tiệt! Lại còn tụ tập tới 3 con cùng một chỗ nữa chứ. Nhưng nếu không phá hủy bọn chúng thì không thể nào đi tiếp được..."
+  ],
+  "trigger.beams.end": "Phù. Nào, tiếp tục tiến về phía trước thôi!",
+  "trigger.soldier2.intro": [
+    "Tên binh lính vừa nãy lại một lần nữa xuất hiện.",
+    "Binh lính: Này tên kia. Nếu chưa muốn chầu ông vải sớm thì mau cuốn xéo khỏi đây ngay đi. Để bổn đại gia chỉ đường ra lối thoát cho mà về.",
+    "{player}: Không thích đấy.",
+    "Binh lính: Hửm? Mày dám mở mồm nói thế là tưởng mình có cửa thắng nổi cỗ máy Grand Cruiser do chính tay tao tạo ra đấy hả?",
+    "{player}: Chứ còn gì nữa."
+  ],
+  "trigger.soldier2.not_weak": [
+    "Binh lính: Khốn kiếppp, nhưng báo cho mày biết trước nhé, tao không hề yếu đuối như cái gã binh lính lúc nãy đâu.",
+    "{player}: Gã binh lính lúc nãy? Ý mày là thằng nào cơ.",
+    "Binh lính: Mày bị ngốc à? Thì là cái người vừa triệu hồi ra con Slime Khổng Lồ ban nãy chứ ai vào đây nữa.",
+    "{player}: Ủa? Nhưng từ dáng vẻ, khuôn mặt cho tới giọng nói của mày đều giống hệt tên binh lính lúc nãy cơ mà."
+  ],
+  "trigger.soldier2.sly": [
+    "Binh lính: ...",
+    "{player}: Ái chàaa. Hóa ra anh bạn đây vì xấu hổ chuyện lỡ khóc nhè lúc nãy nên mới giả vờ đóng vai người khác để lên mặt ra oai đấy à? Khôn lỏi lươn lẹo thật đấy nhé, tôi hiểu thấu tim đen của anh rồi nha!"
+  ],
+  "trigger.soldier2.angry": [
+    "Binh lính: Cái thằng khốn này! Đừng có mà đem bổn đại gia ra làm trò cười nhé! Chẳng qua trận vừa nãy là do... à thì... ờm..."
+  ],
+  "trigger.soldier2.serious": [
+    "Đúng rồi, là do lúc nãy tao chưa tung hết sức mạnh thật sự ra thôi, chưa tung sức mạnh thật sự đấy!",
+    "{player}: Em xin phép đặt một câu hỏi ạ!",
+    "Binh lính: Cái gì? Cứ hỏi đi, bổn đại gia nghe hết.",
+    "{player}: Tại sao vừa nãy trước khi trả lời anh lại phải ngẫm nghĩ mất một lúc để bịa lý do thế ạaa?"
+  ],
+  "trigger.soldier2.cry": [
+    "Binh lính: À thì... chuyện đó là tại... ờm... à thì...",
+    "{player}: Bị nói trúng tim đen nên cứng họng rồi chứ gì, tôi hiểu quá mà.",
+    "Binh lính: Oaaaa hu hu hu!",
+    "{player}: Ô kìa, lại òa khóc nhè nữa rồi.",
+    "Binh lính: Hu... hức... D-dù sao đi nữa, tao... nhất định sẽ quyết đấu với mày! Ngon thì... hức... nhào vô đây!"
+  ],
+  "trigger.soldier2.accept": "{player}: Thú vị thật đấy. Được thôi, chiều ý anh bạn luôn.",
+  "trigger.soldier2.lost": [
+    "Binh lính: Lại thua nữa rồiii!",
+    "{player}: Anh bạn yếu nhớt thật đấy nhé.",
+    "Binh lính: Khốn kiếppp! Đã đến nước này thì đích thân tao sẽ băm mày thành thịt bằm, rồi lọc xương xẻ thịt mày ra làm 3 miếng phi lê, xong quẳng thẳng vào thùng rác!"
+  ],
+  "trigger.soldier2.wait": [
+    "{player}: Khoan, từ từ đã nào.",
+    "Binh lính: Sao thế hả? Nghe tao dọa xong sợ xanh mặt rồi chứ gì? Ha ha ha ha ha!"
+  ],
+  "trigger.soldier2.mince": [
+    "{player}: Làm cái quái nào mà sau khi băm nhuyễn người ta thành thịt bằm rồi lại còn lọc xương xẻ ra làm 3 miếng phi lê được nữa hả!"
+  ],
+  "trigger.soldier2.megya": [
+    "Binh lính: Á hựưư!",
+    "{player}: Đã thế bình thường người ta băm thành thịt bằm xong là để nấu ăn chứ ai lại đem vứt vào thùng rác? Dù thịt tao chắc cũng chẳng ngon lành gì đâu."
+  ],
+  "trigger.soldier2.fugya": [
+    "Binh lính: Hự áaaa!",
+    "Tóm lại là tao sẽ đập cho mày bẹp dí, nghiền cho mày nát bươm thành tương luôn!"
+  ],
+  "trigger.soldier2.lines": [
+    "{player}: Ahaha, xin đừng dùng mấy từ ngữ trẻ con ấu trĩ như thế chứ ạ. Xin mời anh hãy đọc một câu thoại nào nghe ngầu lòi bá khí hơn chút đi!",
+    "Binh lính: Được thôi.",
+    "Nhà ngươi chỉ là thứ rác rưởi! Kẻ bất tài vô dụng! Hãy cảm thấy vinh hạnh khi được xóa sổ dưới tay ta đi!",
+    "{player}: Hừm, nghe cũng tạm chấp nhận được đấy.",
+    "Binh lính: Nào, hãy vùng vẫy trong tuyệt vọng đi! Hãy quằn quại trong thống khổ đi! Ha ha ha ha ha haaa!"
+  ],
+  "trigger.soldier2.question": [
+    "{player}: Em lại xin phép đặt một câu hỏi nữa ạ!",
+    "Binh lính: Chết tiệt, lại cái quái gì nữa đây!",
+    "{player}: Nãy giờ anh đánh trúng người em mà em chẳng thấy đau đớn hay xi nhê tý tẹo nào cả, bộ sức mạnh thật sự của anh chỉ có vỏn vẹn chừng ấy thôi thật đấy ạaa?"
+  ],
+  "trigger.soldier2.ugah": [
+    "Binh lính: Ặc hựưưaaaa!"
+  ],
+  "trigger.soldier2.end": "{player} mặc kệ tên binh lính vừa gục ngã vì tổn thương tinh thần, cứ thế bước tiếp về phía trước.",
+  "trigger.dark_room.whoa": [
+    "{player}: Oáaa!",
+    "Chuyện gì đang xảy ra thế này!"
+  ],
+  "trigger.dark_room.spell": [
+    "Hỡi người nắm giữ chiếc chìa khóa kia. Nếu nhà ngươi thực sự là chủ nhân chân chính của nó, hãy ngâm vang câu thần chú đang hiện lên trước mắt...",
+    "{player}: Hỡi chủ nhân của chiếc chìa khóa. Ngay tại nơi đây, hãy lấy quyền hạn của người sở hữu để hóa giải phong ấn cánh cửa kia...?"
+  ],
+  "trigger.dark_room.yay": [
+    "{player}: Tuyệt vờiii!",
+    "Hóa ra mình đã trở thành chủ nhân chính thức của chiếc chìa khóa rồi! Hoan hô, hoan hô!",
+    "Và rồi như thông lệ mọi khi, hình như mình lại vừa được dịch chuyển tới một nơi nào đó rồi nhỉ."
+  ],
+  "trigger.dark_room.documents": [
+    "{player}: Chà!",
+    "Toàn bộ đống này có vẻ đều là tài liệu mật của Yamijin cả.",
+    "Hơi bất lịch sự một chút nhưng xin phép cho tao đọc sạch sành sanh không chừa trang nào nhé. Biết đâu lại tìm ra được toàn bộ chân tướng sự thật.",
+    "Bé Yamijin ơiii, cho anh xin lỗi nhéee!",
+    "Vì {player} lại vừa lên cơn chập mạch nhẹ nên chúng tôi xin phép tua nhanh thời gian đi 2 phút 28 giây."
+  ],
+  "trigger.soldier1.intro": [
+    "Ngay trước mắt bạn đột nhiên xuất hiện một tên binh lính cùng một con Slime Khổng Lồ.",
+    "Binh lính: Này tên kia. Tuân theo mệnh lệnh của Ngài Yamijin, tao tới đây để lấy mạng mày.",
+    "{player}: Rồi sao nữa?",
+    "Binh lính: Tuy nhiên, bản thân tao không hề biết bất kỳ võ nghệ chiến đấu nào cả. Ngoài thuật triệu hồi do đích thân Ngài Yamijin truyền dạy ra thì tao chẳng biết dùng chiêu gì khác.",
+    "{player}: Nói tóm lại, anh bạn đây là một kẻ ngốc nghếch vô dụng chỉ biết mỗi việc gọi quái vật ra đánh hộ chứ bản thân thì không biết đánh đấm gì đúng không ạ."
+  ],
+  "trigger.soldier1.rules": [
+    "Binh lính: Áaaa, mày mà nói toạc móng heo ra như thế thì còn gì là mặt mũi của tao nữaaa!",
+    "{player}: Thì sự thật rành rành ra đấy còn gì.",
+    "Binh lính: Ai bảo không biết trực tiếp chiến đấu là đồ vô dụng hả! Điều đó được ai quy định vào năm Công nguyên thứ mấy, trong điều khoản số bao nhiêu thuộc bộ luật của quốc gia nào trên thế giới hảaa!",
+    "{player}: Vào lúc 12 giờ 14 phút 2 giây ngày 11 tháng 3 năm 2010, đích thân ông đây đã quy định rõ ràng tại Điều thứ 32651 trong Bộ quy tắc Những điều bé ngoan cần tuân thủ đấy nhé.",
+    "Binh lính: Áaaa, sao cái bộ quy tắc quái quỷ đó lại có lắm điều khoản đến thế không biếttt!",
+    "{player}: Nhân tiện đọc luôn Điều thứ nhất: Mọi sinh vật sống trên thế gian này tuyệt đối không được phép tấn công hay gây thương tích cho tao."
+  ],
+  "trigger.soldier1.convenient": [
+    "Binh lính: Luật lệ gì mà khôn hết phần thiên hạ thế hả!",
+    "{player}: Thì tại luật do chính tay tao đặt ra mà lị."
+  ],
+  "trigger.soldier1.enough": [
+    "Binh lính: Ôi dào, tao chịu thua cái độ lầy lội của mày rồi đấy.",
+    "Thôi, màn tấu hài kết thúc tại đây. Xông lên nghiền nát hắn cho tao!"
+  ],
+  "trigger.soldier1.won": [
+    "{player}: Xời, tưởng thế nào, hóa ra chẳng khác gì con Slime lần trước cả.",
+    "Binh lính: Hu hu hu, mẹ ơiii!"
+  ],
+  "trigger.soldier1.cry": [
+    "{player}: Ủa, sợ quá khóc nhè luôn rồi hả? Cho em xin lỗi anh trai nhiều nhaaa.",
+    "Binh lính: Hức... Đủ lắm rồi! Mày mau đi khuất mắt tao đi! Tạm biệt!",
+    "{player}: Vâng vâng, tôi biết rồi mà, chào anh lính vô dụng ngốc nghếch lại còn xấu trai nhé.",
+    "Binh lính: Hu hu hu, oaaaa! Quá đáng lắm luôn ấy! Tổn thương trái tim mỏng manh của tôi quá điii!"
+  ],
+  "trigger.soldier1.end": [
+    "Tên binh lính vừa ôm mặt khóc vừa chạy biến đi mất.",
+    "Ngay tại chỗ tên binh lính vừa đứng đã đọng lại thành cả một hồ nước mắt mênh mông.",
+    "{player}: Đúng là một gã binh lính kỳ quặc... Thôi, đi tiếp nào."
+  ],
+  "trigger.mech.climbed": [
+    "{player}: Ôi giời ơiii, sợ thót cả tim lên tận cổ luôn.",
+    "Bao nhiêu lần mặt đất dưới chân cứ kêu răng rắc làm mình toát mồ hôi hột, nhưng xem ra cuối cùng cũng leo lên tới đỉnh núi rồi.",
+    "Công nhận phong cảnh trên đỉnh núi đẹp thật đấy. Không khí lại còn trong lành mát mẻ, tuyệt cú mèo luôn."
+  ],
+  "trigger.mech.huge": [
+    "Oáaaa!",
+    "T-to xác quá điii!",
+    "Cái thứ khổng lồ đằng kia là cái quái gì thế kia!?"
+  ],
+  "trigger.mech.weak": [
+    "{player}: Hư hư hư hư. Mấy đòn tấn công gãi ngứa kiểu đó chẳng làm sứt mẻ được cọng tóc nào của ông đây đâu.",
+    "Xác thì rõ to mà đánh đấm yếu xìu thế hả, bé - đồng - nát - ơiii."
+  ],
+  "trigger.mech.ouch": [
+    "{player}: Áaaaa!",
+    "Này này... Cái thứ kỳ dị này sao mà mạnh khủng khiếp thế không biết...!!",
+    "Tên khốn kia, đánh đau điếng cả người rồi đấy nhé!"
+  ],
+  "trigger.mech.hit": [
+    "Trúng đòn rồi nhé!",
+    "Được lắm! Cứ đà này bồi thêm một chuỗi đòn tấn công liên hoàn đập nó tan thành từng mảnh vụn luôn!"
+  ],
+  "trigger.mech.jump": "Oá! Chơi bẩn vừa thôi nhé, ngon thì nhảy xuống đây!",
+  "trigger.mech.shot": [
+    "{player}: Chết tiệt... Bị nó bắn trúng nhiều phát thế này thì... mất hết cả hình tượng ngầu lòi rồi.",
+    "Tóm lại là con người máy này mạnh đến mức cực kỳ nguy hiểm. Phải dốc toàn lực quyết tử mới mong thắng nổi..."
+  ],
+  "trigger.mech.won": [
+    "Tuyệt cú mèooo!",
+    "Nhưng mình vẫn chưa đập nó nát vụn hoàn toàn. Nhỡ nó lại hoạt động trở thì phiền lắm, cứ đập cho nó tan tành như lần trước luôn đi."
+  ],
+  "trigger.mech.fun": [
+    "Úi chàaa! Đập phá sướng tay thật đấy! Vui hết chỗ chê luôn!",
+    "Ủa? Hình như bên trong thân máy có chứa cái gì đó kìa."
+  ],
+  "trigger.mech.media": [
+    "Thứ gì thế này?",
+    "Có vẻ như đây là một thiết bị lưu trữ thông tin của con người máy. Biết đâu bên trong lại chứa dữ liệu quan trọng nào đó nên cứ lấy mang theo vậy.",
+    "Cơ mà rốt cuộc thứ này thuộc định dạng gì thế nhỉ? Thẻ nhớ SD không phải, bộ nhớ Flash không phải, đĩa quang từ MO không phải, đĩa mềm không phải, ổ cứng không phải, giấy viết hay bút mực hay máy ghi âm lại càng không phải.",
+    "Thôi kệ đi! Cứ nhặt đút túi mang theo đã!"
+  ],
+  "trigger.manhole.officer": [
+    "{player}: Chú nhìn kìa, cái hố ga đang nằm ở ngay đằng kia ạ.",
+    "Cảnh sát: Bên trên đúng là có vẽ những hoa văn kỳ lạ thật. Nếu cậu đã sẵn sàng, liệu cậu có thể bước lên đó để dịch chuyển đi điều tra giúp chúng tôi được không?",
+    "{player} thoáng chút ngập ngừng do dự. Cậu đã hứa chắc nịch với những người bạn ở nhà rằng nhất định sẽ bình an trở về. Thế nhưng nếu bước xuống đó, biết đâu cậu sẽ chẳng bao giờ có thể quay về được nữa. Nỗi lo lắng ấy khiến lòng {player} dậy lên sự bất an.",
+    "Thế nhưng sau cùng, {player} đã hạ quyết tâm.",
+    "Vâng, xin hãy để cháu đi ạ!"
+  ],
+  "trigger.ultra_brat.key": [
+    "{player}: Phù...",
+    "Nhặt được chiếc chìa khóa này thì tốt rồi đấy, nhưng rốt cuộc nó dùng để mở ổ khóa ở cái xó xỉnh nào mới được chứ?",
+    "Chết tiệt thật. Chẳng đoán ra nổi một chút manh mối nào cả.",
+    "Và thế là {player} bắt đầu chìm vào những suy diễn tưởng tượng kỳ quặc..."
+  ],
+  "trigger.ultra_brat.daydream": [
+    "{player}: Để xem nàooo, việc hiện giờ mình đang cầm chiếc chìa khóa này trong tay ấy à...",
+    "Hừm, chắc chắn là phải có liên quan mật thiết gì đó tới việc thúc đẩy cốt truyện tiếp theo đây...",
+    "Đối với mấy tựa game nhập vai kiểu này — hay gọi bằng tên đầy đủ chính thức là Trò chơi Nhập vai Hành động Chiến đấu — thì theo mô-típ kinh điển chắc chắn là phải dựa vào một gợi ý nào đó để phá giải chân tướng sự thật...",
+    "Mà thôi, đằng nào đây cũng là thế giới trong game nên kiểu gì chẳng có cách..."
+  ],
+  "trigger.ultra_brat.author": [
+    "{player}: Áaaaa!",
+    "Tác giả: Thôi đi, thôi ngay đi. Đừng có đứng độc thoại mấy câu nhạt nhẽo vô vị như thế nữa.",
+    "Cậu cố tình nói thế để kiếm tiếng cười của khán giả chứ gì?",
+    "Chắc chắn ở phía bên kia màn hình tinh thể lỏng, người chơi đang ngán ngẩm thở dài vì độ nhạt của cậu đấy nhé.",
+    "{player}: L-làm gì có chuyện đó! Chẳng qua là tôi... à thì... ờm..."
+  ],
+  "trigger.ultra_brat.next": [
+    "Tác giả: Cứng họng không cãi được câu nào luôn chứ gì.",
+    "Ối chà chà. Phải mau kích hoạt sự kiện tiếp theo cho cốt truyện chạy tiếp mới được. Nào, chuẩn bị lên sóng đâyyy!"
+  ],
+  "trigger.ultra_brat.hey": "Ai đó: Ê, cái thằng đằng kia!",
+  "trigger.ultra_brat.intro": [
+    "{player}: Hả tên khốn kia! Mới gặp người ta lần đầu mà mày tưởng ăn nói hỗn láo kiểu đó là xong chuyện à? Đồ đại ngốc!",
+    "Ai đó: Khoan nói mấy chuyện vặt vãnh đó đi. Nghe nói mày vừa mới chăm sóc đám đàn em của bổn thiếu gia hơi bị kỹ càng đấy nhỉ?",
+    "{player}: Hả? Đàn em của mày á? Tao biết đếch được đứa nào là đàn em của mày?",
+    "Ai đó: Hảaa? Mày đừng hòng mở mồm chối là không biết nhé?",
+    "Được rồi, trước tiên để tao đại phát từ bi xưng danh cho mày nghe.",
+    "Danh xưng của bổn thiếu gia chính là Nhóc Quậy Tối Thượng!!",
+    "{player}: Hả? Đừng có đứng đấy mà làm màu tỏ vẻ ngầu lòi nữa!",
+    "Nhóc Quậy Tối Thượng: Câm mồm! Đừng có lắm lời nữa, mau ngoan ngoãn nộp mạng đi con! Yahaaa!",
+    "{player}: Ồ hô. Chỉ vì mấy tên đàn em bị đánh bại mà đại ca đây cũng ra dáng trượng nghĩa đi trả thù rửa hận hộ cơ đấyyy.",
+    "Nhóc Quậy Tối Thượng: Đã bảo là câm cái mồm lại đi tên khốn kia! Biến đi! Biến đi! Cút xéo khỏi thế gian này điii!",
+    "{player}: A tên khốn này! Muốn chiến thì tao chiều mày tới bến luôn!"
+  ],
+  "trigger.ultra_brat.end": [
+    "{player}: Này. Tao có chút chuyện muốn hỏi mày đây.",
+    "Nhóc Quậy Tối Thượng: Hự... Chuyện gì?",
+    "{player}: Mày có biết kẻ nào tên là Yamijin không?",
+    "Nhóc Quậy Tối Thượng: Ờ, cũng có biết sơ sơ đấy.",
+    "{player}: Thế hóa ra mày cũng là thuộc hạ dưới trướng của hắn à?",
+    "Nhóc Quậy Tối Thượng: Không hề nhé, ông đây chẳng phải tay sai của hắn đâu.",
+    "{player}: Thế sao mày lại biết về hắn?",
+    "Nhóc Quậy Tối Thượng: Hôm trước tên Yamijin có mở lời nhờ tao giúp sức cho kế hoạch của hắn, nhưng tao từ chối thẳng thừng rồi.",
+    "{player}: Vậy mày có biết gì về chiếc chìa khóa mà tên Yamijin từng giữ không?",
+    "Nhóc Quậy Tối Thượng: À, ý mày là chiếc Chìa khóa Phòng Tối đó hả?",
+    "{player}: Cái tên gì nghe lạ hoắc vậy?",
+    "Nhóc Quậy Tối Thượng: Mày thử lấy ra đưa tao xem nào. Cứ yên tâm đi, tao cũng là bậc nam nhi đại trượng phu, một khi đã thua tâm phục khẩu phục trong trận đấu rồi thì tuyệt đối không giở trò đánh lén mày đâu.",
+    "{player}: Được rồi, tao tin mày.",
+    "Đây, xem thử đi?",
+    "Nhóc Quậy Tối Thượng: Ờ. Không lẫn đi đâu được. Chính xác là chiếc Chìa khóa Phòng Tối rồi.",
+    "{player}: Thật vậy sao? Thế mày có biết thêm thông tin gì về nó không?",
+    "Nhóc Quậy Tối Thượng: Nghe đồn đó là chiếc chìa khóa chứa mật khẩu để truy cập vào chiếc máy tính lưu giữ toàn bộ thông tin tuyệt mật của Yamijin.",
+    "{player}: Thế cái dàn máy tính đó hiện đang đặt ở đâu hả?",
+    "Nhóc Quậy Tối Thượng: Chuyện đó thì tao chịu. Nghe nói nếu không trở thành chủ nhân thực sự của chiếc chìa khóa thì nó sẽ không tiết lộ vị trí căn phòng đó cho biết đâu.",
+    "{player}: Ra là vậy. Đáng tiếc thật đấy.",
+    "Dù sao cũng cảm ơn mày nhiều nhé, giúp ích cho tao lắm đấy.",
+    "Nhóc Quậy Tối Thượng: Ờ. Đi đường nhớ cẩn thận đấy nhé. Cái tên Yamijin nham hiểm đó chẳng biết sẽ giăng sẵn cạm bẫy gì đợi mày đâu."
+  ]
+}

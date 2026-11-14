@@ -1,0 +1,148 @@
+{
+  "arkhaia_store.swordsman": "Người trông giống kiếm sĩ: Con dao này không có vỏ bọc hay gì à? Tôi muốn giắt nó trong túi áo cho kín đáo, mà lưỡi dao sắc quá sợ rách toạc cả quần áo mất.",
+  "arkhaia_store.strange_lady": [
+    "Tiểu thư khả nghi?: Ô hô hô hô. Ở một nơi thế này lại có bày bán món đồ hợp làm đồ chơi cho ta quá đi mất. Có thứ này trong tay thì tha hồ vui đùa thỏa thích với đủ mọi người rồi đây.",
+    "{player}: (Híiii... Bà cô này thần kinh có vấn đề gì thế không biết... Hay đơn giản là có sở thích biến thái đây?)",
+    "Tiểu thư: Ủa? Cậu vừa mới nói gì cơ?",
+    "{player}: Á, d-dạ không, ch-cháu đâu có nói gì đâu ạ!!"
+  ],
+  "arkhaia_store.car_kid": "Đứa trẻ: Muốn có chiếc xe hơi trong cái máy gắp thú kia quá đi. Ngầu quá trời luôn. Muốn có quá đi mất.",
+  "arkhaia_store.drummer": "Tay trống nghiệp dư: Công nhận đã thật đấy. Chỉ 100 yên mà được đánh trọn 1 bài là quá hời rồi. Cơ mà bài Sao Mộc thì đúng là cắt cổ thật, tại nó ngắn ngủn à.",
+  "arkhaia_store.ufo_maniac": [
+    "Cao thủ máy gắp thú: Tôi cực kỳ đam mê việc nghiên cứu các cỗ máy gắp thú đấy nhé.",
+    "Chiếc máy gắp thú ở đây được thiết kế khá là khó gắp đấy. Theo tôi tính toán thì xác suất gắp trúng chỉ rơi vào khoảng 30% thôi. Cơ mà bên trong có vẻ chứa đủ thứ đồ hay ho nên cậu cứ thử vận may xem sao."
+  ],
+  "arkhaia_store.photo_kid": "Đứa trẻ 2: Ai nấy đều cứ nhắc tới máy gắp thú suốt, trong khi chụp ảnh lấy liền ở bên này chắc ăn100% thì chẳng tốt hơn sao. Quanh mấy trò chơi khác đều có tới hai người đứng vây quanh, thế mà trước buồng chụp ảnh lấy liền lại chỉ có mỗi mình em... Bộ trò này hết thời rồi hả trời?",
+  "arkhaia_store.weapons.welcome": [
+    "Thương nhân: Xin chàooo. Tôi chính là người đứng ở cổng vào Thành phố Arkhaia lúc trước đây. Tôi đã nhập về đủ các mặt hàng đa dạng lắm, cậu nhớ mua ủng hộ nhé.",
+    "Cửa hàng chủ yếu bán vũ khí và giáp bảo vệ. Ngoài ra cũng có bán cả những vật phẩm không thể thiếu cho chuyến hành trình nữa đấy."
+  ],
+  "arkhaia_store.weapons.items": [
+    "Chậu giặt - 500 yên - Đồ đồng nát nhưng tạm dùng để tự vệ được",
+    "Tấm kính - 600 yên - Vỡ ngay tắp lự nhưng mảnh vỡ gây sát thương",
+    "Tấm nhôm - 1250 yên - Tấm nhôm cứng cáp",
+    "Chậu giặt cỡ lớn - 1500 yên - Bền bỉ đáng gờm",
+    "Roi da - 4000 yên - Hãy dạy dỗ kẻ địch từ đằng xa nào",
+    "Dao Đồng - 10000 yên - Con dao cực kỳ sắc bén, cho phép tung đòn liên hoàn 3 nhát chớp nhoáng",
+    "100 viên đạn ná cao su - 600 yên - Đúng như tên gọi",
+    "Mảnh Ánh Sáng - 1000 yên - Hồi 150 điểm HP",
+    "Dấu mốc đỏ - 50 yên - Đặt xuống đất để làm dấu chỉ đường",
+    "Dấu mốc xanh dương - 50 yên - Đặt xuống đất để làm dấu chỉ đường",
+    "Dấu mốc vàng - 50 yên - Đặt xuống đất để làm dấu chỉ đường",
+    "Dấu mốc xanh lá - 50 yên - Đặt xuống đất để làm dấu chỉ đường",
+    "Thanh toán",
+    "Tiền hiện có"
+  ],
+  "arkhaia_store.weapons.title": "Hãy chọn mặt hàng bạn muốn mua.",
+  "arkhaia_store.weapons.owned": "Món đồ này bạn đã có sẵn rồi.",
+  "arkhaia_store.weapons.cant_afford": "Với số tiền hiện có thì chắc không mua nổi rồi.",
+  "arkhaia_store.weapons.checkout": [
+    "Nhân viên: Thanh toán hóa đơn đúng không nào."
+  ],
+  "arkhaia_store.weapons.points_added": "Nhân viên: Thẻ tích điểm Bách hóa Arkhaia của cậu vừa được cộng thêm {points} điểm đấy nhé.",
+  "arkhaia_store.weapons.use_points": "Nhân viên: Trong Thẻ tích điểm Bách hóa Arkhaia của cậu đang có {points} điểm, cậu có muốn dùng điểm để giảm giá không?",
+  "arkhaia_store.weapons.discount": "Nhân viên: Đã rõ. Vậy tôi sẽ giảm giá {points} yên vào hóa đơn cho cậu nhé.",
+  "arkhaia_store.washtub": "Ồ, sao ở chỗ thế này lại có cái chậu giặt vứt chỏng chơ nhỉ. Xem chừng dùng tạm làm giáp bảo vệ cũng được nên tiện tay nhặt mang đi luôn vậy.",
+  "arkhaia_store.table": "Đây là chiếc bàn để mọi người ngồi ăn cơm.",
+  "arkhaia_store.bento_fan": "Người 2: Chà, suất Cơm hộp thịt cốt lết này trông ngon mắt thật đấy. Hay là mang lên tầng trên ngồi ăn nhỉ.",
+  "arkhaia_store.ramen_fan": [
+    "Người 2: Hừm, tại sao ở đây lại không bán mì Ramen nước xương hầm Tonkotsu nhỉ?",
+    "{player}: Công nhận... Sao lại không có nhỉ?"
+  ],
+  "arkhaia_store.shopper1": [
+    "Người dân: Vì Mảnh Ánh Sáng không phải là thực phẩm nên nghe nói ở tầng này không có bán đâu.",
+    "{player}: Ra là vậy."
+  ],
+  "arkhaia_store.takoyaki_fan": [
+    "Người dân: C-cái quái gì thế nàyyy! Tại sao bánh bạch tuộc Takoyaki ở đây lại ngon bá cháy đến mức này cơ chứưư!",
+    "Khốn kiếp! Sao ở cái xó xỉnh này lại có bánh Takoyaki ngon thế được! Đã nhắc tới Takoyaki là phải nói tới vùng Osaka mới đúng luật chứ hảaa!",
+    "Áaaa! Mày cũng nghĩ y như tao đúng không hả!",
+    "{player}: Tự dưng ông hỏi thế thì tôi cũng chịu...",
+    "Người dân: Mọi khi bước ra khỏi nhà hàng lúc nào tao cũng khen một câu Ngon lắm đấy cho tụi nó mừng, nhưng riêng lần này thì còn khuya tao mới thèm khen nhé!",
+    "{player}: Haiz..."
+  ],
+  "arkhaia_store.restaurant.welcome": [
+    "Nhân viên: Xin kính chào quý khách, đây là khu nhà hàng ăn uống ạ!",
+    "Chúng tôi có phục vụ đủ các món ăn đa dạng, xin mời quý khách tự nhiên thưởng thức!"
+  ],
+  "arkhaia_store.restaurant.items": [
+    "Cơm trắng - 150 yên",
+    "Cơm trắng suất lớn - 300 yên",
+    "Mì Ramen muối - 350 yên",
+    "Mì Ramen nước tương - 350 yên",
+    "Mì Ramen tương Miso - 350 yên",
+    "Mì Ramen thịt xá xíu - 480 yên",
+    "Mì xào giòn Sara Udon - 420 yên",
+    "Mì Ramen tương Miso hành lá - 350 yên",
+    "Combo Tempura và mì Udon lạnh - 600 yên",
+    "Combo Tempura và mì Soba lạnh - 600 yên",
+    "Bánh bạch tuộc Takoyaki - 300 yên",
+    "Bánh bạch tuộc Takoyaki kiểu Akashi - 400 yên",
+    "Siêu mì Ramen tương Miso hành lá thịt xá xíu thượng hạng - 850 yên",
+    "Phần cơm thịt cốt lết chiên xù Tonkatsu - 900 yên",
+    "Mì hầm rau củ Houtou - 620 yên",
+    "Bít tết thăn bò nướng - 1000 yên",
+    "Ly kem trái cây tổng hợp Parfait - 500 yên",
+    "Kem hương vani - 500 yên",
+    "Kem hương dâu tây - 500 yên",
+    "Thanh toán",
+    "Tiền hiện có"
+  ],
+  "arkhaia_store.restaurant.title": "Hãy chọn món bạn muốn thưởng thức.",
+  "arkhaia_store.restaurant.waiter": [
+    "Vâng, một phần cơm trắng của quý khách đây ạ. Đây là gạo Koshihikari thượng hạng của vùng Niigata đấy ạ.",
+    "Vâng, cơm trắng của quý khách đây ạ. Gạo Koshihikari vùng Niigata chính hiệu, lại còn được đơm đầy ắp suất lớn luôn ạ.",
+    "Mì Ramen muối của quý khách đây ạ. Món này dùng sợi mì to dai đấy ạ.",
+    "Một tô mì Ramen nước tương của quý khách đây ạ. Bên trong có cho thật nhiều măng khô Menma đấy ạ.",
+    "Mì Ramen tương Miso của quý khách đây ạ. Hương vị tương Miso đậm đà của món này được thực khách ưa chuộng lắm ạ.",
+    "Mì Ramen thịt xá xíu của quý khách đây ạ. Vì nhà hàng chúng tôi tuyển chọn nguyên liệu thịt xá xíu cực kỳ kỹ lưỡng nên giá có hơi cao một chút, nhưng đảm bảo thịt xá xíu ngon tuyệt đỉnh luôn ạ.",
+    "Mì xào giòn Sara Udon của quý khách đây ạ. Xin quý khách hãy thưởng thức ngay khi sợi mì còn đang giòn rụm nhé ạ.",
+    "Một tô mì Ramen tương Miso hành lá của quý khách đây ạ. Trên mặt tô mì Ramen tương Miso được phủ ngập tràn hành lá tươi ngon đấy ạ.",
+    "Combo Tempura và mì Udon lạnh của quý khách đây ạ. Phần ăn này bao gồm cả đồ chiên Tempura giòn tan lẫn mì Udon mát lạnh ạ.",
+    "Combo Tempura và mì Soba lạnh của quý khách đây ạ. Phần ăn này bao gồm cả đồ chiên Tempura lẫn mì kiều mạch Soba ạ.",
+    "Bánh bạch tuộc Takoyaki của quý khách đây ạ. Quý khách có thể tùy ý rưới thêm sốt mayonnaise và nước sốt đặc trưng theo khẩu vị ạ.",
+    "Bánh bạch tuộc Takoyaki kiểu Akashi của quý khách đây ạ. Xin mời quý khách rưới phần nước dùng thanh ngọt này lên những viên Takoyaki chiên vàng giòn rồi thưởng thức ạ.",
+    "Vâng, Siêu mì Ramen tương Miso hành lá thịt xá xíu thượng hạng của quý khách đây ạ. Chỉ riêng một tô này thôi là đủ no căng bụng rồi đấy ạ.",
+    "Phần cơm thịt cốt lết chiên xù Tonkatsu của quý khách đây ạ. Vì dùng phần thịt thăn lưng dày dặn nên suất ăn này đầy đặn lắm đấy ạ.",
+    "Vâng, mì hầm rau củ Houtou của quý khách đây ạ. Quanh vùng này hiếm nơi nào bán món đặc sản này lắm đấy ạ.",
+    "Một phần Bít tết thăn bò nướng của quý khách đây ạ. Đĩa gang còn đang rất nóng nên xin quý khách hãy cẩn thận khi dùng bữa ạ. À, nước sốt đi kèm là sốt Teriyaki đậm đà đấy ạ.",
+    "Ly kem trái cây tổng hợp Parfait của quý khách đây ạ. Bên trên được bày đầy ắp đủ loại trái cây tươi ngon đấy ạ.",
+    "Kem hương vani của quý khách đây ạ. Món này có rắc kèm cả bánh ngũ cốc giòn rụm nữa đấy ạ.",
+    "Kem hương dâu tây của quý khách đây ạ. Phía trên phủ ngập dâu tây tươi nên được khách hàng yêu thích lắm ạ."
+  ],
+  "arkhaia_store.restaurant.recovered": "Đã hồi phục {hp} HP",
+  "arkhaia_store.restaurant.full": "Bụng đã no căng, không thể ăn thêm được nữa.",
+  "arkhaia_store.restaurant.checkout": [
+    "Nhân viên: Vâng, quý khách muốn thanh toán hóa đơn ạ."
+  ],
+  "arkhaia_store.restaurant.points_added": "Nhân viên: Thẻ tích điểm Bách hóa Arkhaia của quý khách đã tích lũy thêm được {points} điểm, lần tới xin quý khách hãy sử dụng nhé ạ.",
+  "arkhaia_store.restaurant.use_points": "Nhân viên: Dạ thưa, trong Thẻ tích điểm Bách hóa Arkhaia của quý khách hiện có {points} điểm, quý khách có muốn sử dụng không ạ?",
+  "arkhaia_store.restaurant.discount": "Nhân viên: Vâng, tôi đã hiểu. Vậy xin phép giảm trừ {points} yên vào hóa đơn của quý khách ạ.",
+  "arkhaia_store.stairs.down": "Có cầu thang đi xuống kìa. Bạn có muốn đi xuống tầng dưới không?",
+  "arkhaia_store.stairs.up": "Có cầu thang đi lên kìa. Bạn có muốn bước lên tầng trên không?",
+  "arkhaia_store.food.welcome": [
+    "Nhân viên: Chào mừng quý khách đến với tầng 1 của Bách hóa Arkhaia ạ.",
+    "Tại đây chúng tôi chuyên bày bán các mặt hàng thực phẩm ạ."
+  ],
+  "arkhaia_store.food.items": [
+    "Cơm nắm - 185 yên",
+    "Nấm Matsutake - 700 yên",
+    "Bánh ngọt - 87 yên",
+    "Quả Sabon - 98 yên",
+    "Cơm hộp thịt cốt lết - 400 yên",
+    "Cơm nắm khổng lồ - 315 yên",
+    "Bánh mì kẹp trứng - 198 yên",
+    "Bánh mì kẹp thịt nguội - 210 yên",
+    "Nước uống thể thao - 128 yên",
+    "Nước tăng thể lực - 398 yên",
+    "Thanh toán",
+    "Tiền hiện có"
+  ],
+  "arkhaia_store.food.title": "Hãy chọn vật phẩm bạn muốn mua.",
+  "arkhaia_store.food.checkout": [
+    "Nhân viên: Vâng, quý khách thanh toán hóa đơn đúng không ạ."
+  ],
+  "arkhaia_store.food.points_added": "Nhân viên: Vâng, Thẻ tích điểm Bách hóa Arkhaia của quý khách đã tích lũy thêm được {points} điểm ạ.",
+  "arkhaia_store.food.use_points": "Nhân viên: Dạ thưa, trong Thẻ tích điểm Bách hóa Arkhaia của quý khách hiện có {points} điểm, quý khách có muốn sử dụng không ạ?",
+  "arkhaia_store.food.discount": "Nhân viên: Vâng, tôi đã hiểu. Vậy xin phép giảm trừ {points} yên vào hóa đơn cho quý khách ạ."
+}

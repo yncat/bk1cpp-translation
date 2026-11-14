@@ -1,0 +1,150 @@
+{
+  "unknown_land.rough.intro": "Thương nhân: Yo yo! Tuy ông đây cũng bán vật phẩm hồi phục giống mấy gã thương nhân bình thường khác, nhưng đẳng cấp của ông đây hơi bị khác bọt đấy nhé. Ngoài ra ông đây còn bán cả món vũ khí siêu phàm mang tên Nắm Đấm Thép, bán cả Tấm thép cứng cáp dùng làm giáp bảo vệ, kiêm luôn cả dịch vụ nhà trọ dã chiến nữa đấy. Quái vật ở vùng này mạnh gớm mặt lắm, nên cậu cứ sắm Nắm Đấm Thép đấm cho tụi nó ra bã, lúc nào thấm mệt thì quay về chỗ ông đây ngủ một giấc là hết bài. Wahahaha!",
+  "unknown_land.rough.menu.title": "Bạn muốn làm gì?",
+  "unknown_land.rough.menu.items": [
+    "Xin nghỉ trọ lại",
+    "Mua Tấm thép",
+    "Xem thử cái thứ gọi là Nắm Đấm Thép",
+    "Mua sắm vật phẩm hồi phục các thứ",
+    "Ra ngoài kia chạy nhảy chiến đấu tiếp"
+  ],
+  "unknown_land.rough.farewell": "Vậy à. Thế thì ra ngoài đó cố mà chiến đấu nhé. Bật mí cho cậu biết là mấy con Tiểu Quỷ Máy mà vòng ra đánh lén từ phía sau lưng là hơi bị ngon ăn đấy.",
+  "unknown_land.rough.shop.intro": "Ở đây có đủ các mặt hàng xịn sò, cậu nhớ mua ủng hộ nhé. Ông đây để giá hữu nghị rẻ bất ngờ cho đấy.",
+  "unknown_land.rough.shop.items": [
+    "Mảnh Ánh Sáng - 900 yên",
+    "Cỏ Sinh Mệnh - 1600 yên",
+    "Thuốc hồi phục - 500 yên",
+    "Nén hương kỳ diệu - 1000 yên",
+    "Mảnh Sinh Mệnh - 2500 yên",
+    "Kết tinh Sinh Mệnh - 4000 yên",
+    "Bí dược Huyền thoại - 5000 yên",
+    "Ngôi Sao Tươi Mát - 10000 yên",
+    "Nắng Xuyên Kẽ Lá - 1200 yên",
+    "Siêu nước tăng lực - 600 yên",
+    "Đại nước tăng thể lực - 1300 yên",
+    "Bình Tươi Mát - 1700 yên",
+    "1000 mũi Tên Sắt - 9500 yên",
+    "3000 mũi Tên Sắt - 35000 yên",
+    "Thanh toán",
+    "Tiền hiện có"
+  ],
+  "unknown_land.rough.shop.title": "Hãy chọn vật phẩm bạn muốn mua",
+  "unknown_land.rough.shop.thanks": "Thương nhân: Cảm ơn cậu nhiều nhéee!",
+  "unknown_land.rough.knuckle.owned": "Này này, cậu đã có sẵn một cặp trong người rồi còn gì. Mua hai cặp về cũng chẳng dùng cùng lúc được đâu.",
+  "unknown_land.rough.knuckle.pitch": "Được lắm. Món vũ khí này đòi hỏi người dùng phải có chỉ số Nhanh nhẹn kha khá một chút, nhưng một khi đã đủ độ nhanh nhẹn rồi thì nó sẽ trở thành thứ vũ khí bá đạo vô song. Tuy uy lực của từng cú đấm đơn lẻ xấp xỉ với Kiếm Dài, nhưng nếu chỉ số Nhanh nhẹn của cậu cao thì thời gian sơ hở giữa các đòn cực ngắn, giúp cậu đấm liên hoàn làm kẻ địch choáng váng không kịp trở tay. Biết kết hợp linh hoạt nó với các vũ khí khác thì đời lên hương ngay. Giá bán của nó là 20000 yên đấy.",
+  "unknown_land.rough.knuckle.prompt": "Vì bạn đang thèm khát cặp Nắm Đấm Thép tới mức nhỏ dãi nên có muốn rút hầu bao 20000 yên mua ngay từ người thương nhân không?",
+  "unknown_land.rough.knuckle.declined": "Vậy à. Bao giờ đổi ý thì cứ quay lại đây mua nhé.",
+  "unknown_land.rough.knuckle.no_money": "{player}: Hu hu, không đủ tiền mua mất rồi.",
+  "unknown_land.rough.inn.pitch": "Nói trước là ông đây cho cậu nghỉ trọ với giá 500 yên, nhưng tiền nào của nấy thôi nhé, ở đây không có mấy màn tiểu phẩm tấu hài vui nhộn lúc ngủ lại như ở khách sạn đâu đấy.",
+  "unknown_land.rough.inn.prompt": "Vì cơ thể đã chạm ngưỡng giới hạn, mệt đứt hơi sắp tắt thở tới nơi rồi nên bạn có muốn tha thiết van xin được nghỉ trọ lại không? (khoan đã)",
+  "unknown_land.rough.inn.declined": "Vậy à. Thế thì cứ ra ngoài kia để lũ Nhóc Quậy chém đủ 100 nhát rồi hẵng bò về đây nhé! Ahahaha!",
+  "unknown_land.rough.inn.no_money": "{player}: Hu hu, đang muốn nghỉ ngơi lấy sức mà lại chẳng đủ tiền trả.",
+  "unknown_land.rough.inn.morning": "Chào buổi sáng nhé. Đêm qua cậu ngủ có ngon giấc không nào?",
+  "unknown_land.rough.steel.pitch": "Tấm thép này có độ bền lên tới tận 300 đấy nhé. Mấy đòn tấn công của đám quái vật quanh vùng này thì nó đánh bật lại cái một. Nhưng dùng nhiều nó vẫn vỡ tan đấy nên nhớ chú ý nhé. Dù sao đây cũng là trong game mà, đừng có bắt bẻ chuyện tại sao thép cứng mà lại vỡ. Giá bán mỗi tấm là 2000 yên nhé.",
+  "unknown_land.rough.steel.prompt": "Dù hơi tiếc nếu dùng bị vỡ, nhưng bạn có muốn bỏ ra 2000 yên để vác về một tấm thép vuông vức dài rộng khoảng 150 cm vừa nặng trịch vừa hứa hẹn sẽ rất thú vị nếu đem nung nóng này không?",
+  "unknown_land.rough.steel.declined": "Vậy à. Cũng phải thôi, vừa đắt vừa nặng trịch, lại còn có nhược đỉm... ủa nhầm, nhược đểm... ôi líu cả lưỡi rồi... nhược điểm! Đúng rồi, từ chuẩn là nhược điểm đấy.",
+  "unknown_land.rough.steel.no_money": "{player}: Khốn kiếp! Đứng trước một lão thương nhân hài hước mặn mòi thế này mà mình chẳng tung hứng lại được câu nào, đã thế trong túi lại còn không đủ tiền nữa chứ!",
+  "unknown_land.rough.laser.pitch": [
+    "Hừm. Cậu đã mua ủng hộ cả Nắm Đấm Thép lẫn Tấm thép cho ông đây rồi nhỉ. Đã thế thì ông đây sẽ lấy món bảo bối cất kỹ bình thường không bao giờ đem bán ra nhượng lại cho cậu.",
+    "Thứ này gọi là Khiên Laser, có khả năng tạo ra một bức tường tia laser đặc biệt đánh bật mọi đòn tấn công của kẻ địch. Độ bền của nó thì khỏi phải bàn cãi luôn, lại còn có ưu điểm là cực kỳ ít sơ hở. Giá của nó chỉ 10000 yên thôi, quá hời luôn đấy nhé."
+  ],
+  "unknown_land.rough.laser.prompt": "Hả! Có cả chiếc khiên bá đạo ăn gian tới mức đó cơ á? Muốn mua, muốn mua quá đi! Ủa mà phải hỏi ý kiến người chơi trước mới biết được nhỉ. Bạn có muốn mua không?",
+  "unknown_land.rough.laser.declined": "Hảaaa! Ngon thế mà bạn không chịu mua thật đấy hảaa? Nhắn gửi từ Tác giả.",
+  "unknown_land.researcher.done": "Chủ nhà: Đi đường nhớ giữ gìn cẩn thận đấy nhé.",
+  "unknown_land.researcher.drive": [
+    "Chủ nhà: Tôi đang chuyên tâm nghiên cứu về các thiết bị lưu trữ bộ nhớ của người máy.",
+    "Mục tiêu của tôi là phân tích đa dạng các loại thiết bị lưu trữ khác nhau nhằm nâng tổng dung lượng bộ nhớ lên mức cao hơn nữa.",
+    "Hiện tại tôi đã đạt tới cột mốc 300 terabyte rồi, nhưng tôi tin là vẫn còn có thể nâng cao hơn được nữa.",
+    "{player}: Dạ, xin lỗi vì đã cắt ngang câu chuyện của bác, nhưng cháu đang có một món đồ rất muốn nhờ bác kiểm tra giúp ạ.",
+    "Chủ nhà: Thứ gì thế? Tôi cực kỳ đam mê việc phân tích nghiên cứu, nếu cậu đang mang sẵn trong người thì mau lấy ra cho tôi xem thử đi.",
+    "{player}: Vâng, chính là thứ này đây ạ.",
+    "Chủ nhà: Trời đất ơi! Đây chẳng phải là Ổ đĩa ISO Siêu Nhỏ Gọn Flash mà tôi hằng tìm kiếm bấy lâu nay hay sao!",
+    "{player}: Hảaa? Cái tên dài ngoằng kỳ quặc gì thế ạaa?",
+    "Chủ nhà: Đây là thiết bị lưu trữ có hiệu năng đỉnh cao nhất trên thế giới hiện nay đấy. Dù kích thước thân máy chỉ vỏn vẹn khoảng 3 cm, nhưng nhờ hệ thống tia laser flash đặc biệt mà nó có thể lưu trữ tới tận 512 terabyte tệp ảnh đĩa ISO đấy.",
+    "{player}: Ủa khoan đã nào. Thế tức là nó chỉ ghi được mỗi định dạng ảnh đĩa ISO thôi hả bác? Vậy lúc cắm vào thiết bị thực tế để dùng thì mỗi lần mở lại phải nạp... à nhầm, gắn ổ đĩa ảo thủ công từng cái một sao? Phiền phức rắc rối chết đi được.",
+    "Chủ nhà: Thì đúng là như vậy đấy.",
+    "Dù sao thì thiết bị này cực kỳ hiếm và khó kiếm. Sau khi tôi phân tích dữ liệu bên trong xong cho cậu, cậu có thể tặng lại chiếc ổ đĩa này cho tôi được không?",
+    "{player}: Dạ, cháu không thành vấn đề đâu ạ...",
+    "Chủ nhà: Cảm ơn cậu nhiều lắm! Vậy để tôi đem vào phân tích ngay bây giờ, cậu đứng đợi một lát nhé."
+  ],
+  "unknown_land.researcher.analyse": [
+    "Chủ nhà: Bây giờ kết quả phân tích sẽ hiển thị thành dòng chữ ở màn hình phía bên đó, cậu hãy chú ý đọc kỹ nhé."
+  ],
+  "unknown_land.researcher.result": [
+    "P H Á O - Đ À I - Y O K O T A N K",
+    "Chủ nhà: Pháo đài Yokotank ư? Tôi hoàn toàn chẳng hiểu nó có ý nghĩa gì cả.",
+    "{player}: Cháu cảm ơn bác nhiều lắm ạ.",
+    "Chủ nhà: ???"
+  ],
+  "unknown_land.researcher.resolve": [
+    "Đích đến cuối cùng của mình đã được xác định.",
+    "Chỉ cần tiến tới Pháo đài Yokotank, mọi chuyện sẽ đi đến hồi kết.",
+    "Mình chẳng có bằng chứng nào cả. Hoàn toàn không có lấy một cơ sở chắc chắn nào.",
+    "Thế nhưng mình bắt buộc phải lên đường.",
+    "Tất cả là để đập tan dã tâm của Yokotank.",
+    "Và hơn hết thảy, là để sớm được quay trở về bên những người bạn thân yêu luôn hết lòng tin tưởng mình...!",
+    "{player}: Được lắm! Lên đường thôi nào!"
+  ],
+  "unknown_land.researcher.panel": [
+    "Chủ nhà: Phần dữ liệu còn lại bên trong ổ đĩa hóa ra là chương trình điều khiển của một Tấm dịch chuyển đấy.",
+    "{player}: Cháu cảm ơn bác nhiều ạ.",
+    "Chủ nhà: Tôi vừa chép chương trình Tấm dịch chuyển đó tích hợp thẳng vào lõi thiết bị cho cậu rồi đấy, hãy cầm lấy mà sử dụng nhé.",
+    "{player}: Cháu thật lòng cảm ơn bác rất nhiều ạ.",
+    "Chủ nhà: Có gì đâu nào. Coi như chút quà đáp lễ vì cậu đã tặng cho tôi chiếc ổ nhớ quý giá đó mà."
+  ],
+  "unknown_land.researcher.gaki1": [
+    "{player}: Cái gì thế kia!",
+    "Nhóc Quậy Tối Thượng: Ora ora ora ora ora ora ora!",
+    "Chủ nhà: Cậu là ai thế hả?",
+    "Nhóc Quậy Tối Thượng: Bổn thiếu gia là chàng trai ngầu lòi nhất hệ mặt trời, Nhóc Quậy Tối Thượng đây! Yahaaa!",
+    "Chủ nhà: Sao cũng được. Cậu tới nhà tôi có việc gì?",
+    "Nhóc Quậy Tối Thượng: Câm mồm! Ông đây tới để xin đểu cơm gạo lương thực! Khôn hồn thì mau nộp hết ra đây? Bằng không ông đây đập nát bét dàn máy tính trong cái nhà này bây giờ!",
+    "{player}: Ồ, bản nhạc nền nghe hoài niệm thật đấy nhỉ, và cũng lâu lắm rồi mới gặp lại mày đấy nhé."
+  ],
+  "unknown_land.researcher.gaki2": [
+    "Nhóc Quậy Tối Thượng: Á! Tên khốn kia, mày vẫn còn vác xác ở đây cơ à!",
+    "{player}: Chính tao mới phải hỏi câu đó đấy, tại sao bại trận dưới tay tao rồi mà mày vẫn chưa chừa thói đi làm chuyện xấu hả?",
+    "Nhóc Quậy Tối Thượng: Câm mồm! Dù có thua mày một lần thì sao chứ, ông đây thích đi quậy phá chỉ đơn giản vì nó vui thôi nhớ chưa!! Nhìn bản mặt mày ngứa mắt lắm rồi đấy, có muốn tao xóa sổ mày khỏi thế gian này luôn không hả?",
+    "{player}: Hả? Ngon thì nhào vô làm thử xem nào?",
+    "Nhóc Quậy Tối Thượng: Á à! Mày dám thách ông đây hả! Chuẩn bị nhận lấy cái chết đi! Yahaaa!",
+    "{player}: Bác cứ yên tâm đứng lùi lại phía sau ạ. Nhất định cháu sẽ đánh gục tên này ngay lập tức.",
+    "Nghe cái tiếng hét Yahaaa! của mày mãi phát ngấy lên tận cổ rồi đấy. Lo mà nghĩ ra câu khẩu hiệu nào khác mới mẻ hơn đi con! Đỡ đòn nàyyy!"
+  ],
+  "unknown_land.researcher.after1": [
+    "{player}: Áaaa! Nhạc nền tự dưng đổi sang bài Đường Dạo Bộ êm đềm luôn rồi kìa! Hoan hô!",
+    "Nhóc Quậy Tối Thượng: T-tên khốn kia! Tại sao mày lại mạnh lên khủng khiếp thế hả!",
+    "{player}: Thì tao cũng phải trải qua biết bao nhiêu gian khổ trầy vi tróc vảy chứ bộ? Nào là bị Tiểu Quỷ Máy đấm bay xác, bị đám đàn em của mày chém tơi tả, lúc leo núi thì thót tim suýt rơi xuống vực, lại còn suýt bị con người máy kỳ dị giết chết nữa... Chắc nhờ vượt qua hết đống thử thách thập tử nhất sinh đó nên tao mới mạnh lên được đấy...",
+    "Mà tao hỏi ngược lại mày nhé: Tại sao mày lại chẳng mạnh lên thêm được tý nào thế hả?",
+    "Nhóc Quậy Tối Thượng: Câm mồm! Ông đây cũng có chịu khó ăn cơm rồi tập tạ rèn luyện thể lực đàng hoàng đấy nhé? Nhờ thế mà đòn đánh thường từ 15 sát thương đã tăng vọt lên tới 25 sát thương rồi đấy thôi.",
+    "{player}: Ờ cho tao xin lỗi, tao trách nhầm mày rồi. Cơ mà nếu thế thì tại sao mày vẫn thua thảm hại vậy? Nếu mày cũng đi qua đúng cung đường giống hệt tao để tới đây thì lẽ ra phải mạnh lên ngang ngửa tao mới đúng chứ? Huống hồ một kẻ hiếu chiến mê đánh đấm như mày chắc chắn phải lao vào quần nhau tới bến với đám Tiểu Quỷ Máy dọc đường rồi chứ nhỉ? Mỗi con đó hạ xong nhận được tới tận 400 điểm kinh nghiệm cơ mà?",
+    "Nhóc Quậy Tối Thượng: À thì... mấy con máy đó nhìn chẳng thấy có gì vui cả nên tao lờ đi chạy thẳng qua luôn thôi.",
+    "{player}: Nói toẹt ra là tại mày nhìn thấy tụi nó mạnh quá nên sợ sun vòi vào chứ gì?",
+    "Nhóc Quậy Tối Thượng: L-làm gì có chuyện đó!",
+    "{player}: Nhìn kiểu gì cũng thấy rõ rành rành là mày sợ chết khiếp mà.",
+    "Thôi, mày mau cuốn gói biến về dùm cái được không? Bác chủ nhà đang đứng nhìn chằm chằm nãy giờ kìa.",
+    "Nhóc Quậy Tối Thượng: Khốn kiếppp! Bổn thiếu gia mà lại! Bổn thiếu gia mà lại bị sỉ nhục thế này ư! Hu... hu... oaaaa!"
+  ],
+  "unknown_land.researcher.after2": [
+    "Tên Nhóc Quậy Tối Thượng vừa khóc bù lu bù loa vừa cắm đầu bỏ chạy mất dạng.",
+    "Chủ nhà: Cảm ơn cậu nhiều nhé. Cậu đã cứu tôi một phen rồi.",
+    "{player}: Dạ không có chi đâu ạ. Dù sao vận động gân cốt một chút cũng vui mà bác."
+  ],
+  "unknown_land.mountain.exit_facing": "Có lối ra khỏi ngọn núi ở phía trước kìa. Từ đây trở đi chắc chắn kẻ địch sẽ còn mạnh hơn nữa.",
+  "unknown_land.mountain.merchant.warning": "Người dân: Trên ngọn núi này thỉnh thoảng có những chỗ mặt đất bị sụt lở đấy. Hễ bước lại gần là mặt đất sẽ sập xuống ngay, nên cậu phải hết sức cẩn thận từng bước chân. Rơi xuống vực là mất mạng như chơi đấy nhé.",
+  "unknown_land.mountain.merchant.intro": "À ngoài ra tôi cũng có buôn bán chút đỉnh ở đây nữa. Nếu được thì cậu mua ủng hộ vài món nhé? Nói nhỏ giữa hai ta thôi chứ dạo này ế ẩm chẳng kiếm ăn được đồng nào, làm ơn mua giúp tôi đi mà.",
+  "unknown_land.mountain.merchant.title": "Hãy chọn mặt hàng bạn muốn mua.",
+  "unknown_land.mountain.merchant.items": [
+    "Mảnh Ánh Sáng - 1200 yên",
+    "Thuốc hồi phục - 800 yên",
+    "Cỏ Sinh Mệnh - 2000 yên",
+    "Nén hương kỳ diệu - 1000 yên",
+    "Dấu mốc bảy sắc - 2500 yên",
+    "Nấm Matsutake - 650 yên",
+    "100 mũi Tên Sắt - 1800 yên",
+    "300 mũi Tên Sắt - 3700 yên",
+    "Thanh toán",
+    "Tiền hiện có"
+  ],
+  "unknown_land.mountain.merchant.bye": "Đi đường nhớ cẩn thận đấy nhé.",
+  "unknown_land.mountain.entrance_facing": "Từ chỗ này có thể bước vào đường núi. Thế nhưng hiện tại người chơi đang quay mặt sang một hướng kỳ quặc khác, nên làm ơn hãy xoay mặt đúng về phía lối vào ngọn núi nhé. Đối với Tác giả thì việc giám sát mấy thông tin hướng nhìn kiểu này dễ như ăn kẹo ấy mà."
+}

@@ -1,0 +1,22 @@
+{
+  "dungeon.glass_wall": "Á! Cái gì thế này? Hình như có một bức tường trong suốt chắn ngang. Phía bên kia bức tường có thể nhìn thấy công viên nhưng mà...",
+  "dungeon.ball_machine.intro": "Có một cỗ máy in hình quả bóng tròn kìa. Trên bề mặt có ghi con số 255, ngoài ra còn có gắn ba cái nút bấm.",
+  "dungeon.ball_machine.prompt": "Hãy chọn nút bạn muốn bấm.",
+  "dungeon.ball_machine.buttons": [
+    "Nút màu xanh dương",
+    "Nút màu vàng",
+    "Nút màu đỏ",
+    "Không bấm"
+  ],
+  "dungeon.ball_machine.display": "Trên màn hình tinh thể lỏng hiện lên con số {count}.",
+  "dungeon.ball_machine.payout": "Có {count} viên đạn ná cao su rơi ra.",
+  "dungeon.double_dodge.intro": [
+    "{player}: Áaaa! Ch-chẳng lẽ lại là... né bóng ư!?",
+    "Đã thế lần này lại còn bay tới hai quả cùng một lúc nữaaa! Cứu tôi vớiii!"
+  ],
+  "dungeon.double_dodge.done": "{player}: Ôi giời ơiii, mệt đứt cả hơi rồiii.",
+  "dungeon.memory_road": "Từ đây trở đi là Con đường Ký Ức",
+  "dungeon.door_hint": "Trong trò chơi này, khi đóng mở cửa, vị trí của bạn sẽ tăng hoặc giảm tùy theo hướng của bản thân. Hướng của bản thân chính là hướng bạn vừa di chuyển lần cuối cùng, hoặc hướng bạn vừa va vào tường lần cuối cùng.",
+  "dungeon.weapon_gate": "Kẻ muốn tiến bước lên phía trước hãy tra vũ khí vào vỏ. Kẻ muốn quay về nơi khác hãy tuốt vũ khí ra.",
+  "dungeon.warp_back": "{player}: Này nhé! Đẩy người ta lùi về tận đâu thế hả!"
+}

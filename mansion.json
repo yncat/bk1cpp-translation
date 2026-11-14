@@ -1,0 +1,105 @@
+{
+  "mansion.boss7.yamijin": [
+    "Khư hứ hứ hứ hứưư!",
+    "{player}: Cuối cùng mày cũng chịu vác mặt ra rồi hả!",
+    "Yamijin: Khoan đã nào. Chẳng phải mục tiêu của ngươi là nhóm bạn kia chứ đâu phải ta nya?",
+    "{player}: Câm mồm! Chẳng phải chính mày đã bắt cóc bọn họ tới đây hay sao tên khốn kia!",
+    "Yamijin: Ừm, điều đó thì không sai chút nào."
+  ],
+  "mansion.boss7.rage": [
+    "{player}: Tên khốn kiếp nhà ngươiii!",
+    "Tao không tha thứ, riêng mình ngươi thì tao tuyệt đối không bao giờ tha thứ! Sao ngươi dám làm ra chuyện tày đình như thế hả tên khốn! Tao sẽ tống cổ ngươi xuống thẳng địa ngục ngay bây giờ!",
+    "Yamijin: Nào nào, nếu ta mà biến mất thì mọi chuyện sẽ còn nguy hiểm hơn gấp bội đấy nhé. Thôi, tạm biệt nghennn! Khư hứ hứ hứ hứưư, khư rư rư khưưư!"
+  ],
+  "mansion.boss7.escaped": [
+    "{player}: A, đứng lại ngay! Khốn kiếppp, hắn lại chuồn mất tiêu rồi!"
+  ],
+  "mansion.boss7.companions": [
+    "{player}: A!",
+    "{player} theo phản xạ lao thẳng tới chỗ nhóm bạn mà không kịp suy nghĩ gì. Và rồi cậu đã không hề nhận ra biểu hiện kỳ lạ của họ.",
+    "Người bạn 3: Ủa?",
+    "{player}: Tớ tới cứu mọi người rồi đâyyy! Tớ nhớ mọi người lắm đấyyy!",
+    "Thế nhưng, những lời nói phát ra từ miệng nhóm bạn lại tàn nhẫn đến mức đủ để cứa nát trái tim của {player}."
+  ],
+  "mansion.boss7.strangers": [
+    "Người bạn 1: Người này... là ai thế nhỉ?",
+    "Người bạn 2: Tớ chịu thôi. Chẳng quen biết gì cả.",
+    "Người bạn 3: Tao cũng chưa từng nhìn thấy cái tên kỳ quặc này bao giờ.",
+    "Người bạn 2: Hay kẻ này chính là cái thứ gọi là quái vật mà Ngài Yamijin đã nhắc tới nhỉ?"
+  ],
+  "mansion.boss7.forgotten": [
+    "{player}: Kh-không thể nào... Mọi người không nhớ tớ sao?",
+    "Người bạn 3: Hả? Nhớ với nhung cái gì, tụi tao có quen biết mày bao giờ đâu.",
+    "Người bạn 2: Đúng thế đấy. Bộ chúng ta từng gặp nhau ở đâu rồi à?",
+    "Người bạn 1: Hừm. Tóm lại đây chính là quái vật chứ còn gì nữa nhỉ?",
+    "{player}: Khoan đã nào. Mọi người đang nói thật đấy ư!?",
+    "Người bạn 2: Nói thật? Bộ đầu óc cậu có vấn đề hả?",
+    "Người bạn 3: Tóm lại là tụi tao không hề quen biết mày. Tụi tao là thuộc hạ trung thành của Ngài Yamijin đấy nhé!"
+  ],
+  "mansion.boss7.attack": [
+    "Không thể nào...",
+    "Người bạn 1: Dù sao thì chúng ta mau nghiền nát tên này đi thôi. Biết đâu sẽ được Ngài Yamijin khen thưởng đấy.",
+    "Người bạn 3: Được đấy. Để tao ra tay đùa giỡn với nó một chút xem sao.",
+    "Người bạn 2: Phải đó. Tớ cũng khá là thích mấy trò như thế này đấy. Hihi."
+  ],
+  "mansion.boss7.cannot": [
+    "{player}: Hự!",
+    "Mình không làm được... Không thể nào xuống tay chém những người bạn của mình được...",
+    "Dù đang bị tấn công tới tấp, {player} vẫn không tài nào vung kiếm chém lại bạn bè mình. Trong lúc đó, những người bạn thân thiết ngày nào vẫn cứ mặc cho kẻ thù điều khiển, liên tục gây thương tích cho người bạn trân quý của chính họ.",
+    "Giữa những vết thương ngày một chồng chất trên cơ thể, vết thương trong lòng {player} cũng ngày càng rỉ máu đau đớn hơn.",
+    "Chìm trong nỗi tuyệt vọng, thống khổ và bi thương, {player} chỉ biết nghĩ về bạn bè mình và cam chịu từng nhát chém."
+  ],
+  "mansion.boss7.shadow": [
+    "Giữa vòng vây của nhóm bạn, {player} chợt nhìn thấy một cái bóng khổng lồ.",
+    "Đó là một cái bóng trông vô cùng quen mắt.",
+    "Phải rồi, chẳng phải đó là Grand Cruiser hay sao.",
+    "Đó chính xác là cỗ máy Grand Cruiser.",
+    "Thế nhưng, {player} đã không bỏ sót những sợi dây cáp mảnh mai nối ra từ cỗ máy Grand Cruiser có kích thước và hình dáng y hệt lần trước ấy.",
+    "Cố nén cơn đau, {player} bật nhảy thật cao lên không trung và sử dụng viên Mảnh Ánh Sáng mà người thương nhân đã tặng. Thật bất ngờ, cậu đã cất giấu nó ở một chỗ riêng biệt chứ không để trong chiếc túi đựng đồ thông thường."
+  ],
+  "mansion.boss7.throw": [
+    "{player}: Hựaaa!",
+    "{player} nắm chặt lại thanh Kiếm Dài trong tay, dồn hết sức bình sinh ném thẳng về phía một trong những sợi dây cáp đang nối ra từ Grand Cruiser."
+  ],
+  "mansion.boss7.cut": [
+    "Và rồi thanh Kiếm Dài đã phóng trúng đích một cách chuẩn xác, chém đứt lìa một trong ba sợi dây cáp."
+  ],
+  "mansion.boss7.siren": [
+    "Ngay tức khắc, từ thân máy Grand Cruiser vang lên tiếng còi báo động inh ỏi, và tín hiệu điều khiển bị ngắt."
+  ],
+  "mansion.boss7.you": [
+    "Người bạn 3: M-mày là!"
+  ],
+  "mansion.boss7.awake": [
+    "{player}: Hay quá. Cậu đã tỉnh lại rồi.",
+    "Người bạn 3: Thật sự xin lỗi mày nhé. Tụi tao bị tên Yamijin bắt cóc rồi bị cái cỗ máy chết tiệt này thao túng mất trí. Đúng là ngu xuẩn hết chỗ nói.",
+    "Mà hai đứa kia hiện vẫn còn đang bị mất kiểm soát đấy.",
+    "{player}: Ừ. Phải chém đứt nốt 2 sợi dây cáp còn lại mới được.",
+    "Người bạn 3: Đúng vậy. Nhưng con Grand Cruiser đã phát hiện ra ý đồ của mình rồi, nên tao nghĩ đập tan xác phần gốc của nó luôn sẽ nhanh hơn đấy.",
+    "Để tao tìm cách kìm chân hai đứa kia lại. Mày hãy tập trung phá hủy con Grand Cruiser đi!",
+    "{player}: Tớ hiểu rồi!",
+    "Người bạn 3: Chắc chắn con Grand Cruiser này đã được trang bị thêm những tính năng mới. Nhớ cẩn thận đấy nhé."
+  ],
+  "mansion.boss7.collapsed": [
+    "Cỗ máy Grand Cruiser đã đổ sập xuống.",
+    "Và rồi..."
+  ],
+  "mansion.boss7.hold_on": [
+    "{player}! Tỉnh lại đi!",
+    "Trước mắt {player} lúc này là cả ba người bạn ngày nào đã hoàn toàn tỉnh táo và đang lo lắng nhìn cậu.",
+    "{player}: Mọi người...!"
+  ],
+  "mansion.boss7.thanks": [
+    "{player}: Cảm ơn... mọi người.",
+    "Người bạn 2: Xin lỗi cậu nhé. Bọn tớ đã bị điều khiển rồi làm ra chuyện quá đáng như vậy với cậu...",
+    "Người bạn 1: Thật sự xin lỗi cậu. Tất cả đều là lỗi của bọn tớ.",
+    "Người bạn 3: Ừ, đúng thế thật. Giá mà tụi tao tỉnh táo và cứng cỏi hơn...",
+    "{player}: Không, không phải lỗi của mọi người đâu.",
+    "Nhóm bạn: ???",
+    "Kẻ có lỗi chính là tên Yamijin.",
+    "Nhất định tớ sẽ đánh bại Yamijin. Tuyệt đối, tuyệt đối không để chuyện tương tự xảy ra thêm bất kỳ lần nào nữa.",
+    "Người bạn 3: {player}...",
+    "{player}: Nào, chúng ta về nhà thôi. Ở đây cũng có sẵn Tấm dịch chuyển rồi.",
+    "Người bạn 2: Ừ nhỉ. Cùng về nhà thôi nào."
+  ]
+}

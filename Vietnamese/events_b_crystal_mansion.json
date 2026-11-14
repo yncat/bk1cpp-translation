@@ -1,0 +1,202 @@
+{
+  "crystal_mansion.friends.panel": [
+    "Người bạn 3: Chính là cái tấm này đây.",
+    "{player}: Ủa? Thứ này thực sự là Tấm dịch chuyển thật đấy hả?",
+    "Người bạn 3: Hả? Chẳng phải vừa nãy chính mồm mày bảo đây là Tấm dịch chuyển còn gì?",
+    "{player}: Tại tớ cũng đoán mò chứ đâu có chắc chắn lắm đâu.",
+    "Người bạn 1 và 2: Á ha ha ha ha ha ha ha!",
+    "{player}: N-này, cấm có được cười nhạo tớ đấy nhé!",
+    "Người bạn 3: Thôi kệ đi, quan trọng gì đâu. Nào, dùng cái này bay thẳng về nhà mình thôi.",
+    "{player}: Ủa? Sao lại có thể dùng nó bay thẳng về nhà mình được cơ chứ?",
+    "Người bạn 2: Trong lúc bị bắt giam, bọn tớ đã nhìn thấy tên Yamijin thao tác đủ thứ trên cái máy này nên đã học lỏm được cách đổi điểm đến của Tấm dịch chuyển rồi đấy.",
+    "Người bạn 3: Đỉnh của chóp chưa con. Nghe nói dùng thứ này muốn đi tới bất cứ đâu cũng được hết đấy.",
+    "Người bạn 1: Tuy nhiên có một điều kiện là bản thân người thiết lập lại điểm đến phải biết rõ vị trí của nơi muốn đến cơ.",
+    "{player}: Ái chà. Tuyệt vời thật đấy.",
+    "Người bạn 2: Thật ra cái máy hút bụi phấn bảng ở nhà mình cũng có chức năng dịch chuyển tương tự đấy, nên lát nữa bọn tớ có thể chỉnh cho nó đưa cậu bay thẳng tới Arkhaia luôn cũng được.",
+    "{player}: S-sao tự dưng nghe thấy bất an thế nào ấy nhỉ.",
+    "Người bạn 3: Đừng có mà coi thường tụi tao nhé. Thao tác trên cái máy này dễ ợt ấy mà, chẳng qua nó chỉ cài thêm một lớp mật khẩu khóa lại thôi.",
+    "Người bạn 1: Đúng thế đấy.",
+    "Người bạn 2: Nào, chúng ta mau khởi hành về nhà thôi.",
+    "Người bạn 3: Ừ nhỉ. Tiện thể chỉnh tốc độ truyền dẫn chậm lại một chút để vừa bay vừa ngắm cảnh dọc đường luôn nhé.",
+    "Người bạn 2: Ý kiến hay đấy, duyệt luôn!",
+    "Người bạn 1: Nếu vậy thì phải chọn chế độ phản lực chứ không phải chế độ khoang kín rồi.",
+    "{player}: Xin lỗi cho tớ cắt ngang chút nhaaa. Mọi người đang nói tiếng vũ trụ gì mà tớ chẳng hiểu mô tê gì hết trơn vậyyy?",
+    "Người bạn 3: Cứ đứng im xem đi khắc biết. Trò này thú vị cực kỳ luôn."
+  ],
+  "crystal_mansion.friends.speed": [
+    "Người bạn 3: Ngon lành. Điểm đến là ngôi nhà thân yêu của chúng ta này. Chuyển sang chế độ phản lực này. Còn tốc độ truyền dẫn thì cứ chỉnh tầm 480 km một giờ là vừa đẹp nhỉ.",
+    "{player}: Khoan đã, nhanh tới mức đó thì đáng sợ lắm đấy!",
+    "Người bạn 3: Mày bị ngốc à? Tốc độ dịch chuyển thông thường của nó lên tới 1200 km một giờ cơ đấy. Dù sao đây cũng là thiết bị dịch chuyển tức thời mà. Thôi kệ đi."
+  ],
+  "crystal_mansion.friends.ready": [
+    "Người bạn 1: Thiết lập hoàn tất rồi đấy. Nào, chúng ta xuất phát thôi.",
+    "Người bạn 2: Được rồi! Cùng thong thả vừa bay vừa ngắm cảnh về nhà thôi nào.",
+    "Người bạn 3: Đúng ra là không được phép sử dụng Tấm dịch chuyển theo cái kiểu nghịch ngợm thế này đâu đấy nhé."
+  ],
+  "crystal_mansion.friends.flight": [
+    "Người bạn 3: Ái chà đau đớn quá đi. Cái chỗ bị {player} chém lúc nãy giờ vẫn còn đau nhức nhối đây này.",
+    "{player}: Cậu mà nói thế thì có biết lúc nãy tớ bị ba người vây đánh đau đến mức nào không hả.",
+    "Người bạn 3: Xời, chẳng phải nhờ có viên Mảnh Ánh Sáng mà vết thương của riêng một mình mày đã lành lặn kha khá rồi hay sao.",
+    "Người bạn 2: Đúng đấy, đúng đấy. Chỉ chữa cho mỗi bản thân mình thôi là chơi xấu lắm nhé. Chia cho bọn tớ viên Mảnh Ánh Sáng với đi mà.",
+    "{player}: Thôi đợi về tới nhà rồi nằm ngủ một giấc là khỏe ngay ấy mà.",
+    "Người bạn 1: Ơ kìaaa.",
+    "{player} và Nhóm bạn: Ha ha ha ha ha ha ha ha!",
+    "Người bạn 3: Cơ mà này {player}, sao mày lại vác theo cái thứ vũ khí nguy hiểm chết người thế kia hả.",
+    "{player}: Ủa, thứ này á? Như mọi người đang thấy, đây là một thanh kiếm đấy ạ. Để tớ thử chém tặng cậu vài đường nhé?",
+    "Người bạn 3: Cái thằng khốn này! Mày mà dám vung kiếm chém là tao giật phắt lấy rồi băm mày ra trăm mảnh giống hệt cái người chủ nhà hôm nọ..."
+  ],
+  "crystal_mansion.friends.silenced": [
+    "Người bạn 2: Ái chà chà, bị bịt miệng mất tiêu rồi kìa. Xem ra chuyện đó là bí mật bất lợi đối với Tác giả nên không được phép tiết lộ rồi ha.",
+    "Người bạn 1: Nhắc mới nhớ, người chủ nhà mà cậu ấy vừa nói tới, bộ {player} có quen biết gì hả?",
+    "{player}: Ừm, chuyện đó thì tớ cũng chịu thôi. Mà giả sử có từng gặp đi chăng nữa thì hễ vào khách sạn ngủ một giấc là biến cờ sự kiện trong mã nguồn lại bị đặt về 0 hết, nên hiện tại chẳng có dữ liệu nào được lưu lại đâu.",
+    "Ủa khoan,"
+  ],
+  "crystal_mansion.friends.author": [
+    "Đừng có bắt tôi phải mở mồm nói ra mấy cái lời thoại phá vỡ thế giới ảo kỳ cục như thế chứưư!",
+    "Tác giả: X-x-xin lỗiii màaa! Xin hãy đại xá cho tôi điii!",
+    "{player}: À, mấy câu vừa rồi mọi người đừng bận tâm nhé. Chẳng qua tớ vừa phải đứng đôi co với một kẻ kỳ quặc vừa ồn ào vừa hết thuốc chữa, đã ngốc nghếch tham ăn tục uống mà người ngợm lại gầy nhom, suốt ngày chỉ mê đồ ngọt thôi ấy mà."
+  ],
+  "crystal_mansion.friends.arriving": [
+    "Người bạn 1: Đến lượt {player} cũng bị khóa mõm luôn rồi kìa.",
+    "Người bạn 3: Phũ phàng thật đấy chứ. Sắp về tới nơi rồi kìa.",
+    "{player}: Tuyệt vời! Lâu lắm rồi mới được về nhà nghỉ ngơi thư giãn một bữa."
+  ],
+  "crystal_mansion.friends.home": [
+    "{player}: Đỉnh thật đấy, đáp xuống ngay giữa hành lang nhà mình chuẩn không cần chỉnh luôn.",
+    "Người bạn 2: Thấy tài nghệ chưa nào? Đằng nào cũng đáp xuống ngay gần chiếc ghế sofa rồi, chúng ta cùng ra đó ngồi trò chuyện một lát đi.",
+    "Người bạn 3: Tán thành hai tay luôn.",
+    "Người bạn 1: Dạo gần đây chúng mình cũng chẳng có dịp ngồi tâm sự với nhau câu nào mà.",
+    "Người bạn 3: Quyết định thế nhé. Nếu mày mà không chịu ra ghế sofa ngồi mà định chuồn thẳng ra ngoài cửa là tao túm cổ lôi xềnh xệch quay lại ngay đấy, nhớ phải ra ghế sofa nghe chưa.",
+    "Người bạn 2: Hay là cả đám cứ hợp sức khiêng bổng cậu ấy ra ghế sofa luôn đi.",
+    "Người bạn 1: Ý kiến đó hay đấy nhỉ.",
+    "{player}: Không sao đâu mà. Trừ phi người chơi cố tình điều khiển làm trò đó, chứ bản thân tớ cũng đang rất muốn ngồi nói chuyện với mọi người mà.",
+    "Người bạn 3: Cũng đúng nhỉ. Mọi thứ đều phụ thuộc vào tay người chơi cả mà."
+  ],
+  "crystal_mansion.iron_wall": "Bức tường này mà đứng gần đập vỡ là sẽ bị đè bẹp dí thành bánh tráng luôn đấy nhéee.",
+  "crystal_mansion.letter.desk": "Có một chiếc bàn đặt ở đây. Trên mặt bàn có để lại một bức thư.",
+  "crystal_mansion.letter.prompt": "Bạn có muốn đọc thử bức thư không?",
+  "crystal_mansion.letter.before": "Ta đã đổi vị trí và lối vào của Dinh thự Tà Ác rồi đấy; nếu ngươi vẫn mang trái tim ngu xuẩn muốn giải cứu đám bạn của mình bằng mọi giá, thì cứ việc mò cho ra lối vào rồi tìm tới chỗ ta nhé. Cơ mà liệu có tìm ra nổi không đây nyaaa? Khư hứ hứ hứ hứưư!",
+  "crystal_mansion.letter.after": "Ái chà, kế hoạch thất bại mất tiêu rồi à. Nhưng ta đã vạch sẵn kế hoạch tiếp theo rồi đấy, cứ chuẩn bị tinh thần mà tận hưởng đi nhéee. Khư hứ hứ hứ hứưư!",
+  "crystal_mansion.letter.friends": [
+    "Ồ? Nhóm bạn đang chạy tới kìa.",
+    "Người bạn 1: Xem ra bọn tớ cứ ở nhà đợi cậu vẫn là tốt nhất.",
+    "Người bạn 3: Chuẩn đấy.",
+    "Nhóm bạn: Lên đường bình an nhéee!"
+  ],
+  "crystal_mansion.matsutake.offer": "Thương nhân: Xin chào. Tôi có bán những cây Nấm Matsutake tươi ngon tuyệt hảo đây. Giá mỗi cây là 500 yên, cậu có muốn mua không?",
+  "crystal_mansion.matsutake.no_money": "Rất muốn mua nhưng trong túi lại chẳng có đủ tiền...",
+  "crystal_mansion.matsutake.bought": "Đã mua Nấm Matsutake!",
+  "crystal_mansion.sabon_tree": "Đây là cây Sabon. Loài cây này thường rụng quả xuống gốc, và nghe nói Quả Sabon của nó có tác dụng chữa lành vết thương rất tốt.",
+  "crystal_mansion.sabon_fruit": "Có Quả Sabon rơi dưới gốc cây kìa. Nhặt luôn thôi.",
+  "crystal_mansion.gate.too_early": "Đây là lối ra khỏi thị trấn. Thế nhưng hiện tại rời khỏi thị trấn thì vẫn còn quá sớm.",
+  "crystal_mansion.gate.exit": "Đây là lối ra khỏi thị trấn.",
+  "crystal_mansion.gate.exit_prompt": "Bạn có muốn rời khỏi thị trấn không?",
+  "crystal_mansion.gate.return": "Có thể quay trở vào trong thị trấn.",
+  "crystal_mansion.gate.return_prompt": "Bạn có muốn quay lại thị trấn không?",
+  "crystal_mansion.exit.found": [
+    "Đứa trẻ: Hoan hô! Lối ra đây rồi! Chỉ cần bước lên cái tấm này là bay vèo một mạch về tới nhà ngay!",
+    "Được rồi, bước lên thôi nào!"
+  ],
+  "crystal_mansion.exit.hesitate": [
+    "{player}: Kh-khoan, từ từ đã nào. Em định bước lên cái thứ này thật đấy hả?",
+    "Đứa trẻ: Ủa? Sao lại không bước lên chứ? Không bước lên đây thì làm sao mà về nhà được.",
+    "Nào, cùng bước lên thôi anh.",
+    "{player}: Kh-khoan đã, xin quý ngài vui lòng chờ cho một chút có được không ạ.",
+    "Đứa trẻ: Ơ kìaaa, sao lại thế nữa...",
+    "{player}: Dù chúng ta đã đi tới tận đây rồi, nhưng lấy gì đảm bảo rằng cái bệ này sẽ đưa chúng ta về nhà an toàn cơ chứ? Biết đâu nó lại là cánh cửa dẫn thẳng sang thế giới bên kia thì sao. Chúng ta dừng lại đi, hay nói một cách chính xác hơn là tại hạ đang sợ phát khiếp lên được đây này, xin quý ngài hãy suy xét lại giúp cho có được không ạ?",
+    "Đứa trẻ: Anh ngốc thật đấy. Đây đã là căn phòng cuối cùng rồi. Dù có chết đi chăng nữa thì đằng nào đứng lại đây cũng đâu thể về nhà được, nên cứ thử bước lên xem sao đi. Nào, chúng mình cùng bước lên nhé. Một, hai, baaa!",
+    "{player}: Đ-đừng mà! D-dừng lại đ...",
+    "Đứa trẻ: Anh {player} kính mến ơi? Hãy cùng bước lên đây với em nào, hihi hihi!"
+  ],
+  "crystal_mansion.exit.arrived": [
+    "Đứa trẻ: Hừm. Chỗ này là đâu thế nhỉ?",
+    "{player}: Oáaa, thế giới bên kia thật rồi!",
+    "Đứa trẻ: Làm gì phải thế giới bên kia chứ. Dưới chân mình có nước..."
+  ],
+  "crystal_mansion.exit.water": [
+    "Đứa trẻ: N-n-n-nước kìaaaa!!!??!",
+    "{player}: Thì bởi vậy anh mới bảo đây là thế giới bên kia màaa! Ôi thần linh ơiii!",
+    "Đứa trẻ: Chẳng lẽ đây thực sự là nước thật ư? Vừa nãy em mới bị dìm trong bể nước xong nên giờ nhìn thấy nước là hãi lắm rồi đấy.",
+    "{player}: Này, chỗ nước này... Chẳng phải có màu đỏ hay sao?",
+    "Đứa trẻ: Đ-đừng có nói gở thế chứ anh. Xung quanh toàn nước là nước thế này, l-làm gì có chuyện...",
+    "{player}: Anh biết rồi. Nh-nhưng mà nhìn kỹ xem, chẳng phải nước ở đây màu đỏ thật sao?",
+    "Đứa trẻ: Đ-đừng nói nữa! Làm ơn im đi màaaa!",
+    "{player}: Chính anh đây cũng chúa ghét cái thứ nước màu đỏ kinh dị thế này nhé! Cơ sự ra nông nỗi này tất cả là tại cái tội em cứ hớn ha hớn hở nhảy bổ vào cái bệ dịch chuyển đó đấy!",
+    "Đứa trẻ: Đ-đừng có đổ oan cho em chứ. Có ai ngờ được là nó lại dịch chuyển tới cái xó xỉnh thế này đâu, chính anh cũng đâu có biết trước!",
+    "{player}: Thì bởi vậy mới bảo đừng có nhắm mắt nhắm mũi nhảy bừa vào khi chưa suy tính kỹ đấy. Tại em mà anh cũng bị vạ lây rơi vào cảnh khốn cùng này đây này.",
+    "Đứa trẻ: Thế giờ hai anh em mình sẽ ra sao đây?",
+    "{player}: Hỏi sẽ ra sao là ý làm sao hả?",
+    "Đứa trẻ: Dù sao đi nữa, em không đời nào chịu chết chìm ở cái nơi thế này đâu. Chúng mình thử lội đi bộ một chút xem sao đi.",
+    "{player}: Biết nói câu đó thì nói ngay từ đầu đi cho lành."
+  ],
+  "crystal_mansion.exit.rusty": [
+    "Đứa trẻ: Không lệch đi đâu được.",
+    "Thứ này đúng là nước bình thường thôi anh ơi. Là nước hàng thật giá thật trăm phần trăm luôn!",
+    "Vậy tức là nước ở đây chỉ đơn thuần là bị lẫn rỉ sét nên có màu đỏ thôi... nhỉ.",
+    "Mà này, sao từ nãy tới giờ anh cứ im thin thít thế hả?",
+    "Này! Anh bị làm sao thế? Lên tiếng nói câu gì đi chứ!",
+    "{player}: Anh... anh đang bận suy nghĩ xem chỗ này là đâu đấy. Bộ cấm người ta đứng suy nghĩ hả cái thằng nhóc hỗn láo này!"
+  ],
+  "crystal_mansion.exit.gun1": [
+    "Đứa trẻ: Oá, ông anh này hoảng loạn tới mức phát rồ mất rồi! Đã thế để em té nước cho tỉnh người ra nhé! Đếm ngược 3 giây trước khi khai hỏa!",
+    "{player}: Cái thằng ranh này, đừng có mà nhờn với anh mày nhé!",
+    "Nào, chuẩn bị bắn đâyyy!"
+  ],
+  "crystal_mansion.exit.gun2": [
+    "{player}: Á hựưư, mày làm cái trò gì thế hả thằng nhóc kia!",
+    "Đứa trẻ: Ahaha, hihihi, vui quá đi mất.",
+    "{player}: Vui cái đầu mày ấy!",
+    "Đứa trẻ: Nào nào, hạ hỏa, hạ hỏa đi anh.",
+    "{player}: Hạ hỏa cái con khỉ khô ấy!",
+    "Đứa trẻ: Xem chừng vẫn chưa hết cơn mê sảng rồi. Vậy làm thêm phát nữa cho tỉnh hẳn nhé. Xin lỗi anh nhiều nhaaa, chuẩn bị bắn tiếp đâyyy, đếm ngược 5 giây!"
+  ],
+  "crystal_mansion.exit.floating": [
+    "{player} bị bắn nước tới tấp không kịp vuốt mặt và nổi lềnh bềnh trên mặt nước. Đến khi {player} định thần lại được thì mọi chút sức lực, tinh thần, dũng khí hay cơn giận dữ trong người đều đã tan biến sạch sành sanh không còn lấy một dấu vết. Và đúng lúc ấy, {player} chợt nhận ra nơi này là đâu.",
+    "{player}: Đ-đây chính là nhà của {player}, đã thế lại còn đang ở ngay giữa hồ bơi nhà mình nữa chứ."
+  ],
+  "crystal_mansion.exit.pool": [
+    "Đứa trẻ: Hả? Nhà riêng của anh {player} á? Nơi anh đang ở thật đấy hả? Xây cả hồ bơi trong nhà thế này thì xa hoa tráng lệ quá mức rồi đấy.",
+    "{player}: Thì một hai cái bể bơi phao bằng nhựa nhà em chẳng lẽ lại không có lấy một cái à?",
+    "Đứa trẻ: Anh đừng có mà bốc phét! Bể bơi phao nhựa nào mà lại xây hẳn cả vòi phun nước sừng sững ở đằng kia thế hả?",
+    "{player}: Nhưng mà nhà anh làm gì có rộng rãi được bằng nhà em đâu chứ.",
+    "Đứa trẻ: Không hề nhé, chỉ tính riêng diện tích cái hồ bơi này thôi đã rộng gấp mấy lần cả căn nhà của em cộng lại rồi.",
+    "{player}: Thôi nào, dù sao biết đây không phải thế giới bên kia là tốt lắm rồi, giờ anh đưa em về nhà nhé, nha, nha.",
+    "Đứa trẻ: Anh nói cũng phải. Vậy chúng mình đi thôi."
+  ],
+  "crystal_mansion.child.tank": [
+    "!! Chính là đứa trẻ bị bắt cóc! Em ấy đang bị dìm trong một chiếc bể kính không có nắp đậy. Nếu không mau đập vỡ bể kính thì tính mạng đứa trẻ sẽ lâm nguy mất. May mắn là em ấy vẫn còn đang vùng vẫy trong nước nên chắc chắn vẫn còn sống!",
+    "{player} vội vã rút cây búa ra và ném mạnh về phía chiếc bể kính!"
+  ],
+  "crystal_mansion.child.saved": [
+    "Cây búa lao vun vút tới chiếc bể và đập trúng ngay mặt kính, làm nước từ bên trong trào ra xối xả.",
+    "Và rồi đứa trẻ tự mình bò ra ngoài. Thật kỳ diệu là tính mạng của em hoàn toàn không hề hấn gì.",
+    "Đứa trẻ hít căng lồng ngực bầu không khí trong lành rồi òa khóc nức nở như một đứa trẻ sơ sinh vừa mới chào đời.",
+    "Đến khi ngừng khóc, em ngước lên nhìn bóng dáng vị ân nhân cứu mạng đang đứng ngay trước mắt mình."
+  ],
+  "crystal_mansion.child.talk": [
+    "Đứa trẻ: A, anh là... {player} đúng không ạ.",
+    "{player}: May quá. Thật sự may quá rồi.",
+    "Đứa trẻ: Thế là... em đã được cứu sống rồi sao.",
+    "Anh {player}, em cảm ơn anh nhiều lắm. Nhờ có anh mà em mới thoát chết.",
+    "{player}: Em bình an vô sự là tốt lắm rồi.",
+    "Đứa trẻ: Vâng. Em cứ ngỡ mình sẽ phải bỏ mạng cô độc ở chốn này mà chẳng còn được gặp lại ai nữa chứ.",
+    "Sau đó, hai người cùng nhau chia sẻ niềm vui thoát nạn hồi lâu. Ngoảnh đi ngoảnh lại đã thấy đứng trò chuyện suốt hơn cả tiếng đồng hồ.",
+    "Thế nhưng đúng lúc đó, một sự cố động trời đã xảy ra.",
+    "Đứa trẻ: Cơ mà mừng thì mừng thật đấy, nhưng giờ làm thế nào để chúng ta quay trở về nhà đây hả anh?"
+  ],
+  "crystal_mansion.child.no_way_back": [
+    "Đúng vậy. {player} một mạch xông vào cứu người thì oai phong lắm, nhưng lại hoàn toàn quên béng mất việc tính đường rút lui. {player} bỗng chốc luống cuống chân tay.",
+    "{player}: C-c-ch-chuyện đó ấy à, ch-chắc chắn là sẽ có c-cách nào đó để quay về được thôi mà, nhỉ?",
+    "Đứa trẻ: Ơ khoan, đ-đừng nói với em là anh hoàn toàn chưa nghĩ tới đường về đấy nhé...",
+    "Nói trúng tim đen một trăm phần trăm. Thế nhưng {player} nào dám mở miệng thú nhận.",
+    "Đứa trẻ: Ơ kìaaa, cứu xong mà không về nhà được thì còn có ý nghĩa gì nữa chứ!",
+    "{player}: Này nhé, nói thế mà nghe được hả! Bộ mày có biết anh mày đã phải liều mạng khổ sở thế nào mới tới đây cứu được mày không hả thằng nhóc kia!",
+    "Đứa trẻ: Điều đó thì em công nhận, nhưng chẳng phải trước tiên anh nên thành thật xin lỗi vì đã quên tính đường về hay sao ạ?",
+    "{player}: Ch-chuyện đó là bởi vì, à thì là mà, nói sao nhỉ, gọi là trực giác mách bảo hay là linh cảm gì đó đại loại thế, khiến tại hạ cứ thế lao bổ vào đây, thành thử ra tại thời điểm hiện tại tại hạ vẫn chưa nắm rõ đường về cho lắm, và ngay bây giờ tại hạ đang chuẩn bị bắt tay vào tìm kiếm lối ra đây ạ...",
+    "Màn giải thích vòng vo tam quốc kỳ quặc đó kéo dài suốt khoảng 5 phút đồng hồ.",
+    "Đứa trẻ: Ôi dào, ồn ào nhức đầu quá đi mất. Thôi mau đi tìm lối ra cho lẹ đi. Em cũng đang mong sớm được gặp lại mẹ lắm rồi đây. Nào, xuất phát thôi!",
+    "Thế là {player} đành bị đứa trẻ xoay như chong chóng và buộc phải tiếp tục tiến sâu hơn vào bên trong."
+  ],
+  "crystal_mansion.panel.locked": "Có một Tấm dịch chuyển mang hình thù kỳ lạ ở đây. Thế nhưng chẳng hiểu sao hiện tại vẫn chưa thể kích hoạt dịch chuyển được.",
+  "crystal_mansion.panel.warped": "Đã dịch chuyển tới khu vực tiếp theo!"
+}

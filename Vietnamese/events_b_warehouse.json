@@ -1,0 +1,122 @@
+{
+  "warehouse.lodewarp.message": "Có vẻ như có thể dịch chuyển về khu vực bên ngoài Thành phố Arkhaia.",
+  "warehouse.lodewarp.prompt": "Bạn có muốn dịch chuyển như mọi khi không?",
+  "warehouse.matsutake": "Ồ, có cây Nấm Matsutake ở đây kìa. Thứ này quý giá lắm nên xin phép nhận luôn nhé.",
+  "warehouse.light_shard": "Tuyệt vời! Có viên Mảnh Ánh Sáng rơi dưới đất kìa. Xin phép nhận luôn nhé.",
+  "warehouse.bookshelf": "Ở đây có một chiếc kệ sách lớn. Trên kệ xếp đầy những cuốn sách khoa học và cả sách hướng dẫn... hành nghề ăn trộm. Không biết hắn lùng mua mấy cuốn sách này từ cái nguồn quái quỷ nào nữa?",
+  "warehouse.yamijin.taunt": [
+    "{player}: Sao thế hả? Hôm nay không cười Khư hứ hứ hứ hứưư! như mọi khi nữa à?",
+    "Yamijin: Im đi, im ngay! Sao ngươi dám năm lần bảy lượt phá đám kế hoạch của ta hả! Ta không tha cho ngươi đâu nyan!",
+    "{player}: Xem ra cái giọng mèo kêu dở ông dở thằng của mày thì vẫn chẳng thay đổi tý nào nhỉ. Bộ kiếp trước mày là mèo thật đấy à?",
+    "Yamijin: Đ-đ-đây đâu phải là tiếng mèo kêu đâu nyan!",
+    "{player}: Rõ rành rành là tiếng mèo kêu còn chối gì nữa?",
+    "Yamijin: Hừm...",
+    "{player}: À mà nhắc mới nhớ. Chiếc chìa khóa tao đang cầm trong tay hình như đang muốn nhắn nhủ điều gì đó với tao, mày đứng im nghe thử một chút nhé? Có vẻ như bé Chìa khóa Phòng Tối đáng yêu của tao đang muốn dần cho mày một trận tơi bời hoa lá đấy."
+  ],
+  "warehouse.yamijin.key_throw": [
+    "Yamijin: Cái gì cơ! Sức mạnh tiềm ẩn bên trong chiếc chìa khóa mà ngay cả ta cũng chưa từng khám phá ra, nay lại tự mình khao khát được giải phóng ư?",
+    "{player}: Chà chà, nghe mày nói xong là tao hiểu sơ sơ rồi đấy. Nào, bé Chìa khóa Phòng Tối ơi, trông cậy cả vào em đấy!",
+    "Này thì đỡ đi!",
+    "{player} chĩa thẳng mũi Chìa khóa Phòng Tối về phía Yamijin rồi ném mạnh tới!"
+  ],
+  "warehouse.yamijin.drained": [
+    "Yamijin: S-sức mạnh của ta...",
+    "{player}: Đỉnh quá điii! Tên Yamijin kia đang sướng rên lên kìa!",
+    "Yamijin: T-ta có sướng cái con khỉ ấy!!",
+    "{player}: Rõ ràng là đang sướng tê người ra còn gì nữa. Uwahaha ha ha ha!"
+  ],
+  "warehouse.yamijin.powered": [
+    "{player}: Chà. Hóa ra chiếc chìa khóa này hút sạch năng lượng của hắn rồi truyền sang chia sẻ cho mình luôn.",
+    "Tuyệt cú mèo! Sức mạnh đang trào dâng cuồn cuộn khắp cơ thể rồi đây này. Hừng hực khí thế luôn!",
+    "Được lắm! Tao sẽ dần cho mày một trận nhừ tử! Chuẩn bị tinh thần đi con ạ! Khặc khặc khặc!"
+  ],
+  "warehouse.yamijin.beaten": [
+    "{player}: Thấy sao hảaa!",
+    "Yamijin: X-xin... xin hàng... Người ngợm ta giờ mềm nhũn như bún rồi nyaaa...",
+    "{player}: Ồ, thế cơ à. Vậy để tao tiễn mày ra khỏi chỗ này ngay bây giờ, cứ về Dinh thự Tà Ác hay đâu đó mà nằm nghỉ dưỡng sức đi nhé. Giữ gìn sức khỏe là quan trọng lắm đấy.",
+    "Yamijin: Chẳng lẽ... ngươi định ném ta qua cái khung cửa sổ đang vỡ kia ư..."
+  ],
+  "warehouse.yamijin.throw_out": "{player}: Lên đường bình an nhé connn!",
+  "warehouse.yamijin.won": [
+    "{player}: Hoan hô! Thắng rồi, thắng giòn giã luôn!",
+    "Cơ mà xong xuôi hết rồi thì tiếp theo mình phải làm gì đây nhỉ?"
+  ],
+  "warehouse.password.look": "{player}: À, là cái dòng chữ này hả?",
+  "warehouse.password.note": "Mật khẩu: {password}",
+  "warehouse.keywarp.prompt": "Có vẻ như có thể dịch chuyển ra bên ngoài tòa nhà này. Bạn có muốn dịch chuyển không?",
+  "warehouse.pc.logon_prompt": "Vui lòng nhập mật khẩu đăng nhập",
+  "warehouse.pc.intro": "Đây có vẻ là một chiếc máy tính cá nhân đơn giản.",
+  "warehouse.pc.start.title": "Menu Bắt đầu (Start Menu)",
+  "warehouse.pc.start.items": [
+    "Outlook Express - Chú thích công cụ: Thực hiện gửi và nhận thư điện tử cũng như tin nhắn nhóm tin tức.",
+    "Tài liệu của tôi (My Documents) - Chú thích công cụ: Chứa thư từ, báo cáo cùng các tài liệu và tệp tin khác.",
+    "Tắt máy (Shut Down)"
+  ],
+  "warehouse.pc.mail.prompt": "Bạn có muốn mở xem thư điện tử không?",
+  "warehouse.pc.mail.title": "Hộp danh sách hiển thị thư điện tử",
+  "warehouse.pc.mail.items": [
+    "1 Tiêu đề: Tình hình sao rồi? Người gửi: Yokotank",
+    "2 Tiêu đề: re: Tình hình sao rồi? Người gửi: Yokotank",
+    "3 Tiêu đề: re^2: Tình hình sao rồi? Người gửi: Yokotank",
+    "4 Tiêu đề: re^3: Tình hình sao rồi? Người gửi: Yokotank",
+    "5 Tiêu đề: re^4 Tình hình sao rồi? Người gửi: Yokotank",
+    "6 Tiêu đề: re^5 Tình hình sao rồi? Người gửi: Yokotank",
+    "Thoát"
+  ],
+  "warehouse.pc.mail.bodies": [
+    "Xin chào. Tình hình bên đó thế nào rồi? Hiện giờ tôi đang ngồi bày tiệc thịt nướng cùng nấm Matsutake đây. Nếu cậu không mau quay về là coi chừng tôi ăn sạch sành sanh không chừa miếng nào đâu đấy.",
+    "Gửi Yamijin. Xin chào. Tình hình sao rồi? Bên này tôi vừa dẫn đám quái vật sang thị trấn bên cạnh và đang đợi chúng mang đồ về. Còn phía cậu thế nào rồi?",
+    "Ra là vậy. Cậu để xổng mất đứa trẻ rồi à. Cái tên {player} gì đó nghe nói đang sống ở Thành phố Pha Lê đúng không. Nếu cậu đã biết rõ nhà hắn ở đâu rồi thì thử mò tới xem có vét được chút đồ ăn nào không nhé. Trông cậy vào cậu.",
+    "Ra là vậy. Thế thì tốt quá rồi. Cơ mà tính sao với cái tên {player} đó đây nhỉ? Nếu ngay cả Grand Cruiser II cũng bị hắn đánh bại rồi, hay là cử luôn Megasaurus ra xử lý hắn xem sao. Liệu có ổn không nhỉ? Nhờ cậu cả đấy.",
+    "Ồ, thật vậy sao. Nhớ dặn kỹ con Megasaurus tuyệt đối đừng có nuốt chửng hết sạch đấy nhé. Tôi cũng muốn thưởng thức mùi vị của tên {player} đó, nên đang bày sẵn bếp nướng thịt chờ sẵn rồi đây này haha.",
+    "Nghe tin Megasaurus cũng bị hạ gục mất rồi à. Thế thì gay go thật đấy nhỉ. Vốn định làm một bữa đánh chén ngon lành mà đành chịu vậy. Tôi sẽ chuẩn bị sẵn Thứ đó ở đây, cậu hãy tìm cách câu giờ thêm một chút nhé. Nhờ cậu đấy."
+  ],
+  "warehouse.pc.docs.title": "Hộp danh sách các mục trong Tài liệu của tôi",
+  "warehouse.pc.docs.items": [
+    "Ke_hoach_cuop_boc_luong_thuc_1.txt",
+    "Ke_hoach_cuop_boc_luong_thuc_2.txt",
+    "Ke_hoach_cuop_boc_luong_thuc_3.txt",
+    "Ke_hoach_cuop_boc_luong_thuc_4.txt",
+    "Ke_hoach_cuop_boc_luong_thuc_5.txt",
+    "Thoát"
+  ],
+  "warehouse.pc.docs.bodies": [
+    "Phần 1: Thả đám Nhóc Quậy, Rồng và Slime tràn vào Thành phố Pha Lê. Tuyệt đối không phát cho chúng bất kỳ chút đồ ăn nào, cứ để chúng đói khát lang thang khắp thị trấn tìm kiếm thức ăn nhằm đẩy người dân vào cảnh hỗn loạn.",
+    "Phần 2: Tại Công viên Tình Bạn trong Thành phố Pha Lê, bắt cóc đại một kẻ bất kỳ làm con tin để tống tiền đòi lương thực. Thu gom sạch sành sanh lương thực trong ngôi nhà của con tin đó. Toàn bộ số lương thực thu được sẽ do Grand Cruiser vận chuyển về tổng bộ rồi chuyển tiếp tới chỗ Ngài Yokotank.",
+    "Phần 3: Ối chà, xảy ra sự cố động trời rồi. Một tên kỳ quặc tên là {player} đã tiêu diệt quái vật hộ vệ của ta. Đã thế còn xui xẻo bị hắn bắt quả tang ngay tại ngôi nhà dân. Cực chẳng đã đành phải chuyển sang Kế hoạch B: thủ tiêu đứa trẻ con tin và đổi mục tiêu sang một ngôi nhà khác.",
+    "Phần 4: Hu hu, tên {player} đã giải cứu mất đứa trẻ nên loại Thành phố Pha Lê khỏi danh sách mục tiêu. Thay vào đó, làm ngưng đọng thời gian của Thành phố Arkhaia, trả lại vẻ bình yên giả tạo cho Thành phố Pha Lê để dụ tên {player} rời thị trấn tiến về Thành phố Arkhaia. Đợi lúc {player} đã đi xa khỏi nhà, lập tức bắt cóc đám bạn của {player} làm con tin và hành hạ chúng. Sau một khoảng thời gian nhất định sẽ sát hại toàn bộ đám bạn đó và thu gom hết lương thực trong nhà. Khi {player} mò tới dinh thự thì dùng Grand Cruiser II nghiền nát hắn thành cám.",
+    "Phần 5: Grand Cruiser II đã bị đánh bại. Sau khi liên lạc báo cáo với Ngài Yokotank, ta quyết định cử bé Megasaurus ra nhai xương hắn rôm rốp. Trông cậy cả vào cưng nhé, bé Megasaurus đáng yêu của taaa!"
+  ],
+  "warehouse.pc.shutdown_error": "Lỗi: Nhiều tệp tin hiện đang được sử dụng bởi một ứng dụng khác. Nếu tắt máy tính ngay lúc này, dữ liệu có thể bị hỏng hoặc hệ thống có thể trở nên mất ổn định. Vui lòng đợi một lát rồi thực hiện tắt máy lại.",
+  "warehouse.truth.read": "{player}: Đã đọc xong toàn bộ...",
+  "warehouse.truth.summary": [
+    "Kẻ khơi mào cho toàn bộ thảm kịch lần này chính là Yokotank.",
+    "Rốt cuộc Yokotank là một sinh vật như thế nào, và mục đích sâu xa của hắn là gì thì hiện tại vẫn chưa rõ.",
+    "Thế nhưng Yokotank và Yamijin đã liên tục trao đổi thư từ qua lại với nhau.",
+    "Qua những bức thư đó, rõ ràng Yokotank đang nhằm mục đích thâu tóm toàn bộ lương thực về tay mình.",
+    "Hơn nữa, có vẻ như Yamijin đang làm việc dưới trướng của Yokotank.",
+    "Giữa lúc đó, sự xuất hiện của một người tên là {player} — kẻ liên tục cản trở kế hoạch của chúng — đã khiến nhóm Yamijin dần chuyển sang tìm mọi cách để xóa sổ cái tên {player} khỏi thế gian.",
+    "Và rồi Megasaurus đã được phái đi như một thứ vũ khí tối thượng.",
+    "Khi con quái vật đó bị đánh bại, Yamijin gần như chẳng còn bất kỳ phương kế nào để chống trả được nữa.",
+    "Ngay cả việc bị mất chiếc chìa khóa bí mật cũng là một sai lầm bắt nguồn từ sự chủ quan khi giao phó toàn bộ cho Megasaurus.",
+    "Dù sao đi nữa, nhờ những tài liệu này mà mình đã nắm được phần lớn chân tướng sự việc.",
+    "Mục tiêu của mình giờ đây chính là phơi bày toàn bộ sự thật về Kế hoạch Cướp bóc Lương thực do Yamijin và Yokotank dựng nên.",
+    "Và ngăn chặn bọn chúng một lần và mãi mãi...!"
+  ],
+  "warehouse.rock.used": "Đây là tảng đá đã hiện lên dòng ký tự kỳ lạ lúc trước. Nhưng hiện giờ chẳng có hiện tượng gì xảy ra nữa cả.",
+  "warehouse.rock.found": "Ồ? Có một tảng đá khắc hình chiếc chìa khóa ở đây kìa.",
+  "warehouse.rock.prompt": "Bạn có muốn đặt thử chiếc chìa khóa lên tảng đá không?",
+  "warehouse.rock.clue": [
+    "Có dòng ký tự vừa mới hiện lên trên mặt đá kìa.",
+    "1u4l2u7r2d3r1u4l3u5r1d1r3d",
+    "{player}: Hả? Có hiểu cái mô tê gì đâu! Cái tảng đá khốn kiếp này, viết cho rõ ràng tử tế xem nào!"
+  ],
+  "warehouse.rock.warp_up": [
+    "{player}: Úi chàaa! Lại dịch chuyển nữa rồi!!",
+    "Nói vậy thôi chứ hình như chỉ vừa dịch chuyển sang phía bên kia tảng đá thì phải."
+  ],
+  "warehouse.rock.warp_down": [
+    "{player}: Khoan đã nào!! Lại dịch chuyển nữa hả!?",
+    "Nói vậy thôi chứ hình như chỉ vừa dịch chuyển về lại phía Thành phố Arkhaia thì phải."
+  ]
+}

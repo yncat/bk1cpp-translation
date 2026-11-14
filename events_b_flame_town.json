@@ -1,0 +1,97 @@
+{
+  "flame_town.reentry.message": "Có thể quay ngược trở lại Thị trấn Lửa từ đây.",
+  "flame_town.reentry.prompt": "Bạn có muốn quay lại thị trấn không?",
+  "flame_town.exit_forward.refuse": "{player}: Không được đâu. Làm sao mình có thể nhắm mắt làm ngơ bỏ mặc một thị trấn đang đầy rẫy quái vật lộng hành thế này được. Hơn nữa cảnh tượng nơi đây lại giống hệt những gì mình đã thấy trong cơn ác mộng hôm ấy. Không thể nào cứ thế bước qua được...",
+  "flame_town.exit.message": "Có thể rời khỏi thị trấn từ đây.",
+  "flame_town.exit_forward.prompt": "Bạn có muốn tiến về phía trước không?",
+  "flame_town.shop.intro": "Thương nhân: Xin chào. Cửa hàng của tôi bị lũ Nhóc Quậy đập nát cả cánh cửa nên trông tàn tạ thế này đây, nhưng nếu không chê thì xin mời cậu cứ ghé xem thử nhé. Các mặt hàng thực phẩm thì đã bị bọn chúng chén sạch sành sanh cả rồi. Mong cậu thông cảm cho.",
+  "flame_town.shop.title": "Hãy chọn vật phẩm bạn muốn mua.",
+  "flame_town.shop.items": [
+    "100 viên đạn ná cao su - 500 yên - Rẻ hơn ở Arkhaia đấy",
+    "Đại Kiếm Phá Hủy - 24000 yên - Thanh kiếm mạnh nhất",
+    "Súng Bắn Tên - 15500 yên - Mang hình dáng khẩu súng rất dễ sử dụng, bắn ra những mũi tên sắc bén",
+    "100 mũi Tên Sắt - 2000 yên - Mũi tên chuyên dụng cho Súng Bắn Tên",
+    "Thanh toán",
+    "Tiền hiện có"
+  ],
+  "flame_town.shop.thanks": "Cảm ơn quý khách rất nhiều.",
+  "flame_town.shop.owned": "Món đồ này bạn đã có sẵn rồi.",
+  "flame_town.dying_man.words": "Người dân 1: Khốn kiếp... Cái lũ quái vật chết tiệt kia... Sao chúng mày dám sát hại đứa con gái bé bỏng của tao... Không thể... tha thứ... Chi bằng... tao cũng... đi theo con bé luôn...",
+  "flame_town.dying_man.after": [
+    "{player}: Khônggg!",
+    "Ông ấy... tắt thở mất rồi!",
+    "Chứng kiến một con người quằn quại đau đớn rồi trút hơi thở cuối cùng ngay trước mắt mình.",
+    "Hiện thực tàn khốc ấy quá sức chịu đựng khiến {player} cứ đứng chắp tay rơi nước mắt hồi lâu tại nơi đó."
+  ],
+  "flame_town.person2": "Người 2: Ôi, đói bụng quá... Đã thế trời còn nóng như đổ lửa thế này. Ai đó làm ơn cứu chúng tôi với.",
+  "flame_town.person3": "Người 3: Ôi, kiệt sức mất rồi... Rồi số phận chúng tôi sẽ đi về đâu đây...",
+  "flame_town.child1": "Đứa trẻ 1: Hu hu huuu! Con đói bụng quá à! Con muốn ăn cái gì đó cơ! Hức, hức hức, oaaa! Oaaa! Mẹ ơiii! Mẹ ơiii! Mẹ đang ở đâu thế hả mẹ ơiii!",
+  "flame_town.gaki.taunts": [
+    "Ê, cái thằng đằng kia! Ánh mắt mày nhìn tao thế kia là đang muốn kiếm chuyện đánh nhau đúng không hả? Hả!",
+    "Hả? Thằng quái nào đây! Trông mày không giống dân của cái thị trấn này nhỉ! Chẳng lẽ mày mò tới đây để chia sẻ đồ ăn cho cái lũ rác rưởi ở đây đấy à! Mà thôi kệ, đằng nào giết chóc cũng vui cực kỳ! Khặc khặc khặc!",
+    "Tên khốn kiaaa! Ông đây hiện giờ đang bực mình lắm đấy nhé! Tao sẽ chém chết tươi mày luôn!",
+    "Này tên kia! Ngon thì nhào vô quyết đấu với tao!",
+    "Ồ. Nhà ngươi cũng muốn biến thành một đống thịt băm hả. Uwahaha ha ha ha!"
+  ],
+  "flame_town.gaki.remains": "Ở đây có thứ từng là một tên Nhóc Quậy đang nằm sóng soài.",
+  "flame_town.gaki.says": "Siêu Nhóc Quậy: {line}",
+  "flame_town.gaki.defeats": [
+    "Á hựưư! Tao xin hàng!",
+    "Khốn kiếp! Nhưng ngoài tao ra thì vẫn còn hàng tá đàn em khác đang đợi mày đấy nhé!",
+    "Hự, sao mày dám đánh bại bổn đại gia... Nhớ mặt tao đấy!",
+    "Chết tiệt! Thua mất rồi! Bổn đại gia mà lại chịu thua thế này saooo! Tức chết điii!",
+    "Ặc! Khá lắm... Tao không phải là đối thủ của mày... Nhưng còn quá sớm để mày thở phào nhẹ nhõm đấy!"
+  ],
+  "flame_town.gaki.after": [
+    "{player}: Thấy sao hảaa!",
+    "Siêu Nhóc Quậy: {line}"
+  ],
+  "flame_town.cleared": [
+    "Lữ khách 1: Tốt lắm! Đã tiêu diệt sạch toàn bộ bọn chúng rồi!",
+    "Lữ khách 2: Bên này cũng hoàn tất rồi nhé!",
+    "Lữ khách 3: Ổn cả rồi!",
+    "Lữ khách 1: Này cậu. Cậu đã chiến đấu xuất sắc lắm. Thế này thì chỉ cần đợi lương thực cứu trợ chuyển tới nữa thôi là người dân có thể cầm cự qua vài ngày tới rồi. Đám rồng các thứ hình như cũng đã rút lui cả rồi. Thật sự cảm ơn cậu nhiều lắm. Nếu chỉ có mấy người chúng tôi thôi thì chưa chắc đã hạ nổi số lượng đông đảo đến thế.",
+    "Chỗ này tuy chỉ là chút tấm lòng, nhưng mong cậu hãy nhận lấy.",
+    "Đã nhận được 20000 yên!",
+    "Lữ khách 3: Ở sâu bên trong thị trấn này có một cửa hàng. Nơi đó có bán những món vũ khí vô cùng uy lực. Tuy nhiên giá cả của chúng khá đắt đỏ, cậu hãy dùng số tiền này bù thêm vào mà mua sắm nhé. Cảm ơn cậu.",
+    "Lữ khách 2: Nào, chúng ta về thôi. Cái nơi u ám rợn người thế này ở lâu thêm tý nào là nổi da gà tý đó, mau rút lẹ đi! Nhanh lên!",
+    "{player}: Xin cảm ơn mọi người rất nhiều..."
+  ],
+  "flame_town.person4": "Người 4: Ái chà... Nóng quá... Đói rã cả ruột... Đã thế lại còn vừa bị đám Nhóc Quậy nện cho một trận nhừ tử nên đau ê ẩm khắp mình mẩy...",
+  "flame_town.girl": "Thiếu nữ: Tôi quyết định rồi! Tôi sẽ rời khỏi nơi này! Tôi chẳng muốn sống ở cái nơi khủng khiếp thế này thêm nữa đâu! Tôi sẽ sang thị trấn bên cạnh sống một cuộc đời bình yên vui vẻ! Đừng có cản đường tôi!",
+  "flame_town.joker": [
+    "Người 5: Này nhé. Ở khu vực này tác giả đã chừa sẵn tới 14 ô nhân vật, nhưng xem chừng tạo hơi lố tay rồi. Đến đoạn này là cạn sạch ý tưởng viết thoại rồi hay sao ấy nhỉ.",
+    "{player}: Này ông kia, sao mọi người đang thê thảm thế mà một mình ông lại khỏe re thế hả. Đã thế lại còn ăn nói luyên thuyên khó hiểu nữa chứ. Bộ ông là Tác giả cải trang đấy à?",
+    "Người 5: Ấy ấy, chuyện nhạy cảm đó thì đừng có hỏi sâu làm gì.",
+    "{player}: Cái quái gì thế không biết."
+  ],
+  "flame_town.child3": "Đứa trẻ 3: Không biết có thứ gì ăn được quanh đây không nhỉ? Hừm... A! Cái này! Đành chịu vậy, dù chỉ là cỏ dại mọc ven đường nhưng cứ nhai sống đại đi! Còn hơn là bị chết đói!",
+  "flame_town.child4.thanks": "Đứa trẻ 4: Cảm ơn anh chuyện lúc nãy nghen. Em luôn cổ vũ cho anh đó. Cố gắng lên nha.",
+  "flame_town.child4.rations": "Đứa trẻ 4: Cuối cùng em cũng may mắn nhận được phần lương thực cứu trợ rồi, nhờ chỗ đồ ăn này chắc em sẽ quyết tâm sống sót được một thời gian nữa. Thế nên em ổn rồi, cảm ơn anh nhiều nha.",
+  "flame_town.child4.ask": "Đứa trẻ 4: Giờ biết tính sao đây... Em đói bụng tới mức sắp xỉu tới nơi rồi... Anh có chút đồ ăn nào cho em xin được không?",
+  "flame_town.child4.give": [
+    "{player}: À, bánh ngọt thì anh có sẵn đây. Để kẻ khác nhìn thấy cướp mất thì nguy đấy, nên em nhớ tìm chỗ kín đáo mà ăn nhé. Dù hơi có lỗi với những người khác một chút.",
+    "Đứa trẻ 4: Ôi, em cảm ơn anh nhiều lắm. Để đáp lễ, em tặng anh cái dấu mốc kỳ lạ mà hôm trước em nhặt được nè, anh cứ lấy mà dùng nha.",
+    "{player} đã nhận được Dấu mốc bảy sắc lấp lánh."
+  ],
+  "flame_town.child4.none": [
+    "{player}: Xin lỗi em nhé, anh chẳng còn chút đồ ăn nào cả. Thật lòng xin lỗi em.",
+    "Đứa trẻ 4: Tiếc quá ha. Mà thôi, em cũng đâu định ép anh phải cho bằng được đâu, anh cũng nhớ giữ gìn sức khỏe của mình đó nha.",
+    "Sự tử tế ấm áp của đứa trẻ khiến {player} khẽ rơm rớm nước mắt."
+  ],
+  "flame_town.person6": "Người 6: Cảnh tượng nơi đây chẳng khác nào thời chiến tranh loạn lạc cả.",
+  "flame_town.traveller1": "Lữ khách 1: Lũ Nhóc Quậy khốn kiếp kia! Ta sẽ biến chúng mày thành rỉ sét trên lưỡi kiếm này! Này cậu kia, cậu cũng phụ một tay đánh đuổi đám Nhóc Quậy quanh đây đi!",
+  "flame_town.traveller2": "Lữ khách 2: Này cậu! Khắp mọi ngóc ngách trong thị trấn đều có đám Nhóc Quậy đang hoành hành đấy! Hãy quét sạch bọn chúng từ đầu đến cuối đi! Trước khi cả thị trấn này chất đầy xác chết!",
+  "flame_town.traveller3": "Lữ khách 3: Chúng tôi chuẩn bị ra tay tiêu diệt hết đám Nhóc Quậy trong thị trấn này! Cậu cũng hãy giúp chúng tôi một tay nhé! Số lượng đông thế này một người không tài nào đánh xuể đâu!",
+  "flame_town.entrance.message": "Phía trước có một thị trấn kìa.",
+  "flame_town.entrance.prompt": "Bạn có muốn bước vào trong thị trấn thử xem sao không?",
+  "flame_town.intro": [
+    "{player}: C-cái cảnh tượng gì thế kiaaa!",
+    "Trước mắt cậu là cả một thị trấn đã hóa thành đống đổ nát hoang tàn, phơi bày dáng vẻ thảm khốc đến tột cùng.",
+    "Khắp nơi vương vãi chất lỏng màu đỏ tươi, còn những người dân trong thị trấn thì đang vật vã lê bước trong đau đớn để tìm kiếm thứ gì đó.",
+    "Và rồi từ đâu đó vẳng lại những tràng cười man rợ.",
+    "{player}: Chết tiệt! Tên Yokotank khốn kiếp! Hắn dám ra tay tàn độc đến thế này ư!",
+    "{player} vội vã rảo bước chạy thẳng vào trong thị trấn."
+  ],
+  "flame_town.exit_back.prompt": "Bạn có muốn quay ngược về phía Thành phố Arkhaia không?"
+}

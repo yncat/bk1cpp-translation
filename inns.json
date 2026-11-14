@@ -1,0 +1,64 @@
+{
+  "inn.crystal.welcome": "Xin kính chào quý kháaaach! Giá nghỉ qua đêm là 200 yên ạ. Quý khách có muốn nghỉ lại không ạ?",
+  "inn.crystal.declined": "Vậy ạaa. Thế thì khi nào muốn nghỉ ngơi, xin quý khách nhất định lại ghé khách sạn của chúng tôi nhéee!",
+  "inn.crystal.pay_first": "À dạ, khách sạn của chúng tôi áp dụng hình thức trả tiền trước đấy ạ. Quý khách phải thanh toán tiền phòng trước mới được cơ ạ.",
+  "inn.crystal.only_have": "{player}: Hảaaa! Trong người chỉ còn đúng {money} yên thôi sao!",
+  "inn.crystal.sorry": "Ôi, chúng tôi thành thật xin lỗiii. Lần tới xin quý khách nhất định lại ghé qua nhéee!",
+  "inn.crystal.room": "Đã rõ rồi ạ. Đây là chìa khóa phòng của quý khách. Phòng nghỉ của quý khách là phòng số {room} ạ. Chúc quý khách nghỉ ngơi thư giãaan!",
+  "inn.crystal.nice_room": "Chà. Phòng ốc ổn áp phết nhỉ. Rộng rãi, lại còn có sẵn giường nữa. Như thế này mà chỉ có 200 yên thì rẻ thật đấy. Cơ mà đồng yên trong cái game này có khác gì đồng yên ngoài đời thực không nhỉ? Chẳng biết đường nào mà lần.",
+  "inn.crystal.bath": "Đây là phòng tắm ư? Rộng thênh thang thật đấy.",
+  "inn.crystal.bath_alone": "Ồ? Bao trọn cả phòng tắm một mình luôn! Tuyệt cú mèo!",
+  "inn.crystal.bath_good": "Nước ấm thích quá điii. Sảng khoái hết cả người. Mà hỏi có kỳ cọ không gì chứ, bình thường người ta phải tắm rửa sạch sẽ trước khi ngâm bồn mới đúng chứ nhỉ, ha ha ha!",
+  "inn.crystal.bath_basin": "Á, lỡ tay làm rơi cái chậu rửa mặt rồi.",
+  "inn.crystal.bath_done": "Tắm xong sảng khoái thật đấy.",
+  "inn.crystal.cold": "Lạnh quá đi mất",
+  "inn.crystal.comfortable": "Dễ chịu thật đấy.",
+  "inn.crystal.beaten": "Trong này có cả phòng tắm nữa cơ à. Vào ngâm mình một chút cũng hay đấy nhỉ. Dù sao vừa nãy cũng bị {enemy} dần cho ra bã rồi.",
+  "inn.crystal.hammer": [
+    "Căn phòng này cũng xịn sò ra phết đấy nhỉ.",
+    "Ồ?",
+    "Chỗ đằng kia hình như là phòng tắm thì phải? Qua đó thử xem sao.",
+    "À mà trước đó, hay là vung búa quẩy vài đường cho vui nhỉ."
+  ],
+  "inn.door_stuck": [
+    "Khốn kiếppp, sao cửa lại không chịu mở ra thế này!",
+    "Bực cả mình, liều mạng luôn này! Hựaaa!"
+  ],
+  "inn.key_card": "À, hóa ra phải cắm thẻ từ vào cái khe này mới mở được. Tách một cái nào!",
+  "inn.opened": "Cửa mở rồi. Thôi đi ngủ nào.",
+  "inn.bored": [
+    "Haiz. Chán quá đi mất.",
+    "Chẳng có trò gì làm cả. Biết làm gì bây giờ nhỉii"
+  ],
+  "inn.dream": "Ơ, hả? Th-thì ra chỉ là mơ thôi sao... Ôi sợ chết khiếp đi được",
+  "inn.crystal.morning": "Chào buổi sáaaang! Hôm nay đi đường cũng nhớ giữ gìn cẩn thận nhé!",
+  "inn.arkhaia.welcome": "Xin chào mừng. Giá nghỉ qua đêm là 700 yên, cậu có muốn trọ lại không?",
+  "inn.arkhaia.declined": "Vậy à. Khi nào muốn nghỉ ngơi thì cứ ghé qua bất cứ lúc nào nhé.",
+  "inn.arkhaia.pay_first": "Xin thứ lỗi nhé, nhưng cậu không trả tiền trước thì chúng tôi khó xử lắm.",
+  "inn.arkhaia.only_have": "{player}: Không thể nàooo! Trong người chỉ còn có {money} yên thôi sao!",
+  "inn.arkhaia.sorry": "Đáng tiếc thật đấy, hẹn cậu dịp khác ghé lại nhé.",
+  "inn.arkhaia.room": "Đã rõ. Phòng của cậu là phòng số {room}, chúc cậu nghỉ ngơi thoải mái nhé.",
+  "inn.arkhaia.nice_room": "Chà, khách sạn ở Thành phố Arkhaia đúng là đẳng cấp khác hẳn. Không hổ danh là lữ quán hạng sang. Dù nhìn cái cảnh con Dao Đồng bị bán đại hạ giá với mức 10000 yên ngoài kia là lại muốn nhảy vào cà khịa xem tại sao một con dao lại đắt cắt cổ thế không biết!",
+  "inn.arkhaia.traveller": [
+    "{player}: À, xin chào ạ.",
+    "Lữ khách: Xin chào."
+  ],
+  "inn.arkhaia.dog": [
+    "{player}: Chú chó dễ thương quá đi mất.",
+    "Lữ khách: Dễ thương đúng không? Nó tên là Jade đấy.",
+    "{player}: Ra vậy ạ!",
+    "Lữ khách: Hồi đang đi du hành, thấy nó suýt chết đói nên tôi đem về nuôi, ai dè nó biết đánh hơi phát hiện bom mìn các thứ nên giúp ích cho tôi nhiều lắm. Lại còn biết đào cả những Quả Sabon bị vùi dưới đất lên nữa chứ. Ha ha ha.",
+    "{player}: Giỏi thật đấy nhé! Từ nay về sau cũng cố gắng lên nha, Jade!!"
+  ],
+  "inn.arkhaia.sleep": "{player}: Chắc đi ngủ thôi nhỉ?",
+  "inn.arkhaia.arcade": "Oáp... Dễ chịu quá điii. Muốn ra khu trò chơi điện tử chơi tiếp quá.",
+  "inn.arkhaia.comfortable": "Thoải mái thật đấy. Đã thế phòng lại còn được trang bị cả điều hòa hai chiều lẫn dây mạng Internet nữa chứ.",
+  "inn.arkhaia.beaten": "Phù... Mệt rã rời luôn... Nghỉ ngơi thư giãn thôi nào. Dù sao cũng vừa bị {enemy} dần cho tơi tả rồi.",
+  "inn.arkhaia.hammer": [
+    "Căn phòng này cũng xịn sò ra phết đấy nhỉ.",
+    "Hừm.",
+    "Cơ mà chẳng có việc gì để làm cả.",
+    "Hừm, hay là lại lôi búa ra vung vẩy chơi cho đỡ buồn nhỉ."
+  ],
+  "inn.arkhaia.morning": "Trời sáng rồi đấy! Hôm nay cũng cố gắng lên nhé!"
+}

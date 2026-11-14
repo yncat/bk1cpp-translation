@@ -1,0 +1,123 @@
+{
+  "minigames.ball.hello": "Đứa trẻ 1: Oaaa, chơi cùng em điii!!",
+  "minigames.ball.prompt": "Bạn có muốn chơi cùng đứa trẻ không?",
+  "minigames.ball.declined": [
+    "{player}: Xin lỗi nhé, hiện giờ anh đang có việc gấp nên hẹn em lần khác nha.",
+    "Đứa trẻ 1: Ơ kìaaa! Em biết rồiii! Vậy hẹn anh lần sau nhaaa!!"
+  ],
+  "minigames.ball.rules": [
+    "Đứa trẻ 1: Hoan hôoo! Vậy mình cùng chơi thôiii!",
+    "Thế này nhé, em sẽ ném bóng sang, hễ em ném thì anh hãy nhấn phím Cách để bắt lấy quả bóng nhaaa!!!",
+    "À nhân tiện báo trước là nếu anh nhấn phím Cách vào lúc không liên quan thì sẽ bị trừ điểm đấy nhé."
+  ],
+  "minigames.ball.over": "Đứa trẻ 1: Ái chàaa! Anh làm rơi bóng mất tiêu rồiii! Điểm số của anh là {score} điểm nhaaa!!",
+  "minigames.photo.found": "Có buồng chụp ảnh lấy liền Purikura kìa. Nghe nói chỉ tốn 100 yên một lần chụp thôi.",
+  "minigames.photo.broken": "Thế nhưng màn hình tinh thể lỏng của buồng chụp ảnh lấy liền đã vỡ vụn thành trăm mảnh, những mảnh vỡ trong suốt tuyệt đẹp vương vãi khắp nơi tựa như đá quý.",
+  "minigames.photo.no_money": "Nhưng hiện giờ túi tiền đang rỗng tuếch, chẳng có tâm trí đâu mà chụp ảnh.",
+  "minigames.photo.prompt": "Bạn có muốn bỏ 100 yên vào để chụp ảnh lấy liền không?",
+  "minigames.photo.welcome": [
+    "Xin chào mừng quý khách.",
+    "Đây là một buồng chụp ảnh lấy liền vô cùng đơn giản. Do tác giả có hơi làm biếng một chút nên mong bạn thông cảm nhé.",
+    "Nào, bây giờ máy sẽ chụp ảnh ngay đây. Hãy tạo dáng thật ngầu vào nhé."
+  ],
+  "minigames.photo.smile": "Chuẩn bị chụp ảnh nào... Cười tươi lên, cười tươi lên!",
+  "minigames.photo.prank": "Ahaha, hihihi, vui quá đi mất! Đúng lúc {player} đang trưng ra vẻ mặt cực kỳ khó đỡ thì...",
+  "minigames.photo.done": "Xong rồi đây, đã chụp xong ảnh rồi nhé!! Hẹn gặp lại bạn lần sau nha!",
+  "minigames.photo.angry": "{player}: Cái thứ máy móc khốn kiếp kia! Sao mày dám phụt cả đống nước thẳng vào mặt ông đây hả! Chỉ là một cái máy chụp ảnh lấy liền thôi mà tích trữ nước ở cái xó nào lắm thế tên khốn này! Tao không tha cho mày đâu! Đích thân ông đây sẽ đập mày tan xác thành từng mảnh vụn!",
+  "minigames.photo.sorry": "Máy chụp ảnh lấy liền?: X-xin lỗiii mà! Tha cho tôi điii! Đã bảo là tha cho tôi đi màaa! Tha...",
+  "minigames.photo.smashed": [
+    "Oáaaa!!!!",
+    "Màn hình tinh thể lỏng của máy chụp ảnh lấy liền đã bị đập nát vụn thành cám...",
+    "{player}: Thấy sao hảaa! Chừa thói láo toét chưa con! Lần sau cấm có được phun nước vào mặt người ta nữa nghe chưa! Ha ha ha ha haaa!"
+  ],
+  "minigames.ufo.found": "Có một chiếc máy gắp thú UFO Catcher ở đây kìa. Biết đâu lại gắp được đủ thứ đồ hay ho đấy.",
+  "minigames.ufo.no_money": "Nhưng hiện tại đang nghèo rớt mồng tơi nên thôi bỏ qua vậy.",
+  "minigames.ufo.prompt": "Bạn có muốn nhét đồng 100 yên vào chơi thử không?",
+  "minigames.ufo.declined": "Quyết định không chơi nữa.",
+  "minigames.ufo.rules": "Chào mừng bạn đến với chiếc máy gắp thú vui nhộn Ufofo Machine! Khi nhấn phím Enter trò chơi sẽ bắt đầu; hãy dùng các phím mũi tên lên, xuống, trái, phải để di chuyển càng gắp tới vị trí bạn muốn rồi nhấn phím Cách để gắp quà nhé! Nào, tất cả cùng Ufofo thôi!!",
+  "minigames.ufo.nothing": "Đáng tiếc quá. Bạn chẳng gắp trúng món nào cả. Hãy thử sức lại vào lần sau nhé.",
+  "minigames.ufo.won": "Tuyệt vời! Bạn đã gắp trúng {item} rồi!",
+  "minigames.ufo.prizes": [
+    "Mô hình Nhóc Quậy",
+    "Mô hình Rồng",
+    "Mô hình Slime",
+    "Mô hình Dơi",
+    "Mô hình Tiểu Quỷ",
+    "Ảnh chụp lấy liền",
+    "Miếng bọt biển",
+    "Xe đồ chơi",
+    "Hộp đựng đồ nhỏ",
+    "Hình dán quái vật",
+    "Cục mềm dẻo",
+    "Quả bóng",
+    "Vợt tennis",
+    "Găng tay bóng chày"
+  ],
+  "minigames.drum.found": "Có cả một dàn trống đồ sộ ở đây kìa. Nghe nói bỏ 100 yên vào là được đánh trọn 1 bản nhạc đấy.",
+  "minigames.drum.no_money": "Nhưng khổ nỗi hiện giờ đang là kẻ nghèo kiết xác không có nổi lấy 100 yên trong túi, nên đành ngậm ngùi nhìn chứ chẳng leo lên đánh trống được. Hay là ra trấn lột tiền của đám Nhóc Quậy nhỉ?",
+  "minigames.drum.prompt": "Bạn có muốn bỏ 100 yên vào chơi thử không?",
+  "minigames.drum.declined": "Quyết định thôi không chơi nữa.",
+  "minigames.drum.song_title": "Hãy chọn bản nhạc bạn muốn đánh trống.",
+  "minigames.drum.songs": [
+    "Elgar: Hành khúc Uy nghiêm (Pomp and Circumstance)",
+    "Mozart: Sonatine số 1, Chương 4",
+    "Verdi: Bài ca Nâng cốc (Brindisi)",
+    "Joplin: The Entertainer",
+    "Holst: Sao Mộc (chỉ trích đoạn nổi tiếng - hơi ngắn nên coi chừng lỗ vốn đấy)",
+    "Bài hát Jingle Bells (khoan đã)",
+    "Một bản nhạc nghe khá êm tai (này nhé)",
+    "Một bản nhạc tràn đầy năng lượng",
+    "Một bản nhạc nghe có vẻ vui nhộn",
+    "Một bản nhạc nghe có vẻ thú vị (nói rõ tên ra đi chứ)",
+    "Hành khúc!"
+  ],
+  "minigames.drum.kit_title": "Có tới 13 bộ trống khác nhau. Hãy chọn bộ trống bạn muốn chơi nhé.",
+  "minigames.drum.kits": [
+    "Bộ trống 1",
+    "Bộ trống 2",
+    "Bộ trống 3",
+    "Bộ trống 4",
+    "Bộ trống 5",
+    "Bộ trống 6",
+    "Bộ trống 7",
+    "Bộ trống 8",
+    "Bộ trống 9",
+    "Bộ trống 10",
+    "Bộ trống 11",
+    "Bộ trống 12",
+    "Bộ trống 13"
+  ],
+  "minigames.drum.start": "Nào, bản nhạc sắp bắt đầu rồi đấy! Các mặt trống đã được gán vào các phím mũi tên, phím Control, phím Cách, phím Tab và phím Enter, hãy gõ trống hết mình thỏa thích đi nào! Bắt đầu ngay thôi...",
+  "minigames.drum.end": "Bạn chơi có vui không nào? Lần sau nhớ lại ghé chơi tiếp nhé, vì tác giả cũng đã tốn kha khá công sức để làm ra trò này đấy.",
+  "minigames.fireballs2.intro": [
+    "{player}: T-tại sao lại thế nữa hảaa!",
+    "Ngay trước mắt cậu, hàng tá quả cầu màu đỏ đang bay vèo vèo với tốc độ còn nhanh hơn cả lúc nãy.",
+    "{player}: Lại phải băng qua cái chỗ nguy hiểm đó nữa sao?",
+    "Không chịu đâuuu!",
+    "Nhưng một khi Tác giả đã quyết định như thế rồi thì bạn bắt buộc phải đi qua thôi. Xin mời bước qua cho.",
+    "{player}: Hảaaa? Đã thế tốc độ của chúng lại còn nhanh hơn ban nãy nữa chứ. Không biết mình có qua nổi không đây?"
+  ],
+  "minigames.fireballs2.done": [
+    "{player}: Mệt đứt cả hơi rồiii!",
+    "Tác giả: Cảm ơn bạn đã vất vả nhé. Từ giờ trở đi sẽ không còn màn né bóng nào nữa đâu, cứ yên tâm đi tiếp nhé.",
+    "{player}: May quá điii!"
+  ],
+  "minigames.fireballs1.intro": [
+    "{player}: Ối chà, cái quái gì thế này?",
+    "Phía trước con đường có hàng tá quả cầu màu đỏ đang bay qua bay lại. Hình như đó là những quả cầu sắt đang nóng rực lên thì phải. Đỏ lòm một màu luôn.",
+    "{player}: Hảaa? Bắt buộc phải băng qua cái chỗ này thật đấy ư?",
+    "Ai đó: Đáng tiếc là đúng như vậy đấy, cậu {player} ạ.",
+    "{player}: Tên kia, ngươi là kẻ nào hả!",
+    "Ai đó: Chà, cậu cứ coi tôi là tác giả của trò chơi này đi. Mấy quả cầu này có thể dùng phím mũi tên để né tránh được đấy, cố gắng lên nhéee!",
+    "{player}: Ồ? Tác giả vừa mới cho mình gợi ý kìa. Xông vào vượt qua ngay thôi.",
+    "Tác giả: À quên dặn thêm. Nếu bị bóng đập trúng là sẽ mất máu đấy nên hãy cẩn thận nhé. Trong lúc đang băng qua đây thì không thể mở túi ăn đồ hồi máu được đâu."
+  ],
+  "minigames.fireballs1.done": [
+    "Cuối cùng cũng vượt qua được rồi.",
+    "{player}: Ôi giời ơiii, nóng bỏng cả người luôn.",
+    "Thề là chẳng bao giờ muốn phải trải qua cái trò này thêm lần thứ hai nữa đâu."
+  ],
+  "minigames.wall.rules": "Trên bức tường này có khắc dòng chữ: Nếu không phá hủy bức tường này trong vòng 10 giây, mạng sống của nhà ngươi sẽ tan thành mây khói. Ngươi vẫn cam lòng chứ hả? Đọc xong, {player} tức điên người và quyết định rút búa ra đập nát bức tường. Trong vòng 10 giây, hãy nhấn liên hồi phím Cách để dùng búa đập sập bức tường nhé!",
+  "minigames.wall.broken": "Hay lắm! Đã đập nát vụn bức tường rồi.",
+  "minigames.wall.failed": "{player} đã rơi tuột xuống khe nứt không-thời gian!"
+}

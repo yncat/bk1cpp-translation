@@ -1,0 +1,71 @@
+{
+  "last_dungeon.potion.found": "Hay quá, có lọ Thuốc hồi phục rơi ở đây kìa.",
+  "last_dungeon.futon.found": "Ồ? Có tấm đệm chăn bông trải sẵn ở đây kìa. Có lẽ nằm ngủ nghỉ ngơi một lát được đấy.",
+  "last_dungeon.futon.rest_prompt": "Bạn có muốn chợp mắt nghỉ ngơi một chút không?",
+  "last_dungeon.key.found": "Có chiếc chìa khóa rơi dưới đất kìa. Nhặt luôn thôi.",
+  "last_dungeon.panel.intro": "Đây là Tấm dịch chuyển dẫn thẳng tới Pháo đài Yokotank...",
+  "last_dungeon.panel.menu.title": "Hãy chọn hành động.",
+  "last_dungeon.panel.menu.items": [
+    "Dịch chuyển",
+    "Thu hồi tấm dịch chuyển",
+    "Suy nghĩ thêm một chút đã"
+  ],
+  "last_dungeon.panel.collected": "Đã thu hồi Tấm dịch chuyển...",
+  "last_dungeon.warp.warning": "Lần tiếp theo bạn có thể đặt chân trở lại vùng đất này sẽ là sau khi mọi chuyện đã hoàn toàn kết thúc. Hơn nữa, ngay khi vừa dịch chuyển tới nơi sẽ lập tức bước vào trận đấu trùm. Ngoài ra từ đây trở đi sẽ không còn bất kỳ cửa hàng bán vật phẩm nào nữa. Khuyên bạn nên chuẩn bị trang bị và vật phẩm thật kỹ lưỡng trước khi tiến tới đích đến cuối cùng.",
+  "last_dungeon.warp.prompt": "Bạn có muốn dịch chuyển ngay bây giờ không?",
+  "last_dungeon.warp.confirm": "Bạn đã thật sự chắc chắn rồi chứ?",
+  "last_dungeon.fort.arrive1": [
+    "{player}: Nơi này chính là...",
+    "Pháo đài Yokotank...",
+    "Không biết pháo đài này do chính tay Yokotank xây dựng nên, hay vốn dĩ đã tồn tại từ trước rồi bị hắn chiếm đoạt làm sào huyệt nhỉ?",
+    "Dù sao đi nữa, mình nhất định phải tiến lên. Hãy mở cánh cửa trước mắt ra!"
+  ],
+  "last_dungeon.fort.arrive2": [
+    "Ai đó: Cuối cùng ngươi cũng vác mặt tới rồi nyaaa.",
+    "{player}: Ờ. Tao tới đây thì có vấn đề gì hả?"
+  ],
+  "last_dungeon.fort.yamijin_talk": [
+    "Yamijin: Khá khen cho ngươi khi có thể đánh bại được cả đám Nhóc Quậy lẫn các thuộc hạ của Ngài Yokotank đấy nya.",
+    "{player}: Hả? Thuộc hạ? Ý mày là cái thứ gì cơ?",
+    "Yamijin: Ủa? Thì cái con người máy khổng lồ to xác kia kìa, thuộc hạ của Ngài Yokotank đấy.",
+    "{player}: À, hóa ra là thế à... Cơ mà tao đập nó tan tành thành sắt vụn mất rồi.",
+    "Yamijin: Ngươi dám làm ra chuyện tàn nhẫn đến thế hả! Bộ ngươi có biết để chế tạo ra con người máy đó đã phải đổ vào biết bao nhiêu tiền của không hả?",
+    "{player}: Ai mà thèm quan tâm mấy chuyện đó chứ. Tóm lại là tại nó lao vào tấn công tao trước nên tao đập nát nó thôi.",
+    "Nào. Tao không có thời gian rảnh rỗi để đứng tán gẫu với mày đâu.",
+    "Yamijin. Đây sẽ là trận phân thắng bại cuối cùng giữa tao và mày.",
+    "Yamijin: Đúng ý ta lắm. Ta sẽ cho ngươi chứng kiến sức mạnh thật sự của bổn tọa!"
+  ],
+  "last_dungeon.fort.battle_cry": "{player}: Nhất định tao sẽ chiến thắng. Tao không đời nào để mày muốn làm gì thì làm đâu!",
+  "last_dungeon.fort.after_battle": [
+    "{player}: Kết thúc rồi...",
+    "Yamijin: Xem ra... phần thua thuộc về ta rồi.",
+    "{player}: Có vẻ là vậy đấy. Đáng tiếc cho mày quá nhỉ.",
+    "Yamijin: Nào, hãy tung đòn kết liễu đi.",
+    "{player}: Kết liễu ai cơ?",
+    "Yamijin: Ta đã bại trận dưới tay ngươi. Thế nên cái chết là kết cục xứng đáng dành cho ta. Hãy kết liễu mạng sống của ta đi.",
+    "{player}: ......"
+  ],
+  "last_dungeon.fort.finish_prompt": "Bạn có muốn tung đòn kết liễu Yamijin không?",
+  "last_dungeon.kill.agree": "{player}: Được thôi, tao hiểu rồi.",
+  "last_dungeon.kill.after": [
+    "Yamijin đã bất động hoàn toàn...",
+    "{player}: Nào, lần này thực sự tiến lên thôi! Hựaaaa!"
+  ],
+  "last_dungeon.spare.refuse": [
+    "{player}: Tao... sẽ không bao giờ làm chuyện đó!"
+  ],
+  "last_dungeon.spare.speech": [
+    "{player}: Suy cho cùng, tao... tao cực kỳ ghét việc giết chóc... Huống hồ lại là xuống tay giết hại một kẻ không nhất thiết phải giết!!",
+    "Chẳng phải bất kỳ sinh vật nào có sinh mạng khi chào đời đều mang trong mình một ý nghĩa nào đó cho sự tồn tại của mình hay sao!!",
+    "Dù có thể ta chưa biết ý nghĩa đó là gì, hay thậm chí đôi khi nó chẳng phải điều gì tốt đẹp.",
+    "Thế nhưng việc mang lại hạnh phúc cho những người mình trân quý là điều mà bất cứ sinh mạng nào cũng có thể làm được mà!",
+    "Ý nghĩa của sinh mạng... chẳng phải chính là tin tưởng vào những người mình yêu thương, cùng nhau đùm bọc giúp đỡ lẫn nhau để sống một cuộc đời hạnh phúc hay sao!!",
+    "Yamijin: ...",
+    "{player}: Tao sẽ đi ngăn chặn Yokotank. Tao chẳng cần nghe ý kiến của mày đâu.",
+    "Và còn nữa, tao tuyệt đối sẽ không giết mày. Dù mày có nói gì đi nữa, hay thậm chí có định tự sát đi chăng nữa!",
+    "Tóm lại là tao phải tiến sâu vào bên trong pháo đài này.",
+    "Cứ nằm yên ở đây mà đợi đấy. Cấm có được chết nghe chưa!",
+    "Nói rồi, {player} quay lưng lại phía Yamijin và sải bước tiến về phía cánh cửa..."
+  ],
+  "last_dungeon.spare.go": "{player}: Nào, tiến lên thôi! Hựaaaa!!"
+}

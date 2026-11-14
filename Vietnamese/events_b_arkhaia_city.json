@@ -1,0 +1,292 @@
+{
+  "arkhaia_city.gate.side_entrance": "Đây là lối vào Thành phố Arkhaia, khác với cổng vào ở phía Thành phố Pha Lê.",
+  "arkhaia_city.gate.enter_prompt": "Bạn có muốn bước vào thị trấn không?",
+  "arkhaia_city.exit.message": "Đây là lối ra khỏi thị trấn.",
+  "arkhaia_city.exit.prompt": "Bạn có muốn rời khỏi thị trấn không?",
+  "arkhaia_city.boss8.leaving": [
+    "{player}: Thành phố Arkhaia vui thật đấy nhỉ.",
+    "Trước mắt thì có vẻ nơi đó vẫn chưa chịu thiệt hại gì từ đám quái vật cả. Tạm thời có thể yên tâm rồi.",
+    "Nhưng chẳng biết lúc nào quái vật sẽ kéo tới tấn công nên mình phải sớm tìm ra chân tướng sự việc mới được."
+  ],
+  "arkhaia_city.boss8.huh": "Hửm?",
+  "arkhaia_city.boss8.coming": [
+    "C-có thứ gì đó đang lao tới!",
+    "Cái quái gì mà khổng lồ thế kia!?",
+    "Thứ mà {player} vừa nhìn thấy là một con quái vật mang hình dáng khủng long khổng lồ dài hơn cả chục mét.",
+    "{player}: Híiii! Nó đang lao thẳng về phía này! Đã thế tốc độ của nó còn nhanh tới mức không tài nào chạy thoát kịp! Phải làm sao bây giờ!!"
+  ],
+  "arkhaia_city.boss8.charge": [
+    "Con quái vật phát ra âm thanh rền vang kinh hoàng rồi lao bổ về phía này!",
+    "{player}: C-cái dấu hiệu kia là!!",
+    "Thứ gắn trên người nó giống hệt thứ mà Yamijin mang theo... Chẳng lẽ nó là thuộc hạ của Yamijin ư?",
+    "Nhưng từ kích thước cho tới khí thế của nó đều khác một trời một vực so với những con quái vật từng gặp trước đây. Rốt cuộc thứ kia là cái quái gì vậy!",
+    "...Nguy hiểm!"
+  ],
+  "arkhaia_city.boss8.bitten": [
+    "Áaa!",
+    "Chết tiệt, bị nó ngoạm chặt thế này thì không tài nào thoát ra được!"
+  ],
+  "arkhaia_city.boss8.pain": [
+    "Oáaaa!",
+    "{player} phải hứng chịu một cơn đau dữ dội chưa từng cảm nhận từ trước tới nay.",
+    "{player}: Khốn kiếp... Mình bỏ mạng tại đây sao...",
+    "{player} đã chuẩn bị tinh thần đón nhận cái chết."
+  ],
+  "arkhaia_city.boss8.spat_out": [
+    "Thế nhưng con quái vật chỉ nhai nghiền {player} đôi chút rồi nhổ phẹt ra ngoài.",
+    "{player}: Chết tiệt..."
+  ],
+  "arkhaia_city.boss8.rush": [
+    "{player}: Hựaaa!",
+    "Đáp lại cú lao mình tấn công của {player}, con quái vật cũng bắt đầu tăng tốc húc tới. Và rồi nó khẽ để lộ ra bộ móng vuốt ánh lên tia sáng lạnh lẽo.",
+    "{player}: Á hự!? Không phanh lại kịp nữa rồi! Cứ đà này thì..."
+  ],
+  "arkhaia_city.boss8.dribble": [
+    "{player}: Áaaa!",
+    "Chưa dừng lại ở đó, con quái vật húc văng {player} đi rồi vẫn tiếp tục lao thẳng về phía cậu vừa văng tới!",
+    "{player}: Oáaaa! Thế này thì khác quái gì nhồi bóng rổ đâu cơ chứưư!"
+  ],
+  "arkhaia_city.boss8.ready": [
+    "{player}: Cứ đà này thì có bao nhiêu mạng cũng chẳng đủ. Nếu không tập trung tối đa vào việc né đòn thì tuyệt đối không có cửa thắng! Nhưng đồng thời cũng phải tìm sơ hở để tấn công nữa...",
+    "Dù vẫn chưa nắm bắt được quy luật hành động của con quái vật, {player} vẫn nắm chặt vũ khí vào thế thủ!",
+    "{player}: Chẳng biết mày là con quái vật phương nào, nhưng ông đây chơi tới bến với mày luôn! Hựaaaa!!"
+  ],
+  "arkhaia_city.boss8.alive": [
+    "{player}: Hạ được nó... rồi sao.",
+    "!",
+    "Nó vẫn còn sống!"
+  ],
+  "arkhaia_city.boss8.gaze": [
+    "Đúng lúc ấy, đôi mắt vốn đang hung tợn dữ dằn của con quái vật bỗng lặng lẽ nhìn chăm chú vào {player}.",
+    "Ánh mắt ấy lúc này lại hiền hòa đến lạ thường.",
+    "{player}: Sao thế? Nếu mày có điều gì muốn trối trăn thì cứ nói đi. Đằng nào mày cũng sắp chết rồi."
+  ],
+  "arkhaia_city.boss8.key": [
+    "{player}: Cái gì đây?",
+    "Con quái vật thả một chiếc chìa khóa nhỏ xuống mặt đất, chờ đến khi thấy {player} nhặt nó lên rồi mới thanh thản tan biến đi.",
+    "{player}: Ý mày là muốn tao giữ lấy chiếc chìa khóa này ư?",
+    "Dù sao đi nữa, {player} cũng cẩn thận cất chiếc chìa khóa đó vào người."
+  ],
+  "arkhaia_city.boss8.backstory": [
+    "Cùng lúc đó, tại Dinh thự Tà Ác...",
+    "Yamijin: Không thể nào...",
+    "Làm sao có chuyện hoang đường như thế được...",
+    "Megasaurus. Cách đây hơn một trăm triệu năm về trước, đó từng là sinh vật hung bạo nhất, sở hữu sức mạnh vô song tựa như một vị thần của loài khủng long trên thế giới.",
+    "Và rồi Yamijin đã tình cờ phát hiện ra hóa thạch của chính con Megasaurus đó.",
+    "Vốn đang nghiên cứu kỹ thuật phục hồi tế bào và cơ thể khủng long từ hóa thạch vào thời điểm ấy, Yamijin lập tức mang mẫu hóa thạch về căn cứ và tiến hành hàng loạt thí nghiệm.",
+    "Kết quả là cuộc thí nghiệm đã thành công mỹ mãn.",
+    "Khi tái tạo lại cơ thể nó, Yamijin đã cố tình loại bỏ hoàn toàn phần tâm trí và ký ức cũ nhằm dễ dàng thao túng nó theo ý muốn của mình.",
+    "Kể từ giây phút đó, Megasaurus đã rơi vào tay của Yamijin...",
+    "Yamijin đã giao phó chiếc chìa khóa mở căn phòng chứa thông tin tuyệt mật của mình cho Megasaurus giữ, đồng thời lập trình tâm trí nó để dù có bất cứ chuyện gì xảy ra cũng tuyệt đối không giao chìa khóa cho ai khác ngoài hắn. Hắn cho rằng dù tự mình cất giữ cẩn thận đến mấy thì vẫn sẽ có sơ hở, còn giao cho một sinh vật mang sức mạnh vô địch như Megasaurus thì sẽ an toàn tuyệt đối.",
+    "Yamijin đã tin tưởng một cách mù quáng rằng Megasaurus là bất khả chiến bại.",
+    "Ngoài ra, hắn còn chế tạo thêm những loại vũ khí có thể sản xuất hàng loạt như Grand Cruiser hay Slime Khổng Lồ.",
+    "Thế nhưng sau khi cỗ máy thế hệ tiếp theo là Grand Cruiser II bị {player} đánh bại, Yamijin đã quyết định tung Megasaurus ra để nghiền nát {player}.",
+    "Vậy mà {player} lại tiêu diệt luôn cả Megasaurus.",
+    "Thành quả tâm huyết cả đời của hắn đã bị {player} xóa sổ hoàn toàn.",
+    "Mọi chuyện thậm chí còn tồi tệ hơn thế nữa.",
+    "Trong quá trình giao chiến với {player}, Megasaurus đã lấy lại được trái tim thật sự của chính nó.",
+    "Và rồi nó đã tự nguyện trao lại chiếc chìa khóa cho {player}.",
+    "Kế hoạch của Yamijin bắt đầu sụp đổ từng mảng.",
+    "Hậu quả của việc bị đoạt mất chiếc chìa khóa ấy đối với Yamijin là quá đỗi nặng nề.",
+    "Yamijin: Khốn kiếp! Đã đến nước này thì chỉ còn cách tự tay ta trực tiếp nghiền nát hắn mà thôi..."
+  ],
+  "arkhaia_city.boss8.truth_moves": "Chân tướng của câu chuyện đã bắt đầu chuyển mình. Chầm chậm, từng chút một...",
+  "arkhaia_city.punishment_room": "Phòng. Trừng. Phạt.",
+  "arkhaia_city.traveller": "Lữ khách: Hôm nay chúng ta nghỉ chân ở quanh đây thôi. Nhỉ, Jade.",
+  "arkhaia_city.chest": "Đây có vẻ là một chiếc tủ quần áo. Tuy nhiên bên trong chẳng có món đồ nào cần thiết cho cuộc phiêu lưu cả.",
+  "arkhaia_city.vase": "Trong bình hoa có cắm những bông hoa tươi thắm. Đẹp thật đấy.",
+  "arkhaia_city.table": "Đây có vẻ là chiếc bàn ăn cơm. Tuy nhiên bên trên chẳng để thứ gì cần thiết cho cuộc phiêu lưu cả.",
+  "arkhaia_city.trophy": "Một chiếc cúp kỷ niệm gì đó. Hình như là phần thưởng mà đứa trẻ trong nhà đã giành được ở một cuộc thi nào đó, trông vô cùng danh giá.",
+  "arkhaia_city.figure": [
+    "Ồ? Có một chiếc Mô hình Nhóc Quậy đặt ở đây kìa.",
+    "Đứa trẻ 1: À, cái đó em quay trúng ở máy quay trứng Gachapon đấy, nhưng thứ em muốn cơ là Mô hình Tiểu Quỷ nên anh cứ lấy cái đó đi cũng được. Coi như món quà kỷ niệm chuyến ghé thăm ngôi nhà này nhé.",
+    "{player}: Ủa, thật hả? Cảm ơn em nhiều nha."
+  ],
+  "arkhaia_city.person8": "Người 2: Hôm nay tôi đang định tới Bách hóa Arkhaia để ăn cơm đây. Món kem ở chỗ đó ngon tuyệt cú mèo luôn ấy.",
+  "arkhaia_city.person9": "Người 2: Đừng có hỏi tại sao trong Bách hóa Arkhaia lại bày bán cả vũ khí nhé. Vì đây là thế giới trong game cơ mà.",
+  "arkhaia_city.person10": "Người 3: Chà, hôm nay thời tiết đẹp tuyệt vời nhỉ!",
+  "arkhaia_city.person11": "Người 4: Hả? Rõ ràng đã hẹn gặp nhau ở đúng chỗ này rồi mà giờ nó trễ hẹn tận 30 phút luôn rồi, không biết cái đầu nó đang nghĩ cái quái gì nữa không biết.",
+  "arkhaia_city.security_robot": "Có vẻ như đây là một cỗ máy tuần tra an ninh. Nghe nói hễ có ai làm chuyện xấu là nó sẽ lập tức truyền thông tin báo về đồn cảnh sát. Hiện đại xịn sò thật đấy.",
+  "arkhaia_city.flowerbed.look": "Một bồn hoa bình thường. Có vẻ như ở đại đô thị này thiên nhiên vẫn rất được trân trọng chăm chút.",
+  "arkhaia_city.flowerbed.prompt": "Bạn có muốn thử bới tung bồn hoa lên tìm đồ không?",
+  "arkhaia_city.flowerbed.nothing": "Thế nhưng hình như chẳng có món đồ khác lạ nào rơi ở trong đó cả.",
+  "arkhaia_city.flowerbed.found": "Ồ? Có một Quả Sabon rơi ở trong này kìa. Đằng nào cũng thấy rồi nên nhặt luôn thôi.",
+  "arkhaia_city.person14": "Đứa trẻ 1: Bông hoa ở đằng kia đẹp quá đi mất. Tự dưng muốn ngắt mang về nhà cắm ghê.",
+  "arkhaia_city.person15": "Đứa trẻ 2: Oáp... Đói bụng quá đi mất.",
+  "arkhaia_city.person16": "Chủ nhà 1: Xin chào. Hiện giờ bọn trẻ nhà tôi đều ra ngoài chơi cả rồi. Nếu cậu đang rảnh rỗi thì hãy vào chơi đùa với bé mèo nhà tôi cho vui nhé.",
+  "arkhaia_city.person17": "Chủ nhà 2: Hôm nay tôi được nghỉ làm. Bình thường chẳng mấy khi có thời gian rảnh để ở bên vợ thong thả thế này nên tôi muốn trân trọng từng giây phút. À tất nhiên là cả với sắp nhỏ nữa.",
+  "arkhaia_city.person18": "Chủ nhà: Này cậu biết không, hiện giờ tôi đang uống loại Nước cốt Sesamin Siêu cấp đặt mua trên chương trình mua sắm truyền hình đấy. Nghe quảng cáo bảo uống thứ này vào vừa giảm cân lại vừa trẻ hóa cơ thể đấy nhé. Năm nay tôi cũng đã bước sang tuổi 83 rồi, không trông cậy vào mấy thứ thực phẩm chức năng thế này thì chẳng trụ nổi đâu. Dù có già đi chăng nữa thì tâm hồn và thể xác vẫn cứ muốn mãi trẻ trung mà.",
+  "arkhaia_city.person19": "Chủ nhà 1: Chồng tôi hiện đang đi làm ở bên Thành phố Pha Lê đấy ạ.",
+  "arkhaia_city.person21": "Đứa trẻ 2: Anh trai của em thích kết bạn chơi đùa với đủ mọi người lắm đấy. Nhờ vậy mà anh ấy được tất cả mọi người yêu quý luôn. Người ta gọi thế là hòa đồng thân thiện đấy nhỉ.",
+  "arkhaia_city.person22": "Chủ nhà 1: Hai vợ chồng già chúng tôi cũng đã có tuổi cả rồi. Con cái đều đã trưởng thành và ra ở riêng từ lâu, thành ra hai thân già ở lại căn nhà này buồn tẻ cô quạnh không để đâu cho hết. Vì buồn quá nên chúng tôi mới nuôi một chú mèo làm bầu bạn. Nếu cậu thích thì hãy vuốt ve cưng nựng nó một chút nhé.",
+  "arkhaia_city.person23": "Chủ nhà 2: Hồi còn trẻ, tôi hay dẫn lũ trẻ đi dạo khắp vùng ngoại ô thị trấn rồi cùng nhau trải nghiệm đủ thứ chuyện trên đời. Chuyện đi biển hay leo núi chắc cũng phải tới hàng trăm lần rồi ấy chứ. Được tự mình trải nghiệm thực tế là điều vô cùng quan trọng mà. Chỉ mong sao lũ trẻ giờ đây đều đang sống một cuộc đời đàng hoàng và ngập tràn niềm vui.",
+  "arkhaia_city.person24": "Chủ nhà 1: Hai vợ chồng chúng tôi vừa mới tổ chức đám cưới cách đây đúng ba ngày thôi đấy. Tôi mong sẽ cùng người vợ đáng yêu của mình xây dựng một tổ ấm thật hạnh phúc thuận hòa.",
+  "arkhaia_city.person25": "Chủ nhà 2: Chúng tôi vừa mới kết hôn cách đây ba ngày thôi đấy!! Thế giới chỉ có hai vợ chồng bên nhau! Hạnh phúc quá đi mất thôi!!",
+  "arkhaia_city.store_fan.intro": "Người dân: Ở đây có trung tâm Bách hóa Arkhaia nổi tiếng đấy. Từ khu trò chơi điện tử cho tới đủ thứ trên đời đều được nhồi chật cứng trong tòa nhà đó cả. Đỉnh của chóp chưa nào.",
+  "arkhaia_city.store_fan.gift": [
+    "À phải rồi. Trong Bách hóa Arkhaia có bán nhiều món đồ lưu niệm sành điệu lắm đấy. Để tôi tặng cho cậu một món làm quà nhé.",
+    "{player}: Ôi, cháu xin cảm ơn nhiều ạ.",
+    "Người dân: Dặn trước cho mà biết nhé, món đồ này nằm trong mục Vật phẩm sưu tầm đấy. Đừng có tìm nhầm chỗ nha."
+  ],
+  "arkhaia_city.sword.time_back": [
+    "Thương nhân: Tuyệt quá, thành công thật rồi! Có vẻ như thời gian trong thành phố đã quay trở lại bình thường rồi. Thế này thì tôi cũng có thể bước vào trong buôn bán được rồi nhỉ.",
+    "{player}: Mừng quá anh nhỉ! Vậy chúng ta mau vào trong ngay thôi nào!",
+    "Em cũng muốn vào trong thành phố nên phiền anh nhường đường một chút nhé.",
+    "Thương nhân: À, xin lỗi cậu nhé. Vậy tôi xin phép đi trước đây."
+  ],
+  "arkhaia_city.sword.found": "Ồ? Có một người thương nhân đang đứng ở đây kìa.",
+  "arkhaia_city.sword.meet": [
+    "Thương nhân: Xin chào.",
+    "{player}: À, em chào anh ạ.",
+    "Thương nhân: Tôi vốn là thương nhân tới Thành phố Arkhaia này để bán vũ khí chống lại đám quái vật bên ngoài, thế nhưng...",
+    "{player}: Bộ đang có trục trặc gì xảy ra sao anh?",
+    "Thương nhân: Cậu nhìn xem kìa. Từ chỗ này trở vào trong, hình như thời gian đã hoàn toàn bị ngưng đọng lại rồi.",
+    "Khu quảng trường ở đằng kia thì có vẻ không bị ngưng đọng thời gian. Mấy người tụ tập ở chỗ đó nghe nói suốt ngày ra ngoài nằm phơi nắng nên chẳng biết họ có nhận ra điều bất thường này không nữa?"
+  ],
+  "arkhaia_city.sword.frozen": [
+    "{player}: Cái gì cơơơ!",
+    "Đ-đ-đúng thật kìa... Tất cả mọi người đều đứng bất động như tượng đá, chẳng ai nhúc nhích lấy một ly...!!",
+    "R-rốt cuộc chuyện quái gì đang xảy ra thế này ạ? Xin anh hãy cho em biết đi!",
+    "Thương nhân: Thứ lỗi cho tôi nhé. Chính bản thân tôi cũng không tài nào hiểu nổi.",
+    "{player}: Anh đoán đại lý do gì cũng được mà! Chẳng hạn như trúng phải phép thuật tà ác nào đó, hay tại trời mãi chẳng chịu mưa nên ai nấy đều khát khô cả cổ họng rồi đứng chết trân ra đấy chẳng hạn!",
+    "Thương nhân: (Đang phải cố hết sức bình sinh để nhịn cười)",
+    "Thương nhân: Hãy bình tĩnh lại đi nào. Dù sao thì có một điều chắc chắn là một biến cố dị thường nào đó đang xảy ra ở nơi này.",
+    "{player}: Vậy để em thử bước vào bên trong đó xem sao. Xin anh đừng ngăn cản em, làm ơn đấy ạ!"
+  ],
+  "arkhaia_city.sword.thrown": [
+    "{player}: Áaaaa!",
+    "Thương nhân: Ái chà đau đấyyy! Đừng có bay vèo tới đập thẳng vào người tôi như thế chứ.",
+    "Hửm? Kỳ lạ thật đấy. Rõ ràng cổng thành nằm ở tận đằng kia, thế mà cậu lại bị đánh bật từ chỗ đó văng tới tận đây thì chắc chắn có gì đó rất bất thường.",
+    "Khoảng cách từ đó tới đây ít nhất cũng phải hơn 5 mét chứ chẳng ít.",
+    "Này cậu, cậu có sao không đấy!",
+    "{player}: Huhu... Không ổn chút nào đâu ạ... Va đập đau điếng cả người luôn...",
+    "Thương nhân: Gay go thật đấy nhỉ. Cứ không thể vào được trong thành phố thế này thì tôi cũng chẳng buôn bán làm ăn gì được.",
+    "À phải rồi. Tôi tặng cho cậu mấy viên Mảnh Ánh Sáng còn tồn lại từ hôm qua này. Đằng nào không vào được thành phố thì giữ lại cũng chẳng bán cho ai được.",
+    "{player}: Em nhận thế này có tiện không ạ?",
+    "Thương nhân: Ừ, cứ cầm lấy đi.",
+    "{player}: Em cảm ơn anh nhiều lắm. Em vô cùng biết ơn anh ạ."
+  ],
+  "arkhaia_city.sword.shards": [
+    "{player}: Vết thương vừa nãy đau rát quá nên anh cho phép em dùng luôn 1 viên ngay tại đây nhé. Em thật lòng cảm ơn anh nhiều lắm.",
+    "Thương nhân: Cũng phải thôi, vết thương nặng thế kia thì dù có ăn thức ăn thông thường chắc cũng chẳng thể lành ngay được."
+  ],
+  "arkhaia_city.sword.offer": [
+    "{player}: Khỏe cả người ra rồiii!",
+    "{player}: Cảm ơn anh nhiều lắm ạ. Anh đã cứu em một bàn thua trông thấy.",
+    "Thương nhân: Cậu hồi phục được là tốt rồi.",
+    "À mà nhân tiện chuyển sang chuyện khác một chút nhé.",
+    "{player}: Chuyện gì thế anh?",
+    "Thương nhân: Món đồ này thì tôi phải tính tiền đàng hoàng chứ không tặng không được đâu nhé.",
+    "Vừa nói, người thương nhân vừa đưa một thanh kiếm dài sáng lấp lánh ánh bạc ra trước mặt {player}.",
+    "Đây là Kiếm Dài. Nó được chế tạo bằng cách cải tiến từ Kiếm Ngắn, vẫn giữ nguyên sự linh hoạt dễ sử dụng của Kiếm Ngắn nhưng phần lưỡi kiếm được rèn dài thêm khoảng 2 mét. Nói ngắn gọn thì cậu cứ hiểu đây là phiên bản kéo dài của thanh Kiếm Ngắn là được.",
+    "Ở vùng quanh đây, thanh kiếm này được đánh giá là cực kỳ hữu dụng đấy.",
+    "{player}: Anh có thể bán thanh kiếm đó cho em được không ạ?",
+    "Thương nhân: Chỉ cần cậu có đủ tiền thì lúc nào tôi cũng sẵn lòng. Giá của nó là 4500 yên đấy."
+  ],
+  "arkhaia_city.sword.offer_no_money": [
+    "{player}: Ôi... Hiện giờ em không mang đủ ngần ấy tiền rồi ạ.",
+    "Thương nhân: Vậy à. Thế thì cứ khi nào tích góp đủ tiền, cậu quay lại đây bắt chuyện là tôi sẽ bán cho nhé.",
+    "{player}: Vâng, nhất định em sẽ quay lại mua ạ."
+  ],
+  "arkhaia_city.sword.offer_buy": [
+    "{player}: Em mua thanh kiếm này ạ.",
+    "Thương nhân: Được thôi.",
+    "{player}: Vâng, gửi anh đủ 4500 yên đây ạ."
+  ],
+  "arkhaia_city.sword.offer_bought": [
+    "Thương nhân: Tôi đã nhận đủ tiền rồi nhé. Nào, cậu hãy cầm lấy thanh kiếm đi.",
+    "{player}: Em cảm ơn anh nhiều lắm ạ."
+  ],
+  "arkhaia_city.sword.take_care": "Thương nhân: Đi đường nhớ giữ gìn cẩn thận đấy nhé.",
+  "arkhaia_city.sword.buy_prompt": "Bạn có muốn mua thanh Kiếm Dài không?",
+  "arkhaia_city.sword.no_money": "Bạn không có đủ tiền.",
+  "arkhaia_city.person1.lines": [
+    "Ở thành phố này ấy à, không phải bậc đại gia lắm tiền nhiều của thì đừng hòng đặt chân vào sinh sống nhé cưng. Ô hô hô hô hô!",
+    "Bổn phu nhân đang sống trong một tòa biệt thự cao tới 4 tầng đấy nhé. Nghe mà ghen tị đỏ mắt luôn đúng không?",
+    "Bữa nào bổn phu nhân cũng toàn thưởng thức sơn hào hải vị thượng hạng cả đấy nhé. Ô hô hô hô hô!",
+    "Trông ta xinh đẹp lộng lẫy lắm đúng không nào?",
+    "Bộ váy đầm này trông đáng yêu hết nấc đúng không?"
+  ],
+  "arkhaia_city.person1.says": "Người 1: {line}",
+  "arkhaia_city.person2.lines": [
+    "Bà cô đứng bên cạnh đang làm màu ra vẻ sang chảnh nên nổ hơi quá đà đấy. Bà ta chẳng nói câu nào thật thà đâu nên cậu đừng có tin sái cổ nhé. Đúng là nhà bà ta rộng thật, nhưng thực tế chỉ có 3 tầng thôi chứ làm gì tới 4 tầng.",
+    "Nóng quá, nóng chảy mỡ ra mất. Cả cái thành phố này chỗ nào cũng đổ bê tông kín mít nên hầm hập như cái lò bát quái. Chỉ ước được về vùng quê mát mẻ sống thôi.",
+    "Trong thành phố này có đủ các cửa hàng buôn bán nhộn nhịp, cậu cứ dạo một vòng xem thử đi. Nếu thiếu tiền tiêu xài thì cứ ra ngoài thành phố đập mấy con quái vật đang lượn lờ ngoài đó là kiếm được bộn tiền ngay.",
+    "Dạo gần đây bên ngoài thành phố xuất hiện nhiều thứ nguy hiểm quá đi mất. Mấy tên Nhóc Quậy hay đám Rồng vốn dĩ trước kia chỉ sống trên núi cao thôi đấy. Cả lũ Slime hay bất cứ con gì cũng thế. Ngay cả đám Dơi trước đây cũng đâu có hung hăng lao vào cắn người như vậy. Chắc chắn đang có chuyện gì đó rất bất thường.",
+    "Ở thành phố này lực lượng cảnh sát tuần tra canh gác nghiêm ngặt lắm, cậu nên cẩn thận giữ mình thì hơn. Hễ rút mấy thứ vũ khí giết người ra giữa đường giữa chợ là bị còng đầu tống giam ngay tức khắc đấy."
+  ],
+  "arkhaia_city.person2.says": "Người 2: {line}",
+  "arkhaia_city.lady.gift": [
+    "Tiểu thư: Này, cậu trai ở đằng kia ơi?",
+    "{player}: D-dạ có chuyện gì thế ạ?",
+    "Tiểu thư: Sống ở thành phố này tốn kém tiền bạc lắm đấy. Cậu cũng nhận ra điều đó rồi phải không?",
+    "{player}: Dạ đúng là thế thật ạ.",
+    "Tiểu thư: Sở thích của tôi là đem tiền đi tặng cho người khác đấy. Hiện giờ trong người cậu đang có bao nhiêu tiền?",
+    "{player}: Dạ chắc khoảng chừng {money} yên gì đó ạ?",
+    "Tiểu thư: Chà, thế à. Vậy tôi tặng cho cậu chỗ này nhé.",
+    "{player}: Hảaaa, tiểu thư cho em thật đấy ạaa?",
+    "Tiểu thư: Suỵt, đừng có la lớn tiếng thế chứ. Cảnh sát đang đứng canh gác ở ngay đằng kia kìa.",
+    "{player}: Á, d-dạ em xin cảm ơn tiểu thư nhiều lắm ạ."
+  ],
+  "arkhaia_city.lady.got": "Không ngờ lại được tặng không tới tận 1000 yên!",
+  "arkhaia_city.lady.later": "Tiểu thư: Nhớ tiêu xài số tiền đó cho thật có ích đấy nhé.",
+  "arkhaia_city.police.lines": [
+    "Chúng tôi đang ngày đêm bảo vệ trật tự trị an cho đại đô thị này. Bất cứ kẻ nào dám làm chuyện phi pháp đều sẽ bị bắt giữ và tống thẳng vào nhà tù, vì vậy hãy hết sức cẩn thận lời ăn tiếng nói và hành vi của mình.",
+    "Chúng tôi luôn duy trì chế độ tuần tra canh gác ở mức nghiêm ngặt nhất. Hễ có bất kỳ biến động nào xảy ra, chúng tôi sẽ thẳng tay trấn áp không chút khoan nhượng bằng mọi giá.",
+    "Này cậu kia, trông cậu có vẻ là người từ nơi khác mới tới, nhưng nếu dám gây rối ở đây là tôi nổ súng ngay đấy nhé.",
+    "Chúng tôi lúc nào cũng tận tụy bảo vệ sự bình yên cho đường phố. Lẽ ra người dân phải luôn biết ơn sự hiện diện của chúng tôi mới phải.",
+    "Chúng tôi luôn hết lòng cống hiến vì người dân thành phố. Bởi vậy người dân cần phải kính trọng và tôn sùng chúng tôi hết mực."
+  ],
+  "arkhaia_city.police.says": "Cảnh sát: {line}",
+  "arkhaia_city.phantom.police": "Cảnh sát: Ồ? Nhà ngươi chẳng phải là... Hư hư hư hư.",
+  "arkhaia_city.phantom.suspicious": "Sao nghe có mùi khả nghi thế nhỉ?",
+  "arkhaia_city.phantom.where": [
+    "{player}: Hửm? Đây là đâu thế này? Oá!",
+    "C-cái cảnh tượng quái quỷ gì thế kiaaa!?",
+    "Rốt cuộc thứ đang hiện ra ở đằng kia là cái gì vậy?"
+  ],
+  "arkhaia_city.phantom.no_way": "Kh-không thể nào...",
+  "arkhaia_city.phantom.screams": [
+    "Người bạn 1: Áaaaa! C-cứu... tớ với...",
+    "Người bạn 2: Áaaa!",
+    "Người bạn 3: Hự... T-tên khốn... Sao mày... dám..."
+  ],
+  "arkhaia_city.phantom.vision": [
+    "Đúng vậy. Cảnh tượng đang diễn ra trước mắt {player} chính là hình ảnh những người bạn thân thiết của cậu đang bị Yamijin và cỗ máy Grand Cruiser chém xé tơi tả.",
+    "Nhóm bạn thổ huyết gục ngã xuống mặt đất. Thế nhưng tên Yamijin vẫn vừa ngửa cổ cười sằng sặc man rợ, vừa tiếp tục vung kiếm chém xuống cơ thể đã tả tơi đầy thương tích của họ.",
+    "Lưỡi kiếm nhuộm đỏ thẫm máu tươi, lao vào cắn xé nhóm bạn chẳng khác nào một con quái thú khát máu đang ngấu nghiến sinh mạng con người."
+  ],
+  "arkhaia_city.phantom.despair": [
+    "{player}: Kh-không thể nào... Tại sao, tại sao lại ra nông nỗi này...",
+    "Mọi người đã hứa là sẽ bình an ở nhà đợi tớ trở về cơ mà...",
+    "Làm ơn đi mà. Hãy nói với tớ tất cả chỉ là lời nói dối thôi đi...!",
+    "Thế nhưng lời cầu nguyện tuyệt vọng ấy đã chẳng thể nào chạm tới."
+  ],
+  "arkhaia_city.phantom.stop": [
+    "{player}: D... dừng lại đi mà! Đau đớn lắm... Đau lòng lắm... Khổ sở lắm rồi..."
+  ],
+  "arkhaia_city.phantom.gone": [
+    "Vừa dứt lời, ảo ảnh kinh hoàng mà {player} nhìn thấy cho tới tận giây phút vừa rồi bỗng nhiên tan biến đi đâu mất.",
+    "Và kỳ lạ hơn nữa, viên cảnh sát đứng ngay trước mặt cậu ban nãy cũng đã biến mất không còn tăm hơi.",
+    "Thì ra viên cảnh sát đó chính là một ảo ảnh do tên Yamijin tạo ra.",
+    "{player}: Dù sao đi nữa, mình phải tự mắt kiểm chứng sự thật ngay lập tức. Phải mau quay trở về nhà thôi!",
+    "Thế là {player} tức tốc quay trở về ngôi nhà của mình."
+  ],
+  "arkhaia_city.child1.lines": [
+    "Chú cảnh sát đứng ở đằng kia bị mắc bệnh tự luyến nặng hay sao ấy nhỉ.",
+    "Chán quá điii.",
+    "Cô đứng ở đằng kia sao ra đường đi dạo mà lại diện nguyên bộ váy đầm dạ hội lộng lẫy thế không biết?",
+    "Ôi, trời nóng quá đi mất. Nước trong bình mang theo chỉ còn lại đúng một nửa thôi.",
+    "Giờ làm trò gì cho đỡ buồn đây nhỉ?"
+  ],
+  "arkhaia_city.child1.says": "Đứa trẻ 1: {line}",
+  "arkhaia_city.girl.lines": [
+    "Ối giời ơiii, ông cảnh sát đứng đằng kia trông quê mùa xấu xí kinh khủng. Vừa gớm ghiếc vừa béo ị, nhìn cái bản mặt thôi là đã thấy ghét cay ghét đắng rồi, tởm lợm hết sức luôn ấyyy!",
+    "Trời đất ơiii! Rảnh rỗi chán đời quá đi mấttt!",
+    "Ủa khoan hahaha! Ông cảnh sát kia ảo ma thật sự hahaha! Cười xỉu luôn hahaha! À không, toang thật rồi hahaha!!!!!!!!!!!",
+    "Tui đây là tín đồ cuồng sốt mayonnaise chính hiệu nhé. Cực kỳ mê mẩn mút sốt mayonnaise nguyên chất luôn!!!!!!!!!!!!!",
+    "Nóng chảy mỡ luôn trờiii! Cái thời tiết nóng bức dị thường gì thế này hahaha! Giá mà ngoài đường cũng lắp sẵn máy điều hòa thì tốt biết mấy..."
+  ],
+  "arkhaia_city.girl.says": "Cô gái nhuộm tóc nâu vàng?: {line}",
+  "arkhaia_city.gate.entrance": "Đây là lối vào Thành phố Arkhaia."
+}

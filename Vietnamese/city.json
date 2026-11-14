@@ -1,0 +1,186 @@
+{
+  "city.manhole.vanished": "Á! Cái hố ga đã biến mất tiêu rồi. Rốt cuộc chuyện gì vừa mới xảy ra vậy nhỉ...?",
+  "city.manhole.ask": "Từ chỗ này trở đi chắc sẽ không dễ gì rút lui được đâu. Bạn đã chuẩn bị sẵn sàng chưa?",
+  "city.manhole.warp": [
+    "{player}: Áaaa!",
+    "Hình như vừa bị dịch chuyển tới một nơi kỳ quái nào đó rồi. Căn cứ của Yamijin chăng?",
+    "Trước mắt cứ thử tiến lên xem sao đã.",
+    "Thế là {player} quyết định bước tiếp về phía trước."
+  ],
+  "city.mother.hopeful": "Cảnh sát vừa liên lạc báo rằng đã tìm ra manh mối nơi con tôi có thể đang bị giam giữ rồiii! Tôi sẽ vững tin và chờ đợi con về, phải tin tưởng thì mọi chuyện mới bắt đầu được chứ!",
+  "city.mother.panic": "Chủ nhà: Phải làm sao đây, làm sao đây, làm sao đây làm sao đây làm sao đâyyyy! C-con của tôi mãi vẫn chưa thấy về nhàaa! Tôi phải làm sao bây giờ, xin hãy cứu lấy con tôi, bảo tôi làm gì tôi cũng làm hết, tôi van xin cậu đấy!",
+  "city.mother.thanks": "Chủ nhà: Thật lòng cảm ơn cậu nhiều lắm. Tôi hạnh phúc lắm.",
+  "city.mother.gift": [
+    "Món này tuy chẳng đáng là bao, nhưng xin cậu hãy nhận lấy.",
+    "Đã nhận được Nấm Matsutake"
+  ],
+  "city.boss3.intro": [
+    "Chủ nhà: C-cái gì thế kia!?",
+    "{player}: M-mày là!",
+    "Yamijin: Khư hứ hứ hứ hứưư! Tìm thấy rồiii nhé.",
+    "Nào, ta xin nhận hết chỗ đồ ăn này nyan. Khư hứ hứ hứ hứưư!",
+    "{player}: Dừng lại ngay!",
+    "Chủ nhà: Đ-đó là! Đó là cái tủ đựng lương thực của nhà tôi mà!",
+    "Yamijin: Ta sẽ bê nguyên cả cái tủ này đi luôn nyan."
+  ],
+  "city.boss3.wait": "{player}: Ê tên kiaaa! Đứng lại ngayyy!",
+  "city.boss3.chase": "Nào, Yamijin đang cắm đầu bỏ chạy một mạch về phía bên phải. Hãy đuổi theo sát nút để không bị mất dấu hắn. Nếu để mất dấu là coi như xong đời đấy. Cơ hội chỉ có một lần duy nhất thôi. Mau đuổi theo Yamijin!",
+  "city.boss3.lost": "Oá! Để mất dấu hắn mất rồi!",
+  "city.boss3.escaped": [
+    "Yamijin đã dịch chuyển đi đâu đó qua một cái hố ga có vẽ hoa văn kỳ bí!",
+    "Cái hố ga đó hình như là thứ do Yamijin tạo ra, chỉ cần bước lên trên là sẽ dịch chuyển tới một nơi nào đó.",
+    "Thế nhưng {player} lúc này vẫn chưa đủ dũng khí để bước lên cái hố ga ấy. Bởi lẽ chẳng biết sẽ bị tống đi tận đâu, mà cũng chẳng biết có quay về được hay không nữa.",
+    "Trước mắt, {player} quyết định gọi điện thoại cho viên cảnh sát đã gặp ở công viên."
+  ],
+  "city.boss3.call": [
+    "Cảnh sát: Alo, có chuyện gì thế?",
+    "{player}: Dạ, vừa nãy khi cháu tới một ngôi nhà gần công viên thì tên Yamijin hôm trước lại xuất hiện ạ.",
+    "Cảnh sát: Thật sao! Hiện giờ hắn còn ở đó không?",
+    "{player}: Dạ không còn nữa ạ. Sau khi cướp sạch lương thực của ngôi nhà đó, tên Yamijin đã bỏ chạy. Cháu đuổi theo suốt dọc đường thì thấy hắn dịch chuyển đi đâu mất qua một cái hố ga bí ẩn rồi ạ.",
+    "Cảnh sát: Ra vậy. Thế thì cậu hãy quay lại công viên một chuyến đi. Tới gặp tôi rồi kể lại thật chi tiết nhé. Tôi vẫn đang đợi ở chỗ cũ đấy.",
+    "{player}: Cháu hiểu rồi ạ. Cháu sẽ tới ngay.",
+    "Thế là {player} đã phát hiện được một chút manh mối về Yamijin. Hãy tìm đến chỗ viên cảnh sát thôi nào."
+  ],
+  "city.police.leaving": "Cảnh sát: Cậu tới rồi đấy à. Chúng ta lên đường ngay thôi.",
+  "city.police.later": "Cảnh sát: Nếu có chuyện gì xảy ra thì nhớ liên lạc ngay cho tôi đấy nhé.",
+  "city.police.talk1": [
+    "Cảnh sát: Chúng tôi đang điều tra vụ án tên Yamijin gây ra vừa rồi. Dù đã tìm thấy vết máu vương vãi khắp công viên, nhưng tất cả đều trùng khớp với ADN của những nạn nhân bị chém. Do đó, nhiều khả năng hung thủ hoàn toàn chưa hề bị thương tích gì. Cậu có còn nhớ thêm chi tiết nào khác không? Nếu được thì hãy hợp tác giúp chúng tôi nhé.",
+    "{player}: Thật ra lúc vụ án đó xảy ra, cháu cũng đang có mặt ở công viên ạ. Nếu có việc gì cháu giúp sức được thì chú cứ nói nhé!",
+    "Cảnh sát: Thật vậy sao. Vậy phiền cậu hãy kể lại chuyện lúc vụ án xảy ra càng chi tiết càng tốt nhé."
+  ],
+  "city.police.talk2": [
+    "{player}: Lúc đó, khi bọn trẻ đang vui đùa rất hồn nhiên thì đột nhiên có một tiếng cười kỳ quái vang lên ạ.",
+    "Nghe như kiểu: Khư hứ hứ hứ hứưư! ấy ạ.",
+    "Rồi bất thình lình hắn lảm nhảm cái gì mà hết sạch đồ ăn rồi, xong lao vào chém một đứa trẻ. Vừa cười sằng sặc, hắn vừa chém gục hết những người xung quanh rồi bắt cóc một đứa trẻ mang đi mất ạ.",
+    "Cháu định đuổi theo thì bị một con Slime kỳ dị do hắn để lại lao vào tấn công. Dù cháu đã cố sức tiêu diệt được nó, nhưng trong lúc cháu còn đang đánh nhau với nó thì tên Yamijin đã cao chạy xa bay mất rồi ạ."
+  ],
+  "city.police.talk3": [
+    "Cảnh sát: Hửm? Cậu vừa mới nhắc tới chuyện hết sạch đồ ăn đúng không?",
+    "{player}: Vâng ạ.",
+    "Cảnh sát: Dạo gần đây, vì lý do tương tự mà các vụ con người chém giết lẫn nhau hay quái vật tập kích đang xảy ra liên miên. Cụ thể là có những ngôi nhà bị quái vật tấn công, hay có kẻ cướp tiền của người đi đường rồi chạy vào siêu thị vét sạch lương thực và bị bắt giữ. Nghe nói ngay cả cái siêu thị đó cũng thường xuyên bị hàng đàn quái vật tràn vào.",
+    "{player}: Trước đó cháu cũng từng chứng kiến chuyện tương tự ở một ngôi nhà gần đây ạ. Một tên nhóc hung hãn đã xông vào tấn công, may mà cháu đánh đuổi được hắn. Chẳng lẽ hàng loạt sự việc bất thường gần đây cho thấy có điều gì đó đang biến đổi ở một nơi nào đó sao ạ?",
+    "Cảnh sát: Rốt cuộc tên Yamijin bắt cóc đứa trẻ nhằm mục đích gì, và tại sao những rắc rối kiểu này gần đây lại bùng phát dữ dội đến thế thì chúng tôi vẫn hoàn toàn mù tịt. Chỉ có một điều chắc chắn là chuỗi sự kiện này có khả năng rất cao liên quan mật thiết với nhau.",
+    "{player}: Thật ra hiện giờ cháu đang trên đường du hành để ngăn chặn những rắc rối gần đây ạ. Vì vậy, nhất định cháu sẽ tìm ra nguyên nhân gốc rễ, xin hãy để cháu cùng hợp tác nhé.",
+    "Cảnh sát: Được thế thì quý hóa quá. Hễ có phát hiện gì mới thì cứ liên lạc vào số này cho tôi nhé. Tôi sẽ bắt máy ngay.",
+    "{player}: Cháu hiểu rồi ạ. Nhất định cháu sẽ tìm ra câu trả lời thật sự!",
+    "Thế là {player} một lần nữa củng cố lại mục tiêu cho chuyến hành trình của mình."
+  ],
+  "city.park.onigiri": "Ủa ủa? Sao ở chỗ thế này lại có cơm nắm để sẵn nhỉ. Hình như là đồ ăn bọn trẻ mang theo, nhưng cứ để không thế này thì phí của giời lắm nên thôi mình xin phép nhận luôn vậy.",
+  "city.park.smoker.lines": [
+    "Khà, đúng là thuốc lá vẫn tuyệt nhất. Không tài nào bỏ nổi.",
+    "Chà. Tôi đây cực kỳ mê thuốc lá với rượu bia nhé. Ngon hết sẩy luôn.",
+    "Vừa nãy tôi mới làm một mạch 7 cốc bia ở quán rượu về đấy nhé. Đỉnh của chóp chưa hảaa.",
+    "Làm ơn đi, đừng có chê tôi nồng nặc mùi rượu nhé.",
+    "Này người ơi có nghe tiếng hát của tôi chăng... Rượu bia cùng thuốc lá cho ước mơ ngập tràn đê mêee!"
+  ],
+  "city.park.smoker.says": "Người đàn ông đang hút thuốc: {line}",
+  "city.park.kid1.lines": [
+    "Ối giời, chẳng biết đằng ấy là trẻ con hay người lớn nữa. Đừng có cản trở lúc tôi đang chơi nhé!",
+    "Lúc đi trên đường tới công viên, tôi nhìn thấy một thứ gì đó nhầy nhụa nhớp nháp lắm. Không biết có phải cái con người ta gọi là Slime không nhỉ.",
+    "Á! Đứng lại ngay, xe điều khiển từ xa của tôi!",
+    "Tôi thích chơi xe điều khiển từ xa lắm. Vui cực kỳ luôn.",
+    "Ối giời ơiii. Xe điều khiển từ xa bị lấm bẩn hết cả rồi.",
+    "Tôi lúc nào cũng ra công viên này chơi hết. Vì nó rộng rãi nên tha hồ chạy nhảy.",
+    "Công viên này toàn cỏ là cỏ thôi nhỉ.",
+    "Ước gì có một dàn máy tính riêng quá đi.",
+    "Muốn có chiếc xe điều khiển từ xa mới quá.",
+    "Ngon lành. Hôm nay cũng phải chơi cho đã đời mới được!"
+  ],
+  "city.park.kid1.says": "Đứa trẻ 1: {line}",
+  "city.park.kid2.lines": [
+    "Xin chàooo. Em thích những bông hoa xinh đẹp lắm đấy nhé.",
+    "Ủa? Anh trai của em lại chạy đi đằng nào mất tiêu rồi nhỉ.",
+    "Ôi, bông hoa này đẹp quá đi mất!",
+    "Em muốn làm hoa ép khô lắm cơ. Nhưng mẹ chẳng chịu cho em làm. Em muốn làm lắm mà.",
+    "Công viên này có đủ các loài hoa nên vui lắm, lúc nào em cũng ra đây chơi hết."
+  ],
+  "city.park.kid2.says": "Đứa trẻ 2: {line}",
+  "city.park.kid3.lines": [
+    "Em thích cái góc chật hẹp này lắm. Cảm giác cứ yên bình thế nào ấy.",
+    "Em tên là Yusuke. Rất vui được làm quen nhé.",
+    "Hừm, biết thế mặc thêm một chiếc áo khoác nữa rồi hẵng đi.",
+    "Em là chúa sợ lạnh luôn ấy.",
+    "Đúng là ngồi ở chỗ này vẫn thấy dễ chịu nhất.",
+    "Em muốn được đi máy bay thử một lần quá. Em chưa được đi bao giờ cả. Đã lên tới lớp 2 tiểu học rồi nên muốn được ngồi máy bay thử xem sao.",
+    "Công viên này rộng rãi nên chơi vui lắm."
+  ],
+  "city.park.kid3.says": "Đứa trẻ 3: {line}",
+  "city.park.kid4.lines": [
+    "Em ấy à, em thích đứng ở công viên này ngắm nhìn mọi người lắm.",
+    "Chà, hay là rủ bạn Yusuke chơi cùng nhỉii?",
+    "Em có người mình thích rồi đấy nhé. Ước gì được trở thành người yêu của người ta quá đi.",
+    "Mỗi lần đến trường là đám bạn em lại tụm năm tụm bảy kể chuyện tình củm suốt đấy. Thích thật đấy nhỉ.",
+    "Hừm, bây giờ là mấy giờ rồi nhỉ? Từ 5 giờ chiều là em phải đi học thêm rồi...",
+    "Ghét học hành quá điii!",
+    "Chẳng biết làm gì nữa... Chán ghê."
+  ],
+  "city.park.kid4.says": "Đứa trẻ 4: {line}",
+  "city.park.kid5.lines": [
+    "À, em là học sinh cấp hai đấy ạ. Vì em gái cứ nằng nặc đòi ra công viên chơi nên em mới dẫn nó đi.",
+    "Chà, hôm nay thời tiết đẹp thật đấy. Giá mà con bé em gái đừng có mè nheo đủ thứ thì em đã tha hồ đá bóng thỏa thích rồi.",
+    "Em đang tham gia câu lạc bộ bóng đá ở trường ạ. Thế nên hễ em gái đòi ra công viên là em lại mang theo quả bóng đi cùng.",
+    "Mấy bài toán tính x với y em chẳng tài nào hiểu nổi. Không biết có phải tại đầu óc em kém cỏi không nữa?",
+    "Xin chào ạ."
+  ],
+  "city.park.kid5.says": "Đứa trẻ 5: {line}",
+  "city.park.sign": "Một tấm biển chỉ đường có ghi: Lối đi tới Công viên Tình Bạn.",
+  "city.boss2.what": "C-c-cái gì thế kia!",
+  "city.boss2.stranger": "Có một kẻ kỳ dị vừa mới xuất hiện kìa.",
+  "city.boss2.yamijin": [
+    "Khư hứ hứ hứ hứưư! Ta chính là Yamijin đây nyan!",
+    "Dạo này chẳng còn tí đồ ăn nào bỏ bụng cả nyan.",
+    "Thế nên là, ta sẽ xơi tái đám người ở đây luôn nyan. Biến tất cả thành đồ dự trữ của ta hết nyan.",
+    "Rồi ta sẽ lôi cổ về Dinh thự Tà Ác nyan.",
+    "Đau đớn lắm nhỉ, khổ sở lắm nhỉ.",
+    "Ta sẽ cho các ngươi nếm trải nỗi thống khổ đó tận xương tủy nyan.",
+    "Khư hứ hứ hứ hứưư, khư rư rư khưưư!"
+  ],
+  "city.boss2.danger": "Có vẻ như lũ trẻ đang gặp nguy hiểm rồi.",
+  "city.boss2.nyaa": "Yamijin: Nyaaa?",
+  "city.boss2.child1": "Đứa trẻ 1: Áaa!",
+  "city.boss2.child2": "Đứa trẻ 2: Cậu có sao không?",
+  "city.boss2.slashed": "Yamijin vung kiếm chém gục những người xung quanh rồi bắt cóc một đứa trẻ mang đi mất.",
+  "city.boss2.remained": "Khi Yamijin biến mất, nơi đó chỉ còn lại cảnh tượng thê thảm của những đứa trẻ mình mẩy đầy thương tích cùng một con Slime kỳ dị. Có vẻ như hắn đã thả quái vật lại chặn đường rồi tẩu thoát.",
+  "city.boss2.slime": "Slime Khổng Lồ đang nhắm thẳng vào {player} và lao tới tấn công. {player}, người duy nhất có thể ngăn chặn con Slime đó lúc này chỉ có bạn mà thôi!",
+  "city.boss2.phew": "{player}: Phù...",
+  "city.boss2.after": "{player} đã xoay xở tiêu diệt được Slime Khổng Lồ. Thế nhưng cảnh tượng thảm khốc trước mắt vẫn còn nguyên đó. {player} vội vã gọi cấp cứu 119, và may mắn thay những đứa trẻ bị chém đều đã giữ được tính mạng.",
+  "city.dresser.taken": "Đồ đạc trong chiếc tủ này bạn đã lấy hết từ trước rồi. À mà đã xin phép chủ nhà đàng hoàng rồi nên không sao đâu nhé. Nào, lên đường thôi!",
+  "city.dresser.found": "Trong tủ quần áo có đựng đạn ná cao su kìa. Đã nhận được {count} viên đạn ná cao su.",
+  "city.neighbour.back_door": "Chủ nhà: À, cậu vừa mới trổ tài ở nhà bên cạnh đúng không. Tôi nhìn thấy hết rồi nhé. Cậu mạnh gớm đấy chứ. Thật ra dạo gần đây có hàng tá vụ việc tương tự đang xảy ra khắp nơi. Nếu được thì cậu thử điều tra giúp xem sao nhé? Nếu cậu nhận lời điều tra thì cứ đi qua cửa sau của nhà tôi mà ra ngoài.",
+  "city.neighbour.balls": "À phải rồi. Cậu đã mất công ghé chơi mà chẳng có gì tiếp đãi, ngại quá. Tôi nghĩ biết đâu có lúc dùng đến nên hay đi nhặt đạn ná cao su tích trữ lại. Trong cái tủ quần áo đằng kia có cả đống đấy, cậu cứ lấy sạch mà dùng nhé. Vốn định đem bán kiếm chút đỉnh mà chẳng ai thèm mua cả. Ha ha ha.",
+  "city.neighbour.poor": "Chủ nhà: Thứ lỗi cho tôi nhé. Tại tôi nghèo rớt mồng tơi nên trong nhà chẳng có thứ gì đáng giá cả. Đúng ra phải pha tách trà mời cậu mới phải phép, nhưng khổ nỗi không có lấy một xu dính túi. Thông cảm cho tôi nhé.",
+  "city.neighbour.attacked": "Chủ nhà: Nghe nói nhà hàng xóm bên cạnh hôm trước vừa bị quái vật tấn công đấy. Tôi nghe thấy cả tiếng hét thất thanh, rồi cả giọng của một thằng nhóc nữa. Không phải giọng trẻ con bình thường đâu, nghe nó cứ gằn lên rợn tóc gáy thế nào ấy. Này cậu, cây búa cậu đang cầm là vũ khí đúng không? Thế thì cậu thử sang nhà bên cạnh kiểm tra xem sao đi. Nghe bảo giờ thỉnh thoảng quái vật vẫn mò tới tập kích đấy.",
+  "city.housewife.waiting": "Chủ nhà: Từ giờ trở đi biết phải làm sao đây... À, cậu đừng bận tâm đến tôi làm gì nhé.",
+  "city.housewife.thanks": "Chủ nhà: Cảm ơn cậu nhé. Nhờ có cậu mà chỗ đồ ăn vẫn còn nguyên vẹn. Thật ra thằng nhóc đó đã cạy cửa kho dự trữ lương thực của gia đình tôi đấy. Thiệt tình, quá quắt hết sức mà. Nhưng cũng nhờ cậu chiến đấu bảo vệ mà đồ đạc trong kho chưa bị cướp mất thứ gì. Thật lòng cảm ơn cậu rất nhiều.",
+  "city.housewife.talk": [
+    "Chủ nhà: Biết làm sao bây giờ... Nhà chẳng còn chút lương thực nào nữa rồi...",
+    "{player}: Có chuyện gì thế ạ?",
+    "Chủ nhà: Hôm trước có một con quái vật kỳ dị tự dưng xông thẳng vào nhà tôi, thấy đồ ăn là ngấu nghiến ăn lấy ăn để. Ăn căng cả bụng rồi mà phần ăn không hết nó cũng ôm đi sạch sành sanh. Thành ra giờ trong nhà chẳng còn gì để ăn cả..."
+  ],
+  "city.housewife.offer": [
+    "{player}: Cháu có mang theo cơm nắm đây, cô có muốn ăn không ạ?",
+    "Chủ nhà: Ơ, á, cô ăn có được không đấy? Cảm ơn cháu nhé."
+  ],
+  "city.housewife.ate": [
+    "Chủ nhà: Ôi, ngon quá. Cảm ơn cháu nhé. Cứu được cái bụng đói của cô rồi.",
+    "{player}: Dạ không có chi đâu ạ."
+  ],
+  "city.housewife.troubled": "{player}: Hừm, căng thật đấy nhỉ. Biết phải làm sao bây giờ đây.",
+  "city.boss1.intro": [
+    "N-nguy to rồi!",
+    "Chủ nhà: Á, d-dừng lại ngay! Chỗ đó là phần thức ăn của gia đình tôi hôm nay, dừng lại đi! Đừng ăn mà! Cả chỗ còn thừa cũng không được mang đi đâu đấyyy!",
+    "{player}: Oáaa!",
+    "Không ngờ tên Nhóc Quậy vừa lượn lờ ngoài vệ đường lúc nãy giờ đang hùng hục chén sạch đồ ăn trong ngôi nhà này.",
+    "Nhóc Quậy: Cuối cùng cũng được bữa no nê! Ông đây đã nhịn đói suốt ba ngày trời rồi đấy nhé. Phải đánh chén cho căng rốn mới được!",
+    "Chủ nhà: Không được! Không được ăn chỗ đó! Nếu cậu chịu dừng lại không ăn nữa thì tôi sẽ chạy ra cửa hàng tiện lợi mua Cơm hộp thịt cốt lết về cho cậu ngay mà!",
+    "{player}: (Khoan đã nào, nếu đằng nào cô cũng chạy đi mua được thì cứ để nó ăn chỗ này rồi tự đi mua cơm hộp cho mình ăn chẳng phải hợp lý hơn sao? Mà thôi, dù sao chủ nhà cũng đang khốn đốn thế kia, phải ra tay giải quyết mới được...)"
+  ],
+  "city.boss1.stronger": "Nào, tên Nhóc Quậy này xem chừng mạnh hơn hẳn mấy đứa lang thang ngoài đường lúc nãy đấy. {player} đã vác cây búa lên vai sẵn sàng nghênh chiến!",
+  "city.boss1.after": [
+    "{player}: Phù.",
+    "Chủ nhà: C... cảm ơn cậu.",
+    "{player}: Chỗ thức ăn... vẫn ổn cả chứ ạ?",
+    "Chủ nhà: Vẫn ổn cả...",
+    "{player}: May quá đi mất..."
+  ]
+}
