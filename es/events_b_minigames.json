@@ -87,7 +87,7 @@
     "Batería 12",
     "Batería 13"
   ],
-  "minigames.drum.start": "Venga, que empieza la canción. Los tambores están asignados a las flechas, a Control, a la barra espaciadora, al tabulador y a Intro, así que ¡dale caña todo lo que quieras! Pues allá vamos...",
+  "minigames.drum.start": "Venga, que empieza la canción. Los tambores están asignados a las flechas, a {ctrl}, a la barra espaciadora, al tabulador y a Intro, así que ¡dale caña todo lo que quieras! Pues allá vamos...",
   "minigames.drum.end": "¿Te lo has pasado bien? Vuelve a jugar, ¿vale? Que al autor le ha costado lo suyo hacer esto.",
   "minigames.fireballs2.intro": [
     "{player}: ¡¿Pe... pero por quééé?!",

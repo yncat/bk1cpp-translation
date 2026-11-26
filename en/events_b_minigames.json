@@ -87,7 +87,7 @@
     "Drum set 12",
     "Drum set 13"
   ],
-  "minigames.drum.start": "Okay, the song is about to start. The drums are assigned to the arrow keys, Control, Space, Tab, and Enter, so bang away to your heart's content! Here we go...",
+  "minigames.drum.start": "Okay, the song is about to start. The drums are assigned to the arrow keys, {ctrl}, Space, Tab, and Enter, so bang away to your heart's content! Here we go...",
   "minigames.drum.end": "Did you have fun? Come play again. The author worked pretty hard on this.",
   "minigames.fireballs2.intro": [
     "{player}: Wh, whyyyy?!",

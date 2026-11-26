@@ -1,4 +1,6 @@
 {
+  "keys.control": "Control",
+  "keys.option": "Option",
   "menu.main.title": "Main menu",
   "menu.main.items": [
     "Check status",

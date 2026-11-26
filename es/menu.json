@@ -1,4 +1,6 @@
 {
+  "keys.control": "Control",
+  "keys.option": "Opción",
   "menu.main.title": "Menú principal",
   "menu.main.items": [
     "Ver estado",

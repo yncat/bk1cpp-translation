@@ -1,4 +1,6 @@
 {
+  "keys.control": "コントロール",
+  "keys.option": "オプション",
   "menu.main.title": "メインメニュー",
   "menu.main.items": [
     "ステータスの確認",
